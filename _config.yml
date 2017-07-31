@@ -8,12 +8,12 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/aegishjalmr.png
+picture: assets/images/aegis.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 cv: true
-cv: true
+cv-external: false
 cv-url: rcblack.net/cv.pdf
 
 url: rcblack.net
