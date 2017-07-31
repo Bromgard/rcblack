@@ -14,7 +14,7 @@ picture: assets/images/aegis.png
 # and specify source (external or local).
 cv: true
 cv-external: false
-cv-url: rcblack.net/cv.pdf
+cv-url: /cv.pdf
 
 url: rcblack.net
 # your url: http://USERNAME.github.io
