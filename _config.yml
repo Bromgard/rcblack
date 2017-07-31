@@ -14,7 +14,11 @@ picture: assets/images/500px-Vegvisir.svg.png
 # and specify source (external or local).
 cv: true
 cv: true
+<<<<<<< HEAD
 cv-url: /cv.pdf
+=======
+cv-url: rcblack.net/cv.pdf
+>>>>>>> 5c13a8b895555aa13dda74071ba40232d7d4cc92
 
 url: rcblack.net
 # your url: http://USERNAME.github.io
