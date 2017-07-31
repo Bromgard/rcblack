@@ -1,20 +1,20 @@
 # main text of home
 name: Russell Black
-bio: Medievalist * Teacher
+bio: Medievalist &bull; Teacher
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-#external-image: false
+external-image: false
 #picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 cv: true
 cv: true
-cv-url: https://google.com/?q=my+resume
+cv-url: https://rcblack.net/cv.pdf
 
 url: https://rcblack.net
 # your url: http://USERNAME.github.io
