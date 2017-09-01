@@ -71,6 +71,7 @@ Principal Parts:
 víkja--veik--viku--vikinn
 
 ## First Strong Conjugation in the Germanic Languages
+
 Lang.  | Inf.    | past. sing. | past. pl. | past part.
 -------|---------|-------------|-----------|---------
 Icel.  | ríða    | reið        |  riðu     | riðinn
@@ -136,6 +137,7 @@ Principal Parts:
 ljúga--laug--lugu--luginn
 
 ## Second Strong Conjugation in the Germanic Languages
+
 Lang.  | Inf.    | past. sing. | past. pl. | past part.
 -------|---------|-------------|-----------|---------
 Icel.  | kjósa   | kauss       |  kusu     | kosinn
@@ -201,6 +203,7 @@ Principal Parts:
 renna--rann--runnu--runninn
 
 ## Third Strong Conjugation in the Germanic Languages
+
 Lang.  | Inf.    | past. sing. | past. pl. | past part.
 -------|---------|-------------|-----------|---------
 Icel.  | binda   | batt        | bundu     | bundinn
@@ -239,6 +242,7 @@ Principal Parts:
 nema--nam--námu--numinn
 
 ## Fourth Strong Conjugation in the Germanic Languages
+
 Lang.  | Inf.    | past. sing. | past. pl. | past part.
 -------|---------|-------------|-----------|---------
 Icel.  | bera    | bar         |  báru     | borinn
@@ -278,6 +282,7 @@ Principal Parts:
 gefa--gaf--gáfu--gefinn
 
 ## Fifth Strong Conjugation in the Germanic Languages
+
 Lang.  | Inf.    | past. sing. | past. pl. | past part.
 -------|---------|-------------|-----------|---------
 Icel.  | gefa    | gaf         |  gáfu    | gefinn
@@ -337,6 +342,7 @@ vér | hefim | hæfim
 þeir | hefi | hæfi
 
 ## Sixth Strong Conjugation in the Germanic Languages
+
 Lang.  | Inf.    | past. sing. | past. pl. | past part.
 -------|---------|-------------|-----------|---------
 Icel.  | fara   | fór         |  fóru    | farinn
@@ -378,6 +384,7 @@ Principal Parts:
 ganga--gekk--gengu--genginn
 
 ## Seventh Strong Conjugation in the Germanic Languages
+
 Lang.  | Inf.    | past. sing. | past. pl. | past part.
 -------|---------|-------------|-----------|---------
 Icel.  | heita   | hét        |  hétu    | heitinn
