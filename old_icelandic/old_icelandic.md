@@ -23,7 +23,7 @@ layout: default
 
 ### [Strong Verbs](http://rcblack.net/old_icelandic/strong_verbs)
 
-### [Weak Verbs](http://rcblack.net/old_icelandic/weak _verbs)
+### [Weak Verbs](http://rcblack.net/old_icelandic/weak_verbs)
 
 ## _Hrafnkels saga Freysgoða_
 
