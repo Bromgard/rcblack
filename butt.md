@@ -1,8 +1,13 @@
+---
+title: Gísla I
+layout: default
+---
+
 # Gísla saga Súrssonar
 
 ### Þorkell Skerauki and his family
 
-I, 1. Þat er upphaf á s&#x1EB;gu þessi, at Hákon konungur Aðalsteinsfóstri réð fyrir Nóregi; ok var þetta á ofanverðum hans d&#x1EB;gum.[^1] 2. Þorkell hét maður; hann var kallaðr skerauki; hann bjó í Súrnadal ok var hersir að nafnbót. 3. Hann átti sér konu, er Ísgerðr hét, ok sonu þrjá barna; hét einn Ari, annarr Gísli, þriði Þorbj&#x1EB;rn; hann var þeira yngstr, ok óxu allir upp heima þar. 4. Maðr er nefndr Ísi; hann bjó í firði þeim er Fibuli heitir, á Norðm&oelig;ri; kona hans hét Ingigerðr, en Ingibj&#x1EB;rg dóttir. Ari, sonr Þorkels súrd&oelig;ls, biðr hennar, og var hón honum gefin með miklu fé. 5. Kolr hét þræll, er í brott fór með henni.
+I, 1. Þat er upphaf á s&#x1EB;gu þessi, at Hákon konungur Aðalsteinsfóstri réð fyrir Nóregi; ok var þetta á ofanverðum hans d&#x1EB;gum.<sup>[1](#myfootnote1)</sup> 2. Þorkell hét maður; hann var kallaðr skerauki; hann bjó í Súrnadal ok var hersir að nafnbót. 3. Hann átti sér konu, er Ísgerðr hét, ok sonu þrjá barna; hét einn Ari, annarr Gísli, þriði Þorbj&#x1EB;rn; hann var þeira yngstr, ok óxu allir upp heima þar. 4. Maðr er nefndr Ísi; hann bjó í firði þeim er Fibuli heitir, á Norðm&oelig;ri; kona hans hét Ingigerðr, en Ingibj&#x1EB;rg dóttir. Ari, sonr Þorkels súrd&oelig;ls, biðr hennar, og var hón honum gefin með miklu fé. 5. Kolr hét þræll, er í brott fór með henni.
 
 ### The duel between Ari and Bj&#x1EB;rn
 
@@ -20,4 +25,8 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit fyrir at ljá. 13. G
 
 17\. Þrællinn heimti sverð sitt, ok vill Gísli eigi laust láta ok býðr hann fé fyrir, en þrællinn vill ekki annat en sverð sitt, og fær ekki at heldr. 18. Þetta líkar þrælnum illa, ok veitir Gísla tilræði; var þat mikit sár. Gísli h&oslash;ggur í móti með Grásíðu í h&#x1EB;fuð þrælnum, svá fast, at sverðit brotnaði, en haussinn lamdiz, ok fær hvártveggi bana.
 
-[^1] _Hákon_, King of Norway 935-61. His last days (ofanverðir dagar) were therefore in the years 950-61. According to the calculation of G. Vigfússon (Safu til sögu Ísl. I, 362) Gísli came to Iceland near the year 955; this year also fits very well if one refers words, _ok var þetta_, not to the Norwegian events mentioned below but to the relocation, which is most likely.
+---
+
+## Notes
+
+<a name="myfootnote1">1</a>: _Hákon_, King of Norway 935-61. His last days (ofanverðir dagar) were therefore in the years 950-61. According to the calculation of G. Vigfússon (Safu til sögu Ísl. I, 362) Gísli came to Iceland near the year 955; this year also fits very well if one refers words, _ok var þetta_, not to the Norwegian events mentioned below but to the relocation, which is most likely.
