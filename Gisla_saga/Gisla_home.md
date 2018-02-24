@@ -14,3 +14,6 @@ layout: default
 ## [Kafli 5.](http://rcblack.net/Gisla_saga/Gisla_5)
 ## [Kafli 6.](http://rcblack.net/Gisla_saga/Gisla_6)
 ## [Kafli 7.](http://rcblack.net/Gisla_saga/Gisla_7)
+## [Kafli 8.](http://rcblack.net/Gisla_saga/Gisla_8)
+## [Kafli 9.](http://rcblack.net/Gisla_saga/Gisla_9)
+## [Kafli 10.](http://rcblack.net/Gisla_saga/Gisla_10)
