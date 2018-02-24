@@ -33,9 +33,9 @@ Gísli svarar: "Hér mun hann mælt mál<sup id="a15">[15](#myfootnote15)</sup> 
 
 Fara nú menn heim af þinginu.
 
-<div style="float: left"><a href="http://rcblack.net/Gisli_saga/Gisla_5">⇦</a></div>
-<div style="float: right"><a href="http://rcblack.net/Gisli_saga/Gisla_7">⇨</a></div>
-<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisli_saga/Gisla_home">&#8962;</a></div>
+<div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_5">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_7">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
 
 ---
 

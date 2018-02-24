@@ -43,9 +43,9 @@ Gísli biðr hann mæla allra manna armastan<sup id="a23">[23](#myfootnote23)</s
 
 25\. Skeggi leysti sik af hólmi, ok gekk ávallt við tréfót<sup id="a32">[32](#myfootnote32)</sup> síðan. En Þorkell fór nú heim með Gísla bróður sínum, ok var nú mj&#x1EB;k vel í frændsemi þeira, ok þykkir<sup id="a33">[33](#myfootnote33)</sup> Gísli mikit hafa vaxit af þessum málum.
 
-<div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_1">⇦</a></div>
-<div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_3">⇨</a></div>
-<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
+<div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisli_1">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisli_3">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisli_home">&#8962;</a></div>
 
 ---
 

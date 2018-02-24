@@ -21,8 +21,8 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a17">[17](#m
 
 17\. Þrællinn heimti sverð sitt, ok vill Gísli eigi laust láta ok býðr hann fé fyrir, en þrællinn vill ekki annat en sverð sitt, og fær ekki at heldr. 18. Þetta líkar þrælnum illa, ok veitir Gísla tilræði; var þat<sup id="a20">[20](#myfootnote20)</sup> mikit sár. Gísli h&oslash;ggur í móti með Grásíðu í h&#x1EB;fuð þrælnum, svá fast, at sverðit brotnaði, en haussinn lamdiz, ok fær hvártveggi<sup id="a21">[21](#myfootnote21)</sup> bana.
 
-<div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_2">⇨</a></div>
-<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
+<div style="float: right"><a href="http://rcblack.net/Gisli_saga/Gisla_2">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisli_saga/Gisla_home">&#8962;</a></div>
 
 ---
 
