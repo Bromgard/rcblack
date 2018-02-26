@@ -7,7 +7,7 @@ layout: default
 
 ### Þorkell demands his share and moves to Sæból. Gísli plans a feast
 
-1\, Nú líða misserin<sup id="a1">[1](#myfootnote1)</sup> af hendi ok k&oslash;mur at fard&#x1EB;gum. Þá heimtir Þorkell Gísla bróður sinn á tal við sik ok mælti: "Svá er háttat, frændi!" segir hann, "at mér er ráðabreytni n&#x1EB;kkur í hug ok í skapi; en því víkr svá við,<sup id="a2">[2](#myfootnote2)</sup> at ek vil, at vit skiptum fé okru, ok vil ek ráðaz til búlags<sup id="a3">[3](#myfootnote3)</sup> með Þorgrími, mági mínum."
+1\.  Nú líða misserin<sup id="a1">[1](#myfootnote1)</sup> af hendi ok k&oslash;mur at fard&#x1EB;gum. Þá heimtir Þorkell Gísla bróður sinn á tal við sik ok mælti: "Svá er háttat, frændi!" segir hann, "at mér er ráðabreytni n&#x1EB;kkur í hug ok í skapi; en því víkr svá við,<sup id="a2">[2](#myfootnote2)</sup> at ek vil, at vit skiptum fé okru, ok vil ek ráðaz til búlags<sup id="a3">[3](#myfootnote3)</sup> með Þorgrími, mági mínum."
 
 2\. Gísli svarar: "Saman er br&oelig;ðra eign bezt at líta;<sup id="a4">[4](#myfootnote4)</sup> at sjá; at vísu er mér þ&#x1EB;kk á at kyrt sé<sup id="a5">[5](#myfootnote5)</sup>, ok skiptum engu."
 
