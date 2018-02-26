@@ -60,11 +60,11 @@ ok gengur inn eftir það.
 
 18\. Hón svarar: "Þú munt ráða verða hugleiðing þinni um þetta;<sup id="a34">[34](#myfootnote34)</sup> en ekki mun ek lengi þ&oelig;faz<sup id="a35">[35](#myfootnote35)</sup> til hvílunnar við þik; ok um tvá kosti áttu at velja. Sá er annar, at þú tak<sup id="a36">[36](#myfootnote36)</sup> við mér, ok lát sem ekki sé í orðit;<sup id="a37">[37](#myfootnote37)</sup> ella mun ek nefna mér vátta nú þegar, ok segja skilit við þik,<sup id="a38">[38](#myfootnote38)</sup> ok mun ek láta f&#x1EB;ður minn heimta mund minn ok heimanfylgju, ok mun sá kostr at þú hafir aldri hvíluþr&#x1EB;ng<sup id="a39">[39](#myfootnote39)</sup> af mér síðan."<sup id="a40">[40](#myfootnote40)</sup>
 
-18\. Þorkell þagnaði ok mælti um síðir: "Það ræð ek,id="a41">[41](#myfootnote41)</sup> at þú ger hvárt þér líkar; en eigi mun ek banna rekkjuna náttlangt."
+18\. Þorkell þagnaði ok mælti um síðir: "Það ræð ek,<sup id="a41">[41](#myfootnote41)</sup> at þú ger hvárt þér líkar; en eigi mun ek banna rekkjuna náttlangt."
 
-Hón lýsti brátt yfir því, hvárrid="a42">[42](#myfootnote42)</sup> henni þótti betri, ok ferr þegar í rekkju sína. 20. Eigi hafa þau lengi bæði saman legit, áðr en þau semja þetta með sér,id="a43">[43](#myfootnote43)</sup> svá sem ekki hefði í orðit. 21. Auðr kom nú í rekkju hjá Gísla ok segir hánum r&oelig;ður þeira Ásgerðar, ok biðr af sér reiðiid="a44">[44](#myfootnote44)</sup> ok bað hann taka n&#x1EB;kkut gott ráð, ef hann sæi.
+Hón lýsti brátt yfir því, hvárr<sup id="a42">[42](#myfootnote42)</sup> henni þótti betri, ok ferr þegar í rekkju sína. 20. Eigi hafa þau lengi bæði saman legit, áðr en þau semja þetta með sér,<sup id="a43">[43](#myfootnote43)</sup> svá sem ekki hefði í orðit. 21. Auðr kom nú í rekkju hjá Gísla ok segir hánum r&oelig;ður þeira Ásgerðar, ok biðr af sér reiði<sup id="a44">[44](#myfootnote44)</sup> ok bað hann taka n&#x1EB;kkut gott ráð, ef hann sæi.
 
-22\. "Eigi sé ek hér ráð til," sagði hann, "þat sem duga mun, en þó mun ek ekki kunna þik um þetta, því at mæla verðr einnhver skapanna málum,id="a45">[45](#myfootnote45)</sup> ok þat mun fram koma, sem auðit verðr."
+22\. "Eigi sé ek hér ráð til," sagði hann, "þat sem duga mun, en þó mun ek ekki kunna þik um þetta, því at mæla verðr einnhver skapanna málum,<sup id="a45">[45](#myfootnote45)</sup> ok þat mun fram koma, sem auðit verðr."
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_8">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_10">⇨</a></div>
