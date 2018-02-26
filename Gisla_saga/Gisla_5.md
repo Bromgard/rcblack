@@ -18,7 +18,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _selagnúpr_, perhaps "seehundsfels"; this man is otherwise unknown, perhaps he was the grandson of Þorbj&#x1EB;rn tálkni, see the following.
+ _selagnúpr_, perhaps "seal rock"; this man is otherwise unknown, perhaps he was the grandson of Þorbj&#x1EB;rn tálkni, see the following.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
