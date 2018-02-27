@@ -61,7 +61,7 @@ Ok fellr þetta þeira tal þar niðr.
  _skaði_, "disadvantage," for Gísli, in particular.
 [↩](#a6)
 
-<a name="myfootnote7" id="f7>7</a>:
+<a name="myfootnote7" id="f7">7</a>:
  _&#x1EB;nn ok erfiði_, alliterative formula.
 [↩](#a7)
 
