@@ -170,11 +170,11 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a29)
 
 <a name="myfootnote30" id="f30">30</a>:
- ___Str. 1.___ "Gunnlogi rang loudly; it was a fun game for Saxa."
+ __Str. 1.__ "Gunnlogi rang loudly; it was a fun game for Saxa."
 [↩](#a30)
 
 <a name="myfootnote31" id="f31">31</a>:
- ___Str. 2.___  "The weapon moved quickly; I aimed a blow against Skegge." -- _hr&oelig;frakke_ is a kenning for a slash weapon; _hr&oelig;_ = "corpse;" _frakke_ (and also frakka, f.) originally meant a weapon of Frankish origin: the construction appears in the name of the sword in Sn. Edde II, 619.
+ __Str. 2.__  "The weapon moved quickly; I aimed a blow against Skegge." -- _hr&oelig;frakke_ is a kenning for a slash weapon; _hr&oelig;_ = "corpse;" _frakke_ (and also frakka, f.) originally meant a weapon of Frankish origin: the construction appears in the name of the sword in Sn. Edde II, 619.
 [↩](#a31)
 
 <a name="myfootnote32" id="f32">32</a>:

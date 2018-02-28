@@ -50,7 +50,7 @@ _Dýrafj&#x1EB;rð_, one of the western fjords in Isafarðarsýsla (see Ezrb. c.
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _Bjartmarr, marr_ is equivilant to _m&oelig;rr_ (Proto-Norse -_m&amacr;riR_) "famous"; see Noreen<sup>2</sup> &sect; 121, 1.
+ _Bjartmarr, marr_ is equivilant to _m&oelig;rr_ (Proto-Norse -_m&#257;riR_) "famous"; see Noreen<sup>2</sup> &sect; 121, 1.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
