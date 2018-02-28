@@ -29,16 +29,14 @@ Gísli biðr hann mæla allra manna armastan<sup id="a23">[23](#myfootnote23)</s
 
 >1
 >
->Gall Gunnloge,
->
+>Gall Gunnloge,   
 >gaman vas S&#x1EB;xo.<sup id="a30">[30](#myfootnote30)</sup>
 
 24\. Gísli hjó í móti með h&#x1EB;ggspjóti, ok af sporðinn skildinum ok af honum fótinn, ok mælti:
 
 >2
 >
->Hr&#x1EB;kk hræfrakke,
->
+>Hr&#x1EB;kk hræfrakke,   
 >hjók til Skeggja.<sup id="a31">[31](#myfootnote31)</sup>
 
 25\. Skeggi leysti sik af hólmi, ok gekk ávallt við tréfót<sup id="a32">[32](#myfootnote32)</sup> síðan. En Þorkell fór nú heim með Gísla bróður sínum, ok var nú mj&#x1EB;k vel í frændsemi þeira, ok þykkir<sup id="a33">[33](#myfootnote33)</sup> Gísli mikit hafa vaxit af þessum málum.

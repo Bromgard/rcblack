@@ -21,7 +21,8 @@ layout: default
 
 10\. En Þorkell heyrir hvert orð, þat er þær mæltu, ok tekr nú til orða, er þær hættu:
 
->3   
+>3  
+> 
 Heyr undr mikit!<sup id="a16">[16](#myfootnote16)</sup>   
 heyr &oslash;rlygi!<sup id="a17">[17](#myfootnote17)</sup>   
 heyr mál mikit!<sup id="a18">[18](#myfootnote18)</sup>   

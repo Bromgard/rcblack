@@ -5,7 +5,6 @@ layout: default
 
 # Gísla saga Súrssonar 12
 
-
 ### Vésteinn rides to Hóll to Gísli. Þorgrimr sends a spy to Hóll. Vésteinn distributes gifts.
 
 1\. Þorvarðr hét maðr, er bjó í Holti;<sup id="a1">[1](#myfootnote1)</sup> húskarlar hans deildu um verk, ok hjugguz með ljám, ok varð hvártveggi sárr; k&oslash;mr Vésteinn til ok sættir þá og gerir svá, at hvárumtveggjum hugnar vel; ríðr nú út til Dýrafjarðar, ok austmenn, þrír samt.<sup id="a2">[2](#myfootnote2)</sup> 2. En þeir koma undir Hest, Hallvarðr ok Hallvarðr, ok fregna nú et sanna um ferð Vésteins, ríða nú aptur sem þeir mega. 3. Ok er þeir koma til Mosvalla, þá sá þeir manna reið í miðjum dal,<sup id="a3">[3](#myfootnote3)</sup> ok var þá leiti<sup id="a4">[4](#myfootnote4)</sup> í millum þeira; ríða nú í Bjarnardal ok koma til Arnkelsbrekku;<sup id="a5">[5](#myfootnote5)</sup> þar springa báðir hestarnir; þeir<sup id="a6">[6](#myfootnote6)</sup> renna þá af hestunum ok kalla. 4. Heyra þeir Vésteinn nú, ok váru þá komnir á Gemlufallsheiði, ok bíða nú, ok hittaz þeir, ok bera upp &oslash;rindi sín, bera nú fram peninginn, þann er Gísli sendi hánum. 5. Hann tekr nú annan penning ór fégyrðli<sup id="a7">[7](#myfootnote7)</sup> sínum, ok roðnar mj&#x1EB;k á at sjá: "Satt eitt segi þit," segir hann, "ok munda ek aptr hafa horfit, ef þit hefðuð hitt mik fyrr; en nú falla v&#x1EB;tn &#x1EB;ll til Dýrafjarðar,<sup id="a8">[8](#myfootnote8)</sup> ok mun ek þangat ríða, enda em ek þess fúss. 6. Austmenn skulu hverfa aptr, en þit stígið á skip," segir Vésteinn, "ok segið Gísla ok systur minni þangaðkvámu mína."
@@ -48,7 +47,6 @@ Hón gengr út, ok spurði, hvat hón vildi. Hón kvað smá &oslash;rindi ein v
 
 Ok vill hann víst eigi þiggja. Nú ferr Gísli heim ok þykkir hánum um allt einn veg á horfaz.<sup id="a28">[28](#myfootnote28)</sup>
 
-
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_11">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_13">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
@@ -58,7 +56,7 @@ Ok vill hann víst eigi þiggja. Nú ferr Gísli heim ok þykkir hánum um allt 
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
-1 _Holt_ now a parsonage, is also located on Ǫnundarfjord, north-by-northwest of Mosvellir.
+ _Holt_ now a parsonage, is also located on Ǫnundarfjord, north-by-northwest of Mosvellir.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
