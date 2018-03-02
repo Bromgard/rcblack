@@ -147,9 +147,9 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 <a name="myfootnote19" id="f19">19</a>:
  __Str. 4.__ Prose word order: Betr hugþak þá, brigþer sárteina! Vésteine, v&#x1EB;kþom af svefne (biþkat ens þriþja daums slíks), þás vit sǫ́tom at víne í sal Sigrhadds, gladder viþ mj&#x1EB;þ; komska maþr á miþle mín né hans.
 
-"I think, oh warrior, that Vésteinn, awakening from sleep, felt better (I do not wish such a dream for the third time), then, when we both sat by the wine in the Sigrhadds, amused by our meeting, no one sitting between us. "
+"I think, oh warrior, that Vésteinn, awakening from sleep, felt better (I do not wish such a dream for the third time), then, when we both sat by the wine in the Sigrhadds, amused by our meeting, no one sitting between us."
 
- _Betr, vesa_, is to be completed. _þá_ is repeated in the following _þás. _brigþer sárteina_, voc., "bringer of the banquet of wounds, the swords" (see the sword name, Mistilteinn); these word of Þorkell seems to be chosen with reference to chapters 13 and 15. The last sentence emphasizes the close relationship between Gísli and Vésteinn.
+_Betr, vesa_, is to be completed. _þá_ is repeated in the following _þás. _brigþer sárteina_, voc., "bringer of the banquet of wounds, the swords" (see the sword name, Mistilteinn); these word of Þorkell seems to be chosen with reference to chapters 13 and 15. The last sentence emphasizes the close relationship between Gísli and Vésteinn.
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
