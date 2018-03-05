@@ -7,7 +7,7 @@ layout: default
 
 ### Auðbj&#x1EB;rg and Þorgrímr nef are killed. Þórdis reveals to B&#x1EB;rkr, that Gísli is Þorgríms murderer. B&#x1EB;rkr invites Gísli to the Þórsnesþing. Gíslis futile pursuit. This continues to Geirþjófsfj&#x1EB;rðr.
 
-Nú fer Þorsteinn á fund Gísla ok skýtur hann skjóli yfir hann ok fer hann suður í Borgarfj&#x1EB;rð ok þar utan. En er B&#x1EB;rkur fréttir þessi fákynstur þá fer hann upp á Annmarkastaði ok lætur taka Auðbj&#x1EB;rgu ok fer með hana út á Saltnes ok ber hana grjóti í hel. ok er þetta er liðið fer Gísli heiman ok kemur á Nefsstaði ok tekur Þorgrím nef h&#x1EB;ndum ok færir á Saltnes ok er dreginn belgur á h&#x1EB;fuð honum ok er barður grjóti til bana ok er kasaður hjá systur sinni, á hryggnum milli Haukadals ok Meðaldals.
+1\. Nú fer Þorsteinn á fund Gísla ok skýtur hann skjóli yfir hann ok fer hann suður í Borgarfj&#x1EB;rð ok þar utan. En er B&#x1EB;rkur fréttir þessi fákynstur þá fer hann upp á Annmarkastaði ok lætur taka Auðbj&#x1EB;rgu ok fer með hana út á Saltnes ok ber hana grjóti í hel. ok er þetta er liðið fer Gísli heiman ok kemur á Nefsstaði ok tekur Þorgrím nef h&#x1EB;ndum ok færir á Saltnes ok er dreginn belgur á h&#x1EB;fuð honum ok er barður grjóti til bana ok er kasaður hjá systur sinni, á hryggnum milli Haukadals ok Meðaldals.
 
 Er nú kyrrt ok líður á vorið. Fer B&#x1EB;rkur suður á Þórsnes ok ætlar at ráðast þangað ok þykist enga virðingaf&#x1EB;r hafa farið hafa vestur þangað, látið þvílíkan mann sem Þorgrímur var en fengið enga leiðréttu. Hann býr nú ferð sína ok skipar til bús síns ok at setja ráð sitt en ætlaði at ger aðra f&#x1EB;r eftir fé sínu ok konu. Þorkell ætlaði ok þangað at ráðast, Súrsson, ok bjóst í f&#x1EB;r með Berki, mági sínum.
 
