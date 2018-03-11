@@ -30,3 +30,45 @@ layout: default
 ---
 
 ### Notes
+
+1 _sem fyrr_, s &sect; 16. 
+
+2 _firra sik sakagiptum_, "ursache zur anklage vermeiden."
+
+3 _seinkar_, trans. "er verzögert."
+
+4 _skógar_, ein (birken)wald in dem westlichen teil des Haukadalr nach dem Lambadalr zu. 
+
+5 _vinr_, "kamerad."
+
+6 _sitt_ = _sitþ(u). 
+
+7 _bar--sleðanum_, unpersonl.: "er ragte im schlitten hoch empor."
+
+8 _hrósaði_...sér, "er brüstete sich."
+
+9 _Skjóttu--heilastr_, "sei gesegnet für deinen wurf."
+
+10 _kápuh&#x1EB;ttiinn_, "die am mantel angebrachte kapuze."
+
+11 _þeir br&oelig;ðr_, d.i. Saka-Steinn und Þóroddr. 
+
+12 _segir--skóginn_, "sagt dass es ziemlich schwierig sei den wald zu passieren;" vgl. Egils saga, c. 31,10: _honum varð ógreiðf&oelig;rt um mýrarnar_. 
+
+13 _at_, adv. (nicht mit dem inf. verbundene präpos.)
+
+14 _limit_, "die zweige."
+
+15 _á gagng&#x1EB;rt_, "gerade in der bestimmten richtung."
+
+16 _b&oelig;jarins_, d.i. Hóll. 
+
+17 _búa--Gísla_, "treffen vorbereitungen für den prozess gegen G." Gemeint ist die citation, die am wohnsitze des angeklagten in gegenwart benachbarter zeugen erfolgen musste (Grágás, Kgsb. I, 36 u. ö.). 
+
+18 _ferr nú á fjallit_, er ist in den kleinen Lambadalr gegangen, daraouf hat er den berg bestiegen, was gerade dort und nur dort möglich ist, s. Árbók 1883, s. 29. 
+
+19 _við_, "dafür."
+
+20 _þat--handar_, "davon hatte er (Þorkell) guten vorrat."
+
+21 _Húsanes_, dieser name ist unbekannt; vielleicht ist er verderbt für _Hafnarnes_ (Kålund I, 568-69), äusserst am fjord an der südseite; c. 100 klafter von der küste ist hier ein fels, der zu der schilderung der saga passen kann; s. hierüber Árbók 1883, s. 65-67, das frgm. hat keinen namen sondern nur: _til b&oelig;jar nokkurs_. In S ist eine starke bearbeitung vorgenommen, indem die spätere tradition die begebenheit auf die haupthalbinsel im Arnarfj&#x1EB;rðr selbst verlegt hat, wo es auch ein _Gíslasker_ gibt. Aber dies ist gewiss nicht das ursprüngliche. 
