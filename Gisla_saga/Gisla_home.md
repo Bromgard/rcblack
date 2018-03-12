@@ -30,3 +30,6 @@ layout: default
 ## [Kafli 21.](http://rcblack.net/Gisla_saga/Gisla_21)
 ## [Kafli 22.](http://rcblack.net/Gisla_saga/Gisla_22)
 ## [Kafli 23.](http://rcblack.net/Gisla_saga/Gisla_23)
+## [Kafli 24.](http://rcblack.net/Gisla_saga/Gisla_24)
+## [Kafli 25.](http://rcblack.net/Gisla_saga/Gisla_25)
+## [Kafli 26.](http://rcblack.net/Gisla_saga/Gisla_26)
