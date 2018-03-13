@@ -7,29 +7,53 @@ layout: default
 
 ---
 
-## [Kafli 1.](http://rcblack.net/Gisla_saga/Gisla_1)
-## [Kafli 2.](http://rcblack.net/Gisla_saga/Gisla_2)
-## [Kafli 3.](http://rcblack.net/Gisla_saga/Gisla_3)
-## [Kafli 4.](http://rcblack.net/Gisla_saga/Gisla_4)
-## [Kafli 5.](http://rcblack.net/Gisla_saga/Gisla_5)
-## [Kafli 6.](http://rcblack.net/Gisla_saga/Gisla_6)
-## [Kafli 7.](http://rcblack.net/Gisla_saga/Gisla_7)
-## [Kafli 8.](http://rcblack.net/Gisla_saga/Gisla_8)
-## [Kafli 9.](http://rcblack.net/Gisla_saga/Gisla_9)
-## [Kafli 10.](http://rcblack.net/Gisla_saga/Gisla_10)
-## [Kafli 11.](http://rcblack.net/Gisla_saga/Gisla_11)
-## [Kafli 12.](http://rcblack.net/Gisla_saga/Gisla_12)
-## [Kafli 13.](http://rcblack.net/Gisla_saga/Gisla_13)
-## [Kafli 14.](http://rcblack.net/Gisla_saga/Gisla_14)
-## [Kafli 15.](http://rcblack.net/Gisla_saga/Gisla_15)
-## [Kafli 16.](http://rcblack.net/Gisla_saga/Gisla_16)
-## [Kafli 17.](http://rcblack.net/Gisla_saga/Gisla_17)
-## [Kafli 18.](http://rcblack.net/Gisla_saga/Gisla_18)
-## [Kafli 19.](http://rcblack.net/Gisla_saga/Gisla_19)
-## [Kafli 20.](http://rcblack.net/Gisla_saga/Gisla_20)
-## [Kafli 21.](http://rcblack.net/Gisla_saga/Gisla_21)
-## [Kafli 22.](http://rcblack.net/Gisla_saga/Gisla_22)
-## [Kafli 23.](http://rcblack.net/Gisla_saga/Gisla_23)
-## [Kafli 24.](http://rcblack.net/Gisla_saga/Gisla_24)
-## [Kafli 25.](http://rcblack.net/Gisla_saga/Gisla_25)
-## [Kafli 26.](http://rcblack.net/Gisla_saga/Gisla_26)
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_1">1. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_27">27. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_14">14. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_2">2. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_28">28. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_15">15. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_3">3. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_29">29. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_16">16. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_4">4. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_30">30. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_17">17. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_5">5. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_31">31. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_18">18. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_6">6. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_32">32. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_19">19. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_7">7. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_33">33. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_20">20. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_8">8. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_34">34. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_21">21. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_9">9. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_35">35. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_22">22. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_10">10. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_36">36. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_23">23. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_11">11. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_37">37. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_24">24. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_12">12. Kafli</a></div>
+### <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_38">38. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_25">25. Kafli</a></div>
+
+### <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_13">13. Kafli</a></div>
+### <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_26">26. Kafli</a></div>
