@@ -4,6 +4,7 @@ layout: default
 ---
 
 # Gísla saga Súrssonar
+---
 
 ---
  <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_1">1. Kafli</a></div>
@@ -56,3 +57,4 @@ layout: default
 
  <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_13">13. Kafli</a></div>
  <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_26">26. Kafli</a></div>
+ ---
