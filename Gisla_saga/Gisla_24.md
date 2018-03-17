@@ -111,7 +111,7 @@ Ok nú segir Gísli, at konan sú en verri k&oslash;mr opt at hánum ok vill jaf
 * _vápna sn. vekjendr_, "the awakeners of a dipute of arms, fight," warriors.
 * _brynjo hatr_, "that hate, enemy, chain mail shirt," may mean "sword" as "fight," here most likely the latter.
 
-The contents of this verse is clearly not related to the previous ones; it sets up a very different instance.
+The contents of this verse is clearly not related to the previous ones; it sets up a very different poetic moment.
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:

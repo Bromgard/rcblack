@@ -36,3 +36,105 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 "Já," sagði Refr, "þat vil ek gjarna; því at ek veit, at þér meguð því &oslash;ruggligar leita í &#x1EB;ðrum st&#x1EB;ðum, ef þér vitið fyrir víst, at hann er eigi hér, ok gangið inn ok leitið sem gersamligast."
 
 24\. Þeir ganga inn. Ok er Álfdís heyrði hark þeira, þá spyrr hón, hvat gauragangi þar væri, eða hverir glóparnir starfaði á m&#x1EB;nnum um nætur. 25. Refr bað hana at hafa sik at hófi, en hón lætr þó eigi vant margra fíflyrða; veitir hón þeim mikla ágauð, svá at þeir máttu minni til reka. Þeir rannsaka eigi at síðr, ok þó minnr en þeir myndi, ef þeir yrði eigi fyrir þvílíkum hrópyrðum af húsfreyju. 26. Fara síðan á brott, ok finna alls ekki, ok biðja bónda vel lifa; en hann bað þá vel fara, ok koma þeir aptr til fundar við B&#x1EB;rk, ok una alilla við sína f&#x1EB;r ok þykkjaz fengit hafa mikinn mannskaða með svívirðing, en komit engu áleiðis. 27. Flyz þetta nú yfir héraðit, ok þykkir m&#x1EB;nnum eigi ór steini hefja, hverjum óf&#x1EB;rum þeir fara fyrir Gísla. B&#x1EB;rkr ferr nú heim ok segir Eyjólfi, hvat um er at vera. 28. Gísli er með Ref hálfan mánuð, ok síðan fer hann á brott, ok skilja þeir Refr góðir vinir; ok gefr Gísli hánum hníf ok belti, ok váru þat góðir gripir; en ekki hafði hann fleira laust. 29. Ok eptir þetta ferr Gísli í Geirþjófsfj&#x1EB;rð til konu sinnar, ok hefir nú mikit aukiz hans frægð í þessum atburð; ok er þat ok sannsagt, at eigi hefir meiri atg&#x1EB;rvimaðr verit en Gísli, né fullhugi, ok þó varð hann eigi gæfumaðr. {Nú er fyrst frá horfið.}
+
+<div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_26">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_28">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
+
+---
+
+### Notes
+
+1 _til liggja_, "to be befitting."
+
+2 _stað--dalverpi_, about this place (in the southern part of the island) and the so called Fíflsgerði, see Kålund I, 542.
+
+3 _deiliz--víðara_, "can do more" (by appearing in two places at the same time).
+
+4 _er--horfa_, "there is no doubt," as how the matter stands _oss_, dat.
+
+5 _at stóru berr_, (also _stórum_), "that it goes much too far."
+
+6 _leiðrétta_, "make up for it."
+
+7 _láta eptir=herma eptir_, c. 25, 8.
+
+8 _skundum eptir_, "we will catch up to him quickly."
+
+9 _ór f&oelig;ri ganga_, "to release himeself from his favorable postition for us."
+
+10 _falla fast við árar_, "put in mighty oars."
+
+11 _sund_, is plur. (the straits between the islands and the coast).
+
+12 _leggz--n&oelig;r_, "they come so close to each other."
+
+13 _skotf&oelig;ri_, n. (=skotmál), "firing range (distance)."
+
+14 [_lífgjafi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=l%EDf-gjafi&startrow=1), m. "rescuer."
+
+15 _land_, es war, wie aus dem folgenden hervorgeht und S ausdrücklich angibt, eine kleine insel.
+
+16 _Hjarðarnesi, Hjarðarnes_ ist die ziemlich breite halbinsel zwiwchen dem Vatsfj&#x1EB;rðr und dem Kjálkafj&#x1EB;rðr, s. über das folgende Kålund I, 546--47. Ueber die stelle, wo Gísli ans land kam, s. Árbók fornleifafjelags 1893, s. 3--4.
+
+17 _sund_, vom felsen bis zum festlande beträgt die enternung nur 30 klafter.
+
+18 _skar_, obj. ist _spjótit_: "der spiess schnitt sich heraus" (aus dem fleische), sodass er einen tiefen einschnitt machte, blieb aber nicht in der wunde stecken.
+
+19 _kvía hann_, "umstellen ihn von allen seiten."
+
+20 _fl&oelig;ðarb&#x1EB;kkum_, "hohe ufer, die das meer zur flutzeit unmittelbar bespült."
+
+21 _Haugr_, ein hof, nur einige klafter von der küste, s. Kålund I, 546.
+
+22 rannstafs (so frgmt.), eigentlich "stab, säule, eines hauses." Diese personen sind sonst unbekannt.
+
+23 _fárskona_, "ein gefährliches weib."
+
+24 _kvenskratti_, m. "unhold in weibsgestalt."
+
+25 _með--jafnr&oelig;ði_, "R. und sie passten gut zu einander."
+
+26 _ekr--mg&#x1EB;k_, "es drängt sehr."
+
+27 _Ek mun gera á n&#x1EB;kkurn_ (scil. _kost_), "ich muss eine bedingung stellen."
+
+28 _skipta--rekkjunni_, "die männer bei dir im bette vertauschen," d.h. dir einen anderen bettgenossen zuweisen.
+
+29 _berr_, "legt."
+
+30 _sem &oelig;rasta_, "so rasend wie möglich."
+
+31 _blót_, n. "fluchen."
+
+32 _Forsá_, ein hof etwas westlicher als Haugr.
+
+33 _trúligt_, "glaublich;"  er meint, dass sie wissen oder annehmen könnten, dass er eben so gern den Gísli getötet wollte, als sie selbst.
+
+34 _einnhverr_, "ein jeder."
+
+35 _Er--um_, "hast du etwas dagegen;" zu _um_ ist _hug_ zu ergänzen.
+
+36 _sem g&#x1EB;rsamligast_, "so gründlich wie möglich."
+_
+37 _hvat gauragangi_ (dat.), "was für ein eindringen von tölpeln."
+
+38 _glóparnir_, "flegel."
+
+39 _starfaði á_, "unruhe verursachten."
+
+40 _fíflyrða_, "grobe, unhöfliche reden."
+
+41 _ágauð_, "scheltworte," v. _geyja á_, "einen anbellen," "höhnisch behandeln."
+
+42 _minni til reka_, "im gedächtnisse behalten."
+
+43 _ok finna alls ekki_, "nachdem sie nichts fegunden hatten" (hysteron proteron).
+
+44 _una_, subj. ist B&#x1EB;rkr und alle die übrigen.
+
+45 _koma áleiðis_, "ausrichten."
+
+46 _ekki--hefja_, "dass keine veränderung (zum besseren) zu merken war;" "dass das eine schlimmer und schimpflicher wäre als das andere." Wie der ausdruck eigentlich zu verstehen sei, ist zweifelhaft.
+
+47 _laust_, scil. _góz_, "bewegliche habe."
