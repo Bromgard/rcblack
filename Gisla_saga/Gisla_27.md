@@ -65,7 +65,7 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 
 10 _falla fast við árar_, "put in mighty oars."
 
-11 _sund_, is plur. (the straits between the islands and the coast).
+11 [_sund_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0604:9), is plur. (the straits between the islands and the coast).
 
 12 _leggz--n&oelig;r_, "they come so close to each other."
 
@@ -73,19 +73,19 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 
 14 [_lífgjafi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=l%EDf-gjafi&startrow=1), m. "rescuer."
 
-15 _land_, es war, wie aus dem folgenden hervorgeht und S ausdrücklich angibt, eine kleine insel.
+15 _land_, it was, and is expressly stated in S, a small island.
 
-16 _Hjarðarnesi, Hjarðarnes_ ist die ziemlich breite halbinsel zwiwchen dem Vatsfj&#x1EB;rðr und dem Kjálkafj&#x1EB;rðr, s. über das folgende Kålund I, 546--47. Ueber die stelle, wo Gísli ans land kam, s. Árbók fornleifafjelags 1893, s. 3--4.
+16 _Hjarðarnesi, Hjarðarnes_ is the rather broad peninsula between Vatsfj&#x1EB;rðr and Kjálkafj&#x1EB;rðr, see Kålund I, 546--47. About the place where Gísli came ashore, see Árbók fornleifafjelags 1893, s. 3--4.
 
-17 _sund_, vom felsen bis zum festlande beträgt die enternung nur 30 klafter.
+17 _sund_, from the rock to the mainland, the distance is only 30 leagues.
 
-18 _skar_, obj. ist _spjótit_: "der spiess schnitt sich heraus" (aus dem fleische), sodass er einen tiefen einschnitt machte, blieb aber nicht in der wunde stecken.
+18 _skar_, obj. is _spjótit_: "the spear cut out" (from the flesh), so that he made a deep cut, but did not get suck in the wound.
 
-19 _kvía hann_, "umstellen ihn von allen seiten."
+19 _kvía hann_, "move him from all sides."
 
-20 _fl&oelig;ðarb&#x1EB;kkum_, "hohe ufer, die das meer zur flutzeit unmittelbar bespült."
+20 [_fl&oelig;ðarb&#x1EB;kkum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:4), "high shore that is flushed by the sea during high tide."
 
-21 _Haugr_, ein hof, nur einige klafter von der küste, s. Kålund I, 546.
+21 _Haugr_, a settlement, just a few fathoms from the coast. Kålund I, 546. {&#42856; Also means, "burial mound," a common element in some place names.}
 
 22 rannstafs (so frgmt.), eigentlich "stab, säule, eines hauses." Diese personen sind sonst unbekannt.
 
