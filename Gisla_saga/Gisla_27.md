@@ -85,7 +85,7 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 
 20 [_fl&oelig;ðarb&#x1EB;kkum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:4), "high shore that is flushed by the sea during high tide."
 
-21 _Haugr_, a settlement, just a few fathoms from the coast. Kålund I, 546.
+21 _Haugr_, a settlement, just a few fathoms from the coast. Kålund I, 546.   
 &#42856; Also means, "burial mound," a common element in some place names.
 
 22 rannstafs (so frgmt.), eigentlich "stab, säule, eines hauses." Diese personen sind sonst unbekannt.
