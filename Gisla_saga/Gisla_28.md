@@ -43,38 +43,58 @@ Sveinninn mælti: "Allgóðr gripr mun sverðit þat vera, sem þú hefir í hen
 
 ### Notes
 
-1 _Þorskafjarðarþing_, der Þorskafj&#x1EB;rðr ist einer von den östlichsten fjorden an der nordseite des Breiðifj&#x1EB;rðr, and der westseite der grossen halbinsel Rekjanes. DAs thing (worüber s. Kålund 1, 524 bis 27, vgl. Árbók fornleifafjelgs 1893, s. 15--18) wurde am innersten ende des fjords, am östlichen ufer des kleinen, in den fjord mündenden flusses abgehalten; die reste der buden sind dort noch erkennbar. Es war dies eine hauptthingsstätte der Vestfirðingar.
+<a name="myfootnote1" id="f1">1</a>:
+1 _Þorskafjarðarþing_, the Þorskafj&#x1EB;rðr is one of the easternmost fjords on the north side of Breiðifj&#x1EB;rðr, and and on the north side of the large peninsula Reykjanes. The þing (about which see Kålund 1, 524 to 27, see Árbók fornleifafjelgs 1893, s. 15--18) was held at the innermost end of the fjord, on the eastern shore of the small river flowing into the fjord; the rest of the booths are still recognizable there. It was a main haunt of the Vestfirðingar.
 
-2 _launtal_, n. "geheime unterredung."
+<a name="myfootnote1" id="f1">1</a>:
+2 [_launtal_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=laun-tal&startrow=1), n. "furtive conversation."
 
-3 _Þar_, nicht an der eigentlichen thingstätte, wie auch das folgende zeigt, sondern, wie es in dem hier umgearbeiteten S ausdrücklich gesagt wird, an einlaufe des fjords and der westküste; darnach gehen sie den fjord entlang, _sem leiðir liggja_, bis sie zum thing kommen.
+<a name="myfootnote1" id="f1">1</a>:
+3 _Þar_, not the actual þing-site that follows, but as it is expressly stated in S, the entrance of the fjord on the west coast; after that they walk along the fjord, _sem leiðir liggja_, until they arrive at the þing.
 
-4 _beitt_, v. _beiða_.
+<a name="myfootnote1" id="f1">1</a>:
+4 _beitt_, v. [_beiða_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0055:15).
 
-5 _fr&oelig;ðaz_, "unterrichtet werden."
+<a name="myfootnote1" id="f1">1</a>:
+5 [_fr&oelig;ðaz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0176:9), "to be taught."
 
-6 _stóreflismenn_, "mächtige personen."
+<a name="myfootnote1" id="f1">1</a>:
+6 [_stóreflismenn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=st%F3r-eflis-menn&startrow=1), "powerful people."
 
-7 _sem = svá sem_, "wie" (sie nach und nach herankamen).
+<a name="myfootnote1" id="f1">1</a>:
+7 _sem = svá sem_, "how" (they grdually came).
 
-8 _segja--til_, "zeigen, erkĺären" (wem das boot gehörte).
+<a name="myfootnote1" id="f1">1</a>:
+8 _segja--til_, "show, declare" (who owned the boad).
 
-9 _léttl&oelig;ti_, n. "freundlichkeit, zuvorkommenheit."
+<a name="myfootnote1" id="f1">1</a>:
+9 [_létt-l&oelig;ti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0386:5), n. "kindness, courtesy."
 
-10 _fjarðarhornit_, "die ecke des fjords," the innerste kleine bucht des fjords.
+<a name="myfootnote1" id="f1">1</a>:
+10 _fjarðar-hornit_, "the point of the fjord," the innermost point of the fjord.   
+&#42856; See Zoëga.
 
-11 _svá at ekki felli sjór undir_, "soweit (weg vom gestade), dass das wasser die waren nicht erreichen konnte" (eigentlich darunter -- _hann_, d.h. _varnaðinn_, ist zu ergänzen -- in der flutzeit fliessen könnte).
+<a name="myfootnote1" id="f1">1</a>:
+11 _svá at ekki felli sjór undir_, "so far (away from the shore) that he water could not reach the goods" (actually underneath -- _hann_, meaning _varnaðinn_, is implied -- could flow in the flood-time).
 
-12 _girzkan_, d.h. _gerzkan_, aus Garðar, also "russisch."
+<a name="myfootnote1" id="f1">1</a>:
+12 [_girzkan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0201:5), meaning, _gerzkan_, from [Garðar](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0191:39), that is, "Russia."   
+&#42856; this word is also used to indicate Greece, occasionally a general term to indicate the "East."
 
-13 _tíguligr_, "ansehnlich."
+<a name="myfootnote1" id="f1">1</a>:
+13 [_tíguligr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0630:4), "handsome."
 
-14 _líttat = lítt þat_, "ein wenig," eine kleine strecke oder, in anderen fällen, eine kurze zeit, wie c. 35, 8.
+<a name="myfootnote1" id="f1">1</a>:
+14 [_líttat = lítt þat_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0394:3), "a little bit," a short stretch or, in other cases, a short time, like c. 35, 8.
 
-15 _friðb&#x1EB;ndunum_, die "friedensbänder" waren am griffe des schwertes befestigt; dieses konnte nicht geyogen werden, wenn man nicht die bänder gelöst hatte. Vermutlich war es gestzliche vorschrift, dass während des thinges, um den thingfrieden zu schützen, alle schwerter mit den _friðb&#x1EB;nd_ versehen waren.
+<a name="myfootnote1" id="f1">1</a>:
+15 [_friðb&#x1EB;ndunum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0173:21), the "peace-bands" were fastened to the handle of the sword; this could not be drawn unless one loosened the bands. Presumably it was a standard rule to protect the peace during the þing peace; all swords were provided with the _friðb&#x1EB;nd_.
 
-16 _þarna_ gehört zu _þat_, "das dort" (das, was du dort betrieben hast) um dem worte nachdruck zu geben. _-na_ ist ein verstärkendes suffix; vgl. _svána_.
+<a name="myfootnote1" id="f1">1</a>:
+16 [_þarna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0730:38) belongs to _þat_, "that there" (what you did there) to emphasize the words. _-na_ is a reinforcing suffix; see [_svána_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0606:55).
 
-17 _at gjlalti_, s. zu Eyrb. c. 18, 19.
+<a name="myfootnote1" id="f1">1</a>:
+17 _at gjlalti_, see Eyrb. c. 18, 19.
 
-18 _kliðr_, "stimmengewirr," geräusch das gleichzeitig und durch einander redende menschen verursachen. 
+<a name="myfootnote1" id="f1">1</a>:
+18 [_kliðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0343:5), "voice-tangle," noise caused by people talking simultaneously with one another.

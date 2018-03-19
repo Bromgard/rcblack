@@ -45,97 +45,144 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 
 ### Notes
 
+<a name="myfootnote1" id="f1">1</a>:
 1 _til liggja_, "to be befitting."
 
+<a name="myfootnote1" id="f1">1</a>:
 2 _stað--dalverpi_, about this place (in the southern part of the island) and the so called Fíflsgerði, see Kålund I, 542.
 
+<a name="myfootnote1" id="f1">1</a>:
 3 _deiliz--víðara_, "can do more" (by appearing in two places at the same time).
 
+<a name="myfootnote1" id="f1">1</a>:
 4 _er--horfa_, "there is no doubt," as how the matter stands _oss_, dat.
 
+<a name="myfootnote1" id="f1">1</a>:
 5 _at stóru berr_, (also _stórum_), "that it goes much too far."
 
+<a name="myfootnote1" id="f1">1</a>:
 6 [_leiðrétta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0381:18), "make up for it."
 
+<a name="myfootnote1" id="f1">1</a>:
 7 _láta eptir=herma eptir_, c. 25, 8.
 
+<a name="myfootnote1" id="f1">1</a>:
 8 _skundum eptir_, "we will catch up to him quickly."
 
+<a name="myfootnote1" id="f1">1</a>:
 9 _ór f&oelig;ri ganga_, "to release himeself from his favorable postition for us."
 
+<a name="myfootnote1" id="f1">1</a>:
 10 _falla fast við árar_, "put in mighty oars."
 
+<a name="myfootnote1" id="f1">1</a>:
 11 [_sund_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0604:9), is plur. (the straits between the islands and the coast).
 
+<a name="myfootnote1" id="f1">1</a>:
 12 _leggz--n&oelig;r_, "they come so close to each other."
 
+<a name="myfootnote1" id="f1">1</a>:
 13 _skotf&oelig;ri_, n. (=skotmál), "firing range (distance)."
 
+<a name="myfootnote1" id="f1">1</a>:
 14 [_lífgjafi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=l%EDf-gjafi&startrow=1), m. "rescuer."
 
+<a name="myfootnote1" id="f1">1</a>:
 15 _land_, it was, and is expressly stated in S, a small island.
 
+<a name="myfootnote1" id="f1">1</a>:
 16 _Hjarðarnesi, Hjarðarnes_ is the rather broad peninsula between Vatsfj&#x1EB;rðr and Kjálkafj&#x1EB;rðr, see Kålund I, 546--47. About the place where Gísli came ashore, see Árbók fornleifafjelags 1893, s. 3--4.
 
+<a name="myfootnote1" id="f1">1</a>:
 17 _sund_, from the rock to the mainland, the distance is only 30 leagues.
 
+<a name="myfootnote1" id="f1">1</a>:
 18 _skar_, obj. is _spjótit_: "the spear cut out" (from the flesh), so that he made a deep cut, but did not get suck in the wound.
 
+<a name="myfootnote1" id="f1">1</a>:
 19 _kvía hann_, "move him from all sides."
 
+<a name="myfootnote1" id="f1">1</a>:
 20 [_fl&oelig;ðarb&#x1EB;kkum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:4), "high shore that is flushed by the sea during high tide."
 
+<a name="myfootnote1" id="f1">1</a>:
 21 _Haugr_, a settlement, just a few fathoms from the coast. Kålund I, 546.   
 &#42856; Also means, "burial mound," a common element in some place names.
 
+<a name="myfootnote1" id="f1">1</a>:
 22 _rann-stafs_ (also, frgmt.), actually, "bar, pillar, of a house." Aside from the saga, these people are unattested.
 
+<a name="myfootnote1" id="f1">1</a>:
 23 [_fárskona_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=f%26aacute;rs-kona&startrow=1), "a dangerous woman."
 
+<a name="myfootnote1" id="f1">1</a>:
 24 [_kvenskratti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0362:56), m. "fiend in female form."
 
+<a name="myfootnote1" id="f1">1</a>:
 25 _með--jafnr&oelig;ði_, "R. and they got along with each other."
 
+<a name="myfootnote1" id="f1">1</a>:
 26 _ekr--mg&#x1EB;k_, "it is very urgent."
 
+<a name="myfootnote1" id="f1">1</a>:
 27 _Ek mun gera á n&#x1EB;kkurn_ (that is, _kost_), "I have to make a condition."
 
+<a name="myfootnote1" id="f1">1</a>:
 28 _skipta--rekkjunni_, "exchanging the men with you in bed," meaning, assign you another bedmate.
 
+<a name="myfootnote1" id="f1">1</a>:
 29 _berr_, "lays."
 
+<a name="myfootnote1" id="f1">1</a>:
 30 _sem &oelig;rasta_, "as mad as possible."
 
+<a name="myfootnote1" id="f1">1</a>:
 31 [_blót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0070:20), n. "to swear, cuss."
 
+<a name="myfootnote1" id="f1">1</a>:
 32 _Forsá_, a settlement somewhat farther west than Haugr.
 
+<a name="myfootnote1" id="f1">1</a>:
 33 [_trúligt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0642:37), "credible;" he thinks they could know or assume that we wanted to kell Gísli as much as they did.
 
+<a name="myfootnote1" id="f1">1</a>:
 34 [_einnhverr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0122:13), "everybody."
 
+<a name="myfootnote1" id="f1">1</a>:
 35 _Er--um_, "do you object to that?" to _um_, _hug_ is implied.
 
+<a name="myfootnote1" id="f1">1</a>:
 36 _sem g&#x1EB;rsamligast_, "as thorough as possible."
-_
+
+<a name="myfootnote1" id="f1">1</a>:
 37 _hvat gauragangi_ (dat.), "what a complete idiot."
 
+<a name="myfootnote1" id="f1">1</a>:
 38 [_glóparnir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0205:25), "fools."
 
+<a name="myfootnote1" id="f1">1</a>:
 39 [_starfaði á_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0589:16), "caused unrest."
 
+<a name="myfootnote1" id="f1">1</a>:
 40 [_fíflyrða_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=f%EDfl-yr%F0i&startrow=1), "rough, rude speech."
 
+<a name="myfootnote1" id="f1">1</a>:
 41 _ágauð_, "scolding words," v. [_geyja á_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=geyja&startrow=1), "barking at" "taunting."
 
+<a name="myfootnote1" id="f1">1</a>:
 42 _minni til reka_, "to keep in memory."
 
+<a name="myfootnote1" id="f1">1</a>:
 43 _ok finna alls ekki_, "after they had done nothing" (hysteron proteron).
 
+<a name="myfootnote1" id="f1">1</a>:
 44 _una_, subj. is B&#x1EB;rkr and all the rest.
 
+<a name="myfootnote1" id="f1">1</a>:
 45 _koma áleiðis_, "align."
 
+<a name="myfootnote1" id="f1">1</a>:
 46 _ekki--hefja_, "that no change was noticeable (for the better);" "that one was worse and more shameful than the other." How the expression is to be understood specifically as not known.
 
+<a name="myfootnote1" id="f1">1</a>:
 47 [_laust_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0375:51), namely [_góz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0210:4), "mobile (goods)."

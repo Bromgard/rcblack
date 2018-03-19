@@ -25,34 +25,35 @@ layout: default
 
 ### Notes
 
-1 _viðrtal_, acc., obj. zu _segja_, "berichten."
+1 [_viðrtal_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0704:56), acc., obj. to _segja_, "report."
 
-2 _þeir_, logischer würde _þá_ sein; hier liegt also eine kleine anomalie vor, wenn der text urprünglich ist.
+2 _þeir_, more logically woul be, _þá_; an anomoly preserved in the original text.
 
-3 _undanbragð_, "ausweg" (um etwas zu verheimlichen und dgl.).
+3 [_undanbragð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0652:12), "way out" (to conceal something).
+&#42856; That is, a deception.
 
-4 _at_, "um...zu" (so dass).
+4 _at_, "in order to" (so that).
 
-5 _yrði haft_, subj. ist _málit_: "wenn der prozess gegen mich angestrengt würde."
+5 _yrði haft_, subj. is _málit_: "it the trial is brought against me."
 
-6 _at nefaz_, erklärung des _undanbragð_. Gestr äussert, dass er vor verübung der tat einen falschen namen sich würde beigelegt haben, und deutet damit, wie es scheint, an, dass die söhne Vésteins (wovon nichts berichtet ist) sich bei Hallbj&#x1EB;rn unter angenommenen namen eingeführt hatten.
+6 _at nefaz_, the explanation of _undanbragð_. Gestr expresses, that he had assumed a false name before doing the act, suggesting, as it seems, that Véstein's sons (of which nothing is reported) had introduced themselves at Hallbj&#x1EB;rn under assumed names.
 
-7 _hafi--ráðum_, dies war bereits x. 27, 3 klar angedeutet.
+7 _hafi--ráðum_, this was already clearly indicated c. 27, 3.
 
-8 _skyldr þeim_, in welchem verwandtschaftverhältnisse Gestr zu Vésteinn stand, weiss man nicht.
+8 _skyldr þeim_, the nature of the relationships Gestr had with Vésteinn is not known.  
 
-9 _falla niðr_, "werden aufgegeben."
+9 [_falla niðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0140:1), "to drop, give up."
 
-10 _sem--vanða til_, "woran er doch eigentlich hätte gewöhnt sein müssen," Es ist ein seltener fall, dass das subjektive empfinden des verfassers in solcher wiese zum ausdruck kommt.
+10 _sem--vanða til_, "to which he ought to be accustomed," It is a rare case that the subjective feelings of the author are expressed explicitly in this way.
 
-11 _þó_, "ausserdem."
+11 _þó_, "besides."
 
-12 _sneypu ok svívirðing_, dieselbe allit. formel auch Bandam. saga (1850) s. 20, 2; vgl. _sneypa ok svívirða_, Fóstbr. saga (1852) s. 17, 13.
+12 _sneypu ok svívirðing_, the same alliterative formula also appears in Bandam. saga (1850) s. 20, 2; also see _sneypa ok svívirða_, Fóstbr. saga (1852) s. 17, 13.
 
-13 _jarðhús_, über dieses, von s. Vigfússon vermeintlich ausgegrabene "erdhaus," s. Árbók fornleifafjelags 1888--92, s. 138--40.
+13 _jarðhús_, about this, from Vigfússon supposedly excavated "earth-house," see Árbók fornleifafjelags 1888--92, s. 138--40.
 
-14 _beindi hón raust_, "liess ihre stimme hören" (sprach lauter als gewöhnlich).
+14 _beindi hón raust_, "let her voice be heard" (spoke louder than usual).
 
-15 _matlausir_, "ohne nahrung."
+15 [_matlausir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0414:43), "without food."
 
-16 _Mosdalr_, ein hof auf der nördlichen seite der halbinsel zwischen dem Geirþjófsfj&#x1EB;rðr und dem eigentlich --- innersten -- teile des Arnarfj&#x1EB;rðr; der _háls_ ist der bergrücken auf dieser halbinsel. 
+16 _Mosdalr_, a settlement on the northern side of the peninsula between between the Geirþjófsfj&#x1EB;rðr and the inntermost part of the Arnarfj&#x1EB;rðr; the _háls_ is the ridge on this peninsula.
