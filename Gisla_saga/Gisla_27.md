@@ -55,7 +55,7 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 
 5 _at stóru berr_, (also _stórum_), "that it goes much too far."
 
-6 _leiðrétta_, "make up for it."
+6 [_leiðrétta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0381:18), "make up for it."
 
 7 _láta eptir=herma eptir_, c. 25, 8.
 
@@ -88,54 +88,54 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 21 _Haugr_, a settlement, just a few fathoms from the coast. Kålund I, 546.   
 &#42856; Also means, "burial mound," a common element in some place names.
 
-22 rannstafs (so frgmt.), eigentlich "stab, säule, eines hauses." Diese personen sind sonst unbekannt.
+22 _rann-stafs_ (also, frgmt.), actually, "bar, pillar, of a house." Aside from the saga, these people are unattested.
 
-23 _fárskona_, "ein gefährliches weib."
+23 [_fárskona_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=f%26aacute;rs-kona&startrow=1), "a dangerous woman."
 
-24 _kvenskratti_, m. "unhold in weibsgestalt."
+24 [_kvenskratti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0362:56), m. "fiend in female form."
 
-25 _með--jafnr&oelig;ði_, "R. und sie passten gut zu einander."
+25 _með--jafnr&oelig;ði_, "R. and they got along with each other."
 
-26 _ekr--mg&#x1EB;k_, "es drängt sehr."
+26 _ekr--mg&#x1EB;k_, "it is very urgent."
 
-27 _Ek mun gera á n&#x1EB;kkurn_ (scil. _kost_), "ich muss eine bedingung stellen."
+27 _Ek mun gera á n&#x1EB;kkurn_ (that is, _kost_), "I have to make a condition."
 
-28 _skipta--rekkjunni_, "die männer bei dir im bette vertauschen," d.h. dir einen anderen bettgenossen zuweisen.
+28 _skipta--rekkjunni_, "exchanging the men with you in bed," meaning, assign you another bedmate.
 
-29 _berr_, "legt."
+29 _berr_, "lays."
 
-30 _sem &oelig;rasta_, "so rasend wie möglich."
+30 _sem &oelig;rasta_, "as mad as possible."
 
-31 _blót_, n. "fluchen."
+31 [_blót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0070:20), n. "to swear, cuss."
 
-32 _Forsá_, ein hof etwas westlicher als Haugr.
+32 _Forsá_, a settlement somewhat farther west than Haugr.
 
-33 _trúligt_, "glaublich;"  er meint, dass sie wissen oder annehmen könnten, dass er eben so gern den Gísli getötet wollte, als sie selbst.
+33 [_trúligt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0642:37), "credible;" he thinks they could know or assume that we wanted to kell Gísli as much as they did.
 
-34 _einnhverr_, "ein jeder."
+34 [_einnhverr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0122:13), "everybody."
 
-35 _Er--um_, "hast du etwas dagegen;" zu _um_ ist _hug_ zu ergänzen.
+35 _Er--um_, "do you object to that?" to _um_, _hug_ is implied.
 
-36 _sem g&#x1EB;rsamligast_, "so gründlich wie möglich."
+36 _sem g&#x1EB;rsamligast_, "as thorough as possible."
 _
-37 _hvat gauragangi_ (dat.), "was für ein eindringen von tölpeln."
+37 _hvat gauragangi_ (dat.), "what a complete idiot."
 
-38 _glóparnir_, "flegel."
+38 [_glóparnir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0205:25), "fools."
 
-39 _starfaði á_, "unruhe verursachten."
+39 [_starfaði á_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0589:16), "caused unrest."
 
-40 _fíflyrða_, "grobe, unhöfliche reden."
+40 [_fíflyrða_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=f%EDfl-yr%F0i&startrow=1), "rough, rude speech."
 
-41 _ágauð_, "scheltworte," v. _geyja á_, "einen anbellen," "höhnisch behandeln."
+41 _ágauð_, "scolding words," v. [_geyja á_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=geyja&startrow=1), "barking at" "taunting."
 
-42 _minni til reka_, "im gedächtnisse behalten."
+42 _minni til reka_, "to keep in memory."
 
-43 _ok finna alls ekki_, "nachdem sie nichts fegunden hatten" (hysteron proteron).
+43 _ok finna alls ekki_, "after they had done nothing" (hysteron proteron).
 
-44 _una_, subj. ist B&#x1EB;rkr und alle die übrigen.
+44 _una_, subj. is B&#x1EB;rkr and all the rest.
 
-45 _koma áleiðis_, "ausrichten."
+45 _koma áleiðis_, "align."
 
-46 _ekki--hefja_, "dass keine veränderung (zum besseren) zu merken war;" "dass das eine schlimmer und schimpflicher wäre als das andere." Wie der ausdruck eigentlich zu verstehen sei, ist zweifelhaft.
+46 _ekki--hefja_, "that no change was noticeable (for the better);" "that one was worse and more shameful than the other." How the expression is to be understood specifically as not known.
 
-47 _laust_, scil. _góz_, "bewegliche habe."
+47 [_laust_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0375:51), namely [_góz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0210:4), "mobile (goods)."
