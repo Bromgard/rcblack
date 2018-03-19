@@ -60,8 +60,9 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 <a name="myfootnote1" id="f1">1</a>:
 5 _at stóru berr_, (also _stórum_), "that it goes much too far."
 
-<a name="myfootnote1" id="f1">1</a>:
-6 [_leiðrétta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0381:18), "make up for it."
+<a name="myfootnote6" id="f6">6</a>:
+ [_leiðrétta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0381:18), "make up for it."
+[↩](#a6)
 
 <a name="myfootnote1" id="f1">1</a>:
 7 _láta eptir=herma eptir_, c. 25, 8.
