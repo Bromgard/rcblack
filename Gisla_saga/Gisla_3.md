@@ -18,7 +18,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _Flyðrunes_, in S _Flúðunes_; the correct form is uncertain, as is the location for this settlement. Locating the farm was located north of Surnadal and also north of the inlet of Trondheim Fjord seems reasonable; also in S it says: _norðan af Flúðenesi_.
+ _Flyðrunes_, in S _Flúðunes_; the correct form is uncertain, as is the location for this settlement. Locating the farm north of Surnadal and also north of the inlet of Trondheim Fjord seems reasonable; also in S it says: _norðan af Flúðenesi_.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -42,7 +42,7 @@ layout: default
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _inni_, in S there appears one stanza (Gísli's first), which however hardly belonged to the original version of the saga; it is most likely genuine and reads:
+ _inni_, in S there appears one stanza (Gísli's first), which could belong to the original version of the saga; it is most likely genuine and reads:
 
 >Hár leikr eldr of órom   
 >(es bál miket) skála;   
@@ -53,7 +53,7 @@ layout: default
 >stofnask styrjar efne,   
 >stinn j&#x1EB;rn of s&#x1EB;k minne.   
 
-Normalized: Eldr leikr hár of órom skála; miket bál es; gaukr Gauts mon gladdr af skíko en vargar sadder; reyndak fyrr stinn j&#x1EB;rn á fj&#x1EB;ndom of minne s&#x1EB;k styrjar efne stofnask af þraut þinne, faþer minn.
+Prose word order: Eldr leikr hár of órom skála; miket bál es; gaukr Gauts mon gladdr af skíko en vargar sadder; reyndak fyrr stinn j&#x1EB;rn á fj&#x1EB;ndom of minne s&#x1EB;k styrjar efne stofnask af þraut þinne, faþer minn.
 
 "The flames are high above your house, it is a great fire, as a result the raven (cuckoo of Odin) will be glad, and the wolf will be satisfied, I have already tested the stiff sword blades on my enemies for lesser reasons; my father, because of your suffering a feud will burn. "
 [↩](#a5)

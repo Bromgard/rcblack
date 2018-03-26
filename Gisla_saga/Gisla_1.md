@@ -65,7 +65,8 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _enn blakki_, "the dark," of the color of the skin.
+ _enn_ [_blakki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0067:3), "the dark," of the color of the skin.   
+ &#42856; The lexical range also allows for, "the pale," or "the white," as a foreboding of death. See Cleasby/Vigfusson.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:

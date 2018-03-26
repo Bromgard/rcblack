@@ -7,7 +7,7 @@ layout: default
 
 ### Þorbj&#x1EB;rn and his family. Battle for the daughter, Þórdis
 
-1\. Hér eftir tekr Þorbj&#x1EB;rn við fé &#x1EB;llu því er átt hafði faðir hans ok br&oelig;ðr ij.<sup id="a1">[1](#myfootnote1)</sup> Hann býr í Súrnadal at Stokkum.<sup id="a2">[2](#myfootnote2)</sup> 2. Hann biðr konu þeirar, er Þóra hét ok var Rauðsdóttir ór Friðarey,<sup id="a3">[3](#myfootnote3)</sup> ok fékk hennar. Þeira samfarir váru góðar ok eigi langar, áðr en þan gátu b&#x1EB;rn at eiga. 3. Dóttir þeira er nefnd Þórdís, ok var hón ellzt barna þeira. Þorkell hét sonr þeira, enn ellzti, annarr Gísli, Ari enn yngsti; ok vaxa allir upp heima þar; funduz eigi fremri menn þar í nánd þeira jafnaldrar. 4. Ara var fóstr fengit með Styrkári, móðurbróður sínum; en þeir Þorkell ok Gísli váru heima báðir. 5. Bárðr hét maðr; hann bjó þar í Súrnadal; hann var ungr maðr, ok hafði nýtekit við f&#x1EB;ðurarfi sínum. 6. Kolbj&#x1EB;rn hét maðr, er bjó á Hellu<sup id="a4">[4](#myfootnote4)</sup> í Súrnadal; hann var ungr maðr ok hafði nýtekið við föðurarfi sínum.<sup id="a5">[5](#myfootnote5)</sup> 7. Þat t&#x1EB;luðu sumir menn, at Bárðr fíflði<sup id="a6">[6](#myfootnote6)</sup> Þórdísi Þorbjarnardóttur; hón var bæði væn ok vitur.<sup id="a7">[7](#myfootnote7)</sup> 8. Þorbirni hugnaði þat illa, ok kveðzt ætla, ef Ari væri heima, at þá myndi eigi vel gefaz.<sup id="a8">[8](#myfootnote8)</sup>
+1\. Hér eftir tekr Þorbj&#x1EB;rn við fé &#x1EB;llu því er átt hafði faðir hans ok br&oelig;ðr ij.<sup id="a1">[1](#myfootnote1)</sup> Hann býr í Súrnadal at Stokkum.<sup id="a2">[2](#myfootnote2)</sup> 2. Hann biðr konu þeirar, er Þóra hét ok var Rauðsdóttir ór Friðarey,<sup id="a3">[3](#myfootnote3)</sup> ok fékk hennar. Þeira samfarir váru góðar ok eigi langar, áðr en þan gátu b&#x1EB;rn at eiga. 3. Dóttir þeira er nefnd Þórdís, ok var hón ellzt barna þeira. Þorkell hét sonr þeira, enn ellzti, annarr Gísli, Ari enn yngsti; ok vaxa allir upp heima þar; funduz eigi fremri menn þar í nánd þeira jafnaldrar. 4. Ara var fóstr fengit með Styrkári, móðurbróður sínum; en þeir Þorkell ok Gísli váru heima báðir. 5. Bárðr hét maðr; hann bjó þar í Súrnadal; hann var ungr maðr, ok hafði nýtekit við f&#x1EB;ðurarfi sínum. 6. Kolbj&#x1EB;rn hét maðr, er bjó á Hellu<sup id="a4">[4](#myfootnote4)</sup> í Súrnadal; hann var ungr maðr ok hafði nýtekið við f&#x1EB;ðurarfi sínum.<sup id="a5">[5](#myfootnote5)</sup> 7. Þat t&#x1EB;luðu sumir menn, at Bárðr fíflði<sup id="a6">[6](#myfootnote6)</sup> Þórdísi Þorbjarnardóttur; hón var bæði væn ok vitur.<sup id="a7">[7](#myfootnote7)</sup> 8. Þorbirni hugnaði þat illa, ok kveðzt ætla, ef Ari væri heima, at þá myndi eigi vel gefaz.<sup id="a8">[8](#myfootnote8)</sup>
 
 Bárður kvað ómæt ómaga orð<sup id="a9">[9](#myfootnote9)</sup> -- "ok mun ek fara sem áðr."
 
@@ -105,11 +105,11 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
-  _hann brá á glens við hann_, "he handled the matter jokingly with him"; Gísli's words are shrewdly spoken, but with a serious intention: by asking the brother to exchange the sword with him, he makes it clear that it was the duty of the older brother to kiss the sister's seducer.
+  _hann brá á glens við hann_, "he handled the matter jokingly with him"; Gísli's words are shrewdly spoken, but with a serious intention: by asking the brother to exchange the sword with him, he makes it clear that it was the duty of the older brother to kill his sister's seducer.
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
-  _ekki--vápnaskipit_, "He did not respond to the exchange of weapons."
+  _ekki--vápnaskipit_, "They did not exchange their weapons."
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
@@ -141,7 +141,7 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
-  _biðr--armastan_, a curse that would be in more direct speech, _m&oelig; þú allra manna armastr_, "you are miserable among men because of your words;" for example see, Heimskr II, 406, 19: _h&#x1EB;gg þú allra manna armastr_, "may you be miserable for the stroke [you inflicted-RB]."
+  _biðr--armastan_, a curse that would be in more direct speech, _m&oelig; þú allra manna armastr_, "you are miserable among men because of your words;" for example see, Heimskr II, 406, 19: _h&#x1EB;gg þú allra manna armastr_, "may you be miserable for the stroke [that you inflicted]."
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
