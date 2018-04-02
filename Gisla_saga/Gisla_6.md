@@ -98,7 +98,8 @@ Fara nú menn heim af þinginu.
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _m&oelig;lt mál_, "something -- not he alone -- what everyone says, or knows." {An idiom. To say what the world already says or knows. See the Cleasby Vigfusson entry for _mæla_--RB.}
+ _m&oelig;lt mál_, "something -- not he alone -- what everyone says, or knows."   
+ An idiom. To say what the world already says or knows. See the Cleasby Vigfusson entry for _mæla_.
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
@@ -114,7 +115,9 @@ Fara nú menn heim af þinginu.
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
- _Jarðarmen_; _men_ means "neck ring" {A necklace, or perhaps a torque--RB}, and so something circular or round is meant here; therefore semicircular; all of it looked like this:
+ _Jarðarmen_; _men_ means "neck ring," and so something circular or round is meant here; therefore semicircular; all of it looked like this:
+
+![jarðarmen](jarðarmen.png)
 
 (a is the _málaspjót_).
 [↩](#a19)
