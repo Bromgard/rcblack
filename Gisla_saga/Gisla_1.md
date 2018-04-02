@@ -45,7 +45,7 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- [_nafnbót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0445:13), "ennobling of name," i.e. title. [↩](#a3)
+ [_nafnbót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0445:13), "ennobling of name," i.e. title.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
@@ -53,7 +53,7 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _einn_, is more common than _fyrstr_ in enumerations. [↩](#a4)
+ _einn_, is more common than _fyrstr_ in enumerations.
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
