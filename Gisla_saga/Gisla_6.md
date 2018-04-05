@@ -117,7 +117,7 @@ Fara nú menn heim af þinginu.
 <a name="myfootnote19" id="f19">19</a>:
  _Jarðarmen_; _men_ means "neck ring," and so something circular or round is meant here; therefore semicircular; all of it looked like this:
 
-![jarðarmen]({{rcblack.net}}assets/jarðarmen.png?raw=true)
+![jarðarmen]({{rcblack.net}}assets/images/jarðarmen.png?raw=true)
 
 (a is the _málaspjót_).
 [↩](#a19)
