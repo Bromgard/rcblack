@@ -46,11 +46,11 @@ Fara nú menn heim af þinginu.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _sóknarþing_, the vár-þing, according to Grágás (Konungsbók I, 96), had to be conducted between the fourth and the sixth week of summer, consisted of two sections; the first was the _sóknarþing_, in which court cases (sóknir) were conducted; the second was the _skuldaþing_, a thing in which financial transactions were deliberated (payments of debt, etc.)
+ [_sóknarþing_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0579:1), the [vár-þing](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0686:1), according to Grágás (Konungsbók I, 96), had to be conducted between the fourth and the sixth week of summer, consisted of two sections; the first was the _sóknarþing_, in which court cases ([sóknir](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0578:34)) were conducted; the second was the [_skuldaþing_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0560:1), a thing in which financial transactions were deliberated (payments of debt, etc.)
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _gassi_, a careless and thoughtless person who blabbed about everything.
+ [_gassi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0192:30), a careless and thoughtless person who blabbed about everything.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -90,7 +90,7 @@ Fara nú menn heim af þinginu.
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _málsenda_, acc. pl. v. _málsendir_, apparently composed with, _endir_, the word is common; nevertheless, it should not be considered a form related to _málsemð_, pl. _málsemðir_; see Fritzner<sup>2</sup> s.v. --The MS. S also reads in this position _málsemð_. The meaning is "quality of speech," or, "expression."
+ [_málsenda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0417:53), acc. pl. v. [_málsendir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0417:55), apparently composed with, _endir_, the word is common; nevertheless, it should not be considered a form related to _málsemð_, pl. _málsemðir_; see Fritzner<sup>2</sup> s.v. --The MS. S also reads in this position _málsemð_. The meaning is "quality of speech," or, "expression."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
@@ -107,7 +107,7 @@ Fara nú menn heim af þinginu.
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
- _fóstbr&oelig;ðralag_, about the blood brother pact, see Grundr.<sup>2</sup> III, 417 and the literature cited there; see also K. Maurer, Bekehrung II, 170  ff; M. Pappenheim, Zs. f.d. phil. 24, 157 f. The following passage is regarded as a locus classicus for this particular custom.
+ [_fóstbr&oelig;ðralag_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0168:5), about the blood brother pact, see Grundr.<sup>2</sup> III, 417 and the literature cited there; see also K. Maurer, Bekehrung II, 170  ff; M. Pappenheim, Zs. f.d. phil. 24, 157 f. The following passage is regarded as a locus classicus for this particular custom.
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
@@ -115,15 +115,15 @@ Fara nú menn heim af þinginu.
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
- _Jarðarmen_; _men_ means "neck ring," and so something circular or round is meant here; therefore semicircular; all of it looked like this:   
+ [_Jarðarmen_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0327:39); _men_ means "neck ring," and so something circular or round is meant here; therefore semicircular; all of it looked like this:   
 
-![jarðarmen](rcblack.net/assets/images/jarðarmen.png)
+![jarðarmen](http://rcblack.net/assets/images/jar%C3%B0armen.png)
 
 (a is the _málaspjót_).
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
- _málaspjót--geirnagla_ a spear marked with a magical stave, so long that when a man stood on the ground he could reach the nail fastener with his hand extended, through which the blade was fastened to the shaft.
+ [_málaspjót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=m%E1la-spj%F3t&startrow=1)--[_geirnagla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0196:10) a spear marked with a magical stave, so long that when a man stood on the ground he could reach the nail fastener with his hand extended, through which the blade was fastened to the shaft.
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
@@ -147,7 +147,7 @@ Fara nú menn heim af þinginu.
 [↩](#a25)
 
 <a name="myfootnote26" id="f26">26</a>:
- _hnykkir_, "quickly retreat"
+ [_hnykkir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0277:35), "quickly retreat"
 [↩](#a26)
 
 <a name="myfootnote27" id="f27">27</a>:
