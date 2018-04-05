@@ -7,7 +7,7 @@ layout: default
 
 ### Gísli and Vésteinn's trade voyage to Denmark. Gísli makes the coin token
 
-1\. Maðr hét Skegg-Bjálfi ok átti skip í f&#x1EB;rum; hann ætlaði til Danmerkr suðr. Þeir fala at hánum skipit hálft, en hann kvez spurt hafa, at þeir váru góðir drengir, ok gaf þeim hálft skipit ok launa þeir þegar meir en fullu. 2. Nú fara þeir suðr til Danmerkr, ok í þann kaupstað, er í Vébj&#x1EB;rgum<sup id="a1">[1](#myfootnote1)</sup> heitir, ok eru þeir þar um vetrinn með þeim manni, er Sigrhaddr<sup id="a2">[2](#myfootnote2)</sup> hét. 3. Þeir váru þar þrír, Vésteinn, Gísli ok Bjálfi, ok var gott vinfengi með þeim &#x1EB;llum ok gjafaskipti.<sup id="a3">[3](#myfootnote3)</sup> En snemma um várið bjó Bjálfi skip sitt til Íslands. 4. Maðr hét Sigurðr, félagi<sup id="a4">[4](#myfootnote4)</sup> Vésteins, norr&oelig;nn at ætt, ok var þá á Englandi vestr; hann sendi Vésteini orð ok kvez vilja slíta félag<sup id="a5">[5](#myfootnote5)</sup> við hann ok þóttiz eigi þurfa hans fjár lengr. 5. Ok nú biðr Vésteinn leyfis, at hann f&oelig;ri at hitta hann.
+1\. Maðr hét Skegg-Bjálfi ok átti skip í f&#x1EB;rum;<sup id="a1">[1](#myfootnote1)</sup> hann ætlaði til Danmerkr suðr. Þeir fala at hánum skipit hálft, en hann kvez spurt hafa, at þeir váru góðir drengir, ok gaf þeim hálft skipit ok launa þeir þegar meir en fullu. 2. Nú fara þeir suðr til Danmerkr, ok í þann kaupstað, er í Vébj&#x1EB;rgum<sup id="a1">[1](#myfootnote1)</sup> heitir, ok eru þeir þar um vetrinn með þeim manni, er Sigrhaddr<sup id="a2">[2](#myfootnote2)</sup> hét. 3. Þeir váru þar þrír, Vésteinn, Gísli ok Bjálfi, ok var gott vinfengi með þeim &#x1EB;llum ok gjafaskipti.<sup id="a3">[3](#myfootnote3)</sup> En snemma um várið bjó Bjálfi skip sitt til Íslands. 4. Maðr hét Sigurðr, félagi<sup id="a4">[4](#myfootnote4)</sup> Vésteins, norr&oelig;nn at ætt, ok var þá á Englandi vestr; hann sendi Vésteini orð ok kvez vilja slíta félag<sup id="a5">[5](#myfootnote5)</sup> við hann ok þóttiz eigi þurfa hans fjár lengr. 5. Ok nú biðr Vésteinn leyfis, at hann f&oelig;ri at hitta hann.
 
 "Því skaltu heita mér,<sup id="a6">[6](#myfootnote6)</sup> at þú farir aldri brott af Íslandi, ef þú k&oslash;mr heill út, nema ek leyfa þér."
 
@@ -22,19 +22,25 @@ Nú játar Vésteinn því. 6. Ok einn morgin ríss Gísli upp ok gengr til smi�
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
+1 [_skip í f&#x1EB;rum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0185:25), a "trading ship."
+[↩](#a1)
+
+<a name="myfootnote1" id="f1">1</a>:
 1 _Vébj&#x1EB;rgum_, Viborg in Jutland.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _Sigraddr_, that is, _Sigrhaddr_ v. _haddr_ (got. hazds), hair.
+ _Sigraddr_, that is, _Sigrhaddr_, probably [_haddr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0227:7) (got. hazds), hair.
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _gjafaskipti_, n. "an exchange of gifts."
+ _gjafaskipti_, n. "an exchange of gifts."   
+ See Zoëga.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _félagi_, m. here, "business associate." (compagnon).
+ [_félagi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0150:16), m. here, "business associate." (comrade).   
+ Engl. "fellow."
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -42,7 +48,7 @@ Nú játar Vésteinn því. 6. Ok einn morgin ríss Gísli upp ok gengr til smi�
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _Því skaltu heita mér_ and so on, words of Gísli.
+ _Því skaltu heita mér_..., Gísli's words.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -50,11 +56,11 @@ Nú játar Vésteinn því. 6. Ok einn morgin ríss Gísli upp ok gengr til smi�
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- _penning_, "coin," from the following we can see that it was two perfectly congruent coin-like metal discs, which could be firmly joined together by means of the _naddar_, so that the whole thing looked like one piece.
+ [_penning_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0476:11), "coin," from the following we can see that it was two perfectly congruent coin-like metal discs, which could be firmly joined together by means of the _naddar_, so that the whole thing looked like one piece.
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _naddar_, pl. _naddr_, m. "stud;" for every _naddr_ there was a matched hole on the other disk. When the whole thing was put together, you could not see a hole, or a _naddr_.
+ [_naddar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0445:4), pl. _naddr_, m. "stud;" for every _naddr_ there was a matched hole on the other disk. When the whole thing was put together, you could not see a hole, or a _naddr_.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:

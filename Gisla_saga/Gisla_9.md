@@ -17,19 +17,19 @@ layout: default
 
 9\. "Þat þykki mér eigi brigzl," sagði Ásgerðr, "þótt mér þykki Vésteinn góðr; hitt var mér sagt, at þit Þorgrímur hittiz mj&#x1EB;g opt áðr en þú værir Gísla gefin."
 
-"Því fylgdu engir mannlestir,"<sup id="a14">[14](#myfootnote14)</sup> segir Auðr, "því at eg tók engan mann undir Gísla,<sup id="a15">[15](#myfootnote15)</sup> at því fylgdi neinn mannl&#x1EB;str; ok munu vit nú hætta þessi r&oelig;ðu."
+"Því fylgðu engir mannlestir,"<sup id="a14">[14](#myfootnote14)</sup> segir Auðr, "því at eg tók engan mann undir Gísla,<sup id="a15">[15](#myfootnote15)</sup> at því fylgði neinn mannl&#x1EB;str; ok munu vit nú hætta þessi r&oelig;ðu."
 
 10\. En Þorkell heyrir hvert orð, þat er þær mæltu, ok tekr nú til orða, er þær hættu:
 
 >3  
-> 
-Heyr undr mikit!<sup id="a16">[16](#myfootnote16)</sup>   
-heyr &oslash;rlygi!<sup id="a17">[17](#myfootnote17)</sup>   
-heyr mál mikit!<sup id="a18">[18](#myfootnote18)</sup>   
+>
+Heyr undr mikit!   
+heyr &oslash;rlygi!   
+heyr mál mikit!   
 heyr manns bana,   
-eins eða fleiri,   
+eins eða fleiri,<sup id="a18.5">[18.5](#myfootnote18.5)</sup>   
 
-ok gengur inn eftir það.   
+ok gengr inn eptir þat.   
 
 11\. Þá tekr Auðr til orða:<sup id="a19">[19](#myfootnote19)</sup> "Opt stendr illt af kvenna hjali, ok má þat vera, at hér hljótiz af í verra lagi,<sup id="a20">[20](#myfootnote20)</sup> ok leitum okkr ráðs."
 
@@ -43,7 +43,7 @@ ok gengur inn eftir það.
 
 "Hvert órræði<sup id="a23">[23](#myfootnote23)</sup> muntú taka?" segir Ásgerðr.
 
-"Segja Gísla bónda mínum allt þat, er ek á vant<sup id="a25">[25](#myfootnote25)</sup> at r&oelig;ða eða af að ráða."
+"Segja Gísla bónda mínum allt þat, er ek á vant at r&oelig;ða eða af að ráða."<sup id="a25">[25](#myfootnote25)</sup>
 
 14\. Um aftaninn k&oslash;mr Gísli heim af verkinu. Þat var vant,<sup id="a26">[26](#myfootnote26)</sup> at Þorkell var vanr at þakka bróður sínum verkit; en nú er hann hljóðr ok mælti ekki orð. 15. Nú spyrr Gísli hvárt hánum sé þungt.<sup id="a27">[27](#myfootnote27)</sup>
 
@@ -61,7 +61,7 @@ ok gengur inn eftir það.
 
 18\. Hón svarar: "Þú munt ráða verða hugleiðing þinni um þetta;<sup id="a34">[34](#myfootnote34)</sup> en ekki mun ek lengi þ&oelig;faz<sup id="a35">[35](#myfootnote35)</sup> til hvílunnar við þik; ok um tvá kosti áttu at velja. Sá er annar, at þú tak<sup id="a36">[36](#myfootnote36)</sup> við mér, ok lát sem ekki sé í orðit;<sup id="a37">[37](#myfootnote37)</sup> ella mun ek nefna mér vátta nú þegar, ok segja skilit við þik,<sup id="a38">[38](#myfootnote38)</sup> ok mun ek láta f&#x1EB;ður minn heimta mund minn ok heimanfylgju, ok mun sá kostr at þú hafir aldri hvíluþr&#x1EB;ng<sup id="a39">[39](#myfootnote39)</sup> af mér síðan."<sup id="a40">[40](#myfootnote40)</sup>
 
-18\. Þorkell þagnaði ok mælti um síðir: "Það ræð ek,<sup id="a41">[41](#myfootnote41)</sup> at þú ger hvárt þér líkar; en eigi mun ek banna rekkjuna náttlangt."
+18\. Þorkell þagnaði ok mælti um síðir: "Þat ræð ek,<sup id="a41">[41](#myfootnote41)</sup> at þú ger hvárt þér líkar; en eigi mun ek banna rekkjuna náttlangt."
 
 Hón lýsti brátt yfir því, hvárr<sup id="a42">[42](#myfootnote42)</sup> henni þótti betri, ok ferr þegar í rekkju sína. 20. Eigi hafa þau lengi bæði saman legit, áðr en þau semja þetta með sér,<sup id="a43">[43](#myfootnote43)</sup> svá sem ekki hefði í orðit. 21. Auðr kom nú í rekkju hjá Gísla ok segir hánum r&oelig;ður þeira Ásgerðar, ok biðr af sér reiði<sup id="a44">[44](#myfootnote44)</sup> ok bað hann taka n&#x1EB;kkut gott ráð, ef hann sæi.
 
@@ -80,7 +80,7 @@ Hón lýsti brátt yfir því, hvárr<sup id="a42">[42](#myfootnote42)</sup> hen
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _ofláti_, c.f. _láta mikinn_, "behave arrogantly and somewhat demeaning;" such a person can also hate the daily hard work, s is clearly the case here.
+ _ofláti_, c.f. _láta mikinn_, "behave arrogantly and somewhat demeaning;" such a person can also hate the daily hard work, such is clearly the case here.
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -92,7 +92,7 @@ Hón lýsti brátt yfir því, hvárr<sup id="a42">[42](#myfootnote42)</sup> hen
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _eldhús_, here, of course, not "kitchen," but the primary buildign of the farm and the common living area for the residents; S has here _eldskáli_.
+ _eldhús_, here, of course, not "kitchen," but the primary building of the farm and the common living area for the residents; S has here _eldskáli_.
 
 s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a5)
@@ -126,7 +126,7 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _hvat--var_, "how the thing behaved."
+ _hvat--var_, "what happened."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
@@ -137,17 +137,15 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
  _ek tók engan mann undir Gísla_, "I did not entertain any another man behind Gísli's back, so I have not done anything shameful;" see Ældre Borgarth. christenret I, 17 (NgL I, 351): _ef kona ekr mann undir bónda sinn, hon er sek þrim m&#x1EB;rkum við biskup_. s. 19. 19. _at_, "so that."
 [↩](#a15)
 
-<a name="myfootnote16" id="f16">16</a>:
- _Heyr undr mikit!_ "curious things are heard here."
-[↩](#a16)
+<a name="myfootnote18.5" id="f18.5">18.5</a>:
+ &#42856; This verse is formatted as prose in the Jónsson edition, neither is it numbered. For this reason the numeration of the verses are one count off in Jónsson.
 
-<a name="myfootnote17" id="f17">17</a>:
- _&oslash;rlygi_, this word cannot mean "monstrous lie," in this connection but certainly means the same as _&oslash;lygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
-[↩](#a17)
+ * _Heyr undr mikit!_ "curious things are heard here."
 
-<a name="myfootnote18" id="f18">18</a>:
- _mikit_, "meaningfull."
-[↩](#a18)
+ * _&oslash;rlygi_, this word cannot mean "monstrous lie," in this connection but certainly means the same as _&oslash;lygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
+
+ * _mikit_, "meaningfull."
+[↩](#a18.5)
 
 <a name="myfootnote19" id="f19">19</a>:
  _Þá tekr_ etc., one must assume that Auðr heard Þorkell's words.
@@ -166,7 +164,7 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _órr&eolig;ði_, n. "the way out."
+ _órr&oelig;ði_, n. "the way out."
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
@@ -186,7 +184,7 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a27)
 
 <a name="myfootnote28" id="f28">28</a>:
- _þess_, the reason for my mood.
+ _þess_, the reason for his mood.
 [↩](#a28)
 
 <a name="myfootnote29" id="f29">29</a>:
@@ -198,7 +196,7 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a30)
 
 <a name="myfootnote31" id="f31">31</a>:
- _né lengra banni_, _bann_ (ntr.) this only occurs in this context here; if the meaning of the word is correct (it can only be found in M) it must be as G. Vigfússon notes in his dictionary, "time, span of time;" the whole: "and no longer at all."
+ _né lengra banni_, [_bann_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0051:14) (ntr.) this only occurs in this context here; if the meaning of the word is correct (it can only be found in M) it must be as G. Vigfússon notes in his dictionary, "time, span of time;" the whole: "and no longer at all."
 [↩](#a31)
 
 <a name="myfootnote32" id="f32">32</a>:
