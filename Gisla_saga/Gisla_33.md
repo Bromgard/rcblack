@@ -5,6 +5,8 @@ layout: default
 
 # Gísla saga Súrssonar 33
 
+### Gisli's dreams and his verses
+
 1\. Líðr svá nú sumarit, at Gísli er í jarðhúsum sínum, ok er varr um sik ok ætlar hann nú ekki í brott; þykkir hánum nú fokit vera í &#x1EB;ll skjól, nú eru ok liðnir draumavetr hans g&#x1EB;rvallir. 2. Þat berr enn til einhverja nótt um sumarit, at Gísli lætr illa í svefni; en er hann vaknar, spyrr Auðr, hvat hann hefði dreymt. 3. Hann segir, at nú kom at hánum draumkonan sú en verri ok mælti svá: "Nú skal ek því &#x1EB;llu bregða, er hin betri draumkonan mælti við þik; ok skal ek þess ráðandi, at þér skal þess ekki at gagni verða, er hón hefr mælt."
 
 4\. Þá kvað Gísli vísu:
@@ -86,7 +88,8 @@ layout: default
    huggendr, Munens tuggo;   
    sneiþ at síno ráþe   
    sverþs egg í tvau legge,   
-   misti menja lester,   
+   misti menja leste
+   r,   
    (manns bót vas þat) fóta.   
 
 15\. Nú líðr á haustit, ok minkar ekki draumana, ok heldr er vaxandi gangr at þeim. Þat var eina nótt, er Gísli lét enn illa í svefni; Auðr spurði þá enn, hvat fyrir hann bæri. 16. Gísli kvað vísu:
