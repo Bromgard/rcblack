@@ -55,7 +55,7 @@ ok gengr inn eptir þat.
 
 16\. Ok gengr nú sinn veg hvárr þeirra, ok varð<sup id="a29">[29](#myfootnote29)</sup> ekki talat fleira at sinni. Þorkell neytir lítt matar um kveldit ok gengr fyrstr manna að sofa. Ok er hann var kominn í rekkju, þá k&oslash;mr þar Ásgerðr ok lyptir klæðum<sup id="a30">[30](#myfootnote30)</sup> ok ætlar niðr at leggjaz. 17. Þá tók Þorkell til orða: "Ekki ætla ek þér hér at liggja náttlangt né lengra banni."<sup id="a31">[31](#myfootnote31)</sup>
 
-Ásgerður mælti: "Hví hefir svá skjótt skipaz<sup id="a32">[32](#myfootnote32)</sup> eða hvat berr til þess?" segir Ásgerðr.
+Ásgerðr mælti: "Hví hefir svá skjótt skipaz<sup id="a32">[32](#myfootnote32)</sup> eða hvat berr til þess?" segir Ásgerðr.
 
 Þorkell mælti: "Bæði vitu vit nú s&#x1EB;kina, þótt ek hafa lengi leyndr verit ok mun þinn hróðr ekki at meiri, þó at<sup id="a33">[33](#myfootnote33)</sup> ek mæla berara."
 
@@ -80,7 +80,7 @@ Hón lýsti brátt yfir því, hvárr<sup id="a42">[42](#myfootnote42)</sup> hen
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _ofláti_, c.f. _láta mikinn_, "behave arrogantly and somewhat demeaning;" such a person can also hate the daily hard work, such is clearly the case here.
+ [_ofláti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=of-l%26aacute%3Bti&startrow=1), c.f. _láta mikinn_, "behave arrogantly and somewhat demeaning;" such a person can also hate the daily hard work, such is clearly the case here.   
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -92,13 +92,13 @@ Hón lýsti brátt yfir því, hvárr<sup id="a42">[42](#myfootnote42)</sup> hen
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _eldhús_, here, of course, not "kitchen," but the primary building of the farm and the common living area for the residents; S has here _eldskáli_.
+ [_eldhús_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0125:26), here, of course, not "kitchen," but the primary building of the farm and the common living area for the residents; S has here _eldskáli_.
 
-s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
+s. 18 23 [_tír&oelig;tt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0634:14), "100 fathoms" (long).
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _faðmr_, m. "fathom."
+ [_faðmr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0137:3), m. "fathom."
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -106,11 +106,11 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- _dyngja_, s. zu Egilss. c. 32, 11; a freestanding woman's house in general.
+ [_dyngja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0111:5), s. zu Egilss. c. 32, 11; a freestanding woman's house in general.
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _þangat_, "thither, in that direction," meaning, "from there."
+ [_þangat_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0730:6), "thither, in that direction," meaning, "from there."
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -130,7 +130,7 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
- _mannlestir_, "what can displace a man," a shame; _því fylgðu engir mannlestir_, "it all was innocent."
+ [_mannlestir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0411:12), "what can displace a man," a shame; _því fylgðu engir mannlestir_, "it all was innocent."
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
@@ -140,11 +140,13 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 <a name="myfootnote18" id="f18">18</a>:
  &#42856; This verse is formatted as prose in the Jónsson edition, neither is it numbered. For this reason the numeration of the verses from this point on is one count off in Jónsson.
 
+ "Hear a great wonder, hear a violent killing, hear about a big deal, hear a man's killing, one or more."
+
  * _Heyr undr mikit!_ "curious things are heard here."
 
  * _&oslash;rlygi_, this word cannot mean "monstrous lie," in this connection but certainly means the same as _&oslash;lygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
 
- * _mikit_, "meaningfull."
+ * _mikit_, "significant."
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
@@ -192,7 +194,7 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a29)
 
 <a name="myfootnote30" id="f30">30</a>:
- _kl&oelig;ðum_, the bed sheets.
+ [_kl&oelig;ðum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0344:38), the bed sheets.
 [↩](#a30)
 
 <a name="myfootnote31" id="f31">31</a>:
@@ -200,7 +202,7 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
 [↩](#a31)
 
 <a name="myfootnote32" id="f32">32</a>:
- _skipaz_, "such a change (in your mood) has occured."
+ _skipaz_, "such a change (in your mood) has occurred."
 [↩](#a32)
 
 <a name="myfootnote33" id="f33">33</a>:

@@ -7,23 +7,23 @@ layout: default
 
 ### Þorkell demands his share and moves to Sæból. Gísli plans a feast
 
-1\.  Nú líða misserin<sup id="a1">[1](#myfootnote1)</sup> af hendi ok k&oslash;mur at fard&#x1EB;gum. Þá heimtir Þorkell Gísla bróður sinn á tal við sik ok mælti: "Svá er háttat, frændi!" segir hann, "at mér er ráðabreytni n&#x1EB;kkur í hug ok í skapi; en því víkr svá við,<sup id="a2">[2](#myfootnote2)</sup> at ek vil, at vit skiptum fé okru, ok vil ek ráðaz til búlags<sup id="a3">[3](#myfootnote3)</sup> með Þorgrími, mági mínum."
+1\.  Nú líða misserin<sup id="a1">[1](#myfootnote1)</sup> af hendi ok k&oslash;mr at fard&#x1EB;gum. Þá heimtir Þorkell Gísla bróður sinn á tal við sik ok mælti: "Svá er háttat, frændi!" segir hann, "at mér er ráðabreytni n&#x1EB;kkur í hug ok í skapi; en því víkr svá við,<sup id="a2">[2](#myfootnote2)</sup> at ek vil, at vit skiptum fé okru, ok vil ek ráðaz til búlags<sup id="a3">[3](#myfootnote3)</sup> með Þorgrími, mági mínum."
 
 2\. Gísli svarar: "Saman er br&oelig;ðra eign bezt at líta;<sup id="a4">[4](#myfootnote4)</sup> at sjá; at vísu er mér þ&#x1EB;kk á at kyrt sé<sup id="a5">[5](#myfootnote5)</sup>, ok skiptum engu."
 
 3\. "Ekki má svá lengr fram fara," segir Þorkell, "at við eigum búlag saman; því at á því verðr stórmikill skaði,<sup id="a6">[6](#myfootnote6)</sup> þar sem þú hefir jafnan einn haft &#x1EB;nn ok erfiði<sup id="a7">[7](#myfootnote7)</sup> fyrir búinu en ek tek til einskis h&#x1EB;ndum, þess sem þrifnaðr sé í."<sup id="a8">[8](#myfootnote8)</sup>
 
-4\, "Tel þú nú ekki at því,"<sup id="a9">[9](#myfootnote9)</sup> segir Gísli, "meðan ek geri ekki orð á; h&#x1EB;fum vit nú hvárttveggja reynt, at margt hefir verit um með okkr ok fátt."<sup id="a10">[10](#myfootnote10)</sup>
+4\. "Tel þú nú ekki at því,"<sup id="a9">[9](#myfootnote9)</sup> segir Gísli, "meðan ek geri ekki orð á; h&#x1EB;fum vit nú hvárttveggja reynt, at margt hefir verit um með okkr ok fátt."<sup id="a10">[10](#myfootnote10)</sup>
 
 Þorkell mælti: "Ekki er undir hvat um er talat,<sup id="a11">[11](#myfootnote11)</sup> skipta skal fénu at vísu; ok fyrir því at ek beiði skiptis, þá skaltú<sup id="a12">[12](#myfootnote12)</sup> hafa bólstað ok f&#x1EB;ðurleifð okkra, en ek skal hafa lausafé."
 
 5\. "Ef ekki skal &#x1EB;ðru við koma,<sup id="a13">[13](#myfootnote13)</sup> en vit skiptum, þá ger þú annat hvárt -- því at eg hirði eigi,<sup id="a14">[14](#myfootnote14)</sup> hvárt ek geri -- at skipta eða kjósa."
 
-6\. Svá lauk, at Gísli skipti en Þorkell kaus lausafé, en Gísli hefir land. Þeir skiptu ok ómegð, þat váru b&#x1EB;rn tvau; hét sveinninn Geirmundur, en Guðríðr mærin, þessi váru b&#x1EB;rn Ingjalds,<sup id="a15">[15](#myfootnote15)</sup> frænda þeira; ok var hón með Gísla, en Geirmundr með Þorkeli. Ferr Þorkell til Þorgríms mágs síns, ok býr við hann;<sup id="a16">[16](#myfootnote16)</sup> en Gísli hafði bú eptir ok saknar engis í, at nú sé búit<sup id="a17">[17](#myfootnote17)</sup> verra en áðr.<sup id="a18">[18](#myfootnote18)</sup> 7. Ok líðr nú svá sumarit, ok k&oslash;mr at vetrnáttum. Þat var þá margra manna siðr at fagna vetri í þann tíma, ok hafa þá veizlur ok veturnáttablót;<sup id="a19">[19](#myfootnote19)</sup> en Gísli lét af blótum síðan hann var<sup id="a20">[20](#myfootnote20)</sup> í Vébj&#x1EB;rgum í Danm&#x1EB;rku, en hann helt þó sem áðr veizlum ok allri stórmensku. 8. Ok nú aflar hann til veizlu mikillar, þá er svá líðr stundum,<sup id="a21">[21](#myfootnote21)</sup> sem áðr<sup id="a22">[22](#myfootnote22)</sup> var getit; hann býður til veizlu þeim báðum n&#x1EB;fnum<sup id="a23">[23](#myfootnote23)</sup> Þorkeli Eiríkssyni ok Þorkeli auðga ok mágum sínum, Bjartmarssonum, ok m&#x1EB;rgum &#x1EB;ðrum vinum og fél&#x1EB;gum. 9. Ok þann dag, er menn koma þar, tekr Auðr til orða: "Þat er satt at segja, at nú þykki mér eins manns vant, þess er ek vilda, að hér væri."
+6\. Svá lauk, at Gísli skipti en Þorkell kaus lausafé, en Gísli hefir land. Þeir skiptu ok ómegð, þat váru b&#x1EB;rn tvau; hét sveinninn Geirmundr, en Guðríðr mærin, þessi váru b&#x1EB;rn Ingjalds,<sup id="a15">[15](#myfootnote15)</sup> frænda þeira; ok var hón með Gísla, en Geirmundr með Þorkeli. Ferr Þorkell til Þorgríms mágs síns, ok býr við hann;<sup id="a16">[16](#myfootnote16)</sup> en Gísli hafði bú eptir ok saknar engis í, at nú sé búit<sup id="a17">[17](#myfootnote17)</sup> verra en áðr.<sup id="a18">[18](#myfootnote18)</sup> 7. Ok líðr nú svá sumarit, ok k&oslash;mr at vetrnáttum. Þat var þá margra manna siðr at fagna vetri í þann tíma, ok hafa þá veizlur ok vetrnáttablót;<sup id="a19">[19](#myfootnote19)</sup> en Gísli lét af blótum síðan hann var<sup id="a20">[20](#myfootnote20)</sup> í Vébj&#x1EB;rgum í Danm&#x1EB;rku, en hann helt þó sem áðr veizlum ok allri stórmensku. 8. Ok nú aflar hann til veizlu mikillar, þá er svá líðr stundum,<sup id="a21">[21](#myfootnote21)</sup> sem áðr<sup id="a22">[22](#myfootnote22)</sup> var getit; hann býðr til veizlu þeim báðum n&#x1EB;fnum<sup id="a23">[23](#myfootnote23)</sup> Þorkeli Eiríkssyni ok Þorkeli auðga ok mágum sínum, Bjartmarssonum, ok m&#x1EB;rgum &#x1EB;ðrum vinum ok fél&#x1EB;gum. 9. Ok þann dag, er menn koma þar, tekr Auðr til orða: "Þat er satt at segja, at nú þykki mér eins manns vant, þess er ek vilda, at hér væri."
 
-"Hver er sá?" kvað Gísli.
+"Hverr er sá?" kvað Gísli.
 
-"Það er Vésteinn, bróðir minn; hann munda ek kjósa til at njóta hér fagnaðar með oss."
+"Þat er Vésteinn, bróðir minn; hann munda ek kjósa til at njóta hér fagnaðar með oss."
 
 10\. Gísli mælti: "Annan veg er mér þetta gefit<sup id="a24">[24](#myfootnote24)</sup> því ek vilda gjarna gefa<sup id="a25">[25](#myfootnote25)</sup> til, at hann k&oelig;mi hér nú eigi."
 
@@ -38,7 +38,7 @@ Ok fellr þetta þeira tal þar niðr.
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
-1 _missarin_, "the winter."
+1 [_missarin_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0431:44), "the winter."
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -46,7 +46,7 @@ Ok fellr þetta þeira tal þar niðr.
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _búlag_, n. "common management;" vgl. _félag_.
+ [_búlag_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0089:8), n. "common management;" see [_félag_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0150:15).
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -58,7 +58,7 @@ Ok fellr þetta þeira tal þar niðr.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _skaði_, "disadvantage," for Gísli, in particular.
+ [_skaði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0536:7), "disadvantage," for Gísli, in particular.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -78,7 +78,7 @@ Ok fellr þetta þeira tal þar niðr.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _Ekki--talat_, "it does not matter what it says."
+ _Ekki--talat_, "it does not matter what you say."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -102,7 +102,7 @@ Ok fellr þetta þeira tal þar niðr.
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
- _búit_. das subst. _bú_ with article (not part. von _búa_).
+ _búit_. the noun _bú_ with article (not part. from _búa_).
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
@@ -114,7 +114,7 @@ Ok fellr þetta þeira tal þar niðr.
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
- _siðan hann var_, vgl. c. VIII. Sigraddr the Dane, who S explicitly describes, a Christian, and also Gísli i said to have received the primsigning. This remark is certainly a later addition.
+ _siðan hann var_, see c. VIII. Sigraddr the Dane, who S explicitly describes, a Christian, and also Gísli i said to have received the primsigning. This remark is certainly a later addition.
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
@@ -122,11 +122,11 @@ Ok fellr þetta þeira tal þar niðr.
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
- _áðr_, &sect; 7.
+ [_áðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0039:28), &sect; 7.
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _n&#x1EB;fnum_, v. _nafni_.
+ _n&#x1EB;fnum_, see [_nafni_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0445:18).
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
@@ -134,5 +134,5 @@ Ok fellr þetta þeira tal þar niðr.
 [↩](#a24)
 
 <a name="myfootnote25" id="f25">25</a>:
- _gefa_, namely _fé_.
+ _gefa_, specifically _fé_.
 [↩](#a25)
