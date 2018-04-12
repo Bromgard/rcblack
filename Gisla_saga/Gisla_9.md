@@ -137,7 +137,7 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
  _ek tók engan mann undir Gísla_, "I did not entertain any another man behind Gísli's back, so I have not done anything shameful;" see Ældre Borgarth. christenret I, 17 (NgL I, 351): _ef kona ekr mann undir bónda sinn, hon er sek þrim m&#x1EB;rkum við biskup_. s. 19. 19. _at_, "so that."
 [↩](#a15)
 
-<a name="myfootnote18" id="f18.5">18.5</a>:
+<a name="myfootnote18" id="f18">18</a>:
  &#42856; This verse is formatted as prose in the Jónsson edition, neither is it numbered. For this reason the numeration of the verses from this point on is one count off in Jónsson.
 
  * _Heyr undr mikit!_ "curious things are heard here."
