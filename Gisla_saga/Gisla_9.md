@@ -137,15 +137,15 @@ s. 18 23 _tír&oelig;tt_, "100 fathoms" (long).
  _ek tók engan mann undir Gísla_, "I did not entertain any another man behind Gísli's back, so I have not done anything shameful;" see Ældre Borgarth. christenret I, 17 (NgL I, 351): _ef kona ekr mann undir bónda sinn, hon er sek þrim m&#x1EB;rkum við biskup_. s. 19. 19. _at_, "so that."
 [↩](#a15)
 
-<a name="myfootnote18.5" id="f18.5">18.5</a>:
- &#42856; This verse is formatted as prose in the Jónsson edition, neither is it numbered. For this reason the numeration of the verses are one count off in Jónsson.
+<a name="myfootnote18" id="f18.5">18.5</a>:
+ &#42856; This verse is formatted as prose in the Jónsson edition, neither is it numbered. For this reason the numeration of the verses from this point on is one count off in Jónsson.
 
  * _Heyr undr mikit!_ "curious things are heard here."
 
  * _&oslash;rlygi_, this word cannot mean "monstrous lie," in this connection but certainly means the same as _&oslash;lygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
 
  * _mikit_, "meaningfull."
-[↩](#a18.5)
+[↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
  _Þá tekr_ etc., one must assume that Auðr heard Þorkell's words.
