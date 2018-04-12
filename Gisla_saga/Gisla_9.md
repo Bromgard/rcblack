@@ -27,7 +27,7 @@ Heyr undr mikit!
 heyr &oslash;rlygi!   
 heyr mál mikit!   
 heyr manns bana,   
-eins eða fleiri,<sup id="a18.5">[18.5](#myfootnote18.5)</sup>   
+eins eða fleiri,<sup id="a18.5">[18](#myfootnote18.5)</sup>   
 
 ok gengr inn eptir þat.   
 
