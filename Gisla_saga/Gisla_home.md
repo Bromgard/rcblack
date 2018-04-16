@@ -1,6 +1,7 @@
 ---
-title: Gísla Home
+title: Gísla saga: An Edition
 layout: default
+projects: true
 ---
 
 # Gísla saga Súrssonar
