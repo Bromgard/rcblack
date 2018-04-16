@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 11
 
-### The sorcerer Þorgrímr nose. Grásiða is forged. Vésteinn arrives in Iceland.
+### The sorcerer Þorgrímr Nose. Grásiða is forged. Vésteinn arrives in Iceland.
 
 1\. Maðr hét Þorgrímr ok var kallaðr nef. Hann bjó á Nefsst&#x1EB;ðum<sup id="a1">[1](#myfootnote1)</sup> fyrir innan Haukadalsá. Hann var fullr af g&#x1EB;rningum ok fj&#x1EB;lkynngi, ok var seiðskratti<sup id="a2">[2](#myfootnote2)</sup> sem mestr mátti verða. Hánum bjóða þeir Þorgrímr ok Þorkell til sín, því at þeir h&#x1EB;fðu þar ok boð inni. 2. Þorgrímr var hagr á járn; ok er þess við getit, at þeir ganga til smiðju báðir Þorgrímarnir ok Þorkell, ok síðan byrgja<sup id="a3">[3](#myfootnote3)</sup> þeir smiðjuna. 3. Nú eru tekin Grásíðu-brot<sup id="a4">[4](#myfootnote4)</sup> er Þorkell hafði hlotit ór skiptinu þeira br&oelig;ðra, ok gerir Þorgrímr þar af spjót, ok var þat alg&#x1EB;rt<sup id="a5">[5](#myfootnote5)</sup> at kveldi; mál<sup id="a6">[6](#myfootnote6)</sup> váru í, ok f&oelig;rt í<sup id="a7">[7](#myfootnote7)</sup> hepti spannar-langt. 4. Nú verðr þar at hvílaz.(note here)
 
@@ -28,6 +28,7 @@ layout: default
 <a name="myfootnote2" id="f2">2</a>:
  [_seiðskratti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0520:3), m. "A witch", or "a master of witchcraft;" the same meaning is carried by the simple term, [_skratti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0556:43) (see, OHG, _scrato_, MHG. _schrate_ "kobold").
 [↩](#a2)
+
 
 <a name="myfootnote3" id="f3">3</a>:
  [_byrgja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0090:29), "lock up, lock tightly (so that no one else could come in).
