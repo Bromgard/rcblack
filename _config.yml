@@ -3,12 +3,16 @@ name: Russell Black
 bio: Medievalist &bull; Teacher
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A space filled with medieval-ly goodies
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/original.jpg
+
+#This is an experiment. I'll be very impressed if this actually works.
+Old Icelandic: True
+Old Icelandic-url: Gisla_saga
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -59,7 +63,7 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: aldhelm
-    
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
