@@ -10,10 +10,6 @@ description: A space filled with medieval-ly goodies
 external-image: false
 picture: assets/images/original.jpg
 
-#This is an experiment. I'll be very impressed if this actually works.
-Old Icelandic: True
-Old Icelandic-url: Gisla_saga
-
 # If you want to include your resume, set to true
 # and specify source (external or local).
 cv: true
@@ -75,7 +71,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+Old Icelandic: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
