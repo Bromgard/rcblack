@@ -11,7 +11,7 @@ layout: default
 
 12\. Hón ferr ok k&oslash;mr á Sæból. Þeir<sup id="a16">[16](#myfootnote16)</sup> váru upp risnir ok sátu með vápnum, Þorgrímar tveir ok Þorkell; ok er hón kom inn, var henni heilsat óbrátt, því at fólk var flest fámálugt.<sup id="a17">[17](#myfootnote17)</sup> 13. Þó spyrr Þorgrímr hana tíðinda. Hón sagði víg Vésteins eða<sup id="a18">[18](#myfootnote18)</sup> morð.
 
-Þorkell svarar: "Tíðendi myndi oss það hafa þótt eina stund."<sup id="a19">[19](#myfootnote19)</sup>
+Þorkell svarar: "Tíðendi myndi oss þat hafa þótt eina stund."<sup id="a19">[19](#myfootnote19)</sup>
 
 14\. "Sá maðr er þar látinn," segir Þorgrímr, "er vér erum allir skyldir til virðing at veita, ok gera hans útferð<sup id="a20">[20](#myfootnote20)</sup> sem s&oelig;miligsta ok heygja hann; ok er þat satt at segja, at slíkt er mikill mannskaði; máttu ok segja svá Gísla, at vér munum þar koma í dag."
 
@@ -72,7 +72,7 @@ layout: default
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
- _launvíg_, n. "secret homicede." It was not considered murder in this case because the corpus delicti, which could lead to the conviction of the offender, was dismissed. However this view is not corroborated by contemporary legal sources.
+ _launvíg_, n. "secret homicide." It was not considered murder in this case because the corpus delicti, which could lead to the conviction of the offender, was dismissed. However this view is not corroborated by contemporary legal sources.
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:

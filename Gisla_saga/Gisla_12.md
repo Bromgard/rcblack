@@ -68,7 +68,7 @@ Ok vill hann víst eigi þiggja. Nú ferr Gísli heim ok þykkir hánum um allt 
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _leiti_, "a hill," near the settlement of Kirkjuból (Árbók 1883, s. 8).
+ [_leiti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0383:19), "a hill," near the settlement of Kirkjuból (Árbók 1883, s. 8).
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -80,7 +80,7 @@ Ok vill hann víst eigi þiggja. Nú ferr Gísli heim ok þykkir hánum um allt 
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _fégyrðill_, m. "money bag."
+ [_fégyrðill_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=f%E9-gyr%F0ill&startrow=1), m. "money bag."
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -92,7 +92,7 @@ Ok vill hann víst eigi þiggja. Nú ferr Gísli heim ok þykkir hánum um allt 
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _Lútu_, (S has _Luku_) is a very unusual name; perhaps fem. form of adj. _lútr_, "bent forward;" so _Lúta_ would originally have been a nickname. _Lúka_ (or _Luka_) is even less Nordic.
+ _Lútu_, (S has _Luku_) is a very unusual name; perhaps fem. form of adj. [_lútr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0400:12), "bent forward;" so _Lúta_ would originally have been a nickname. _Lúka_ (or _Luka_) is even less Nordic.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
@@ -100,15 +100,15 @@ Ok vill hann víst eigi þiggja. Nú ferr Gísli heim ok þykkir hánum um allt 
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
- _við hrynjandi_ (fem. _īn-_ st.), "with a ringing bridle;" small rings, or something similar, were fastened to the bridle of the horse; this is apparently referenced in a Norwegian folk song, "ringland-begsli" (s. Landstad: Norske Folkeviser s. 417).
+ _við_ [_hrynjandi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0289:2) (fem. _īn-_ st.), "with a ringing bridle;" small rings, or something similar, were fastened to the bridle of the horse; this is apparently referenced in a Norwegian folk song, "ringland-begsli" (s. Landstad: Norske Folkeviser s. 417).
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _heiðviðri_, n. "clear weather."
+ [_heiðviðri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0248:8), n. "clear weather."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
-_tunglskin_, n. "moonshine."
+[_tunglskin_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0644:2), n. "moonshine."
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
@@ -128,7 +128,7 @@ _tunglskin_, n. "moonshine."
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
- _blári_, "black."
+ [_blári_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0068:2), "black."
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
@@ -136,11 +136,11 @@ _tunglskin_, n. "moonshine."
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
- _fiskist&#x1EB;ng_, f. "fishing rod."
+ [_fiskist&#x1EB;ng_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0155:5), f. "fishing rod."
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
- _verðrar_, m. pl. (?), a word of unknown meaning; it has to designate a device at the end of the pole that is similar to a spear point. Or is _verðrar_ simply an error for _fjaðrar_ (_fj&#x1EB;ðr_ = spear blade); so, a pole to fish with?
+ _verðrar_, m. pl. (?), a word of unknown meaning; it has to designate a device at the end of the pole that is similar to a spear point. Or is _verðrar_ simply an error for [_fjaðrar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0158:5) (_fj&#x1EB;ðr_ = spear blade); so, a pole to fish with?
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
@@ -152,11 +152,11 @@ _tunglskin_, n. "moonshine."
 [↩](#a24)
 
 <a name="myfootnote25" id="f25">25</a>:
- _í_. adv.
+ _í_, adv.
 [↩](#a25)
 
 <a name="myfootnote26" id="f26">26</a>:
- _glit_, n. "brocade."
+ [_glit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0204:21), n. "brocade."
 [↩](#a26)
 
 <a name="myfootnote27" id="f27">27</a>:

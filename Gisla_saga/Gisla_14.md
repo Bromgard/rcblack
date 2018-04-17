@@ -113,11 +113,11 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _hón berz af vel_, "she bravely trusts him;" so it is with S (M has _lítt_ instead of _vel_, which would be the opposite sense).
+ _hón berz af vel_, "she bears it well;" so it is in S (M has _lítt_ instead of _vel_, which would be the opposite sense).
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
- _ok þykkir mikit_, "and (yet) it appears (what she has to bear) her significance" (she feels it deeply).
+ _ok þykkir mikit_, "and (yet) it appears (what she has to bear) is much" (she feels it deeply).
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
@@ -145,11 +145,13 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
- __Str. 4.__ Prose word order: Betr hugþak þá, brigþer sárteina! Vésteine, v&#x1EB;kþom af svefne (biþkat ens þriþja daums slíks), þás vit sǫ́tom at víne í sal Sigrhadds, gladder viþ mj&#x1EB;þ; komska maþr á miþle mín né hans.
+ __Str. 4.__ Prose word order: Betr hugþak þá, brigþer sárteina! Vésteine, v&#x1EB;kþom af svefne (biþkat ens þriþja draums slíks), þás vit sǫ́tom at víne í sal Sigrhadds, gladder viþ mj&#x1EB;þ; komska maþr á miþle mín né hans.
 
-"I think, oh warrior, that Vésteinn, awakening from sleep, felt better (I do not wish such a dream for the third time), then, when we both sat by the wine in the Sigrhadds, amused by our meeting, no one sitting between us."
+"I think it better, oh warrior, that we remember Vesteinn while we both sat by the wine in Sigrhadd's [hall], pleased by our company, no one sitting between us, than to wake a third time [from] such a [bad] dream."
 
-_Betr, vesa_, is to be completed. _þá_ is repeated in the following _þás. _brigþer sárteina_, voc., "bringer of the banquet of wounds, the swords" (see the sword name, Mistilteinn); these word of Þorkell seems to be chosen with reference to chapters 13 and 15. The last sentence emphasizes the close relationship between Gísli and Vésteinn.
+* _Betr, vesa_, is implied.
+* _þá_ is repeated in the following _þás.
+* _brigþer sárteina_, voc., "bringer of the banquet of wounds, the swords" (see the sword name, Mistilteinn); these word of Þorkell seems to be chosen with reference to chapters 13 and 15. The last sentence emphasizes the close relationship between Gísli and Vésteinn.
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
@@ -159,7 +161,7 @@ _Betr, vesa_, is to be completed. _þá_ is repeated in the following _þás. _b
 <a name="myfootnote21" id="f21">21</a>:
  __Str. 5.__ Prose word order: Linnvenges Gefn hylr gríþar-skap und líne; leggsk á laun kinna él ór góþom svefna kerom; blíþ lauka eik berr síþan bráa d&#x1EB;gg á bæþe &#x1EB;ndvege geira; eir reksk angre bróþor.
 
-"The excited woman hid under the veil, she secretly collects cheek rain from the good barrels of sleep. The woman then wipes the dew of her eyes with her hands, the peace is heightened by the mourning for her brother."
+"The woman hid her agony under her veil, she secretly collects cheek rain from the good barrels of sleep. The woman then wipes the dew of her eyes with her hands, the peace is broken by her mourning for her brother."
 
 * _linnvenge_, "the bed of the dragon," gold; the vessels of the gold; woman (Auðr). see _linnvenges Bil_, Oddr. 31<sup>2</sup>.
 
@@ -167,7 +169,7 @@ _Betr, vesa_, is to be completed. _þá_ is repeated in the following _þás. _b
 
 * _kinnaél_, "the rain or the hail of the cheeks," e.g. tears.
 
-* _svafna ker_, "the barels of sleep," meaning, the eyes.
+* _svafna ker_, "the barrels of sleep," meaning, the eyes.
 
 * _lauka eik_, "the oak of the leek," the woman.
 
@@ -183,7 +185,7 @@ _Betr, vesa_, is to be completed. _þá_ is repeated in the following _þás. _b
 <a name="myfootnote22" id="f22">22</a>:
  __Str. 6.__ Prose word order: Bógar hraun-Gnǫ́ lætr fylvingar hrynja af hvítom hvarmskóge í kné; hlátrs bann hremmir svanna; Þ&#x1EB;gn snáke túns less hn&oslash;tr af síno b&#x1EB;lgróno sjónhesle, en þreyr at þessum mærþar r&#x1EB;gne.
 
-"The woman drops the tears from her brows, down upon her lap, the woman grasps grief, the woman collects nuts from the sickness of the face, grown from her grief (as ground); but seeks to cure her pain through (longing =) the love of the poet (me)."
+"The woman drops the tears from her brows, down upon her lap, the woman grasps grief, the woman collects nuts from the sickness of the face, grown from her grief (as ground); but seeks to cure her pain through the love (or longing) of the poet (me)."
 
 *  _Bógr_, "arm," _hraun=grót_, stones; "the stones of the arm," the arm-ring, the Gnǫ́ (asin, god) of a ring, a woman.
 
