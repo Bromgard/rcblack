@@ -1,5 +1,5 @@
 ---
-title: "_Gísla saga Súrssonar_ An Edition after Fínnur Jónsson"
+title: "Gísla saga Súrssonar: An Edition after Fínnur Jónsson"
 layout: post
 date: 2018-04-16 16:30
 headerImage: false
