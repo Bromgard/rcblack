@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 16
 
-### _Þorgrímr is killed_
+### Þorgrímr is killed
 
 1\. B&#x1EB;rkur ok Eyjólfur koma um kveldit með sex t&oslash;gu manna, ok var þar hundrað manna, en hálft at Gísla. Tóku menn til drykkju á Hóli um kveldit, ok fara menn í rekkjur eptir þat ok sofa.
 
@@ -20,6 +20,8 @@ layout: default
 Hón hugði, at hann legði<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ndina yfir hana. Gísli bíðr þá enn um stund ok vermir h&#x1EB;ndina í serk sér, en þau sofna bæði; nú tekr hann á Þorgrími kyrt, svá at hann vaknaði; hann hugði at hón Þórdís vekði hann, ok sn&oslash;riz þá at henni. 14. Gísli tekr þá klæðin<sup id="a17">[17](#myfootnote17)</sup> af þeim annarri hendi, en með annarri leggur hann í gegnum Þorgrím með Grásíðu, svá at í beðinum nam stað. Nú kallar hón Þórdís ok mælti: "Vaki menn í skálanum! Þorgrímr er veginn, bóndi minn."
 
 15\. Gísli snýr í brott skyndiliga til fjóssins, gengr þar út sem hann hafði ætlat, ok lýkr aptr eptir sér rammliga, snýrr heim síðan ena s&#x1EB;mu leið, ok má hvergi sjá spor hans. 16. Auðr lætur lok frá hurðu, er hann kom heim, ok ferr hann í sæing sína, ok lætur sem ekki<sup id="a18">[18](#myfootnote18)</sup> sé í orðit, eða hann eigi um ekki at vera.<sup id="a19">[19](#myfootnote19)</sup> 17. En menn allir váru &#x1EB;l&oelig;rir á Sæbóli ok vissu ekki, hvat af skyldi ráða,<sup id="a1">[20](#myfootnote20)</sup> kom þetta á þá óvara, ok urðu því eigi tekin þau ráð sem dygði (eða þ&#x1EB;rf var á).
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/3/33/G%C3%ADsla_saga_Illustration_3_-_Thorgrim%27s_Slaying.jpg "Thorgrim's Slaying")
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_15">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_17">⇨</a></div>

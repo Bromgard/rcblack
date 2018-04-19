@@ -18,7 +18,7 @@ layout: default
 Geirr í gumna sǫ́rum   
 gnast -- kannkat þat lasta.<sup id="a9">[9](#myfootnote9)</sup>
 
-Gísli tók knöttinn á skeiði ok rekur á milli herða Þorgrími svá at hann steypist áfram ok mælti:
+Gísli tók kn&#x1EB;ttinn á skeiði ok rekur á milli herða Þorgrími svá at hann steypist áfram ok mælti:
 
 >8   
 >   
@@ -105,12 +105,11 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- __Str. 7__ "The spear cried out loudly in a man's (that is, Véstein's) wound -- I cannot blame it." -- about the plural (_gumma_) see K. Gíslason, Njála II, 562 f.
+ __Str. 7__ "The spear cried out loudly into a man's (that is, Véstein's) wound -- I cannot be sorry." -- about the plural (_gumma_) see K. Gíslason, Njála II, 562 f.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- __Str. 8__, "The ball cried out loudly over the shoulder; I cannot blame it."
-
+ __Str. 8__, "The ball cried out loudly onto the shoulder; I cannot be sorry.
 * _burðar stallr_, the "the load of the burden" is the shoulder.
 [↩](#a10)
 
