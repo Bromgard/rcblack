@@ -31,6 +31,8 @@ eins eða fleiri,<sup id="a18.5">[18](#myfootnote18.5)</sup>
 
 ok gengr inn eptir þat.   
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/8/82/G%C3%ADsla_saga_Illustration_1_-_G%C3%ADs_Thorkel_at_Auda_and_Asgerda%27s_Bower.jpg "Thorkel at Auda and Asgerda's Bower")
+
 11\. Þá tekr Auðr til orða:<sup id="a19">[19](#myfootnote19)</sup> "Opt stendr illt af kvenna hjali, ok má þat vera, at hér hljótiz af í verra lagi,<sup id="a20">[20](#myfootnote20)</sup> ok leitum okkr ráðs."
 
 "Hugat hefi ek mér ráð," segir Ásgerðr, "þat er hlýða mun en ekki sé ek fyrir þína h&#x1EB;nd."
