@@ -11,6 +11,8 @@ layout: default
 
 7\. Hann svarar: "Ek á draumkonur ij," sagði hann, "ok er &#x1EB;nnur vel við mik en &#x1EB;nnur segir mér þat n&#x1EB;kkut jafnan, er mér þykkir verr en áðr, ok spár mér illt eina. 8. En þat dreymði mik nú, at ek þóttumz ganga at húsi einu eða skála, ok inn þóttumz ek ganga í húsit, ok þar kenda ek marga inni frændr mína ok vini; þeir sátu við elda ok drukku, ok váru vij eldarnir;<sup id="a9">[9](#myfootnote9)</sup> sumir váru mj&#x1EB;k brunnir,<sup id="a10">[10](#myfootnote10)</sup> en sumir sem bjartastir. 9. Þá kom inn draumkona mín en betri ok sagði, at þat merkði aldr minn, hvat ek ætta eptir ólifat; ok hón réð mér þat, meðan ek lifða, at láta leiðaz<sup id="a11">[11](#myfootnote11)</sup> fornan sið ok nema enga galdra né forneskju ok vera vel við (daufan) ok haltan ok (fátæka ok fáráða). Eigi var draumurinn lengri."
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b6/G%C3%ADsla_saga_Illustration_4_-_The_Dream_Wife.jpg "The Dream Wife")
+
 Þá kvað Gísli vísur n&#x1EB;kkurar:
 
    >15   
