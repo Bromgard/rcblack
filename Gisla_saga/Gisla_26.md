@@ -50,6 +50,8 @@ layout: default
 
 "F&#x1EB;rum ekki at<sup id="a16">[16](#myfootnote16)</sup> heimsku þessi," sagði B&#x1EB;rkr, "ok víkjum áleiðis."<sup id="a17">[17](#myfootnote17)</sup>
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/f/ff/G%C3%ADsla_saga_Illustration_5_-_Gisli_slips_through_Bork%27s_fingers.jpg "Gisli slips through Bork's fingers")
+
 14\. Skiljaz þau nú, ok róa þeir til eyjarinnar ok ganga á land, ok sjá nú mennina á Vaðsteinabergi, ok snúa þangat ok hyggja allgott til sín;<sup id="a18">[18](#myfootnote18)</sup> en þeir eru uppi á berginu, Ingjaldr ok þrællinn.
 
 15\. B&#x1EB;rkr kennir brátt mennina ok mælti til Ingjalds: "Hitt er nú ráð, at selja fram Gísla eða segja til hans<sup id="a19">[19](#myfootnote19)</sup> ella; ok ertu mannhundr mikill, er þú hefir leynt bróðurbana mínum, ok ert þó minn landseti,<sup id="a20">[20](#myfootnote20)</sup> ok værir þú ills verðr frá mér, ok væri þat sannara, at þú værir drepinn."
