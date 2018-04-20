@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 34
 
-1\. Nú er Gísli heima, þat sumar, ok er nú kyrt. Síðan k&oslash;mr sumarnátt &oslash;fsta. Þá er þess getit, at Gísli mátti ekki sofa, ok ekki þeira þriggja. 2. Veðri var þann veg farit, at á var logn mikit; hélufall var ok mikit. Þá kvez Gísli vilja fara frá húsum ok til fylgsnis síns suðr undir kleifarnar ok vita, ef hann mætti sofna. 3. Nú fara þau &#x1EB;ll, ok eru þær í kyrtlum, ok drepa kyrtlarnir d&#x1EB;ggslóðina. Gísli hafði kefli, ok reist á rúnar, ok falla niðr spænirnir.
+1\. Nú er Gísli heima, þat sumar, ok er nú kyrt. Síðan k&oslash;mr sumarnátt &oslash;fsta. Þá er þess getit, at Gísli mátti ekki sofa, ok ekki þeira þriggja. 2. Veðri var þannmicrosoft office wiki veg farit, at á var logn mikit; hélufall var ok mikit. Þá kvez Gísli vilja fara frá húsum ok til fylgsnis síns suðr undir kleifarnar ok vita, ef hann mætti sofna. 3. Nú fara þau &#x1EB;ll, ok eru þær í kyrtlum, ok drepa kyrtlarnir d&#x1EB;ggslóðina. Gísli hafði kefli, ok reist á rúnar, ok falla niðr spænirnir.
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/a/ad/Gisle_med_Aud_och_Gudrid.jpg "Gisli with Aud and Gudrid")
 
