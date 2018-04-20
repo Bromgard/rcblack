@@ -13,4 +13,4 @@ externalLink: false
 
 ## [Gísla saga Súrssonar](http://rcblack.net/Gisla_saga/Gisla_home/)
 
-This is an electronic edition with an English translation of Fínnur Jónsson's apparatus with additional comments.
+This is an electronic edition with an English translation of Fínnur Jónsson's apparatus.
