@@ -5,7 +5,11 @@ layout: default
 
 # Gísla saga Súrssonar 34
 
-1\. Nú er Gísli heima, þat sumar, ok er nú kyrt. Síðan k&oslash;mr sumarnátt &oslash;fsta. Þá er þess getit, at Gísli mátti ekki sofa, ok ekki þeira þriggja. 2. Veðri var þann veg farit, at á var logn mikit; hélufall var ok mikit. Þá kvez Gísli vilja fara frá húsum ok til fylgsnis síns suðr undir kleifarnar ok vita, ef hann mætti sofna. 3. Nú fara þau &#x1EB;ll, ok eru þær í kyrtlum, ok drepa kyrtlarnir d&#x1EB;ggslóðina. Gísli hafði kefli, ok reist á rúnar, ok falla niðr spænirnir. 4. Þau koma til fylgsnisins. Hann leggz niðr ok vill vita, ef hann gæti sofit; en þær vaka; rennr á hann svefnh&#x1EB;fgi ok dreymir hann, at fuglar k&oelig;mi í húsit (er læmingjar heita, þeir eru)<sup id="a1">[1](#myfootnote1)</sup> meiri en rjúpkerar ok létu illiliga ok h&#x1EB;fðu válkaz í roðru ok blóði. 5. Þá spurði Auðr, hvat hann hafði dreymt -- "Nú váru enn eigi svefnfarar góðar." 6. Gísli kvað vísu:
+1\. Nú er Gísli heima, þat sumar, ok er nú kyrt. Síðan k&oslash;mr sumarnátt &oslash;fsta. Þá er þess getit, at Gísli mátti ekki sofa, ok ekki þeira þriggja. 2. Veðri var þann veg farit, at á var logn mikit; hélufall var ok mikit. Þá kvez Gísli vilja fara frá húsum ok til fylgsnis síns suðr undir kleifarnar ok vita, ef hann mætti sofna. 3. Nú fara þau &#x1EB;ll, ok eru þær í kyrtlum, ok drepa kyrtlarnir d&#x1EB;ggslóðina. Gísli hafði kefli, ok reist á rúnar, ok falla niðr spænirnir.
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/a/ad/Gisle_med_Aud_och_Gudrid.jpg "Gisli with Aud and Gudrid")
+
+4\. Þau koma til fylgsnisins. Hann leggz niðr ok vill vita, ef hann gæti sofit; en þær vaka; rennr á hann svefnh&#x1EB;fgi ok dreymir hann, at fuglar k&oelig;mi í húsit (er læmingjar heita, þeir eru)<sup id="a1">[1](#myfootnote1)</sup> meiri en rjúpkerar ok létu illiliga ok h&#x1EB;fðu válkaz í roðru ok blóði. 5. Þá spurði Auðr, hvat hann hafði dreymt -- "Nú váru enn eigi svefnfarar góðar." 6. Gísli kvað vísu:
 
    >38   
    >    
