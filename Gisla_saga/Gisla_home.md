@@ -8,6 +8,7 @@ layout: default
 ---
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/7/78/G%C3%ADsla_saga_Illustration_7_-_The_Sword_Graysteel_%28%22Gr%C3%A1s%C3%AD%C3%B0a%22%29.jpg "The Sword Graysteel")
 ---
+
  <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_1">1. Kafli</a></div>
  <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_27">27. Kafli</a></div>
  <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_14">14. Kafli</a></div>
