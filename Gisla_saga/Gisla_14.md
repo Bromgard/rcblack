@@ -73,7 +73,7 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
-1 _lið_, s. hausehold, see. _heimalið_ in S.
+1 [_lið_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0387:6), s. household, see. _heimalið_ in S.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -81,11 +81,11 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _fara_, "come."
+ [_fara_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0141:27), "come."
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _tízka_, f. "custom."
+ [_tízka_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0633:18), f. "custom."
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -101,11 +101,12 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- _Hversu berz Auðr af_, (that is, _berr af sér_), "how does A. endure the pain?"
+ _Hversu berz Auðr af_, (that is, _berr af sér_), "how does A. endure the misery?"
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _mj&#x1EB;k_, here S expresses: _Auðr hafði ekki farit með líkinu_, a write-off remark (explanatory conjecture).
+ [_mj&#x1EB;k_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0433:5), here S expresses: _Auðr hafði ekki farit með líkinu_, a write-off remark (explanatory conjecture).   
+  &#42856; "very much."
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -133,7 +134,7 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
- _hr&oslash;ðiz_ (from _hr&oslash;kkva_), "curled out."
+ [_hr&oslash;ðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:1) (from _hr&oslash;kkva_), "curled out."
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
@@ -141,7 +142,7 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
- _réðiz_, "would come true."
+ [_réðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0485:15), "would come true."
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
@@ -163,9 +164,9 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 
 "The woman hid her agony under her veil, she secretly collects cheek rain from the good barrels of sleep. The woman then wipes the dew of her eyes with her hands, the peace is broken by her mourning for her brother."
 
-* _linnvenge_, "the bed of the dragon," gold; the vessels of the gold; woman (Auðr). see _linnvenges Bil_, Oddr. 31<sup>2</sup>.
+* [_linnvenge_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0390:14), "the bed of the dragon," gold; the vessels of the gold; woman (Auðr). see _linnvenges Bil_, Oddr. 31<sup>2</sup>.
 
-* _gríþar_ v. _gríþ_ (or _gríþr_) appears to mean, "passion," "sensory excitement" (in modern Icel. it is often used as a stress prefix, for example, _gríðarstór_).
+* _gríþar_ v. [_gríþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0215:27) (Second half of entry [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0216:1)) (or _gríþr_) appears to mean, "passion," "sensory excitement" (in modern Icel. it is often used as a stress prefix, for example, _gríðarstór_).
 
 * _kinnaél_, "the rain or the hail of the cheeks," e.g. tears.
 

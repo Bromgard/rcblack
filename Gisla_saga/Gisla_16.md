@@ -36,7 +36,8 @@ Hón hugði, at hann legði<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ndina
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _gefit_, namely _fóðr_, "I have not fed Þ's' horse."
+ [_gefit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0194:1), namely _fóðr_, "I have not fed Þ's' horse."   
+ &#42856; See def. IV in CV.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -44,11 +45,11 @@ Hón hugði, at hann legði<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ndina
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _neytingarvatn_, "water for household use."
+ [_neytingarvatn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0454:23), "water for household use."
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _g&#x1EB;tu_, the short path from Hóll to the creek.
+ [_g&#x1EB;tu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0192:32), the short path from Hóll to the creek.
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -56,7 +57,7 @@ Hón hugði, at hann legði<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ndina
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _húsaskipun_, f. "the furnishings of the house."
+ [_húsaskipun_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0294:10), f. "the furnishings of the house."
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -72,7 +73,7 @@ Hón hugði, at hann legði<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ndina
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _tómliga_, "in peace," "leisurely."
+ [_tómliga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=t%F3m-liga&startrow=1), "in peace," "leisurely."
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
@@ -80,11 +81,11 @@ Hón hugði, at hann legði<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ndina
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
- _kolunni_, v. _kola_, "lamp (with oil)."
+ _kolunni_, v. [_kola_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0347:37), "lamp (with oil)."
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _k&oelig;fir_, "extinquished."
+ [_k&oelig;fir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0367:41), "extinquished."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
@@ -92,11 +93,11 @@ Hón hugði, at hann legði<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ndina
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _þreifazfyrir_, "fumbles ahead."
+ [_þreifazfyrir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0744:20), "fumbles ahead."
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
- _legði_, "had laid."
+ [_legði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0388:23), "had laid."
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:

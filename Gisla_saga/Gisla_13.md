@@ -40,7 +40,7 @@ layout: default
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _bylr_, m. "wind shock;" such sudden gusts of wind are very common in his area, see Árbók fornleifafjelags 1888--92, s. 135-36.
+ [_bylr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0090:20), m. "wind shock;" such sudden gusts of wind are very common in his area, see Árbók fornleifafjelags 1888--92, s. 135-36.
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -48,11 +48,11 @@ layout: default
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _skýli_, v. _at skýla_, owner. "shield," here "to help with the roof repair and other duties."
+ [_skýli_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0564:18), v. [_at skýla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0564:16), owner. "to shelter," here "to help with the roof repair and other duties."
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _huglauss_, adj. "afraid, cowardly."
+ [_huglauss_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0291:2), adj. "afraid, cowardly."
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -60,23 +60,24 @@ layout: default
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _Hneit_, v. sing. vb. _hníta_, only occurs in praet. and inf. _Hneit þar_: "it met there;" "there was a strike."
+ _Hneit_, v. sing. vb. [_hníta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0276:36), only occurs in praet. and inf. _Hneit þar_: "it met there;" "there was a strike."
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _maðrinn_, who had bored him.
+ _maðrinn_, the one who had speared him.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _stokkinn_, k.h. _setstókkinn_, (or _rúmstokkinn_), the side wall of the bed.
+ [_stokkinn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0595:12), k.h. _setstókkinn_, (or _rúmstokkinn_), the side wall of the bed.
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
- _launvíg_, n. "secret homicide." It was not considered murder in this case because the corpus delicti, which could lead to the conviction of the offender, was dismissed. However this view is not corroborated by contemporary legal sources.
+ [_launvíg_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0375:4), n. "secret homicide." It was not considered murder in this case because the corpus delicti, which could lead to the conviction of the offender, was dismissed. However this view is not corroborated by contemporary legal sources.   
+  &#42856; also see [_morð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_wordclick?cmd=wordclick&word=what&entry_id=cv:b0434:30&index=54).
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _líkblauðr_, adj. "fearful of corpses, unable to touch or see a corpse."
+ [_líkblauðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0392:13), adj. "fearful of corpses, unable to touch or see a corpse."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
@@ -84,7 +85,7 @@ layout: default
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _kunn_ (imper. from _kunna_), "be sensible, be attentive" (to tell me).
+ [_kunn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0358:14) (imper. from _kunna_), "be sensible, be attentive" (so that you can tell me).
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
@@ -104,7 +105,7 @@ layout: default
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
- _útferð_, f. "funeral."
+ [_útferð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0670:39), f. "funeral."
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
@@ -112,5 +113,5 @@ layout: default
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
- _handfang_, n. "That which one can measure with the span of one hand," a span; the separated part was a span long.
+ [_handfang_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0237:26), n. "That which one can measure with the span of one hand," a span; the separated part was a span long.
 [↩](#a22)

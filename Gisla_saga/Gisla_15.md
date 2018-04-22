@@ -73,7 +73,7 @@ Ok láta upp refilinn. 24\. Síðan koma boðsmenn um kveldit. Ok þyknar veðri
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _aflameira_, _afla-_ gen. pl. v. _afl_, not gen. sg. v. _afli_; see. _kraptamikill_.
+ [_aflameira_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0008:10), _afla-_ gen. pl. v. _afl_, not gen. sg. v. _afli_; see. _kraptamikill_.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -85,7 +85,7 @@ Ok láta upp refilinn. 24\. Síðan koma boðsmenn um kveldit. Ok þyknar veðri
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _jabnliga_, "in two equal parts."
+ _jafnliga_, "in two equal parts."
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -130,7 +130,7 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _sef_, n. "rush."
+ [_sef_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0518:22), n. "rush."
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
@@ -154,15 +154,15 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
- _fylju_, "a yong mare," a pun with reference to the word, _kinnhestr_; see the following: _foli_, "young stallion."
+ [_fylju_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0179:15), "a yong mare," a pun with reference to the word, _kinnhestr_; see the following: _foli_, "young stallion."
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
- _varlaunat_, "badly or insufficiently compensated."
+ [_varlaunat_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0680:35), "badly or insufficiently compensated."
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _sæmðarauki_, m. "increase of appearance."
+ [_sæmðarauki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0618:8), m. "increase of appearance."
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
@@ -170,7 +170,7 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 [↩](#a24)
 
 <a name="myfootnote25" id="f25">25</a>:
- _leiðitamr_, "easy to guide," willing to follow someone.
+ [_leiðitamr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0381:15), "easy to guide," willing to follow someone.
 [↩](#a25)
 
 <a name="myfootnote26" id="f26">26</a>:
@@ -186,7 +186,7 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 [↩](#a28)
 
 <a name="myfootnote29" id="f29">29</a>:
- _þolinm&oelig;ði_, f. "patience, indulgence."
+ [_þolinm&oelig;ði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0741:17), f. "patience, indulgence."
 [↩](#a29)
 
 <a name="myfootnote30" id="f30">30</a>:
@@ -198,7 +198,7 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 [↩](#a31)
 
 <a name="myfootnote32" id="f32">32</a>:
- _logndrífu_, f. "snowfall in still air."
+ [_logndrífu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0397:34), f. "snowfall in still air."
 [↩](#a32)
 
 <a name="myfootnote33" id="f33">33</a>:
