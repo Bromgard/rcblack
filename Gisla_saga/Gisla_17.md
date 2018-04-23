@@ -7,7 +7,7 @@ layout: default
 
 ### Þorgrím's funeral
 
-Eyjólfr mælti: "Hér eru orðin mikil tíðendi ok ill, ok er fólk þetta vitlaust,<sup id="a1">[1](#myfootnote1)</sup> er hér er. Nú sýniz mér þat ráð, at kveikja ljós ok hlaupa til duranna, svá at vegandinn megi eigi út komaz."
+1\. Eyjólfr mælti: "Hér eru orðin mikil tíðendi ok ill, ok er fólk þetta vitlaust,<sup id="a1">[1](#myfootnote1)</sup> er hér er. Nú sýniz mér þat ráð, at kveikja ljós ok hlaupa til duranna, svá at vegandinn megi eigi út komaz."
 
 2\. Ok svá var g&#x1EB;rt; þykkir m&#x1EB;nnum, er eigi verðr við vegandann vart, sem sá myni þar n&#x1EB;kkur inni vera, er verkit hefir unnit. 3. Líðr nú til þess, er dagr k&oslash;mur; wr þá tekit lík Þorgríms ok brott kipt spjótinu ok gerði þat B&#x1EB;rkr, bróðir hans, ok til graptar búit ok er þar at sex tigir manna, en aðrir sex tigir fara nú á Hól til Gísla. 4. Þórðr enn huglausi var úti; ok er (hann) sér liðit, hleypr hann inn ok segir, at herr manns ferr at b&oelig;num, ok var hann allmj&#x1EB;k flaumósi.<sup id="a2">[2](#myfootnote2)</sup>
 
