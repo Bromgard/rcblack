@@ -182,7 +182,7 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 [↩](#a27)
 
 <a name="myfootnote28" id="f28">28</a>:
- _kastar hann niðr_, "he crunches down;" therefore this means that the burden was heavy; Gísli himself carries the tapestry to the wall (&sect; 20).
+ _kastar hann niðr_, "he throws down [the tapestry];" therefore this means that the burden was heavy; Gísli himself carries the tapestry to the wall (&sect; 20).
 [↩](#a28)
 
 <a name="myfootnote29" id="f29">29</a>:
