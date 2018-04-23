@@ -36,7 +36,7 @@ Hón hugði, at hann legði<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ndina
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- [_gefit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0194:1), namely _fóðr_, "I have not fed Þ's' horse."   
+ [_gefit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0194:1), namely [_fóðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0167:27), "I have not fed Þ's' horse."   
  &#42856; See def. IV in CV.
 [↩](#a1)
 
