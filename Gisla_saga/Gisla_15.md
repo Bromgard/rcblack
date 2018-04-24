@@ -81,7 +81,7 @@ Ok láta upp refilinn. 24\. Síðan koma boðsmenn um kveldit. Ok þyknar veðri
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _flesta lagi_ (häufiger _í fl. lagi_), "in very large amounts."
+ _flesta lagi_ (frequently _í fl. lagi_), "in very large amounts."
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
