@@ -53,7 +53,7 @@ viggrunnr hniginn ligge,
 <a name="myfootnote3" id="f3">3</a>:
  __Str. 9.__ Prose word order: Ek fell eige viþ herjo orþe; foldrunnr hefr ráþit fullom hjarar munne morþ margra manna; vér lǫ́tom sem hljóþast of oss, þótt vága viggrunnr ligge hnigenn; þyss es komenn í þessa þjóþ.
 
-"I do not fall by every word; the warrior bought about the death of many people with the (blood) saturated edge of the sword; We (I) act as calmly as possible, although the man lies down. Unrest has been driven into these people."
+"I do not fall by every word; the warrior (me) bought about the death of many people with the (blood) saturated edge of the sword; We (I) act as calmly as possible, although the man lies down. Unrest has been driven into these people."
 
 This stanza expresses Gisli's courage and his cold indifference.
 
