@@ -24,7 +24,7 @@ viggrunnr hniginn ligge,
 (komenn es þyss í þessa   
 þjóþ) of oss sem hljóþast.<sup id="a3">[3](#myfootnote3)</sup>   
 
-6\. Nú koma þeir í b&oelig;inn Þorkell ok Eyjólfr; ganga at lokrekkju þeiri, sem Gísli hvílði í ok kona hans; en Þorkell, bróðir Gísla, gengr upp fyrir hvílugólfit<sup id="a4">[4](#myfootnote4)</sup> ok sér, hvar at skór Gísla liggja frosnir ok snæugir allir; hann skaraði þá upp undir fótborðit,<sup id="a5">[5](#myfootnote5)</sup> ok svá, at eigi skyldi sjá þá aðrir menn. 7. Nú fagnar Gísli þeim ok spyrr tíðrnda. Þorkell kvað bæði mikil ok ill, víg Þorgríms, ok spyrr hverju gegna myndi eða hvat þá skal til ráða taka.
+6\. Nú koma þeir í b&oelig;inn Þorkell ok Eyjólfr; ganga at lokrekkju þeiri, sem Gísli hvílði í ok kona hans; en Þorkell, bróðir Gísla, gengr upp fyrir hvílugólfit<sup id="a4">[4](#myfootnote4)</sup> ok sér, hvar at skór Gísla liggja frosnir ok snæugir allir; hann skaraði þá upp undir fótborðit,<sup id="a5">[5](#myfootnote5)</sup> ok svá, at eigi skyldi sjá þá aðrir menn. 7. Nú fagnar Gísli þeim ok spyrr tíðenda. Þorkell kvað bæði mikil ok ill, víg Þorgríms, ok spyrr hverju gegna myndi eða hvat þá skal til ráða taka.
 
 8\. "Skamt er þá milli illra verka ok stórra,"<sup id="a6">[6](#myfootnote6)</sup> segir Gísli; "viljum vér til þess bjóðaz at heygja Þorgrím, ok eigu þér þat at oss,<sup id="a7">[7](#myfootnote7)</sup> ok er þat skylt, at vér gerim þat með s&oelig;mð."
 
