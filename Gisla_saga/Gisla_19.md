@@ -83,7 +83,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- _skipar til bús síns_, "is preparing for the establishment of the new trade agreement.
+ _skipar til bús síns_, "is preparing for the establishment of the new settlement.
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
