@@ -36,7 +36,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 
 16\. "At gera þik varan við, ef menn vilja drepa þik; en bjargir<sup id="a27">[27](#myfootnote27)</sup> veiti ek þér engar, þær er mér megi sakir á gefa.<sup id="a28">[28](#myfootnote28)</sup> Þykki mér mikit af g&#x1EB;rt við mik,<sup id="a29">[29](#myfootnote29)</sup> at drepinn er Þorgrímr, mágr minn ok félagi<sup id="a30">[30](#myfootnote30)</sup> ok virkðavinr."
 
-17\. Gísli svarar: "Var eigi þess ván um slíkan mann, sem Vésteinn var, at eiga myndi mannhefndalaust vera? Ok mynda ek eigi þér svá svara, sem þú svara, sem þú svarar mér nú, ok eigi heldr gera."
+17\. Gísli svarar: "Var eigi þess ván um slíkan mann, sem Vésteinn var, at eiga myndi mannhefndalaust vera? Ok mynda ek eigi þér svá svara, sem þú svarar mér nú, ok eigi heldr gera."
 
 18\. Nú skilja þeir. Ferr Þorkell til móts við B&#x1EB;rk, ok fara þeir suðr til Þórsness,<sup id="a31">[31](#myfootnote31)</sup> ok skipar B&#x1EB;rkr til bús síns; en Þorkell kaupir land á Barðastr&#x1EB;nd,<sup id="a32">[32](#myfootnote32)</sup> þat er í Hvammi<sup id="a33">[33](#myfootnote33)</sup> hét. 19. Nú k&oslash;mr at stefnud&#x1EB;gum,<sup id="a34">[34](#myfootnote34)</sup> ok ferr B&#x1EB;rkr vestr með fjóra t&oslash;gu manna ok ætlar at stefna Gísla til Þórsnessþings,<sup id="a35">[35](#myfootnote35)</sup> ok er Þorkell Súrsson þar í f&#x1EB;r ok systursynir Barkar, Þóroddr ok Saka-Steinn; þar var ok í f&#x1EB;r Austmaðr einn, er Þorgrímr hét. Þeir ríða nú til Sandaóss.
 
@@ -95,7 +95,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _fé_, "have mobile."
+ _fé_, "mobile stock."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -153,7 +153,8 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 <a name="myfootnote25" id="f25">25</a>:
  __Str. 11__ Prose word order: Syster mín, gæten sveigar, gatat at eiga sǫ́l Goþrúnar Gjúka dóttor, fastrar hugtúne, þás l&oelig;ges log-Sága lét ver sinn dyja; svá rak s&oslash;r-Freyja snjallra br&oelig;þra af stinnom hug.
 
-"The soul of Goþrún, the indomitable daughter of Gjúke, was not bestowed upon my vain sister, (this soul, she revealed) when the wife struck her husband; so the woman avenged her brave brothers with brave meaning."
+"The soul of Goþrún, the indomitable daughter of Gjúke, was not bestowed upon my vain sister, (this soul, she revealed) when the wife struck her husband; so the woman avenged her brave brothers with unflinching courage."
+
 * _g&oelig;ten sveigar_; _g&oelig;tenn_ adj. "carefully;" _sveigr_ is a kind of headdress; the term is perjorative and highlights the contrast between Þórdis and Goþrún; "thougtful for (and only for) her headdress" is contrary to "the indomitable."
 * _fastrar hugtúni_, "firm, unshakeable, in the court of the soul, "the court of the soul" is "the breast."
 * _l&oelig;ges log-Sága_, _l&oelig;ger_ "the sea;" of which _log_, flamme=gold; the _Sága_ (asin) of gold, the woman, Goþrún.
@@ -168,11 +169,11 @@ The verse is very interesting by its comparison with Goþrún; Gísli was a nati
 [↩](#a26)
 
 <a name="myfootnote27" id="f27">27</a>:
- _bjargir_, in the even that he is tried in court; because helping an outlaw was punishable.
+ _bjargir_, in the event that he is tried in court; because helping an outlaw was punishable.
 [↩](#a27)
 
 <a name="myfootnote28" id="f28">28</a>:
- _þ&oelig;r--gefa_, "so that they could be counted as passing away."
+ _þ&oelig;r--gefa_, "that might issue me a prosecution (that will bring a court case against me)."
 [↩](#a28)
 
 <a name="myfootnote29" id="f29">29</a>:
