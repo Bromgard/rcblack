@@ -44,7 +44,7 @@ layout: default
    veiter dags ens vegna!   
    valdr hermela at gjalda.<sup id="a7">[7](#myfootnote7)</sup>   
 
-6\. Nú spyrr Gísli, hvers hann skal ván eiga hjá (þeim. Þeir segjask, nafnar báðir, munu skjóta skjóli)<sup id="a8">[8](#myfootnote8)</sup> yfir hann, með þeim hætti, at hann léti eigi fé sitt fyrir þá s&#x1EB;k. Ferr Þorkell heim eftir þetta. 7. Svá er sagt, at Gísli var þrjá vetr í Geirþjófsfirði, en stundum með Þorkeli Eiríkssyni, en aðra þrjá vetr ferr hann um allt Ísland ok hittir h&#x1EB;fðingja ok biðr sér liðs. 8. En sakir þess tr&#x1EB;llskapar, er Þorgrímr nef hafði haft í seiðinum, ok atkvæða,<sup id="a9">[9](#myfootnote9)</sup> þá verðr þess eigi auðit, at h&#x1EB;fðingjar t&oelig;ki við hánum, ok þó at stundum þ&oelig;tti þeim eigi svá ólíklga<sup id="a10">[10](#myfootnote10)</sup> horfa, þá bar þó alstaðar n&#x1EB;kkut við.<sup id="a11">[11](#myfootnote11)</sup> 9. Hann var þó l&#x1EB;ngum með Þorkeli Eiríkssyni, ok hefir hann nú sex vetr verit í sekðinni. Eptir þetta er hann stundum í Geirþjófsfirði á b&oelig; Auðar, en stundum í fylgsnum<sup id="a12">[12](#myfootnote12)</sup> fyrir norðan ána, er hann hafði g&#x1EB;rt sér; annat fylgsni átti hann við kleifarnar<sup id="a13">[13](#myfootnote13)</sup> suðr frá garði,<sup id="a14">[14](#myfootnote14)</sup> ok var hann ýmist.<sup id="a15">[15](#myfootnote15)</sup>
+6\. Nú spyrr Gísli, hvers hann skal ván eiga hjá (þeim. Þeir segjask, nafnar báðir, munu skjóta skjóli)<sup id="a8">[8](#myfootnote8)</sup> yfir hann, með þeim hætti, at hann léti eigi fé sitt fyrir þá s&#x1EB;k. Ferr Þorkell heim eftir þetta. 7. Svá er sagt, at Gísli var þrjá vetr í Geirþjófsfirði, en stundum með Þorkeli Eiríkssyni, en aðra þrjá vetr ferr hann um allt Ísland ok hittir h&#x1EB;fðingja ok biðr sér liðs. 8. En sakir þess tr&#x1EB;llskapar, er Þorgrímr nef hafði haft í seiðinum, ok atkvæða,<sup id="a9">[9](#myfootnote9)</sup> þá verðr þess eigi auðit, at h&#x1EB;fðingjar t&oelig;ki við hánum, ok þó at stundum þ&oelig;tti þeim eigi svá ólíkliga<sup id="a10">[10](#myfootnote10)</sup> horfa, þá bar þó alstaðar n&#x1EB;kkut við.<sup id="a11">[11](#myfootnote11)</sup> 9. Hann var þó l&#x1EB;ngum með Þorkeli Eiríkssyni, ok hefir hann nú sex vetr verit í sekðinni. Eptir þetta er hann stundum í Geirþjófsfirði á b&oelig; Auðar, en stundum í fylgsnum<sup id="a12">[12](#myfootnote12)</sup> fyrir norðan ána, er hann hafði g&#x1EB;rt sér; annat fylgsni átti hann við kleifarnar<sup id="a13">[13](#myfootnote13)</sup> suðr frá garði,<sup id="a14">[14](#myfootnote14)</sup> ok var hann ýmist.<sup id="a15">[15](#myfootnote15)</sup>
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_20">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_22">⇨</a></div>
@@ -73,17 +73,17 @@ layout: default
 <a name="myfootnote5" id="f5">5</a>:
  __Str. 12__, Prose word order: Þá myndet meðallok á minne s&#x1EB;k á Þórsnese, ef hjarta Vésteins være laget í brjóst sonom Bjartmars.
 
-"Such a bad outcome of my case at Þórsnes would not have happened if Vésteinn's heart had been in the breasts of the sons of Bjartmar."
+"Such a bad outcome of my case at Þórsnes would not have happened if Vésteinn's heart had been inside the breasts of the sons of Bjartmar."
 
 * _meþallok, meþal-_ in compound words, this devalues the quality of the second element.
-*
+
 Str. 12 and 13 are written in the unusual style, _kviðuháttr_.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
  __Str. 13__ Prose word order: Móþorbr&oelig;þr kvánar minnar glúpnoþo, es glaþast skyldo, sem eyþendr fjarþar dags være lostner fúlo egge.
 
-"My wife's uncles lost their courage, while they should have been very happy (and energetic), and they acted as if the people were throwing rotten eggs."
+"My wife's uncles lost their courage, while they should have been very happy (and energetic), and they acted as if rotten eggs were thrown at them."
 
 * _glaþast_ (also in frgmt.), is superl. (not  vb. _glaþa_), and _vesa_ to complete. _eyþendr fjarþar dags_, "waste the day (luster) of the sea," actually, free men; people in general.
 
@@ -93,7 +93,7 @@ Str. 12 and 13 are written in the unusual style, _kviðuháttr_.
 <a name="myfootnote7" id="f7">7</a>:
  __Str. 14__ Prose word order: Luko sómlaust dóme a mik á þinge, sæsólar deilande! þau þunglig orþ ero komen norþan; þat á valdr blaserkjar hermela at gjalda Berke ok Steine veiter ens vegna hreins bǫ́ro dags.
 
-"They condemned me ingloriously at the thing, no honorable men! This oppressive message (came to me from the north, the warrior (me) has this to bitterly avenge Borkr and Steinn, the giver of pure weighed gold.)"
+"They condemned me ingloriously at the thing, no honor! This harsh sentence (came to me from the north, the warrior (me) has this to bitterly avenge Borkr and Steinn, the giver of pure weighed gold (me).)"
 
 * _sómlaust_, "without glory for her," as there was no proper advocate.
 * _s&oelig;-sólar-deilande_, _s&oelig;_ (conj. for _sal-;_ also in V&#x1EB;luspǫ́ 20 in Hauksbók _s&oelig;_ to _sal_ is corrupted) _-sól_, "the son of the ocean" = gold (see _fjarþar dagr_ in str. 13).
@@ -116,7 +116,7 @@ Str. 12 and 13 are written in the unusual style, _kviðuháttr_.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _bar--við_, "showed and obstacle."
+ _bar--við_, "an obstacle came up."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
