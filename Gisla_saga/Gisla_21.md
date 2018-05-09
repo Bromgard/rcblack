@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 21
 
-### Gísli becomes peaceful. His various residences.
+### Gísli canvasses for support but finds little help. His various residences.
 
 1\. Þat er nú þessu næst, at Gísli gerir orð mágum sínum,<sup id="a1">[1](#myfootnote1)</sup> Helga ok Sigurði ok Vestgeiri, at þeir fari til þings ok bjóði sætt fyrir hann, at hann yrði eigi sekr. 2. Ok fara þeir til þings, Bjartmarssynir, ok koma engu áleiðis<sup id="a2">[2](#myfootnote2)</sup> um sættina, ok kalla menn, at þeir hafi illa borið sik, svá at þeim hafi næsta í allt skap komit,<sup id="a3">[3](#myfootnote3)</sup> áðr en létti. 3. Þeir segja Þorkeli auðga, hvat títt er, ok kváðuz eigi þora at segja Gísla sekð sína. Urðu þar engi &#x1EB;nnur tíðindi á þinginu, en Gísli verðr sekr. Þorkell auðgi ferr þá til fundar við Gísla ok sagði hánum sekð sína. 4. Þá kvað Gísli vísu þessa:<sup id="a4">[4](#myfootnote4)</sup>
 
