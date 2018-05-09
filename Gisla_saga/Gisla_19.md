@@ -67,11 +67,11 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _kálfsbelger_, "a calf skin;" see Eyrb. c. 20, 16.
+ [_kálfsbelger_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=k%E1lfs-belgr&startrow=1), "a calf skin;" see Eyrb. c. 20, 16.
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _kasaðr_, see Eyrb. C. 28, 25.
+ [_kasaðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0332:50), see Eyrb. C. 28, 25.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:

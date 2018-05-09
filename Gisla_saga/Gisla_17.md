@@ -65,11 +65,11 @@ This stanza expresses Gisli's courage and his cold indifference.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _hvílugólf_, "bedroom."
+ [_hvílugólf_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0302:11), "bedroom."
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _fótborðit_, "foot-board," the board on which the feet of a stool rests.
+ [_fótborðit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0168:24), "foot-board," the board on which the feet of a stool rests.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
@@ -85,11 +85,11 @@ This stanza expresses Gisli's courage and his cold indifference.
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _hauginn_, the burial mound was probably erected at the eastern side of the reed pond: see Árbók 1883, s 26-27; however, today nothing of this is recognizable.
+ [_hauginn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0241:21), the burial mound was probably erected at the eastern side of the reed pond: see Árbók 1883, s 26-27; however, today nothing of this is recognizable.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _óssins_, that is, of Haukadal [ár]óss, a little more to the east.
+ [_óssins_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0473:22), that is, of Haukadal [ár]óss, a little more to the east.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
@@ -109,5 +109,5 @@ This stanza expresses Gisli's courage and his cold indifference.
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _ekki allmanfátt_, "not a big lack of people" (numerous guests).
+ _ekki_ [_allmanfátt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=all-mann-f%E1tt&startrow=1), "not a big lack of people" (numerous guests).
 [↩](#a15)

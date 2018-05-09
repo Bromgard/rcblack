@@ -33,15 +33,15 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _flytr--seiðinn_, regarding seiðr, see Ǫrvar-Oddss. c. 2, 1.
+ _flytr--seiðinn_, regarding [seiðr](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0519:12), see also Ǫrvar-Oddss. c. 2, 1.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _hjallr_ (häufiger _seiðhjallr_), see Laxd. c. 35, 38.
+ [_hjallr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0265:22) (häufiger _seiðhjallr_), see Laxd. c. 35, 38.
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _ergi_, c.f. Heimskr. I, 19: _En þessi fj&#x1EB;lkyngi, er framið er, fylgir svá mikil ergi, at eigi þótti karlm&#x1EB;nnum kammlaust við at fara, ok var gyðjunum kend sú íþrótt_. What exactly this "ergi" is, no one knows, but something obscene or lewd appears to be meant.  
+ [_ergi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0133:20), c.f. Heimskr. I, 19: _En þessi fj&#x1EB;lkyngi, er framið er, fylgir svá mikil ergi, at eigi þótti karlm&#x1EB;nnum kammlaust við at fara, ok var gyðjunum kend sú íþrótt_. What exactly this "ergi" is, no one knows, but something obscene or lewd appears to be meant.  
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -49,7 +49,7 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _ávarðr_, "popular;" "that he was such a favorite of Freyr's, that etc."
+ [_ávarðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0047:49), "popular;" "that he was such a favorite of Freyr's, that etc."
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
@@ -69,11 +69,11 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _kallaðr Snorri_, this is the famous Snorri goði, the primary figure in Eyrb. C.f. the same c. 12,5.
+ _kallaðr_ [_Snorri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0576:2), this is the famous Snorri goði, the primary figure in Eyrb. C.f. the same c. 12,5.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _þau misseri_, "this winter."
+ _þau_ [_misseri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0431:44), "this winter."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -81,15 +81,15 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _annmarki_, means "mistake," primarily in the moral sense.
+ [_annmarki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0021:39), means "mistake," primarily in the moral sense.
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
- _jafnan_, "as a rule."
+ [_jafnan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0322:5), "as a rule."
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _m&#x1EB;nnum_, meaning, the games; "the harder the players play, the more spectators will be there."
+ _... m&#x1EB;nnum_, meaning, the games; "the harder the players play, the more spectators will be there."
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
@@ -97,11 +97,11 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
- _knattré_, n. "ball-stick" (the stick with which the ball is hit).
+ [_knattré_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0345:34), n. "ball-stick" (the stick with which the ball is hit).
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
- _hefði ekki, afl_ is to be added.
+ _hefði ekki, afl_ is implied.
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
@@ -132,11 +132,11 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
- _skilja_, "they break off, quit."
+ [_skilja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0546:14), "they break off, quit."
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _orri_, "black cock {a kind of grouse--RB}" (tetrao tetrix L.).
+ [_orri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0469:6), "black cock" (tetrao tetrix L.).
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
@@ -162,6 +162,7 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 <a name="myfootnote29" id="f29">29</a>:
  _stendr í milli_, "intervene" (bring the fighting men away from one another).
 [↩](#a29)
+
 <!--
 <a name="myfootnote30" id="f30">30</a>:
  _er--skapi_, "is disgruntled."
@@ -169,7 +170,7 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 !-->
 
 <a name="myfootnote31" id="f31">31</a>:
- _ands&oelig;lis_, or else, _&#x1EB;fugt_ "wrong," meaning, backward. This type of movement seemed to be part of weather magic, see Landnáma III, c. 4, about whichis told about the wizard Ljót.
+ [_ands&oelig;lis_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0020:39), or else, _&#x1EB;fugt_ "wrong," meaning, backward. This type of movement seemed to be part of weather magic, see Landnáma III, c. 4, about whichis told about the wizard Ljót.
 [↩](#a31)
 
 <a name="myfootnote32" id="f32">32</a>:
@@ -177,5 +178,5 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 [↩](#a32)
 
 <a name="myfootnote33" id="f33">33</a>:
- _jarðfallsins_, "the rockfall;" such a one is visible near Skammfäotarengi; such rock falls are not at all uncommon in Haukadalr.
+ [_jarðfallsins_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0323:27), "the rockfall;" such a one is visible near Skammfäotarengi; such rock falls are not at all uncommon in Haukadalr.
 [↩](#a33)
