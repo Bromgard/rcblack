@@ -75,7 +75,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _ráðaz_, "to move," as in z. 7.
+ [_ráðaz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0486:1), "to move," as in part 7.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -111,7 +111,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _ólíkara_, "unlikely."
+ [_ólíkara_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0662:1), "unlikely."
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
@@ -143,7 +143,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _rannsakat vísuna_, "thoroughly analyzing the verse" (and as a result, understanding its meaning). This should have been said first (hysteron proteron).
+ _rannsakat vísuna_, "thoroughly understanding the verse" (and as a result, understanding its meaning). This should have been said first (hysteron proteron).
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
@@ -169,7 +169,7 @@ The verse is very interesting by its comparison with Goþrún; Gísli was a nati
 [↩](#a26)
 
 <a name="myfootnote27" id="f27">27</a>:
- _bjargir_, in the event that he is tried in court; because helping an outlaw was punishable.
+ [_bjargir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0066:22), in the event that he is tried in court; because helping an outlaw was punishable.
 [↩](#a27)
 
 <a name="myfootnote28" id="f28">28</a>:
@@ -181,7 +181,7 @@ The verse is very interesting by its comparison with Goþrún; Gísli was a nati
 [↩](#a29)
 
 <a name="myfootnote30" id="f30">30</a>:
- _félagi_, they had lived together in a settlement.
+ [_félagi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0150:16), they had lived together in a legal partnership.
 [↩](#a30)
 
 <a name="myfootnote31" id="f31">31</a>:
@@ -197,7 +197,7 @@ The verse is very interesting by its comparison with Goþrún; Gísli was a nati
 [↩](#a33)
 
 <a name="myfootnote34" id="f34">34</a>:
- _stefnud&#x1EB;gum_, "the days of summoning;" at the beginning of the spring, the term of the summons was two weeks, c.f. _eigi skal n&oelig;r stefna várþingi en 2 vikur sé til þess várþings, er s&#x1EB;kinni er til stefnt_ (Grágás, Konungsbók I, 96); the þing was held in May.
+ [_stefnud&#x1EB;gum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=stefnu-dagr&startrow=1), "the days of summoning;" at the beginning of the spring, the term of the summons was two weeks, c.f. _eigi skal n&oelig;r stefna várþingi en 2 vikur sé til þess várþings, er s&#x1EB;kinni er til stefnt_ (Grágás, Konungsbók I, 96); the þing was held in May.
 [↩](#a34)
 
 <a name="myfootnote35" id="f35">35</a>:
@@ -213,7 +213,7 @@ The verse is very interesting by its comparison with Goþrún; Gísli was a nati
 [↩](#a37)
 
 <a name="myfootnote38" id="f38">38</a>:
- _vaðmáli_, this cloth should be draped over the saddle to make it unrecognizable to B&#x1EB;rkr.
+ [_vaðmáli_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=va%F0m%E1li&startrow=1), this cloth should be draped over the saddle to make it unrecognizable to B&#x1EB;rkr.
 [↩](#a38)
 
 <a name="myfootnote39" id="f39">39</a>:

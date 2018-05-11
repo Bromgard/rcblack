@@ -40,19 +40,19 @@ layout: default
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _seinkar_, trans. "he delays"
+ [_seinkar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0520:24), trans. "he delays"
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _skógar_, a (birch)forest in the western part of Haukadalr toward Lambadalr.
+ [_skógar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0555:37), a (birch)forest in the western part of Haukadalr toward Lambadalr.
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _vinr_, "comrade."
+ [_vinr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0709:8), "comrade."
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _sitt_ = _sitþ(u)_.
+ [_sitt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0530:8) = _sitþ(u)_.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -60,7 +60,7 @@ layout: default
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- _hrósaði_...sér, "he throught very much of himself."
+ [_hrósaði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0287:24)...sér, "he throught very much of himself."
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
@@ -68,7 +68,7 @@ layout: default
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _kápuh&#x1EB;ttiinn_, "the hood attached to the coat."
+ [_kápuh&#x1EB;ttiinn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0334:66), "the hood attached to the coat."
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
@@ -84,11 +84,11 @@ layout: default
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
- _limit_, "the branches."
+ [_limit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=bt:b0641:9), "the branches."
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _á gagng&#x1EB;rt_, "exactly in the right direction."
+ _á_ _gagng&#x1EB;rt_, "exactly in the right direction."
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
@@ -120,7 +120,7 @@ layout: default
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _bóndason_, it was probably an old acquaintance or friend of Gísli's.
+ _bóndason_, he is probably an old acquaintance or friend of Gísli's.
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
@@ -132,7 +132,7 @@ layout: default
 [↩](#a25)
 
 <a name="myfootnote26" id="f26">26</a>:
- _alhýsi_, n. "all the farm buildings."
+ [_alhýsi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0013:23), n. "all the farm buildings."
 [↩](#a26)
 
 <a name="myfootnote27" id="f27">27</a>:
