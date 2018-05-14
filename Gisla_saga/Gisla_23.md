@@ -30,7 +30,7 @@ layout: default
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _ekki svá fylgt_, "not so energetic (the thing) .
+ _ekki svá fylgt_, "not very much followed through.
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
