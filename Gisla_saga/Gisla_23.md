@@ -58,7 +58,7 @@ layout: default
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _Strandar_, that is, _Barðastrandar_, see zu c. XIX, 18.
+ _Strandar_, that is, _Barðastrandar_, see c. XIX, 18.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -74,7 +74,7 @@ layout: default
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _lítilliga_, "pathetic."
+ _lítilliga_, "pathetically."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:

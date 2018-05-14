@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 24
 
-### Gíslis dreams. Gísli with his brother for the last time. Gísli comes to Ingjaldr on Hergilsey.
+### Gíslis dreams. Gísli with his brother for the last time. Gísli comes to Ingjaldr on Hergilsey
 
 1\. Þegar er várar, ferr Gísli aptr í Geirþjófsfj&#x1EB;rð, ok má þá eigi lengr vera í brott frá Auði konu sinni; svá unnuz þau mikit; er nú þar um sumarit á laun, ok til þess er haustar. 2. Ok k&oslash;mr nú á þref<sup id="a1">[1](#myfootnote1)</sup> um draumana, þegar lengir nóttina, ok k&oslash;mr nú en verri draumkonan at hánum ok geraz nú svefnfarar harðar,<sup id="a2">[2](#myfootnote2)</sup> ok segir nú eitt sinn Auði, hvat hann dreymði, er hón spurði eptir.
 
@@ -48,13 +48,13 @@ Ok nú segir Gísli, at konan sú en verri k&oslash;mr opt at hánum ok vill jaf
    brynjo hatrs ens bitra   
    beiþendr, ef {ek} nú reiþomk.<sup id="a7">[7](#myfootnote7)</sup>   
 
-7\. Ok eru nú kyrr tíðendi. Ferr Gísli nú til Þorgerðar ok er með henni annan vetr. En um sumarit eptir ferr hann í Geirþjófsfj&#x1EB;rð ok er þar unz haustar. 8. Þá ferr hann enn til Þorkels, bróður síns, ok drepr þar á dyrr; Þorkell vill ekki út ganga, ok tekr Gísli kefli ok ristr á rúnir<sup id="a8">[8](#myfootnote8)</sup> ok kastar inn. Þat sér Þorkell ok tekr upp ok lítr á ok stendr upp síðan, gengr út ok heilsar Gísla ok spyrr tíðenda. 9. Hann kvez ekki kunna at segja -- "ok em ek nú kominn hið síðasta sinn á þinn fund, frændi!, ok lát nú verða at sk&#x1EB;rugligri<sup id="a9">[9](#myfootnote9)</sup> liðveislu; en ek mun því launa, at ek mun aldri krefja þik optar."
+7\. Ok eru nú kyrr tíðendi. Ferr Gísli nú til Þorgerðar ok er með henni annan vetr. En um sumarit eptir ferr hann í Geirþjófsfj&#x1EB;rð ok er þar unz haustar. 8. Þá ferr hann enn til Þorkels, bróður síns, ok drepr þar á dyrr; Þorkell vill ekki út ganga, ok tekr Gísli kefli ok ristr á rúnir<sup id="a8">[8](#myfootnote8)</sup> ok kastar inn. Þat sér Þorkell ok tekr upp ok lítr á ok stendr upp síðan, gengr út ok heilsar Gísla ok spyrr tíðenda. 9. Hann kvez ekki kunna at segja -- "ok em ek nú kominn et síðasta sinn á þinn fund, frændi!, ok lát nú verða at sk&#x1EB;rugligri<sup id="a9">[9](#myfootnote9)</sup> liðveislu; en ek mun því launa, at ek mun aldri krefja þik optar."
 
 10\. Þorkell svarar enn enu sama ok fyrr, býðr hánum hross eða skip,<sup id="a10">[10](#myfootnote10)</sup> en skerz undan allri liðveizlu. Gísli þiggr skip ok biðr Þorkel setja fram<sup id="a11">[11](#myfootnote11)</sup> með sér skipit; hann gerir svá, ok fær hánum sex vættir matar ok hundrað vaðmála. 11. Ok er Gísli er á skip kominn, stendr Þorkell á landi; þá mælti Gísli: "Nú þykkiz þú &#x1EB;llum fótum í etu standa<sup id="a12">[12](#myfootnote12)</sup> ok vera vinr margra h&#x1EB;fðingja, ok uggir nú ekki at þér; en ek er sekr, ok hefi ek mikinn fjandskap margra manna, en þat kann ek þér at segja,<sup id="a13">[13](#myfootnote13)</sup> at þú munt þó fyrr drepinn en ek. 12. Ok munum vit nú skilja, ok verr<sup id="a14">[14](#myfootnote14)</sup> en vera skyldi, ok sjáz aldri síðan; en vita skaltu þat, at eigi munda ek svá við þik gera."
 
 13\. "Ekki hirði ek um spár þínar," sagði Þorkell.
 
--- ok skilduz við svá búit. 14. Ferr Gísli inn til Hergilseyjar<sup id="a15">[15](#myfootnote15)</sup> á Breiðafj&#x1EB;rð. Þá tekr hann úr skipinu þiljur<sup id="a16">[16](#myfootnote16)</sup> ok þóptr, árar ok allt þat; sem laust var innbyrði,s ok hvelfir skipinu ok lætur reka inn at nesjum.<sup id="a17">[17](#myfootnote17)</sup> 15. Ok nú geta menn þess til, er sjá skipit at Gísli myni drukknaðr vera, er skipit er brotit ok rekit á land, ok myni tekit hafa frá Þorkeli bróður sínum. 16. Nú gengr Gísli í Hergilsey til húss; þar býr sá maðr, er Ingjaldr hét; kona hans hét Þorgerðr; Ingjaldr var systrungr Gísla at frændsemi, ok hafði með hánum farit út hingat til Íslands.<sup id="a18">[18](#myfootnote18)</sup> 17. Ok er þeir hittaz, býðr hann Gísla allan greiða ok alla bj&#x1EB;rg, þá er hann mátti hánum veita; ok þat þiggr Gísli, ok er þar síðan um kyrt n&#x1EB;kkura stund.
+-- ok skilduz við svá búit. 14. Ferr Gísli inn til Hergilseyjar<sup id="a15">[15](#myfootnote15)</sup> á Breiðafj&#x1EB;rð. Þá tekr hann úr skipinu þiljur<sup id="a16">[16](#myfootnote16)</sup> ok þóptr, árar ok allt þat; sem laust var innbyrðis ok hvelfir skipinu ok lætur reka inn at nesjum.<sup id="a17">[17](#myfootnote17)</sup> 15. Ok nú geta menn þess til, er sjá skipit at Gísli myni drukknaðr vera, er skipit er brotit ok rekit á land, ok myni tekit hafa frá Þorkeli bróður sínum. 16. Nú gengr Gísli í Hergilsey til húss; þar býr sá maðr, er Ingjaldr hét; kona hans hét Þorgerðr; Ingjaldr var systrungr Gísla at frændsemi, ok hafði með hánum farit út hingat til Íslands.<sup id="a18">[18](#myfootnote18)</sup> 17. Ok er þeir hittaz, býðr hann Gísla allan greiða ok alla bj&#x1EB;rg, þá er hann mátti hánum veita; ok þat þiggr Gísli, ok er þar síðan um kyrt n&#x1EB;kkura stund.
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_23">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_25">⇨</a></div>
@@ -75,7 +75,7 @@ Ok nú segir Gísli, at konan sú en verri k&oslash;mr opt at hánum ok vill jaf
 <a name="myfootnote3" id="f3">3</a>:
  __Str. 19__. Prose word order: Draumar míner vila oss, ef oddstríþer skal bíþa elle; sauma Sj&#x1EB;fn genger mér í drauma; &#x1EB;lnana selr bragar greiþe eige efne anars, þornreiþ! þat stendr þeyge mér fyr svefne.
 
-"My dreams decieve me, if the warrior (me) should reach an old age, a woman appears to me in the dream, the woman give the poet (me) no reason to believe anything else, dear woman! But this does not hinder my sleep."
+"My dreams deceive me, if the warrior (me) should reach an old age, a woman appears to me in the dream, the woman give the poet (me) no reason to believe anything else, dear woman! But this does not hinder my sleep."
 
 * _oddstríþer_, "the one who harms (through use) the spears," .
 * _souma Sj&#x1EB;fn_, "the Sj&#x1EB;fn (goddess)," a woman.
