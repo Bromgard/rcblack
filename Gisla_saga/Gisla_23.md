@@ -94,5 +94,5 @@ layout: default
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
- _k&#x1EB;rlunum_, he means his brother. "The men, G. says, are so bad that it would not be difficult for women to do it sooner.
+ _k&#x1EB;rlunum_, he means his brother. "The men, G. says, are so bad that it would not be difficult for women to do it better.
 [↩](#a18)
