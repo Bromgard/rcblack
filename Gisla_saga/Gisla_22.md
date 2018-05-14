@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 22
 
-### B&#x1EB;rkr rebuffs Eyólfr for not capturing Gísli, he renews his effort and sends a scout. Gísli's dreams.
+### B&#x1EB;rkr conscripts Eyólfr on the hunt for Gísli. He sends a scout. Gísli's dreams.
 
 1\. Nú er B&#x1EB;rkur spyrr þetta, þá býr hann heiman f&#x1EB;r sína ok hittir Eyjólf<sup id="a1">[1](#myfootnote1)</sup> enn grá, er þá bjó í Arnarfirði í Otradal, ok beiðir, at hann leiti eptir Gísla ok drepi hann sekðinni, ok kvez mundu gefa hánum til þrjú hundruð silfrs, þess at allgott sé,<sup id="a2">[2](#myfootnote2)</sup> at hann leggi á alla stund<sup id="a3">[3](#myfootnote3)</sup> at leita eptir hánum. Hann tekr við fénu ok heitr sinni umsýslu. 2. Sá maðr var með Eyjólfi, er Helgi hét, ok var kallaðr Njósnar-Helgi, hann var bæði frár ok skygn, ok var hánum um alla fj&#x1EB;rðu kunnigt. 3. Hann er sendr í Geirþjófsfj&#x1EB;rð at vita, hvárt Gísli væri þar. Hann verðr varr við manninn<sup id="a4">[4](#myfootnote4)</sup> ok veit eigi, hvárt Gísli er, eða annarr maðr. Hann ferr heim ok segir Eyjólfi til svá búins. 4. Hann kvez víst vita, at þat mun Gísli verit hafa, ok bregðr við skjótt, ok ferr heiman við sjaunda mann í Geirþjófsfj&#x1EB;rð, ok verðr ekki varr við Gísla, ok ferr við svá búit aptr heim. Gísli var vitr maðr ok draumamaðr mikill ok berdreymur.<sup id="a5">[5](#myfootnote5)</sup> 5. Þat k&oslash;mr saman<sup id="a6">[6](#myfootnote6)</sup> með &#x1EB;llum vitrum<sup id="a7">[7](#myfootnote7)</sup> m&#x1EB;nnum, at Gísli hafi lengst allra manna í sekð gengit, annarr en Grettir Ásmundarson.<sup id="a8">[8](#myfootnote8)</sup> 6. Frá því er sagt eitt haust, at Gísli lét illa í svefni nátt eina, þá er hann var á b&oelig; Auðar; ok er hann vaknar spurði hón hvat hann dreymði.
 
