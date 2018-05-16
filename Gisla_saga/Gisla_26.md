@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 26
 
-### B&#x1EB;rkr resigns himself in Hergilsey. Gísli escapes him.
+### B&#x1EB;rkr goes to Hergilsey. Gísli escapes from him.
 
 1\. Nú sér Ingjaldr, at skipit siglir sunnan ok mælti: "Skip siglir þarna, ok hygg ek, at þar myni vera B&#x1EB;rkur enn digri."
 
