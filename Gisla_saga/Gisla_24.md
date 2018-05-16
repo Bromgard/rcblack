@@ -155,5 +155,5 @@ The contents of this verse is clearly not related to the previous ones; it sets 
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
- _Ingjaldr--Íslands_, the Landnáma knows an Ingjaldr from Hergilsey (see the 1900, s. 39, 162. 164), as a son of Hergils hnapprass, and clearly says that he helped Gísli (_fyrir þat gerði B&#x1EB;rkr af hánum eyjarnar_, meaning Hergilsey and the small islands surrounding it); but the saga is wrong when it calls her Ingjaldr Gíslis sister, and even more so when it says she came to iceland with him; Ingjaldr was clearly born in Iceland. Here is a fusion of two different people.
+ _Ingjaldr--Íslands_, the Landnáma knows an Ingjaldr from Hergilsey (see the 1900, s. 39, 162. 164), as a son of Hergils hnapprass, and clearly says that he helped Gísli (_fyrir þat gerði B&#x1EB;rkr af hánum eyjarnar_, meaning Hergilsey and the small islands surrounding it); but the saga is wrong when it calls Ingjaldr Gíslis systrungr, and even more so when it says he came to Iceland with him; Ingjaldr was clearly born in Iceland. This is a fusion of two different people.
 [↩](#a18)
