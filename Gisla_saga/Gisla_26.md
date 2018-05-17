@@ -30,7 +30,7 @@ layout: default
    snyrtegǫ́tt, né sýt{ik},   
    snauþ, þats mér verþr auþet.<sup id="a7">[7](#myfootnote7)</sup>   
 
-7\. Nú róa þau suðr í móti þeim Berki, ok láta sem ekki væri til vandræða. Þá segir Gísli fyrir, hversu hátta skal: "þú skalt segja," segir hann, "at hér sé fíflit innanborðs; 8. en ek mun sitja í stafni ok herma eptir því,<sup id="a8">[8](#myfootnote8)</sup> ok vefja mik vaðnum,<sup id="a9">[9](#myfootnote9)</sup> ok vera stundum útanborðs ok láta sem ek má &oelig;riligast; ok ef n&#x1EB;kkur<sup id="a10">[10](#myfootnote10)</sup> berr þá um fram, mun ek róa sem ek má ok leita þess á,<sup id="a11">[11](#myfootnote11)</sup> at sem skjótast skili með oss." þess
+7\. Nú róa þau suðr í móti þeim Berki, ok láta sem ekki væri til vandræða. Þá segir Gísli fyrir, hversu hátta skal: "þú skalt segja," segir hann, "at hér sé fíflit innanborðs; 8. en ek mun sitja í stafni ok herma eptir því,<sup id="a8">[8](#myfootnote8)</sup> ok vefja mik vaðnum,<sup id="a9">[9](#myfootnote9)</sup> ok vera stundum útanborðs ok láta sem ek má &oelig;riligast; ok ef n&#x1EB;kkur<sup id="a10">[10](#myfootnote10)</sup> berr þá um fram, mun ek róa sem ek má ok leita þess á,<sup id="a11">[11](#myfootnote11)</sup> at sem skjótast skili með oss."
 
 9\. Ok nú r&oelig;r hón í móti þeim, ok þó eigi allnærri þeim Berki, ok lætr sem hón bregði til miða.<sup id="a12">[12](#myfootnote12)</sup> Nú kallar B&#x1EB;rkr á hana ok spyrr, ef Gísli væri í eynni.
 
@@ -58,7 +58,7 @@ layout: default
 
 16\. Ingjaldr svarar: "Ek hef vánd klæði, ok hryggir mik ekki, þó at ek slíta þeim eigi g&#x1EB;rr,<sup id="a21">[21](#myfootnote21)</sup> ok fyrr mun ek láta lífit, en ek gera eigi Gísla þat gott, sem ek má, ok firra hann vandræðum."
 
-17\. Ok þat hafa menn mælt, at Ingjaldr hafi Gísla mest veitt, ok þat at mestu gagni orðit; ok þat er sagt, at þá er Þorgrímr nef gerði seiðinn, at hann mælti svá fyrir, at Gísla skyldi ekki at gagni verða, þó at menn byrgi hánum hér á landi.<sup id="a22">[22](#myfootnote22)</sup> 18\. En þat kom hánum eigi í hug, at skilja til um úteyjar, ok entiz því þetta hóti lengst, þótt eigi yrði þess álengðar<sup id="a1">[23](#myfootnote23)</sup> auðit.
+17\. Ok þat hafa menn mælt, at Ingjaldr hafi Gísla mest veitt, ok þat at mestu gagni orðit; ok þat er sagt, at þá er Þorgrímr nef gerði seiðinn, at hann mælti svá fyrir, at Gísla skyldi ekki at gagni verða, þó at menn byrgi hánum hér á landi.<sup id="a22">[22](#myfootnote22)</sup> 18\. En þat kom hánum eigi í hug, at skilja til um úteyjar, ok endiz því þetta hóti lengst, þótt eigi yrði þess álengðar<sup id="a1">[23](#myfootnote23)</sup> auðit.
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_25">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_27">⇨</a></div>
