@@ -7,7 +7,7 @@ layout: default
 
 ### B&#x1EB;rkr goes to Hergilsey. Gísli escapes from him.
 
-1\. Nú sér Ingjaldr, at skipit siglir sunnan ok mælti: "Skip siglir þarna, ok hygg ek, at þar myni vera B&#x1EB;rkur enn digri."
+1\. Nú sér Ingjaldr, at skipit siglir sunnan ok mælti: "Skip siglir þarna, ok hygg ek, at þar myni vera B&#x1EB;rkr enn digri."
 
 "Hvat er þá til ráðs takanda?" sagði Gísli; "ek vil vita, hvárt þú ert svá hygginn, sem þú ert drengrinn góðr."<sup id="a1">[1](#myfootnote1)</sup>
 
@@ -69,7 +69,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _drengrinn góðr_, "a brave dog;" here the weak form of the adj. would be impossible.
+ _drengrinn góðr_, "a good (hearty) man;" here the weak form of the adj. would be impossible.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
