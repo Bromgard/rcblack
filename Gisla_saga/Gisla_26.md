@@ -95,7 +95,7 @@ layout: default
 <a name="myfootnote7" id="f7">7</a>:
  __Str. 22__. Prose word order: Rítar rþr leitar nú ráþs skjaldsteins skorþ, þvít verþom skiljastk frá Ingjalde; vekjom mj&#x1EB;þ Suþra: þá at hvǫ́ro monk hafa, þats mér verþr auþet, snauþ snyrtegǫ́tt bláfoldar skafla hyrs; né ek sýtom.
 
-"The warrior seeks advice, woman, for now I have to divorce Ingjaldr, I write a song, and I will be satisfied with slack that fate has dealt me, poor woman, I do not care."
+"The warrior seeks advice, woman, for now I have to separate from Ingjaldr, I write a song, and I will be satisfied with slack that fate has dealt me, poor woman, I do not care."
 
 * _Rít_. "a shield," "the tree (_ruþr = runnr_) of the shield" Gísli himself.
 * _skaldsteinn_, uncertain, possibly a stone, that is, a glass or amber pebble in the shape of a shield; also a article of woman's jewelry, so _skorþ_ "wearer," a woman.
