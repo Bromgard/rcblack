@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 27
 
-### Fortsetzng. Gísli followed by B&#x1EB;rker...
+### Continuation of B&#x1EB;rk's pursuit of Gísli. 
 
 1\. Berki þykkir eigi þat til liggja,<sup id="a1">[1](#myfootnote1)</sup> at veita Ingjaldi atg&#x1EB;ngu, landseta sínum; hverfa þeir nú frá til b&oelig;jar ok leita þar Gísla, ok finna hann eigi, sem ván var. 2. Þeir fara nú um eyna ok koma þar at í einum stað, er fíflit lá, ok beit gras í dalverpi<sup id="a2">[2](#myfootnote2)</sup> einu, ok bundinn steinn við hálsinn.
 
