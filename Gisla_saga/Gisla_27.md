@@ -29,13 +29,13 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 
 "Þau ein kunnu vér at segja, at þú munt spurt hafa, eða veiztu n&#x1EB;kkut til fara Gísla?" segja þeir, "eða hvárt hefir hann hér n&#x1EB;kkut komit?"
 
-"Þat er bæði," sagði Refr, "at hann hefir ekki hér komit, enda myndi hánum skamt til skjótra ófara, ef hann hefði þess freistat; ok eigi veit ek, hversu trúligt<sup id="a33">[33](#myfootnote33)</sup> yðr þykkir, at ek munda eigi óbúnari en einnhver<sup id="a34">[34](#myfootnote34)</sup> yðvarr at drepa Gísla; en hefi ek þat vit með mér, at ek munda þykkjaz ekki alllítið í vinna, at hafa slíks manns traust, sem B&#x1EB;rkr er, ok hans vinr vildi ek vera."
+22\. "Þat er bæði," sagði Refr, "at hann hefir ekki hér komit, enda myndi hánum skamt til skjótra ófara, ef hann hefði þess freistat; ok eigi veit ek, hversu trúligt<sup id="a33">[33](#myfootnote33)</sup> yðr þykkir, at ek munda eigi óbúnari en einnhver<sup id="a34">[34](#myfootnote34)</sup> yðvarr at drepa Gísla; en hefi ek þat vit með mér, at ek munda þykkjaz ekki alllítið í vinna, at hafa slíks manns traust, sem B&#x1EB;rkr er, ok hans vinr vildi ek vera."
 
 23\. Þeir spyrja: "Er þér nokkut um,<sup id="a35">[35](#myfootnote35)</sup> at vér ranns&#x1EB;kum þik ok hús þín?"
 
 "Já," sagði Refr, "þat vil ek gjarna; því at ek veit, at þér meguð því &oslash;ruggligar leita í &#x1EB;ðrum st&#x1EB;ðum, ef þér vitið fyrir víst, at hann er eigi hér, ok gangið inn ok leitið sem gersamligast."<sup id="a36">[36](#myfootnote36)</sup>
 
-24\. Þeir ganga inn. Ok er Álfdís heyrði hark þeira, þá spyrr hón, hvat gauragangi<sup id="a37">[37](#myfootnote37)</sup> þar væri, eða hverir glóparnir<sup id="a38">[38](#myfootnote38)</sup> starfaði á<sup id="a39">[39](#myfootnote39)</sup> m&#x1EB;nnum um nætur. 25. Refr bað hana at hafa sik at hófi, en hón lætr þó eigi vant margra fíflyrða;<sup id="a40">[40](#myfootnote40)</sup> veitir hón þeim mikla ágauð,<sup id="a41">[41](#myfootnote41)</sup> svá at þeir máttu minni til reka.<sup id="a42">[42](#myfootnote42)</sup> Þeir rannsaka eigi at síðr, ok þó minnr en þeir myndi, ef þeir yrði eigi fyrir þvílíkum hrópyrðum af húsfreyju. 26. Fara síðan á brott, ok finna alls ekki,<sup id="a43">[43](#myfootnote43)</sup> ok biðja bónda vel lifa; en hann bað þá vel fara, ok koma þeir aptr til fundar við B&#x1EB;rk, ok una<sup id="a44">[44](#myfootnote44)</sup> alilla við sína f&#x1EB;r ok þykkjaz fengit hafa mikinn mannskaða með svívirðing, en komit engu áleiðis.<sup id="a45">[45](#myfootnote45)</sup> 27. Flyz þetta nú yfir héraðit, ok þykkir m&#x1EB;nnum eigi ór steini hefja, hverjum óf&#x1EB;rum þeir fara fyrir Gísla. B&#x1EB;rkr ferr nú heim ok segir Eyjólfi, hvat um er at vera. 28. Gísli er með Ref hálfan mánuð, ok síðan fer hann á brott, ok skilja þeir Refr góðir vinir; ok gefr Gísli hánum hníf ok belti, ok váru þat góðir gripir; en ekki hafði<sup id="a46">[46](#myfootnote46)</sup> hann fleira laust.<sup id="a47">[47](#myfootnote47)</sup> 29. Ok eptir þetta ferr Gísli í Geirþjófsfj&#x1EB;rð til konu sinnar, ok hefir nú mikit aukiz hans frægð í þessum atburð; ok er þat ok sannsagt, at eigi hefir meiri atg&#x1EB;rvimaðr verit en Gísli, né fullhugi, ok þó varð hann eigi gæfumaðr. {Nú er fyrst frá horfið.}
+24\. Þeir ganga inn. Ok er Álfdís heyrði hark þeira, þá spyrr hón, hvat gauragangi<sup id="a37">[37](#myfootnote37)</sup> þar væri, eða hverir glóparnir<sup id="a38">[38](#myfootnote38)</sup> starfaði á<sup id="a39">[39](#myfootnote39)</sup> m&#x1EB;nnum um nætur. 25. Refr bað hana at hafa sik at hófi, en hón lætr þó eigi vant margra fíflyrða;<sup id="a40">[40](#myfootnote40)</sup> veitir hón þeim mikla ágauð,<sup id="a41">[41](#myfootnote41)</sup> svá at þeir máttu minni til reka.<sup id="a42">[42](#myfootnote42)</sup> Þeir rannsaka eigi at síðr, ok þó minnr en þeir myndi, ef þeir yrði eigi fyrir þvílíkum hrópyrðum af húsfreyju. 26. Fara síðan á brott, ok finna alls ekki,<sup id="a43">[43](#myfootnote43)</sup> ok biðja bónda vel lifa; en hann bað þá vel fara, ok koma þeir aptr til fundar við B&#x1EB;rk, ok una<sup id="a44">[44](#myfootnote44)</sup> allilla við sína f&#x1EB;r ok þykkjaz fengit hafa mikinn mannskaða með svívirðing, en komit engu áleiðis.<sup id="a45">[45](#myfootnote45)</sup> 27. Flyz þetta nú yfir héraðit, ok þykkir m&#x1EB;nnum eigi ór steini hefja, hverjum óf&#x1EB;rum þeir fara fyrir Gísla. B&#x1EB;rkr ferr nú heim ok segir Eyjólfi, hvat um er at vera. 28. Gísli er með Ref hálfan mánuð, ok síðan fer hann á brott, ok skilja þeir Refr góðir vinir; ok gefr Gísli hánum hníf ok belti, ok váru þat góðir gripir; en ekki hafði<sup id="a46">[46](#myfootnote46)</sup> hann fleira laust.<sup id="a47">[47](#myfootnote47)</sup> 29. Ok eptir þetta ferr Gísli í Geirþjófsfj&#x1EB;rð til konu sinnar, ok hefir nú mikit aukiz hans frægð í þessum atburð; ok er þat ok sannsagt, at eigi hefir meiri atg&#x1EB;rvimaðr verit en Gísli, né fullhugi, ok þó varð hann eigi gæfumaðr. {Nú er fyrst frá horfið.}
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_26">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_28">⇨</a></div>
@@ -114,7 +114,7 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
- _skar_, obj. is _spjótit_: "the spear cut out" (from the flesh), so that he made a deep cut, but did not get suck in the wound.
+ _skar_, obj. is _spjótit_: "the spear cut out" (from the flesh), so that he made a deep cut, but did not get stuck in the wound.
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
@@ -175,11 +175,11 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 [↩](#a32)
 
 <a name="myfootnote33" id="f33">33</a>:
- [_trúligt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0642:37), "credible;" he thinks they could know or assume that we wanted to kell Gísli as much as they did.
+ [_trúligt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0642:37), "credible;" he thinks they know or assume that he wanted to kill Gísli as much as they did.
 [↩](#a33)
 
 <a name="myfootnote34" id="f34">34</a>:
- [_einnhverr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0122:13), "everybody."
+ [_einnhverr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0122:13), "anyone."
 [↩](#a34)
 
 <a name="myfootnote35" id="f35">35</a>:
@@ -191,7 +191,7 @@ ok svá gerðu þeir." 18. Þá mælti Refr við Álfdísi: "Nú mun ek skipta m
 [↩](#a36)
 
 <a name="myfootnote37" id="f37">37</a>:
- _hvat gauragangi_ (dat.), "what a complete idiot."
+ _hvat gauragangi_ (dat.), "what hooligans."
 [↩](#a37)
 
 <a name="myfootnote38" id="f38">38</a>:
