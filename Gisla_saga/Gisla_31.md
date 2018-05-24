@@ -73,7 +73,7 @@ ok svá gera þeir ok kvez Eyjólfr áðr vilja hitta Auði. 16. Þeir koma nú 
 
 17 _Afauðit verðr oss mj&#x1EB;k um þetta mál_, "little luck will come to us in this matter."
 
-18 _enn_, wie früher, c. 22, 5.
+18 _enn_, as above, c. 22, 5.
 
 19 _eiga kaup við þik_, "conclude a trade with you."
 
