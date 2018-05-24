@@ -11,7 +11,7 @@ layout: default
 
 "Hefi ek hér verit m&#x1EB;rg vár," sagði hann, "ok kenni ek alla h&#x1EB;fðingja ok goðorðsmenn."
 
-7\. Þeir sveinarnir segja, at þeir vildi hlíta hans ásjá ok fr&oelig;ðaz<sup id="a5">[5](#myfootnote5)</sup> af hánum -- "er okkr mikil forvitni á at sjá stóreflismenn,<sup id="a6">[6](#myfootnote6)</sup> þar er miklar s&#x1EB;gr ganga frá."
+7\. Þeir sveinarnir segja, at þeir vildi hlíta hans ásjá ok fr&oelig;ðaz<sup id="a5">[5](#myfootnote5)</sup> af hánum -- "er okkr mikil forvitni á at sjá stóreflismenn,<sup id="a6">[6](#myfootnote6)</sup> þar er miklar s&#x1EB;gur ganga frá."
 
 Hallbj&#x1EB;rn kveðz mundu fara ofan til strandar ok sagðiz mundu kenna hvert skip skjótliga, sem<sup id="a7">[7](#myfootnote7)</sup> k&oelig;mi ok segja þeim til.<sup id="a8">[8](#myfootnote8)</sup> 8. Þeir biðja hann hafa þ&#x1EB;kk fyrir léttlæti<sup id="a9">[9](#myfootnote9)</sup> sitt. Fara nú ofan til strandar ok svá til sjávarins; sjá nú, at skipin sigla at landi. 9. Þá tekr sveinn enn ellri til orða: "Hverr á þat skip, er nú siglir hingat næst?"
 
@@ -23,7 +23,7 @@ Hallbj&#x1EB;rn sagði, at þat á B&#x1EB;rkr enn digri.
 
 "Þat er Þorkell Súrsson," sagði hann.
 
-10\. Þeir sjá nú, at Þorkell gengr á land ok sez niðr einhvers staðar, meðan þeir flytja varnað þeira af skipinu, svá {sem sjórinn félli á land} <<at ekki felli sjór undir,>><sup id="a11">[11](#myfootnote11)</sup> en B&#x1EB;rkr tjaldar búð þeira. 11. Þorkell hafði girzkan<sup id="a12">[12](#myfootnote12)</sup> hatt á h&#x1EB;fði ok feld grán ok gulldálk um &#x1EB;xl en sverð í hendi. Síðan gengr Hallbj&#x1EB;rn, ok sveinarnir með honum, þangat at, sem Þorkell sitr. 12. Nú tekr annar sveinninn til orða, sá hinn ellri, ok mælti: "Hverr er sá hinn g&#x1EB;fugligi er hér sitr? Eig hefi ek séð vænni mann né tígulegra."<sup id="a13">[13](#myfootnote13)</sup>
+10\. Þeir sjá nú, at Þorkell gengr á land ok sez niðr einhvers staðar, meðan þeir flytja varnað þeira af skipinu, svá {sem sjórinn félli á land} <<at ekki felli sjór undir,>><sup id="a11">[11](#myfootnote11)</sup> en B&#x1EB;rkr tjaldar búð þeira. 11. Þorkell hafði girzkan<sup id="a12">[12](#myfootnote12)</sup> hatt á h&#x1EB;fði ok feld grán ok gulldálk um &#x1EB;xl en sverð í hendi. Síðan gengr Hallbj&#x1EB;rn, ok sveinarnir með honum, þangat at, sem Þorkell sitr. 12. Nú tekr annar sveinninn til orða, sá hinn ellri, ok mælti: "Hverr er sá hinn g&#x1EB;fugligi er hér sitr? Eigi hefi ek séð vænni mann né tígulegra."<sup id="a13">[13](#myfootnote13)</sup>
 
 13\. Hann svarar: "Vel fara þér orð, en Þorkell heiti ek."
 
@@ -67,7 +67,7 @@ Sveinninn mælti: "Allgóðr gripr mun sverðit þat vera, sem þú hefir í hen
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _sem = svá sem_, "how" (they grdually came).
+ _sem = svá sem_, "how" (they gradually came).
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:

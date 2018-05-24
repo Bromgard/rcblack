@@ -5,9 +5,9 @@ layout: default
 
 # Gísla saga Súrssonar 30
 
-### Auðr saves the boys. Gísli's dreams and verses.
+### Auðr saves the boys. Gísli's dreams and his verses.
 
-1\. Nú er at segja frá Auði, at hón gengr inn til Gísla ok mælti: "Nú skiptir mik miklu {hversu} þú villt til <<þín>> snúa, at gera minn sóma meira en ek er verð."
+1\. Nú er at segja frá Auði, at hón gengr inn til Gísla ok mælti: "Nú skiptir mik miklu {hversu} þú villt til <<þín>> snúa, at gera minn sóma meira en ek em verð."
 
 2\. Hann tók þegar undir ok mælti: "Veit ek, at þú munt segja mér víg Þorkels bróður míns."
 
@@ -32,7 +32,7 @@ ok hleypr upp ok vill bregða sverði, 4. ok kvað vísu:
 
 Gísli sagði, at þann veg var ok allra bezt, at þeir hittiz eigi; ok sefaz hann brátt, ok eru nú kyrr ein tíðendi. 6. Svá er sagt, at nú eru eigi meir eptir en tveir vetr þess, er draumkonan sagði hann mundu lifa. Ok er á líðr, er Gísli í Geirþjófsfirði, ok koma aptr draumar hans allir, ok harðar svefnfarir, ok k&oslash;mr nú jafnan at hánum draumkonan sú hin verri, ok þó hin stundum, en betri. 7. Einhverja nótt er þat enn, at Gísla dreymir, at konan sú en betri kom at hánum; hón sýndiz hánum ríða grám hesti, ok býðr hánum með sér at fara til síns innis, ok þat þekkiz hann. 8. Þau koma nú at húsi einu, því er nær var sem h&#x1EB;ll væri, ok leiðir hón hann inn í húsit, ok þóttu hánum þar vera hægindi í p&#x1EB;llum, ok vel um búit. 9. Hón bað þau þar vera ok una sér vel -- "ok skaltu hingat fara, ok þá er þú andaz," sagði hón, "ok njóta hér fjár ok farsælu."
 
-10\. Og nú vaknar hann, ok kvað vísur n&#x1EB;kkurar eptir því sem hann dreymði:
+10\. Ok nú vaknar hann, ok kvað vísur n&#x1EB;kkurar eptir því sem hann dreymði:
 
    >24   
    >    
@@ -82,7 +82,7 @@ Gísli sagði, at þann veg var ok allra bezt, at þeir hittiz eigi; ok sefaz ha
 
 4 __Str. 23__. Prose word order: Hverr of veit, nema Gísle drage hvassan hjaldrís ór spǫ́nom -- ǫ́tt fyrþa mon frétta f&oelig;revǫ́n, -- alls sigviþer segja snyrte hrings af þinge Þórketel ráþenn; vér drýgjom dǫ́þ til dauþa.
 
-"Who knows if Gísli will perhaps draw his sharp sword, the relative of the people (Gísli himself) will learn, when the warriors tell the sword-carrier (Gísli himself) of Þorkell's death. We will perform heroic deeds to death."
+"Who knows if Gísli will perhaps draw his sharp sword, the relative of the people (Gísli himself) will learn, when the warriors tell the sword-carrier (Gísli himself) of Þorkell's death. We will perform heroic deeds unto (our) death."
 
 * _hjaldríss_, "ice of battle," the cold steel, the sword.
 * [_spǫ́nn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0581:42) pl. _sp&oelig;nir_, the carved wood from which the scabbard was made, such as what has been found in ancient burials.   
@@ -115,7 +115,7 @@ This verse appears to presuppose something more than what is contained in the pr
 
 11 __Str. 25__. Prose word order:  Dýr dís l&oelig;ges elds lét of vísat drǫ́po stjóra til sess, þars dýnor lǫ́go; týnek því lítt; ok en svinna saums Nauma leidde mik meþ sér; skald hlaut blauta sæing; sákat hól í hvílo.
 
-"The splendid woman offered the poet a seat where down pillows lay; and the smart woman led me with her (into the bedroom); the poet (me) got a good bed; I saw no crease in the bed."
+"The splendid woman offered the poet a seat where down pillows lay; and the smart woman led me with her (into the bedroom); the poet (me) received a good bed; I saw no crease in the covers."
 
 * _Dís l&oelig;ges elds_, "dís, goddess, the sea-fire, that is, gold," a woman.
 * _drǫ́po stjóre_, "one who composes a drápa (actually panegyric; see _lof_ in str. 24)," a poet.
@@ -123,7 +123,7 @@ This verse appears to presuppose something more than what is contained in the pr
 
 12 __Str. 26__. Prose word order: Hingat skalt of deyja meþ fullo, fleinþolla falheyjaþr, kvaþ hringa Hildr at óþar gilde; þá mont, ormláþs Ullr, ráþa fyrir fée þvísa ok ísungs Ilme; þat hagar okr til auþar.
 
-"Here, warrior, you will certainly come to your death, said the woman to the poet; then thou shall, generous man, command over this wealth and the woman herself; that will be good luck for both of us."
+"Here, warrior, you will certainly come to your death, said the woman to the poet; then you shall, generous man, command over this wealth and the woman herself; that will be good luck for both of us."
 
 * _of_, is used by K. Gíslason (Njála II, 138--39).
 * _fleinþolla_ (see also K. Gísl.) _fallheyjaþr_, "one who causes the fall of trees, or pillars of the spears," a warrior, Gísli.
