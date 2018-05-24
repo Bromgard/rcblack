@@ -5,7 +5,7 @@ layout: default
 
 # Gísla saga Súrssonar 31
 
-### Helgi und Hávaðr are sent out with a message. Eyólfs unsuccessful trip to Geirþjófsfj&#x1EB;rðr, where he tries to bribe Auðr in vain
+### Helgi und Hávaðr are sent out on an errand. Eyólf's trip to Geirþjófsfj&#x1EB;rðr.
 
 1\. Frá því er sagt, einhverju sinni at Helgi {var} enn sendr á njósn í Geirþjófsfj&#x1EB;rð; ok þykkir m&#x1EB;nnum áræðiligt, at Gísli myni þar. 2. Sá maðr ferr með hánum, er Hávarðr hét; hann hafði komit út um sumarit áðr, ok var frændi Gests Oddleifssonar. 3. Þeir váru sendir í skóga, at h&#x1EB;ggva efnitré; en þó at þetta væri yfirbragð á þeira ferð, þá bjó þó hitt undir, at þeir skyldi leita at Gísla ok vita, ef þeir fyndi fylgsni Gísla. 4. Ok einn dag at kveldi sjá þeir eld í kleifunum fyrir sunnan ána; þat var um dagsetrsskeið ok niðmyrkr sem mest. Þá spyrr Hávarðr Helga, hvat þá sé til ráðs -- "ok muntu," segir hann, "vera þessu vanari en ek."
 
