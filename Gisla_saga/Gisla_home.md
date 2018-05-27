@@ -61,9 +61,9 @@ layout: default
 
  <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_13">13. Kafli</a></div>
  <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_26">26. Kafli</a></div>
- 
+
  ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Gísla saga Súrssonar</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://rcblack.net/Gisla_saga/Gisla_home/" property="cc:attributionName" rel="cc:attributionURL">Russell Black</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Gísla saga Súrssonar</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://rcblack.net/Gisla_saga/Gisla_home/" property="cc:attributionName" rel="cc:attributionURL">Russell Black</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ---
