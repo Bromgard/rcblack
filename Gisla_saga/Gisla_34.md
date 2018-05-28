@@ -51,21 +51,21 @@ layout: default
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _drepa--d&#x1EB;ggslóðina_, "To make (by hauling through the snow) a continuous trail through the frosted ground."
+ _drepa--d&#x1EB;ggslóðina_, "To make (by dragging through the snow) a continuous trail through the frosted ground."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _falla_, that showed the aggressors the way.
+ _falla_, that showed the aggressors the way to them.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- [_í l&oelig;mingi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0403:31), by stealth.
+ [_í l&oelig;mingi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0403:31), some kind of bird?
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
  __Str. 37__. Prose word order: Mér bar hlóm fyr eyro í heime sals dreyra, þás vit skilþomk, h&#x1EB;r-Bil; skekkek dverga drykkjo; ok hj&#x1EB;rraddar heggr hlýdde læmingja-h&#x1EB;ggve tveggja rjúpkera; dals d&#x1EB;gg mon koma á drenge.
 
-"A sound came into my ears from the region of the river, woman; I write a verse; and the warrior (I) heard two male ptarmigans asailling each other violoently; the rain of the bow will fall over the people."
+"A sound came into my ears from the region of the river, woman; I write a verse; and the warrior (I) heard two male ptarmigans assailing each other violently; the rain of the bow will fall over the people."
 
   * _heimr sals dreyra, salr_, here is found a very old usage, as is also found in V&#x1EB;lospá 4: "the earth;" the blood (the blood stream) of the earth," the river, (see the myth of Ymer); therefore the poet probably means the small river near the "earth house," "the Botnsá; _heimr_ is therefore the location on the river where he hid.
   * _þás vit_ etc. appears to assume a different situation than that of the saga.

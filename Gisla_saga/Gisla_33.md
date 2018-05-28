@@ -50,7 +50,7 @@ layout: default
    svá vakþe mik Sága   
    saums ór mínom draume.<sup id="a5">[5](#myfootnote5)</sup>   
 
-8\. Nú gerðiz svá mikit um drauma Gísla, at hann gerir svá myrkhræddan,<sup id="a6">[6](#myfootnote6)</sup> at hann þorir hvergi einn saman at vera; ok þegar er hann leggr sín augu saman,<sup id="a7">[7](#myfootnote7)</sup> þá sýniz hánum en sama kona. 9. Þat var enn eina nótt, at Gísli lét raunlítt í svefni. Auður spurði, hvat fyrir hann bæri.<sup id="a8">[8](#myfootnote8)</sup>
+8\. Nú gerðiz svá mikit um drauma Gísla, at hann gerir svá myrkhræddan,<sup id="a6">[6](#myfootnote6)</sup> at hann þorir hvergi einn saman at vera; ok þegar er hann leggr sín augu saman,<sup id="a7">[7](#myfootnote7)</sup> þá sýniz hánum en sama kona. 9. Þat var enn eina nótt, at Gísli lét raunlítt í svefni. Auðr spurði, hvat fyrir hann bæri.<sup id="a8">[8](#myfootnote8)</sup>
 
 10\. "Þat dreymði mik," segir Gísli, "at menn k&oelig;mi at oss, ok væri Eyjólfr í f&#x1EB;r ok mart annarra manna, ok hittumz vér, ok vissi ek, at áburðir<sup id="a9">[9](#myfootnote9)</sup> urðu með oss. 11. Einn<sup id="a10">[10](#myfootnote10)</sup> þeirra fór fyrstr, grenjandi mj&#x1EB;k, ok þóttumz ek h&#x1EB;ggva hann sundr í miðju, ok þótti mér vera á hánum vargs h&#x1EB;fuð. Þá sóttu margir at mér; ek þóttumz hafa skj&#x1EB;ldinn í hendi mér ok verjaz lengi." 12. Gísli kvað þá vísu:
 
@@ -153,7 +153,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- [_fokit_](<sup id="a1">[1](#myfootnote1)</sup>) and [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0158:1), "covered in snow."
+ [_fokit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:34) and [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0158:1), "covered in snow."
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -163,7 +163,7 @@ layout: default
 <a name="myfootnote3" id="f3">3</a>:
  __Str. 28__. Prose word order: It skoloþa [AM: skulu þo it kvaþ] verþa saman, kvaþ skapkers skorþa; svá hefr goþ leitat ykkr munar eitrs viþ ekka; allvaldr aldar hefr of sendan þik einn ór yþro ranne erlendes at kanna annan heim.
 
-"You shall not live together, said the woman; the god has afflicted you with the poison of the joy of love; the lord of humanity has sent you alone (without her) our of the home to seek another world."
+"You shall not live together, said the woman; the god has afflicted you with the poison of the joy of love; the lord of humanity has sent you alone (without her) out of the home to seek another world."
 
   * _It_, Gísli and Auðr.
   * _skapkers skorþa_, _skapker_, "mixed keg," or a big beer keg; whose _skorþa_ (see str. 23), a woman.
@@ -175,7 +175,7 @@ layout: default
 <a name="myfootnote4" id="f4">4</a>:
  __Str. 29__. Prose word order: Hugþak auþs þrúþe þvá mér mína sk&#x1EB;r rauþa Óþens elda lauþre ór þremja hlunns brunne, ok h&#x1EB;nd væri því vala hreifi-slóþar báls band í benja éle; blóþ rauþ kveifar hraun.
 
-"I dreamed that the woman washed my red head with the blood from the well of the sword; and that the hand of the woman in the blood would be (bloody); the blood colored my head."
+"I dreamed that the woman washed my red head with the blood from the well of the sword; and that the hand of the woman in would be (bloody) in the gore; the blood colored my head."
 
   * _auþs Þrúþr_, "the Þrúðr, godess, of power," the woman.
   * _Óþins eldar_, "the flames of Odin," the swords, whose _lauþr_, sea-foam, is blood; _þremja hlunnr_, "the stock of _þremjar_ (a certain part of the sword) "sword;" of which _brunnr_ is also blood; only when the sentence is reduced to its literal meaning do the redundancies appear.
@@ -187,7 +187,7 @@ layout: default
 <a name="myfootnote5" id="f5">5</a>:
  __Str. 30__. Prose word order: Hugþak geyme-G&#x1EB;ndol gunn&#x1EB;ldo falda mér dreyrugre húfo of rakskorenn reikar rúf, være hendr á henne þvegnar í hj&#x1EB;rregne; svá vakþe Sága saums mik ór mínom draum.
 
-"I dreamed the Valkyrie put a bloody hood on my newly cut hair, that her hands were bloodstained; this way the woman awakened me from my sleep."
+"I dreamed the Valkyrie put a bloody hood on my newly cut hair, that her hands were bloodstained; the woman awakened me from my sleep this way."
 
   * _Geyme-G&#x1EB;ndol gunn&#x1EB;ldo, gunnalda_ "the wave of the battle," the bloodstream, "the G&#x1EB;ndol, keeping the blood," the woman douses with the blood of the dream.
   * _reikar rúfr_, "the rye of the head," the hair, _reik_, actually "the crown," the hair is compared with long stalks of grain.
@@ -218,7 +218,7 @@ layout: default
 <a name="myfootnote11" id="f11">11</a>:
  __Str. 31__, Pose Word Order: Visak ár fjandr standa at mér at funde, þótt eige værak andaþr; ek fekk inne minna liþ, en þínn fríþr faþmr være roþenn í míno f&#x1EB;gro blóþe; vér gǫ́tom valtafn í mun hrafne.
 
-"Then I noticed early, although I was not dead, the enemies attacked me at the meeting; I had much fewer residents in the house, and that your beautiful breasts would be colored red by my bright blood; I [somehow] managed to give an offering of the slain to the delight of the raven."
+"Then I saw in the morning, although I was not dead, the enemies attacked me; I had much fewer at my side, and that your beautiful breasts would be colored red by my bright blood; I [somehow] managed to give an offering of the slain to the delight of the raven."
 
   * _Ar_, "early," seems to indicate the time of the attack.
   * _þótt_, etc. is a somewhat strange sentence; the sense seems to be: "although I only dreamed."
@@ -228,13 +228,13 @@ layout: default
 <a name="myfootnote12" id="f12">12</a>:
  __Str. 32__. Prose word order: Mǫ́ttot bella skilde skalde gellanda hj&#x1EB;r; skj&#x1EB;ldr kom mér at halde viþ hneite -- g&#x1EB;tom hug --, áþr an þeir, es mono vala aldrlage míno, bǫ́ro mik ofrliþe; hj&#x1EB;rs gnýr vas hǫ́r at heyra.
 
-"They could not break the poet's shield with a clanging sword, the shield shielded me against sword--I was brave--until the people who were to bring about my death overwhelmed me, when there was a loud chorus of sword."
+"They could not break the poet's shield with a clanging sword, the shield protected me against sword--I was brave--until the people who were to bring about my death overwhelmed me, then there was a loud chorus of swords."
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
  __Str. 33__. Prose word order: Sték of einu, áþr huggendr árflognes ynne mik sáran; gafk hræl&oelig;jar hauke tuggo Munens; sverþs egg sneiþ at síno ráþe legge í tvan; menja lester miste fóta; þat vas manns bót.
 
-"I overcame one [of them] beefore the warriors could hurt me; I gave Munin's food to the raven; the sword cutting cleanly through both thighs; the man lost his legs; that was the man's offering."
+"I overcame one [of them] before the warriors could hurt me; I gave Munin's food to the raven; the sword cutting cleanly through both thighs; the man lost his legs; that was the man's offering."
 
   * _huggendr árflognes_, "the comforts, pleasures of the ravens" the warrior; _árflognir_, actually "that flies early in the morning."
   * _hr&oelig;l&oelig;kjar haukr_, "the hawk of the body-river (the blood)," raven.
@@ -260,7 +260,7 @@ layout: default
 <a name="myfootnote15" id="f15">15</a>:
  __Str. 35__. Prose word order: Hugþak hj&#x1EB;rnets Gnáar Regen setja blóþ of báþar herþar mínar hv&#x1EB;sso sverþe, bauga-Hlín; ok mærar lífs váner være mér gránar af miklo fáre, lauka Vǫ́r; svá reynom líkn váss.
 
-"I dreamed that the warrior, with his sword (by means of a sword blow), bled blood over my two shoulders, O woman!; and that the wonderful hopes of life were dimmed by this evil thing, woman; but by doing this I will experience relief (end) of misery."
+"I dreamed that the warrior, with his sword (with a sword strike), bled blood over my two shoulders, O woman!; and that the wonderful hopes of life were dimmed by this evil thing, woman; but by doing this I will experience relief (the end) of misery."
 
   * _Hj&#x1EB;rnets-Regen_, _hj&#x1EB;r-_ (conj. for _hr&oelig;_) _net_, "the (defense) net of the sword" = shield; "_Gnó_, Goddess of the shield" is a valkyrie, whose (like Hildr) has the same meaning as battle; therefore "_Regenn_ of battle," a warrior.
   * _Regenn_ is probably a name for Odin, or simply "moving," something set in motion.
