@@ -32,7 +32,7 @@ Eyólfr leggr til Gísla með spjóti, en Gísli h&oslash;ggr mót ok spjótit a
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _ódeigliga_, harshly.
+ _ódeigliga_, with much difficulty.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>
@@ -40,7 +40,7 @@ Eyólfr leggr til Gísla með spjóti, en Gísli h&oslash;ggr mót ok spjótit a
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _hyrnan_, "corner," the blade of an ax.
+ _hyrnan_, "corner," the sharp end of the blade of the ax.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:

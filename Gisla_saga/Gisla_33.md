@@ -204,7 +204,7 @@ layout: default
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- [_b&oelig;ri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0091:49), plusquamperfect: "what a face he would have had."
+ [_b&oelig;ri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0091:49), plusquamperfect: "what had appeared to him."
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:

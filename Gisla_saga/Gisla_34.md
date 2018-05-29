@@ -78,7 +78,7 @@ layout: default
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _sem--til_, "and then it was is if you had a leader."
+ _sem--til_, "...as if leading the way."
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -98,7 +98,7 @@ layout: default
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _grey þitt_, "you snitch;" see c. 31, 5.
+ _grey þitt_, "you coward," or "bitch;" see c. 31, 5.
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
