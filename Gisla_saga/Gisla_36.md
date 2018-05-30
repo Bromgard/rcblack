@@ -41,19 +41,18 @@ Maðr er nefndr Sveinn er fyrstr réz upp í hamarinn í móti Gísla; Gísli h&
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _Gísli--mannskaða_, certainly a later addition, missing in S. 
+ _Gísli--mannskaða_, certainly a later addition, missing in S.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
  _líttat_, cf. c. 27, 14.
 [↩](#a4)
- 
+
 <a name="myfootnote5" id="f5">5</a>:
- __Str. 39__. Prose word order: Fulla halla fagrleit, sús teiter (_also AM_) mik, skal fregna rekkel&#x1EB;t at sínom vin, fals regns r&#x1EB;kkom; ek hygg vel, þótt ítrslegnar sverþs eggjar bíte mik; þá herþe gaf minn faþer sínom sveine. 
+ __Str. 39__. Prose word order: Fulla halla fagrleit, sús teiter (_also AM_) mik, skal fregna rekkel&#x1EB;t at sínom vin, fals regns r&#x1EB;kkom; ek hygg vel, þótt ítrslegnar sverþs eggjar bíte mik; þá herþe gaf minn faþer sínom sveine.
 
 "The beautiful woman, who is my joy, will hear that her friend, bold in the fight, has shown bravery; I am well although the forged sword-saws bites into my flesh, my father gave to his son courage."
-
-	* _Fulla halla_ (für _hallar_ in M, S), "the Fulla, goddess, the rock," Auðr; _hallar_ is like _steinar_ in the word _steinas&oslash;_, see str. 10. 
+  * _Fulla halla_ (für _hallar_ in M, S), "the Fulla, goddess, the rock," Auðr; _hallar_ is like _steinar_ in the word _steinas&oslash;_, see str. 10.
 	* _fahrleit_, "with a beautiful face."
 	* _rekke_ (v. _rakkr_) = _hugrekke_, "courage," and _l&#x1EB;t_ = _l&oelig;ti_, "to behave" composed; "courages behavior, valor."
 	* _fals regns_; _falr_, "the shaft of the speer," whose _regn_ is battle; _rakkr fals regns_, "courages in battle."
