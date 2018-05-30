@@ -37,7 +37,7 @@ Maðr er nefndr Sveinn er fyrstr réz upp í hamarinn í móti Gísla; Gísli h&
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _staðar n&oelig;mi_, "reached their end."
+ _staðar n&oelig;mi_, "reach the end."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -53,10 +53,10 @@ Maðr er nefndr Sveinn er fyrstr réz upp í hamarinn í móti Gísla; Gísli h&
 
 "The beautiful woman, who is my joy, will hear that her friend, bold in the fight, has shown bravery; I am well although the forged sword-saws bites into my flesh, my father gave to his son courage."
   * _Fulla halla_ (für _hallar_ in M, S), "the Fulla, goddess, the rock," Auðr; _hallar_ is like _steinar_ in the word _steinas&oslash;_, see str. 10.
-	* _fahrleit_, "with a beautiful face."
-	* _rekke_ (v. _rakkr_) = _hugrekke_, "courage," and _l&#x1EB;t_ = _l&oelig;ti_, "to behave" composed; "courages behavior, valor."
-	* _fals regns_; _falr_, "the shaft of the speer," whose _regn_ is battle; _rakkr fals regns_, "courages in battle."
-	* _herþe_ is a correction by  K. Gíslasons (in Udvalg) for _herþo_.
+  * _fahrleit_, "with a beautiful face."
+  * _rekke_ (v. _rakkr_) = _hugrekke_, "courage," and _l&#x1EB;t_ = _l&oelig;ti_, "to behave" composed; "courages behavior, valor."
+  * _fals regns_; _falr_, "the shaft of the speer," whose _regn_ is battle; _rakkr fals regns_, "courages in battle."
+  * _herþe_ is a correction by  K. Gíslasons (in Udvalg) for _herþo_.
 
 In this beautiful verse, the last two lines are distinguised by the striking emphsis on the words, _þá_, _sínom_, _minn_; the stanza demonstrates "the tremendous stength of the soul that the poet has preserved until the last moment" (Svb. Egilsson).  
 [↩](#a5)
