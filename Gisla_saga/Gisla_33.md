@@ -166,9 +166,9 @@ layout: default
 "You shall not live together, said the woman; the god has afflicted you with the poison of the joy of love; the lord of humanity has sent you alone (without her) out of the home to seek another world."
 
   * _It_, Gísli and Auðr.
-  * _skapkers skorþa_, _skapker_, "mixed keg," or a big beer keg; whose _skorþa_ (see str. 23), a woman.
-  * _munar eitr_, "the poison of (love's) pleasure" is "the sorrow, misery, woe."
-  * _allvaldr aldar = goþ_ in chapter 4 Gísli was half Christian.
+  * _skapkers_ _skorþa_, [_skapker_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0539:4), "mixed keg," or a big beer keg; one that is [_skorþa_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0554:28) (see str. 23), a woman.
+  * [_munar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0437:1) [_eitr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0124:9), "the poison of (love's) pleasure" is "the sorrow, misery, woe."
+  * [_allvaldr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0017:6) [_aldar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0763:9) = [_goþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0207:36) in chapter 4 Gísli was half Christian.
   * _hefr of sendan_ must mean "he intended to send you, to let you come."
 [↩](#a3)
 

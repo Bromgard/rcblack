@@ -67,12 +67,12 @@ layout: default
 
 "A sound came into my ears from the region of the river, woman; I write a verse; and the warrior (I) heard two male ptarmigans assailing each other violently; the rain of the bow will fall over the people."
 
-  * _heimr sals dreyra, salr_, here is found a very old usage, as is also found in V&#x1EB;lospá 4: "the earth;" the blood (the blood stream) of the earth," the river, (see the myth of Ymer); therefore the poet probably means the small river near the "earth house," "the Botnsá; _heimr_ is therefore the location on the river where he hid.
+  * _heimr sals dreyra,_ [_salr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0510:5), here is found a very old usage, as is also found in V&#x1EB;lospá 4: "the earth;" the blood (the blood stream) of the earth," the river, (see the myth of Ymer); therefore the poet probably means the small river near the "earth house," "the Botnsá; _heimr_ is therefore the location on the river where he hid.
   * _þás vit_ etc. appears to assume a different situation than that of the saga.
-  * _h&#x1EB;r-Bil_, "the godess of flax," the woman.
-  * _skekkek_ is an expression of modest genius of the poet; _skekkja_, "to set akilter;" _skekkir bragsmíþar_ in Bj&#x1EB;rn Hitd&oelig;lakappe (verse 17 in Boers ausg.).
+  * [_h&#x1EB;r_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0311:23)_-Bil_, "the godess of flax," the woman.
+  * _skekkek_ is an expression of modest genius of the poet; [_skekkja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0543:20), "to set akilter;" _skekkir bragsmíþar_ in Bj&#x1EB;rn Hitd&oelig;lakappe (verse 17 in Boer's edition).
   * _dverga drykkja_ (also AM), "the drink of dwarves," the poet, poetry, the poem.
-  * _hj&#x1EB;r-raddar heggr_; _hj&#x1EB;rr&#x1EB;dd_, "the voice or loud speech of the sword" the battle, of which _heggr_, "unerring tree," is the warrior.
+  * [_hj&#x1EB;r_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0268:14)-[_raddar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0507:2) _heggr_; _hj&#x1EB;rr&#x1EB;dd_, "the voice or loud speech of the sword" the battle, of which _heggr_, "unerring tree," is the warrior.
   * _l&oelig;mingja-h&#x1EB;gg_, "a violent, forceful thrust," from mutual, wrathful attack.
   * _dals d&#x1EB;gg_, "the rain of arrows," arrows and spears not only in their own meanings but with regards to the fight itself as well.
 [↩](#a5)
@@ -82,7 +82,7 @@ layout: default
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _kleifarnar_, about the terrain and the peculiarities of the battle see the thorough analysis of Vigfússon's, Árbók 1883, pp. 44 ff. together with the two plates. See also Kålund I, 560--61.
+ [_kleifarnar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0342:24), about the terrain and the peculiarities of the battle see the thorough analysis of Vigfússon's, Árbók 1883, pp. 44 ff. together with the two plates. See also Kålund I, 560--61.
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -118,7 +118,7 @@ layout: default
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
- _lurki, lurkr = þusl_ in &sect; 8.
+ _lurki_, [_lurkr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0399:30) = _þusl_ in &sect; 8.
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:

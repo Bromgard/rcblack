@@ -32,7 +32,7 @@ layout: default
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _stokks_, that is, _setstokks_, cf. Eyrb. c. 24, 1. 
+[ _stokks_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0595:12), that is, [_setstokks_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0525:9), cf. Eyrb. c. 24, 1. 
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:

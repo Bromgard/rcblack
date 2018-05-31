@@ -45,24 +45,24 @@ Maðr er nefndr Sveinn er fyrstr réz upp í hamarinn í móti Gísla; Gísli h&
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _líttat_, cf. c. 27, 14.
+ [_líttat_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0394:3), cf. c. 27, 14.
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
  __Str. 39__. Prose word order: Fulla halla fagrleit, sús teiter (_also AM_) mik, skal fregna rekkel&#x1EB;t at sínom vin, fals regns r&#x1EB;kkom; ek hygg vel, þótt ítrslegnar sverþs eggjar bíte mik; þá herþe gaf minn faþer sínom sveine.
 
 "The beautiful woman, who is my joy, will hear that her friend, bold in the fight, has shown bravery; I am well although the forged sword-saws bites into my flesh, my father gave to his son courage."
-  * _Fulla halla_ (für _hallar_ in M, S), "the Fulla, goddess, the rock," Auðr; _hallar_ is like _steinar_ in the word _steinas&oslash;_, see str. 10.
-  * _fahrleit_, "with a beautiful face."
-  * _rekke_ (v. _rakkr_) = _hugrekke_, "courage," and _l&#x1EB;t_ = _l&oelig;ti_, "to behave" composed; "courages behavior, valor."
-  * _fals regns_; _falr_, "the shaft of the speer," whose _regn_ is battle; _rakkr fals regns_, "courages in battle."
+  * _Fulla halla_ (for _hallar_ in M, S), "the Fulla, goddess, the rock," Auðr; _hallar_ is like _steinar_ in the word _steinas&oslash;_, see str. 10.
+  * [_fagrleit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=fagr-leitr&startrow=1), "with a beautiful face."
+  * [_rekke_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0481:35) (v. _rakkr_) = _hugrekke_, "courage," and _l&#x1EB;t_ = [_l&oelig;ti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0404:10), "to behave" composed; "courages behavior, valor."
+  * _fals regns_; [_falr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0140:10), "the shaft of the speer," whose [_regn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0489:3) is battle; _rakkr fals regns_, "courages in battle."
   * _herþe_ is a correction by  K. Gíslasons (in Udvalg) for _herþo_.
 
 In this beautiful verse, the last two lines are distinguised by the striking emphsis on the words, _þá_, _sínom_, _minn_; the stanza demonstrates "the tremendous stength of the soul that the poet has preserved until the last moment" (Svb. Egilsson).  
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _ok klýfr hann allt til beltisstaðar_, Jónsson: ok fær hann þegar bana.
+ _ok klýfr hann allt til_ [_beltisstaðar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=beltis-sta%26eth%3Br&startrow=1), Jónsson: ok fær hann þegar bana.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:

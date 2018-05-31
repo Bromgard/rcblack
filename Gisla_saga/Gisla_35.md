@@ -32,7 +32,7 @@ Eyólfr leggr til Gísla með spjóti, en Gísli h&oslash;ggr mót ok spjótit a
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _ódeigliga_, with much difficulty.
+ [_ódeigliga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=%FA-deigliga&startrow=1), harshly, with much difficulty.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>
@@ -40,7 +40,7 @@ Eyólfr leggr til Gísla með spjóti, en Gísli h&oslash;ggr mót ok spjótit a
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _hyrnan_, "corner," the sharp end of the blade of the ax.
+ [_hyrnan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0304:22), "corner," the "horns" of the blade of the ax; the corners.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
@@ -56,11 +56,11 @@ Eyólfr leggr til Gísla með spjóti, en Gísli h&oslash;ggr mót ok spjótit a
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _óh&oelig;gjaz_, "become difficult."
+ [_óh&oelig;gjaz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=%FA-h%E6gja&startrow=1), "become difficult."
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _fríðendi_, n. pl. "valuable gifts."
+ [_fríðendi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0174:16), n. pl. "valuable gifts."
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
