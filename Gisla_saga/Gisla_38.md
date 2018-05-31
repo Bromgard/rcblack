@@ -17,7 +17,7 @@ Lúkum vér hér Gísla s&#x1EB;gu Súrssonar.
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _með Sirgurði hvíta_ Otherwise unknown; a possible scribal error. 
+ _með Sirgurði hvíta_ Otherwise unknown; a possible scribal error.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -25,7 +25,7 @@ Lúkum vér hér Gísla s&#x1EB;gu Súrssonar.
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _kaupangi_, d.i. Niðaróss, Trondheim. 
+ _kaupangi_, d.i. Niðaróss, Trondheim.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -37,7 +37,7 @@ Lúkum vér hér Gísla s&#x1EB;gu Súrssonar.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _en = heldr en_. 
+ _en = heldr en_.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -45,11 +45,11 @@ Lúkum vér hér Gísla s&#x1EB;gu Súrssonar.
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- _Ari Súrsson_, see above c. 2, 4. 
+ _Ari Súrsson_, see above c. 2, 4.
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _þess_, that is, that they killed him. 
+ _þess_, that is, that they killed him.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -65,11 +65,11 @@ Lúkum vér hér Gísla s&#x1EB;gu Súrssonar.
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _í Nóregi_, S allows him and his sister to come to Gr&oelig;nland, which should be reagarded as a scribal addition. 
+ _í Nóregi_, S allows him and his sister to come to Gr&oelig;nland, which should be reagarded as a scribal addition.
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
- [_skýr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0564:24), "clear, evident."
+ [_skýr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0564:24), "bright, intelligent."
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
