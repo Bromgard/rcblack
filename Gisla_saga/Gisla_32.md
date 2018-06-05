@@ -58,8 +58,6 @@ Hón gaf hánum þó raunar gullit fyrir liðveizlu sína. 9. Hávarðr fékk s�
 
 4 __Str. 27__. Prose word order: Menn segja, at mjó fjarþar elgs fúrvangs Hlín hafe of folget manne sínom ranga huge, en vitom grjót&#x1EB;lons grundar fit sitja grátna; hykkat h&oelig;lebrekko hrannlogs sanna at því.
 
-"Man sagt, die schlanke frau gege einen falschen sinn gegen ihren mann; ich aber weiss, dass die frau weinend dasitzt; ich glaube nicht, dass es mit recht von der frau gesagt wird,"
-
 "It is said that the slender woman makes a false case against her husband, but I know that the woman is sitting there weeping, I do not think that this is true regarding the woman."
 
 * _fjarþar--Hlín_ = _fjarþar elgs vangfúrs Hlín_ (_fúr_ is conjectured by K. Gíslasons [Skjaldedigtenes beskaffenhed, s. 293, vgl. Udvalg] for _fley_); _fjarþar elgr_, "the deer of the fjord," a ship; whose _vangr_, "land," the sea; "the sea's _fúrr_, fire" = gold; "the gold's _Hlín_, goddess," the woman.
