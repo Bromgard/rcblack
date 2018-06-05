@@ -21,11 +21,11 @@ Lúkum vér hér Gísla s&#x1EB;gu Súrssonar.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _kaupa þeim búðarrúm_, "rent a room (lodging)."
+ _kaupa þeim_ [_búðarrúm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=b%FA%F0ar-r%FAm&startrow=1), "rent a room (lodging)."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _kaupangi_, d.i. Niðaróss, Trondheim.
+ _kaupangi_, that is Niðaróss, Trondheim.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -41,7 +41,7 @@ Lúkum vér hér Gísla s&#x1EB;gu Súrssonar.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _gjalda_, "pay."
+ [_gjalda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0201:39), "pay."
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -53,7 +53,7 @@ Lúkum vér hér Gísla s&#x1EB;gu Súrssonar.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _í veiðif&#x1EB;r_, "when fishing."
+ _í_ [_veiðif&#x1EB;r_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=vei%F0i-f%F6r&startrow=1), "while fishing."
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:

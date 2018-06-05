@@ -166,9 +166,9 @@ layout: default
 "You shall not live together, said the woman; the god has afflicted you with the poison of the joy of love; the lord of humanity has sent you alone (without her) out of the home to seek another world."
 
   * _It_, Gísli and Auðr.
-  * _skapkers skorþa_, _skapker_, "mixed keg," or a big beer keg; whose _skorþa_ (see str. 23), a woman.
-  * _munar eitr_, "the poison of (love's) pleasure" is "the sorrow, misery, woe."
-  * _allvaldr aldar = goþ_ in chapter 4 Gísli was half Christian.
+  * _skapkers_ _skorþa_, [_skapker_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0539:4), "mixed keg," or a big beer keg; one that is [_skorþa_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0554:28) (see str. 23), a woman.
+  * [_munar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0437:1) [_eitr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0124:9), "the poison of (love's) pleasure" is "the sorrow, misery, woe."
+  * [_allvaldr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0017:6) [_aldar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0763:9) = [_goþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0207:36) in chapter 4 Gísli was half Christian.
   * _hefr of sendan_ must mean "he intended to send you, to let you come."
 [↩](#a3)
 
@@ -177,11 +177,11 @@ layout: default
 
 "I dreamed that the woman washed my red head with the blood from the well of the sword; and that the hand of the woman in would be (bloody) in the gore; the blood colored my head."
 
-  * _auþs Þrúþr_, "the Þrúðr, godess, of power," the woman.
-  * _Óþins eldar_, "the flames of Odin," the swords, whose _lauþr_, sea-foam, is blood; _þremja hlunnr_, "the stock of _þremjar_ (a certain part of the sword) "sword;" of which _brunnr_ is also blood; only when the sentence is reduced to its literal meaning do the redundancies appear.
-  * _Vala hreifi-_ (subj. for _hr&oelig;fa, hreifa_) _slóðar báls band: valaslóþ_, "the way, the seat of the falcon," the arm, _hreifi-_ "agile;" "of the arm _bál_, flame" = gold, whose _band_, "divinity, godess" = the woman; the last word is only otherwise known in plur. before (_b&#x1EB;nd_, the gods).
-  * _benja él_, _él_, is here identical with "rain;" "the rain of wounds" is blood.
-  * _kveifar hraun_, _kveif_ is a hood; "_hraun_ of the hood" is the head; similarly see _hjalma klettr_.
+  * [_auþs_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0032:12) [_Þrúþr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0747:27), "the Þrúðr, goddess, of power, fate" the woman.
+  * _Óþins_ [_eldar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0125:42), "the flames of Odin," the swords, whose [_lauþr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0374:32), sea-foam, is blood; [_þremja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=%FEremja&startrow=1) [_hlunnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0272:49), "the stock of _þremjar_ (a certain part of the sword) "sword;" of which [_brunnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0082:36) is also blood; only when the sentence is reduced to its literal meaning do the redundancies appear.
+  * [_Vala_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0676:2) [_hreifi-_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0283:8) (subj. for _hr&oelig;fa, hreifa_) _slóðar báls band: valaslóþ_, "the way, the seat of the falcon," the arm, _hreifi-_ "agile;" "of the arm [_bál_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0054:23), flame" = gold, whose _band_, "divinity, goddess" = the woman; the last word is only otherwise known in plur. before ([_b&#x1EB;nd_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0051:7), the gods).
+  * [_benja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0057:29) [_él_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0125:7), _él_, is here identical with "rain;" "the rain of wounds" is blood.
+  * [_kveifar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0361:8) [_hraun_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0282:22), _kveif_ is a hood; "_hraun_ of the hood" is the head; similarly see [_hjalma_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0266:48) [_klettr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0342:50).
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
