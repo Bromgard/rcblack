@@ -189,10 +189,10 @@ layout: default
 
 "I dreamed the Valkyrie put a bloody hood on my newly cut hair, that her hands were bloodstained; the woman awakened me from my sleep this way."
 
-  * _Geyme-G&#x1EB;ndol gunn&#x1EB;ldo, gunnalda_ "the wave of the battle," the bloodstream, "the G&#x1EB;ndol, keeping the blood," the woman douses with the blood of the dream.
-  * _reikar rúfr_, "the rye of the head," the hair, _reik_, actually "the crown," the hair is compared with long stalks of grain.
-  * _hj&#x1EB;rregn_, "the rain of the sword," blood.
-  * _Sága saums_, Gísli's wife, Auðr.
+  * _Geyme-G&#x1EB;ndol gunn&#x1EB;ldo,_ [_gunn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0221:14)-[_alda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0011:26) "the wave of the battle," the bloodstream, "the G&#x1EB;ndol (the name of a valkyrie), [_geyma_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0198:17), keeping the blood," the woman douses [the poet] with the blood of the dream.
+  * [_reikar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0490:45)-[_rúfr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0503:55) (equivalent to [_rúgr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0503:56)), "the rye of the head," the hair, _reik_, actually "the crown," the hair is compared with long stalks of grain.
+  * [_hj&#x1EB;r_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:6)-[_regn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=bt:b0789:29), "corpse rain," blood.
+  * [_Sága_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0516:25) [_saums_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0515:49), "goddess of sewing," Auðr.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
@@ -208,21 +208,21 @@ layout: default
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _áburðir_, "mutual attacks," c.f. _bera vápn á_.
+ [_áburðir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0039:19), "mutual attacks," c.f. _bera vápn á_.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _Einn_, this one is Njósnar-Helgi, s.c. 33.
+ _Einn_, that is, Njósnar-Helgi, s.c. 33.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- __Str. 31__, Pose Word Order: Visak ár fjandr standa at mér at funde, þótt eige værak andaþr; ek fekk inne minna liþ, en þínn fríþr faþmr være roþenn í míno f&#x1EB;gro blóþe; vér gǫ́tom valtafn í mun hrafne.
+ __Str. 31__, Prose Word Order: Visak ár fjandr standa at mér at funde, þótt eige værak andaþr; ek fekk inne minna liþ, en þínn fríþr faþmr være roþenn í míno f&#x1EB;gro blóþe; vér gǫ́tom valtafn í mun hrafne.
 
 "Then I saw in the morning, although I was not dead, the enemies attacked me; I had much fewer at my side, and that your beautiful breasts would be colored red by my bright blood; I [somehow] managed to give an offering of the slain to the delight of the raven."
 
-  * _Ar_, "early," seems to indicate the time of the attack.
+  * [_ár_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0041:132), "early," seems to indicate the time of the attack.
   * _þótt_, etc. is a somewhat strange sentence; the sense seems to be: "although I only dreamed."
-  * _liþ_, namely, his wife and the girl Guðríðr.
+  * [_liþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0387:6), specifically, Auðr and the foster girl Guðríðr.
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -236,11 +236,11 @@ layout: default
 
 "I overcame one [of them] before the warriors could hurt me; I gave Munin's food to the raven; the sword cutting cleanly through both thighs; the man lost his legs; that was the man's offering."
 
-  * _huggendr árflognes_, "the comforts, pleasures of the ravens" the warrior; _árflognir_, actually "that flies early in the morning."
-  * _hr&oelig;l&oelig;kjar haukr_, "the hawk of the body-river (the blood)," raven.
-  * _tugga Munens_, "the food of Munin (one of Odin's ravens) = "the corpse;" _tugga_, actually. "what one has to chew in the mouth."
-  * _menja lester_, "the spoiler, waster, of rings" a (generous) man.
-  * _manns bót_, see _drengsbót_, "which increases and magnifies the honor and worth of a man."
+  * [_huggendr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:24) [_ár_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0041:132)-[_flognes_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0161:21), "the comforts, pleasures of the ravens" the warrior; _árflognir_, actually, "that which flies early in the morning."
+  * [_hr&oelig;_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:6)-[_l&oelig;kjar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0403:29) [_haukr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0241:27), "the hawk of the body-river (the blood)," raven.
+  * [_tugga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0643:39) _Munens_, "the mouthful of Munin (one of Odin's ravens) = "the corpse;" _tugga_, actually, "what one has chewed before swallowing."
+  * [_menja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0424:5) [_lester_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0385:12), "the spoiler, waster, of rings" a (generous) man. See also [_lesta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0385:10)
+  * [_manns_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0407:7) [_bót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0075:4), see aslo [_drengs_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0105:13)-_bót_, "that which increases and magnifies the honor and worth of a man."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
@@ -248,13 +248,14 @@ layout: default
 
 "I dreamed, woman! that blood was pouring down on both sides; so much I have to endure; I have not spared the people; I expect a fight."
 
-  * _Brúþr_, J. Þorkelsson'd conjecture, _blóþ_.
-  * _benvíþe_ (f. _víþes_) "the sea of the wound," blood.
-  * _vílsinnr_ (_siþr_), "work, trouble, tribulation."
-  * _blíþ_, conj. for _ben_.
-  * _seima Lofn_, "Lofn, goddess, of gold," the woman.
+  * [_Brúþr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0084:5), J. Þorkelsson's hypothesis, [_blóþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0069:39).
+  * [_ben_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0057:21)-[_víþe_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0714:28) (f. _víþes_) "the sea of the wound," blood.
+  * [_vílsinnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0717:9) (_siþr_), "work, trouble, tribulation."
+  * [_blíþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=bt:b0111:2), conj. for [_ben_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0057:21).
+  * [_seima_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0520:16) _Lofn_, "Lofn (a goddess) of gold," the woman.   
+&#42857;This is a very interesting word. Sewing, weaving, and poetry making are part of its lexical range.
   * _þegars: þegar_, AM, is M, S.
-  * _brodda hríþ_, "the storm of arrows or spears," battle.
+  * [_brodda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0081:6) [_hríþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=bt:b0562:25), "storm of arrows, or spears," battle.
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
@@ -262,12 +263,12 @@ layout: default
 
 "I dreamed that the warrior, with his sword (with a sword strike), bled blood over my two shoulders, O woman!; and that the wonderful hopes of life were dimmed by this evil thing, woman; but by doing this I will experience relief (the end) of misery."
 
-  * _Hj&#x1EB;rnets-Regen_, _hj&#x1EB;r-_ (conj. for _hr&oelig;_) _net_, "the (defense) net of the sword" = shield; "_Gnó_, Goddess of the shield" is a valkyrie, whose (like Hildr) has the same meaning as battle; therefore "_Regenn_ of battle," a warrior.
-  * _Regenn_ is probably a name for Odin, or simply "moving," something set in motion.
-  * _bauga-Hlín_, and _lauka Vǫ́r_, "the goddess of rings, the leek," a woman.
-  * _gránn_ = _grár_, "gray, somber."
-  * _m&oelig;rar_, conj. Svb. Egilssons for _nærar.
-  * _reynom_, conj. for _reynumz_ and _váss_ for_val_.
+  * _Hj&#x1EB;rnets-Regen_, _hj&#x1EB;r-_ (conj. for [_hr&oelig;_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:6)) [_net_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0454:6), "the (defense) net of the sword" = shield; "_Gnó_, Goddess of the shield" is a valkyrie, whose name (like Hildr) means battle; therefore "_Regenn_ of battle," a warrior.
+  * [_Regenn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0488:45) is probably a name for Odin, or simply "moving," something set in motion.
+  * [_bauga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0053:52)-_Hlín_, and [_lauka_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0374:46) _Vǫ́r_, "the names of goddesses; goddess of rings,goddess of the leek," woman.
+  * _gránn_ = [_grár_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0212:33), "gray, somber."
+  * _m&oelig;rar_, conj. Svb. Egilssons for [_nærar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0459:71).
+  * _reynom_, = [_reynumz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0496:11) and _váss_ = [_val_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0674:26).
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
@@ -275,11 +276,11 @@ layout: default
 
 "I dreamed that the warriors cut off both of my arms with sword; I received great wounds; I continued to dream that my head was shattered completely by the sword-cutting edge, woman; the sword gaped over my head."
 
-  * _Hlífar flagþ_, "the giant of the shield," the ax; whose _hristendr_, "swinger," the warrior.
-  * _brynjo v&#x1EB;ndr_, "the rod of the mail coat" (that which strikes the coat of mail), the sword.
-  * _hjalmstofn_, "the tent-pole of the helm," the head.
-  * _munnr_, "mouth" of the sword is the cutting edge; note the excellent composition.
-  * _Syn tvinna_, "the goddess of thread," woman.
+  * [_Hlífar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0271:15) [_flagþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0159:23), "the giant of the shield," the ax; of which is used by the [_hristendr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0285:23), "swinger," the warrior.
+  * [_brynjo_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0084:32) [_v&#x1EB;ndr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0722:5), "the rod of the mail coat" (that which strikes the coat of mail), the sword.
+  * [_hjalm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0266:48) [_stofn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0595:5), "the tent-pole of the helm," the head.
+  * [_munnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0438:10), "mouth" of the sword is the cutting edge; note the excellent composition.
+  * _Syn_ [_tvinna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0645:13), "the goddess of thread," woman.
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
@@ -287,7 +288,7 @@ layout: default
 
 "I saw the woman crying while standing over me; this woman had wetness brewing; and (I dreamed) that the glorious woman soon bandaged my wounds; what meaning, do you think, this has for me?"
 
-  * _Sj&#x1EB;fn silfrbands_, "the goddess of the silver band (in her hair)," the woman.
-  * _Gerþr gerþo_ (so in AM), _gerþa_, is a shirt or coat of the "goddess," a woman.
-  * _&#x1EB;ldo eld-Nf&#x1EB;ron_, "the goddess of the fire of the wave" (of gold), the woman.
+  * _Sj&#x1EB;fn_ [_silfr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0528:17)-[_bands_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0051:7), "the goddess of the silver band (in her hair)," the woman.
+  * _Gerþr gerþo_ (so in AM), [_gerþa_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0197:10), is a shirt or coat of the "goddess," a woman.
+  * [_ǫldo_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0011:26) [_eld_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0125:42)-_Nj&#x1EB;ron_, "the goddess of the fire of the wave" (of gold), the woman.
 [↩](#a17)
