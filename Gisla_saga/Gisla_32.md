@@ -9,7 +9,7 @@ layout: default
 
 1\. Síðan gengr hón út ok til móts við Gísla ok segir hánum: "Fóstra mín er nú vitlaus orðin, ok vill svíkja þik."
 
-Gísli mælti: "Ger þú þér gott í hug,<sup                             id="a1">[1](#myfootnote1)</sup> því at eigi mun mér þat at fj&#x1EB;rlesti<sup id="a2">[2](#myfootnote2)</sup> verða, at Auðr {blekki mik}<<sé raðbani minn>>,"<sup id="a3">[3](#myfootnote3)</sup>
+Gísli mælti: "Ger þú þér gott í hug,<sup id="a1">[1](#myfootnote1)</sup> því at eigi mun mér þat at fj&#x1EB;rlesti<sup id="a2">[2](#myfootnote2)</sup> verða, at Auðr {blekki mik}<<sé raðbani minn>>,"<sup id="a3">[3](#myfootnote3)</sup>
 
 2\. Ok kvað vísu:
 
