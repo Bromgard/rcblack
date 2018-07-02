@@ -39,46 +39,90 @@ ok svá gera þeir ok kvez Eyjólfr áðr vilja hitta Auði. 16. Þeir koma nú 
 
 ### Notes
 
-1 _ár&oelig;þiligt_, "probably."
+<a name="myfootnote1" id="f1">1</a>:
+ [_ár&oelig;þiligt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0045:26), "probably."
+[↩](#a1)
 
-2 _sumarit áðr_, "last summer."
+<a name="myfootnote2" id="f2">2</a>:
+ _sumarit áðr_, "last summer."
+[↩](#a2)
 
-3 _efnitré_, "lumber."
+<a name="myfootnote3" id="f3">3</a>:
+ [_efnitré_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0116:12), "lumber."
+[↩](#a3)
 
-4 _yfirbragð_, n. "pretense."
+<a name="myfootnote4" id="f4">4</a>:
+ [_yfirbragð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0724:13), n. "pretense."
+[↩](#a4)
 
-5 _bjó--undir_, "stuck behind it" (was the real purpose).
+<a name="myfootnote5" id="f5">5</a>:
+ _bjó--undir_, "stuck behind it" (was the real purpose).
+[↩](#a5)
 
-6 _fylgsni_, n. "hiding."
+<a name="myfootnote6" id="f6">6</a>:
+ [_fylgsni_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0179:13), n. "hiding."
+[↩](#a6)
 
-7 _niðmyrkr_, n. "hiding."
+<a name="myfootnote7" id="f7">7</a>:
+ [_niðmyrkr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0454:32), n. "hiding."
+[↩](#a7)
 
-8 _Einn_ (namely _kostr_) _mun á g&#x1EB;rr_, "only one thing to do."
+<a name="myfootnote8" id="f8">8</a>:
+ _Einn_ (namely _kostr_) _mun á g&#x1EB;rr_, "only one thing to do."
+[↩](#a8)
 
-9 _hlaða_, "layering."
+<a name="myfootnote9" id="f9">9</a>:
+ [_hlaða_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0268:18), "layering."
+[↩](#a9)
 
-10 _finnaz_, _fylgsnit_ in S; in any case, that is the sense.
+<a name="myfootnote10" id="f10">10</a>:
+ _finnaz_, _fylgsnit_ in S; in either case the meaning is the same.
+[↩](#a10)
 
-11 _sér hvern_, "each one for himself," meaning, he throws stones away and scatters them as much as he can.
+<a name="myfootnote11" id="f11">11</a>:
+ _sér hvern_, "each one for himself," meaning, he throws stones away and scatters them as much as he can.
+[↩](#a11)
 
-12 _keyrir--bergit_, "throw him down to the rocky ground" (just where he stood).
+<a name="myfootnote12" id="f12">12</a>:
+ _keyrir--bergit_, "throw him down to the rocky ground" (just where he stood).
+[↩](#a12)
 
-13 _er engi annarr á g&#x1EB;rr_, "there is no other way out for us" (see above &sect; 5).
+<a name="myfootnote13" id="f13">13</a>:
+ _er engi annarr á g&#x1EB;rr_, "there is no other way out for us" (see above &sect; 5).
+[↩](#a13)
 
-14 _sem f&oelig;tr toguðu_, "as much as his legs could."
+<a name="myfootnote14" id="f14">14</a>:
+ _sem f&oelig;tr toguðu_, "as much as his legs could."
+[↩](#a14)
 
-15 _víkz við skjótt_, "then quickly sets in motion." See Hrafnkels saga (1847) s. 18, 13: _hann_ (_Hrafnkell_) _veikz við skjótt ok kvaddi upp menn sína_.
+<a name="myfootnote15" id="f15">15</a>:
+ _víkz við skjótt_, "then quickly sets in motion." See Hrafnkels saga (1847) s. 18, 13: _hann_ (_Hrafnkell_) _veikz við skjótt ok kvaddi upp menn sína_.
+[↩](#a15)
 
-16 _frá mér_, "away from me," "around me."
+<a name="myfootnote16" id="f16">16</a>:
+ _frá mér_, "away from me," "around me."
+[↩](#a16)
 
-17 _Afauðit verðr oss mj&#x1EB;k um þetta mál_, "little luck will come to us in this matter."
+<a name="myfootnote17" id="f17">17</a>:
+ _Afauðit verðr oss mj&#x1EB;k um þetta mál_, "little luck will come to us in this matter."
+[↩](#a17)
 
-18 _enn_, as above, c. 22, 5.
+<a name="myfootnote18" id="f18">18</a>:
+ _enn_, as above, c. 22, 5.
+[↩](#a18)
 
-19 _eiga kaup við þik_, "conclude a trade with you."
+<a name="myfootnote19" id="f19">19</a>:
+ _eiga kaup við þik_, "conclude a trade with you."
+[↩](#a19)
 
-20 _at þú seg mér_, see Eyrb. c. 19, 18. About _segja til ehs_, see above c. 22, 4.
+<a name="myfootnote20" id="f20">20</a>:
+ _at þú seg mér_, see Eyrb. c. 19, 18. About _segja til ehs_, see above c. 22, 4.
+[↩](#a20)
 
-21 _fé--feigan_, an old alliterative proverb; here _feigr_ seems to mean, "tot," not as usual, "fallen in death."
+<a name="myfootnote21" id="f21">21</a>:
+ _fé--feigan_, an old alliterative proverb; here _feigr_ seems to mean, "tot," not as usual, "fallen in death."
+[↩](#a21)
 
-22 _telr ok tjár_, an alliterative expression: "he needs a lot of words" (to persuade her).
+<a name="myfootnote22" id="f22">22</a>:
+ _telr ok tjár_, an alliterative expression: "he needs a lot of words" (to persuade her).
+[↩](#a22)
