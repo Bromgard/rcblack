@@ -69,7 +69,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _drengrinn góðr_, "a good (hearty) man;" here the weak form of the adj. would be impossible.
+ [_drengrinn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0105:13) [_góðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0209:63) and the rest of the entry can be found [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0210:1), "a good (hearty) man;" here the weak form of the adj. would be impossible.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -77,7 +77,7 @@ layout: default
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _þat ráðit--beztr_, "the plan by which you coul dbest prove yourself to be a good man."
+ _þat ráðit--beztr_, "the plan by which you could best prove yourself to be a good man."
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -85,11 +85,11 @@ layout: default
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _er sigla_, "when they come over."
+ _er_ [_sigla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0527:13), "when they come over."
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _fyrr_, s. c. 19, 27.
+ [_fyrr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0183:69), s. c. 19, 27.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -97,10 +97,10 @@ layout: default
 
 "The warrior seeks advice, woman, for now I have to separate from Ingjaldr, I write a song, and I will be satisfied with slack that fate has dealt me, poor woman, I do not care."
 
-* _Rít_. "a shield," "the tree (_ruþr = runnr_) of the shield" Gísli himself.
-* _skaldsteinn_, uncertain, possibly a stone, that is, a glass or amber pebble in the shape of a shield; also a article of woman's jewelry, so _skorþ_ "wearer," a woman.
-* _mj&#x1EB;þr Suþra_, "the mead, drink, of Suþres (the dwarf)," "poet-drink," song, verse.
-* _Bláfold = blám&oelig;rr_, "the blue earth," the sea; _skafl_ is an elongated snowdrift, "the _skafl_ of the sea" is "the long, foaming wave;" of the _hyrr_ "fire" = gold; _gǫ́tt_, actually, "doorpost," here "rod;" the whole "a woman;" _snyrte-_, "cute."
+* [_Rít_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0500:12). "a shield," "the tree (_ruþr = runnr_) of the shield" Gísli himself.
+* [_skaldsteinn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=skjald-steinn&startrow=1), uncertain, possibly a stone, that is, a glass or amber pebble in the shape of a shield; also a article of woman's jewelry, so _skorþ_ "wearer," a woman.
+* [_mj&#x1EB;þr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0433:4) _Suþra_, "the mead, drink, of Suþres (the dwarf)," "poet-drink," song, verse.
+* [_Blá_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0068:2)-[_fold_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:36) = _blá_-[_m&oelig;rr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:11), "the blue earth," the sea; [_skafl_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0536:23) is an elongated snowdrift, "the _skafl_ of the sea" is "the long, foaming wave;" of the [_hyrr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0304:26) "fire" = gold; _gǫ́tt_, actually, "doorpost," here "rod;" altogether "a woman;" [_snyrte-_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0577:4), "cute."
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -108,7 +108,7 @@ layout: default
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _vaðnum_ "the fishing lines."
+ [_vaðnum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0673:17) "fishing lines."
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -128,7 +128,7 @@ layout: default
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
- _fylgja_, "accompany," have him as a companion.
+ [_fylgja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0179:11), "accompany," have him as a companion.
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
@@ -140,7 +140,7 @@ layout: default
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
- _áleiðis_, "forward."
+ [_áleiðis_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0041:62), "forward."
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
@@ -156,7 +156,7 @@ layout: default
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
- _g&#x1EB;rr_, komp. to _g&#x1EB;orva_, "more."
+ _g&#x1EB;rr_, comparative of [_g&#x1EB;orva_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0226:17), "more."
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
@@ -164,5 +164,5 @@ layout: default
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _álengðar_, "for his whole life" (assuming he could have grown old).
+[_álengðar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0041:72), "for his whole life" (assuming he could have grown old).
 [↩](#a23)
