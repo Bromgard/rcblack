@@ -20,11 +20,11 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _afglapi...fífl_, stupid man...idiot.''
+ [_afglapi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0006:46)...[_fífl_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0155:25), stupid man...idiot.''
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _raufarsteinn_, "a pierced stone."
+ [_raufarsteinn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=raufar-steinn&startrow=1), "a pierced stone."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -36,7 +36,7 @@ layout: default
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _vera--skjallt_, "not very good;" _skjallr_, actually means "talking loudly;" "have a weak voice" also identical with "do not want to be."
+ _vera--skjallt_, "not very good;" [_skjallr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0551:30), actually means "talking loudly;" "have a weak voice" also identical with "do not want to be."
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
@@ -44,7 +44,7 @@ layout: default
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _vinz_ v. _vinda_.
+ _vinz_ v. [_vinda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0707:29).
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -52,7 +52,7 @@ layout: default
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _áleiðis_, "for the better."
+ [_áleiðis_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0041:62), "for the better."
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
