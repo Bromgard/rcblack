@@ -28,7 +28,7 @@ layout: default
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _er sjóf&oelig;rt var_, "if the weather allows sailing."
+ _er_ [_sjóf&oelig;rt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=sj%F3-f%E6rr%2C&startrow=1) _var_, "if the weather allows sailing."
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
