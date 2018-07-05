@@ -65,11 +65,11 @@ Ok nú segir Gísli, at konan sú en verri k&oslash;mr opt at hánum ok vill jaf
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _k&oslash;mr nú á þref_, "becoming more frequent," _þref_ is ntr.; in frgmt. it says: _et sma þref_; _þref_ is probably the same as _þrefi_ masc., "frequent mentioning," _raunlítit k&oslash;msk opt á þrefa_ Málsháttakvæði 4, 2.
+ _k&oslash;mr nú á_ [_þref_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0744:12), "becoming more frequent," _þref_ is ntr.; in frgmt. it says: _et sma þref_; _þref_ is probably the same as [_þrefi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0744:19) masc., literally a sheaf or two dozen, or a bundle. The meaning is that his dreams have begun to occur in a large bundle, or it has reached a climax in intensity. C.f., _raunlítit k&oslash;msk opt á þrefa_ Málsháttakvæði 4, 2.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _svefnfarar harðar_, "heavy dreams."
+ _svefnfarar harðar_, "more severe dreams."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -77,11 +77,11 @@ Ok nú segir Gísli, at konan sú en verri k&oslash;mr opt at hánum ok vill jaf
 
 "My dreams deceive me, if the warrior (me) should reach an old age, a woman appears to me in the dream, the woman give the poet (me) no reason to believe anything else, dear woman! But this does not hinder my sleep."
 
-* _oddstríþer_, "the one who harms (through use) the spears," .
-* _souma Sj&#x1EB;fn_, "the Sj&#x1EB;fn (goddess)," a woman.
-* _&#x1EB;lnana_, "the Nanna (goddess) of beer," the same.
-* _bragar greiþer_, "the arbiter, giver, of songs," a poet.
-* _Þornreiþ_, "the bearer of the clasp," the woman, Auþr.
+* [_odd_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0462:10)-[_stríþer_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0598:32), "the one who harms (through the use) of spears," .
+* [_sauma_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0515:43) _Sj&#x1EB;fn_, "the Sj&#x1EB;fn (goddess) of sewing," woman.
+* [_&#x1EB;l_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0763:7)-_nana_, "the Nanna (goddess) of beer," woman.
+* [_bragar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0763:7) (and see entry [III.](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0076:1) [_greiþer_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0213:2) (see entry III.), "the arbiter, giver, of songs," a poet.
+* _Þorn_-_reiþ_, "the bearer of the clasp," the woman, Auþr.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
