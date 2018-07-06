@@ -79,13 +79,13 @@ Ok nú segir Gísli, at konan sú en verri k&oslash;mr opt at hánum ok vill jaf
 
 * [_odd_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0462:10)-[_stríþer_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0598:32), "the one who harms (through the use) of spears," .
 * [_sauma_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0515:43) _Sj&#x1EB;fn_, "the Sj&#x1EB;fn (goddess) of sewing," woman.
-* [_&#x1EB;l_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0763:7)-_nana_, "the Nanna (goddess) of beer," woman.
+* [_&#x1EB;l_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0763:7)- _nana_, "the Nanna (goddess) of beer," woman.
 * [_bragar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0763:7) (and see entry [III.](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0076:1) [_greiþer_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0213:2) (see entry III.), "the arbiter, giver, of songs," a poet.
-* _Þorn_-_reiþ_, "the bearer of the clasp," the woman, Auþr.
+* [_Þorn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=bt:b1063:20)-[_reiþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0489:8), "the bearer of the clasp," the woman, Auþr.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _roðra_, f. "red fluid" (blood).
+ [_roðra_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0502:17), f. "red fluid" (blood).
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -97,8 +97,8 @@ Ok nú segir Gísli, at konan sú en verri k&oslash;mr opt at hánum ok vill jaf
 
 "Not every dream bodes something good, the woman spoils my joy, I must talk (about it), a woman spattered with blood comes to me over and over again as soon as I want to sleep, and washes me with blood."
 
-* _borþa Gefn_, "the Gefn (goddess) of the embroidered cloth," the woman.
-* _unda flóþ_, "the lake of sores," the blood; perhaps_odda_ (frgmt.) is perferable.
+* [_borþa_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0071:94) _Gefn_, "the Gefn (goddess) of the embroidered cloth," the woman.
+* [_unda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0652:7) [_flóþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0161:43), "the lake of sores," the blood; perhaps _odda_ (frgmt.) is perferable.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -106,10 +106,10 @@ Ok nú segir Gísli, at konan sú en verri k&oslash;mr opt at hánum ok vill jaf
 
 "I told the people again of my dream, woman, and how I will lose my life, I did not lack the words, the warriors, those who wish the bitter fight and wish to make me pacified, it will turn out badly, if I now become angry."
 
-* _oddflaums viþer_, "the trees of the river of spears (that is, the battle)," the warrior; _aura Eir_, this is Auþr.
-* _láta_, this is to be supplemented by _&#x1EB;ndu_; but the resulting meaning is not particularly fitting; but any other reading of the words is not clear.
-* _vápna sn. vekjendr_, "the awakeners of a dipute of arms, fight," warriors.
-* _brynjo hatr_, "that hate, enemy, chain mail shirt," may mean "sword" as "fight," here most likely the latter.
+* [_odd_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0462:10)-[_flaums_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0159:60) [_viþer_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0703:69), "the trees of the river of spears (that is, the battle)," the warrior; _aura Eir_, this is Auþr.
+* _láta_, this is to be supplemented by [_&#x1EB;ndu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0764:36); but the resulting meaning is not particularly fitting; but any other reading of the words is not clear.
+* _vápna sn._ [_vekjendr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0691:20), "the awakeners of a dipute of arms, fight," warriors.
+* [_brynjo_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0084:32) [_hatr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0241:3), "that hate, enemy, chain mail shirt," may mean "sword" as "fight," here most likely the latter.
 
 The contents of this verse is clearly not related to the previous ones; it sets up a very different poetic moment.
 [↩](#a7)
@@ -119,15 +119,15 @@ The contents of this verse is clearly not related to the previous ones; it sets 
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _at sk&#x1EB;ruligri_, _at_ "like so," _sk&#x1EB;ruligri_ compar.
+ _at_ _sk&#x1EB;ruligri_, _at_ [_sk&#x1EB;ruligri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0565:40) compar.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _skip_, "a boat."
+ [_skip_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0547:50), "a boat."
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _setja fram_, "to water."
+ _setja fram_, that is, "out of the water."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -139,7 +139,7 @@ The contents of this verse is clearly not related to the previous ones; it sets 
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
- _verr_, "less friendly," with reference to Gíslis disturbing prophecy.
+ _verr_, specifically, "less friendly," with reference to Gíslis disturbing prophecy.
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
@@ -147,11 +147,11 @@ The contents of this verse is clearly not related to the previous ones; it sets 
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
- _þiljur_, "deck planks."
+ [_þiljur_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0736:1), "deck planks."
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
- _nesjum_, "the peninsula," that means the many penninsulas between the Skálmarfj&#x1EB;ðr and the Kerlingarfj&#x1EB;rðr.
+ [_nesjum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0453:10), "the peninsula," that is the many penninsulas between the Skálmarfj&#x1EB;ðr and the Kerlingarfj&#x1EB;rðr.
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
