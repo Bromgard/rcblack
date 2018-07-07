@@ -26,7 +26,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _þrýstir at Eyjólfi fast_, "is hard on E."
+ [_þrýstir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0747:46) _at Eyjólfi fast_, "is hard on E."
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -34,7 +34,7 @@ layout: default
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _segir--leiti_, so, in the frgmt., which here alone preserves the original text.
+ _segir--leiti_, from frgmt., which here alone preserves the original text.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -50,7 +50,7 @@ layout: default
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _Þykkir--haustit_, possibly an interpolation; does not appear in S and frgmt.
+ _Þykkir--haustit_, possibly an interpolation; does not appear in S or frgmt.
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -62,11 +62,12 @@ layout: default
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _þrengt_, part. perf. _til þesa_, to ask you.
+ _þrøngt_, part. perf., [_Þr&#x1EB;ngva_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0748:28), "presses against me," _til þessa_, that is, asking Þorkell for help. 
+
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _fararskjóta_, "a horse."
+ [_farar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0143:7)-[_skjóta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0553:10), "a horse."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -74,11 +75,11 @@ layout: default
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _lítilliga_, "pathetically."
+ [_lítilliga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0393:16), "pathetically."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
- _þykkir fyrir_, "felt a deep pain."
+ [_þykkir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0753:26) (See entry A. II.) _fyrir_, "felt a deep pain."
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
@@ -90,7 +91,7 @@ layout: default
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
- _kvenvélar einar_, "only a woman's help."
+ [_kvenvélar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0362:67) _einar_, "only a woman's help."
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
