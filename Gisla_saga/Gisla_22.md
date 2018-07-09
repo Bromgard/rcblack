@@ -73,7 +73,7 @@ layout: default
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _þess at allgott sé_, i.e. pure silver (burned silver).
+ _þess at allgott sé_, i.e. pure silver (assayed silver).
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -85,15 +85,15 @@ layout: default
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
- _berdrymr_, "who has dreams that are easy to interpret and fulfill." see Flatezjarbók II, 100, 10: _ek em manna berdreymastr ok hefir mik einkar úrýrliga til mín dreymt, en allrýrliga um þik_.
+ [_berdreymr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0060:6), "who has dreams that are easy to interpret and fulfill." see Flatezjarbók II, 100, 10: _ek em manna berdreymastr ok hefir mik einkar úrýrliga til mín dreymt, en allrýrliga um þik_.
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _Þat k&oslash;mr saman_, "about that, there is consistency."
+ _Þat k&oslash;mr saman_, "There is a consensus..."
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _vitrum_, here approximately = _fróðum_.
+ [_vitrum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0713:24), here approximately = [_fróðum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0175:18).
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -105,11 +105,11 @@ layout: default
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _brunnir_, "burned down."
+ [_brunnir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0079:9), "burned down."
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _láta leiðaz eht_, "to be a little sorry," "to reject something."
+ _láta_ [_leiðaz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0380:17), "to avoid," "to reject something."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -117,10 +117,10 @@ layout: default
 
 "Woman! I came to a house where seven fires burned, they worried me, woman! I saw the people on both benches greeting me kindly, and the skald (me) wished every man in that house happiness."
 
-* _unnfúr_, "the fire of the wave," gold; _Fold_, "earth," of gold, the woman.
-* _vǫ́rum_: _vǫ́ru-mR_ (_vǫ́ru mér_), "were me;" subj. is _eldar_.
-* _aura Eir, Eir_, an asin, (the goddess of the art of healing; this name is chosen intentionally), of money, meaning gold, Auþr.
-* _hróþrdeiler_, "the giver of the song," a poet.
+* [_unn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0655:6)-[_fúr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0178:42), "the fire of the wave," gold; [_fold_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:36), "earth," of gold, the woman.
+* _vǫ́rum_: _vǫ́ru-mR_ (_vǫ́ru mér_), "were to me;" subj. is _eldar_.
+* [_aura_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0034:24) _Eir, Eir_, a goddess, (the goddess of the art of healing; this name is chosen intentionally), of money, meaning gold, Auþr.
+* [_hróþr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0287:14)-[_deiler_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0098:21), "the giver of the song," a poet.
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
@@ -128,12 +128,12 @@ layout: default
 
 "Remember the generous warrior said the woman to the friends of Egder, how many fires burned in the house, so many years, said the woman, you still have to live, how there is only for the poet a short time for the good (better, i.e. otherworldly) life left."
 
-* _malmrunnr_, "the tree of the _malmr_ (weapon, particularly projectile)," a warrior.
-* _banda v&#x1EB;r_, "the goddess of the rings," the woman.
-* _andspilli_ v. _andspillir_, "one who (gladly) talks, leads conversations;" _Egðir_, are the inhabitants of Agðir or Agðafylki in southern Norway; this is how Gísli calls himself a native Norwegian. _Egða_ is in frgmt.
-* _Bil bl&oelig;jo_, "the Bil (god) of tapestries," the woman.
-* _valde veig-Skj&#x1EB;ldunga bjargs_ = _v. bj. Skj. veigar_ (_veig_ conj. from Jón Þorkelsson); _bjargs Skj._, "the Sheildings, the princes of the rocks," a giant; "the _veig_, drank, the giant," "poesy, the poem."
-* _valdr_ = owner; _valde_ is dative (not nom.).
+* [_malmr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=malmr&startrow=1)-[_unnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0655:6), see gloss in CV, _málmr_,  a warrior.
+* [_banda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0051:7) _v&#x1EB;r_, "the goddess of the rings," the woman.
+* [_andspilli_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0020:28) v. _andspillir_, "one who (gladly) talks, leads conversations;" _Egðir_, are the inhabitants of Agðir or Agðafylki in southern Norway; this is how Gísli calls himself a native Norwegian. _Egða_ is in frgmt.
+* _Bil_ [_bl&oelig;jo_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0071:25), "the Bil (god) of tapestries," the woman.
+* [_valde_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0675:16) [_veig_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0690:21)-_Skj&#x1EB;ldunga_ [_bjargs_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0064:24) = _v. bj. Skj. veigar_ (_veig_ conj. from Jón Þorkelsson); _bjargs Skj._, "the Sheildings, the princes of the rocks," a giant; "the _veig_, drink of the giant," "poesy, the poem."
+* _valdr_ = lord; _valde_ is dative (not nom.).
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
@@ -141,11 +141,11 @@ layout: default
 
 "Do not learn spells, warriors! said Nauma of the Gold, learning only what is good of the poets, saying that there is nothing worse for a gold-baited one to understand the bad (the bad art, magic)"
 
-* _ara steik_, "the adoration of the eagle," "the fallen," _ǫ́rr_, actually "servant, messenger;" "one who honors the care of eagles," a warrior.
-* _Iþja niþr_, Iþes relatives, brothers (Þjaze or Gangr); "the game of the brothers" is gold, see the myth Sn. E. I, 214, 350; the division of gold was the game of these brothers.
-* _Nauma_, is often found in a kenning for "woman." the reference to the wisdom of the scales is lovely.
-* _Fleyja_(so AM) _braut_ = the sea; "of gold _þverrande_, one who wastes," a (liberal) man.
-* _Randar log_, "the flame of the shield" = the sword; of whom _runnr_ "tree" = warrior.
+* [_ara_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0767:33) _steik_, "the adoration of the eagle," "the fallen," [_ǫ́rr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0045:7), "servant, messenger;" "one who honors the care of eagles," a warrior.
+* _Iþja_ [_niþr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0454:34), Iþes relatives, brothers (Þjaze or Gangr); "the game of the brothers" is gold, see the myth Sn. E. I, 214, 350; the division of gold was the game of these brothers.
+* [_Nauma_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0446:50), is often found in a kenning for "woman." the reference to the wisdom of the scales is lovely.
+* [_Fleyja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0160:34)(so AM) _braut_ = the sea; "of gold [_þverrande_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0753:2), one who wastes," a (liberal) man.
+* [_Randar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0507:23) [_log_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0397:29), "the flame of the shield" = the sword; of whom _runnr_ "tree" = warrior.
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
@@ -153,11 +153,11 @@ layout: default
 
 "Do not kill as a disturber o the peace, do not be the first to engage warriors (the men you meet can be valiant), promise me this: help the blind man, do not mock the handless and the lame, they say that mockery is bad, remember that O warrior."
 
-* _sleitenn_ (v. _sleita_, streit) "disputes;" "be not so confrontational that you, etc." _fyrre_, "as the former," _prior_ (not _prius_).
-* _morþs m&oelig;te-Nj&#x1EB;rþr_, "the N., who goes to the battle," a warrior.
-* _m&oelig;te_ to _m&oelig;ta_, "L. obire."
-* _díks_ (conj. for _ty_) _blakkr_ (so fragment.), "the horse of the sea" = ship, of this, _skynder_ "steersman," a seafarer; and so how Gísli might be named.
-* _skjaldar Baldr_, "Baldr of the shield" = warrior.
+* _sleitenn_ (v. [_sleita_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0568:26), to end an argument) "disputes;" "be not so confrontational that you, etc." _fyrre_, "as the former," _prior_ (not _prius_).
+* [_morþs_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0434:30) [_m&oelig;te_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:17)-_Nj&#x1EB;rþr_, "the N., who goes to the battle," a warrior.
+* [_m&oelig;te_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:13) to _m&oelig;ta_, "L. obeo."
+* _díks_ (conj. for _ty_) [_blakkr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0067:2) (so fragment.), "the horse of the sea" = ship, of this, [_skynder_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0563:15) "steersman," a seafarer; and so how Gísli might be named.
+* [_skjaldar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0553:17) _Baldr_, "Baldr of the shield" = warrior.
 
 There are allusions to Hávamál in this beautiful verse; it is an expression of the kindly demeanor of Gísli and his moral outlook of life.
 [↩](#a15)
