@@ -55,11 +55,11 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _mágum sínum_, vgl. c. 4, 6-7; _mágar_, here "relatives of his wife" (brothers of the mother-in-law).
+ [_mágum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0415:15) _sínum_, see c. 4, 6-7; _mágar_, here "relatives of his wife" (brothers of the mother-in-law).
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _koma engu áleiðis_, "do nothing, do not try to fix this."
+ _koma engu_ [_áleiðis_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0041:62), "do nothing, do not try to fix this."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -85,9 +85,9 @@ Str. 12 and 13 are written in the unusual style, _kviðuháttr_.
 
 "My wife's uncles lost their courage, while they should have been very happy (and energetic), and they acted as if rotten eggs were thrown at them."
 
-* _glaþast_ (also in frgmt.), is superl. (not  vb. _glaþa_), and _vesa_ to complete. _eyþendr fjarþar dags_, "waste the day (luster) of the sea," actually, free men; people in general.
+* [_glaþast_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0203:4) (also in frgmt.), is superl. (not  vb. _glaþa_). [_eyþendr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0134:22) [_fjarþar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0156:51) [_dags_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0093:30), "waste the day (luster) of the sea," actually, free men; people in general.
 
-* _dagr_ a paraphrase "gold," is indentical to "light, shine, sun."
+* [_dagr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0093:30) a paraphrase "gold," is indentical to "light, shine, sun."
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
@@ -95,12 +95,12 @@ Str. 12 and 13 are written in the unusual style, _kviðuháttr_.
 
 "They condemned me ingloriously at the thing, no honor! This harsh sentence (came to me from the north, the warrior (me) has this to bitterly avenge Borkr and Steinn, the giver of pure weighed gold (me).)"
 
-* _sómlaust_, "without glory for her," as there was no proper advocate.
-* _s&oelig;-sólar-deilande_, _s&oelig;_ (conj. for _sal-;_ also in V&#x1EB;luspǫ́ 20 in Hauksbók _s&oelig;_ to _sal_ is corrupted) _-sól_, "the son of the ocean" = gold (see _fjarþar dagr_ in str. 13).
-* _dielande_, "which deals," here Þorkell the rich.
-* _norþan_, Þorkell has traveled from his home to Gísli, which is natural in and of itself.
-* _valdr báserkjar_, _bláserkr_ is probablz the coat of mail (mistake for _b&#x1EB;ðserkjar?_); "the owner of the mail coat," the warrior, here Gísli himself.
-* _bǫ́ro dagr_ = _fjarþar dagr_ and _s&oelig;-sól_.
+* [_sómlaust_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0579:32), "without glory for her," as there was no proper advocate.
+* [_s&oelig;_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0618:17)-[_sólar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0579:4)-_deilande_, _s&oelig;_ (conj. for _sal-;_ also in V&#x1EB;luspǫ́ 20 in Hauksbók _s&oelig;_ to _sal_ is corrupted) _-sól_, "the son of the ocean" = gold (see _fjarþar dagr_ in str. 13).
+* [_dielande_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0098:15), "which deals," here Þorkell the rich.
+* [_norþan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=bg:b0335:31), Þorkell has traveled from his home to Gísli, which is natural in and of itself.
+* [_valdr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0675:12) [_blá_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0068:2)-[_serkjar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0523:24), _bláserkr_ is probablz the coat of mail (mistake for _b&#x1EB;ðserkjar?_); "the owner of the mail coat," the warrior, here Gísli himself.
+* [_bǫ́ro_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0054:28) _dagr_ = _fjarþar dagr_ and _s&oelig;-sól_.
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -108,11 +108,11 @@ Str. 12 and 13 are written in the unusual style, _kviðuháttr_.
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _atkv&oelig;ða_, "the desires expressed (curses)."
+ [_atkv&oelig;ða_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0030:29), "the desires expressed (curses)."
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _ólikliga_, "hopeless."
+ [_ólikliga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=%FA-l%EDkligr&startrow=1), "unlikely."
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
@@ -120,11 +120,11 @@ Str. 12 and 13 are written in the unusual style, _kviðuháttr_.
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
- _fylgsnum_, "hide"; here one expects: "of which one was;" see the following, _annat fylgsni_.
+ [_fylgsnum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0179:13), "hiding place."
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- _kleifar_, "rocks where you can climb up."
+ [_kleifar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0342:24), "rocks where you can climb up."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
@@ -132,5 +132,5 @@ Str. 12 and 13 are written in the unusual style, _kviðuháttr_.
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _ýmist_, "in turns," now here, now there.
+ [_ýmist_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0727:45), "in turns," now here, now there.
 [↩](#a15)
