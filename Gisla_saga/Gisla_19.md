@@ -95,7 +95,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _fé_, "mobile stock."
+ [_fé_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0147:36_, "movable stock."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -107,7 +107,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
- _dvala við_, "hesitating" (see Laxd. c. 40, 75).
+ [_dvala_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0109:60) _við_, "hesitating" (see Laxd. c. 40, 75).
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
@@ -143,7 +143,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _rannsakat vísuna_, "thoroughly understanding the verse" (and as a result, understanding its meaning). This should have been said first (hysteron proteron).
+ [_rannsakat_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0483:6) [_vísuna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0717:16), "thoroughly understanding the verse" (and as a result, understanding its meaning). This should have been said first (hysteron proteron).
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
@@ -155,11 +155,11 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 
 "The soul of Goþrún, the indomitable daughter of Gjúke, was not bestowed upon my vain sister, (this soul, she revealed) when the wife struck her husband; so the woman avenged her brave brothers with unflinching courage."
 
-* _g&oelig;ten sveigar_; _g&oelig;tenn_ adj. "carefully;" _sveigr_ is a kind of headdress; the term is perjorative and highlights the contrast between Þórdis and Goþrún; "thougtful for (and only for) her headdress" is contrary to "the indomitable."
-* _fastrar hugtúni_, "firm, unshakeable, in the court of the soul, "the court of the soul" is "the breast."
-* _l&oelig;ges log-Sága_, _l&oelig;ger_ "the sea;" of which _log_, flamme=gold; the _Sága_ (asin) of gold, the woman, Goþrún.
-* _ver sinn_, Atli Buþlason.
-* _ser-Freyja_: _ser-_ is a shortening of the noun, _s&oslash;rve=steina-s&oslash;rve_ necklace of amber; of whom _Freyja_ is the woman.
+* [_g&oelig;ten_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0223:11) [_sveigar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0608:19); _g&oelig;tenn_ adj. "carefully;" _sveigr_ is a kind of headdress; the term is pejorative and highlights the contrast between Þórdis and Goþrún; "thoughtful for (and only for) her headdress" is contrary to "the indomitable."
+* [_fastrar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0145:1) [_hug_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:31)-[_túni_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0644:28), "firm, unshakeable, in the court of the soul, "the court of the soul" is "the breast."
+* [_l&oelig;ges_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0403:19) [_log_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0397:33)-_Sága_, _l&oelig;ger_ "the sea;" of which _log_, flamme=gold; the [_Sága_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=S%E1ga&startrow=1) (asin) of gold, the woman, Goþrún.
+* [_ver_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0698:27) _sinn_, Atli Buþlason.
+* _ser-Freyja_: _ser-_ is a shortening of the noun, [_s&oslash;rve_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0621:17_=steina-s&oslash;rve_ necklace of amber; of whom _Freyja_ is the woman.
 
 The verse is very interesting by its comparison with Goþrún; Gísli was a native Norwegian; in the Icelandic skaldic poetry, one misses such allusions.
 [↩](#a25)
@@ -217,7 +217,7 @@ The verse is very interesting by its comparison with Goþrún; Gísli was a nati
 [↩](#a38)
 
 <a name="myfootnote39" id="f39">39</a>:
- _í skóga_, meaning, in the wooded part of the lower Haukadalr near the settlement. S has here _út á Hól_ (which is to be considered an interpolation), while the frgmt. agrees with M.
+ _í_ [_skóga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0555:37), meaning, in the wooded part of the lower Haukadalr near the settlement. S has here _út á Hól_ (which is to be considered an interpolation), while the frgmt. agrees with M.
 [↩](#a39)
 
 <a name="myfootnote40" id="f40">40</a>:
@@ -225,5 +225,5 @@ The verse is very interesting by its comparison with Goþrún; Gísli was a nati
 [↩](#a40)
 
 <a name="myfootnote41" id="f41">41</a>:
- _vestan_, namely of Þórsnes; actually it should be _sunnan_, but the directions would be entirely inaccurate in the local setting, see Kålund I, 569 anm.
+ [_vestan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0700:9), namely of Þórsnes; actually it should be _sunnan_, but the directions would be entirely inaccurate in the local setting, see Kålund I, 569 anm.
 [↩](#a41)
