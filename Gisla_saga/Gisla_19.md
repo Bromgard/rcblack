@@ -159,7 +159,7 @@ s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>
 * [_fastrar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0145:1) [_hug_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:31)-[_túni_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0644:28), "firm, unshakeable, in the court of the soul, "the court of the soul" is "the breast."
 * [_l&oelig;ges_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0403:19) [_log_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0397:33)-_Sága_, _l&oelig;ger_ "the sea;" of which _log_, flamme=gold; the [_Sága_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=S%E1ga&startrow=1) (asin) of gold, the woman, Goþrún.
 * [_ver_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0698:27) _sinn_, Atli Buþlason.
-* _ser-Freyja_: _ser-_ is a shortening of the noun, [_s&oslash;rve_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0621:17_=steina-s&oslash;rve_ necklace of amber; of whom _Freyja_ is the woman.
+* _ser-Freyja_: _ser-_ is a shortening of the noun, [_s&oslash;rve_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0621:17)_=steina-s&oslash;rve_ necklace of amber; of whom _Freyja_ is the woman.
 
 The verse is very interesting by its comparison with Goþrún; Gísli was a native Norwegian; in the Icelandic skaldic poetry, one misses such allusions.
 [↩](#a25)
