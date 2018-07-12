@@ -77,7 +77,7 @@ Ok láta upp refilinn. 24\. Síðan koma boðsmenn um kveldit. Ok þyknar veðri
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _knattleika_, c.f. Egilss. XL, 1.
+ [_knattleika_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0345:33), c.f. Egilss. XL, 1.
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -110,7 +110,7 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 
 <a name="myfootnote10" id="f10">10</a>:
  __Str. 8__, "The ball cried out loudly onto the shoulder; I cannot be sorry.
-* _burðar stallr_, the "the load of the burden" is the shoulder.
+* [_burðar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=bur%26eth%3Ba&startrow=1) [_stallr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0587:32), the "the load of the burden" is the shoulder.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
@@ -202,5 +202,5 @@ s. 35. 23. _þat orð flyz af_, "talk moves about."
 [↩](#a32)
 
 <a name="myfootnote33" id="f33">33</a>:
- _hylr_, impersonal.
+ [_hylr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0304:5), "covers."
 [↩](#a33)
