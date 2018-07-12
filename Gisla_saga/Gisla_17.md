@@ -43,11 +43,11 @@ viggrunnr hniginn ligge,
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _vitlaust_, "witless."
+ [_vitlaust_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0713:10), "witless."
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _flaumósi_, "rashly charging on;" _flaumr_ means "violent flow," and acts in prefixes as a reinforcing prefix; _ósi_ is the weak form of the adjective _óss_, which appears nowhere else than in Þórsdrápa 16, in the sense of, "glimmering burning."
+ [_flaumósi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0159:59), "rashly charging on;" _flaumr_ means "violent flow," and acts in prefixes as a reinforcing prefix; _ósi_ is the weak form of the adjective _óss_, which appears nowhere else than in Þórsdrápa 16, in the sense of, "glimmering burning."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -57,11 +57,11 @@ viggrunnr hniginn ligge,
 
 This stanza expresses Gisli's courage and his cold indifference.
 
-* _folkrunnr_, "the tree of battle (or sword)," the warrior, Gísli.
-* _hjarar munnr_, multiple meanings (through this metaphor); actually = the sword-cutting-edge.
-* _fullom_, also has multiple meanings; "with a full mouth," meaning, with powerful words, or from the cutting edge "full of the blood of the slain."
-* _vága viggrunn_, _vága vigg_, "the horse of the waves," the ship.
-* _runnr_ = tree; "the tree of the ship" = sailor, man.
+* [_folk_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0167:37)-[_runnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0503:43), "the tree of battle (or sword)," the warrior, Gísli.
+* [_hjarar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0268:14) [_munnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0438:10), multiple meanings (through this metaphor); actually = the sword-cutting-edge.
+* [_fullom_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0178:4), also has multiple meanings; "with a full mouth," meaning, with powerful words, or from the cutting edge "full of the blood of the slain."
+* [_vága_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0684:11) [_viggrunn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0705:3), _vága vigg_, "the horse of the waves," the ship.
+* [_runnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0503:43) = tree; "the tree of the ship" = sailor, man.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
