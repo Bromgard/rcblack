@@ -45,7 +45,7 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _er nýn&oelig;mum þótti gegna_,"which appeared to be something new (unprecedented)."
+ _er_ [_nýn&oelig;mum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0459:39) _þótti gegna_,"which appeared to be something new (unprecedented)."
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -61,11 +61,11 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- _þungr í skaplyndi_, "mean tempered."
+ [_þungr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0749:18) _í_ [_skaplyndi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0538:37), "mean tempered."
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _snúit_, "changed."
+ [_snúit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0576:20), "changed."
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -113,18 +113,17 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 
 "I see strips in the thawed field of Þorgrím, the warrior to whom I inflicted harm, and now the fighter has taken possession of a plot of land, and given another plot of land to his opponent."
 
-* _teinar_, the thawed or ice-free parts (actually "stripes") of the mound. Z. 1 appears to be a reminiscence of Guþr. II, 41, 1.
-* _þáar_ v. _þá_ f. thawed ground.
-* _tún_, "a farm," here from the grave mound, the present and permanent dwelling of Þorgrím.
-* _fála_, "a giant," "the friend of a giant."
-*
-* _tál_, "infatuation, deception," just like, _t&oelig;lir_, "one who beguiles," enemy, "the enemy of the giant," _Þórr_; altogether = _Þór + gríms = _Þórgríms_; see _hvals búþar húþ-lendingar_ = _Ís-lendingar_ by Haukr Valdísarson (Íslendinga drápa 2).
-* _gunnblik_, "the luster of the fight," "sword," of whom _Gautr_, Odin, a warrior (the poet therefore is thinking of the death of Véstein).
-* _geira gnýst&oelig;rer_, "the one who increases the noise of the spears," the same as above.
-* _landkostr_, a plot of land where you choose to start your household.
-* _gríma_ = "helm," "of the helm _Þróttr_, Odin,'the warrior, Þorgrímr.
-* _lét...lendan_, actually "let him get a land hold," allusion to the _lendir menn_; a humorous twist.
-* _áar brandar_, "the flames of the river," "the gold;" "the tree of gold," a generous man, Gísli himself.
+* [_teinar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0627:24), the thawed or ice-free parts (actually "stripes") of the mound. Z. 1 appears to be a reminiscence of Guþr. II, 41, 1.
+* [_þáar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0732:2) _þá_ f. thawed ground.
+* [_tún_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0644:28), "a farm," here from the grave mound, the present and permanent dwelling of Þorgrím.
+* [_fála_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0146:35), "a giant," "the friend of a giant."
+* [_tál_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0626:27), "infatuation, deception," just like, [_t&oelig;lir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0647:23), "one who beguiles," enemy, "the enemy of the giant," _Þórr_; altogether = _Þór + gríms_ = _Þórgríms_; see _hvals búþar húþ-lendingar_ = _Ís-lendingar_ by Haukr Valdísarson (Íslendinga drápa 2).
+* [_gunn_-_blik_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=gunn-blik&startrow=1), "the luster of the fight," "sword," of whom _Gautr_, Odin, a warrior (the poet therefore is thinking of the death of Véstein).
+* [_geira_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0196:12) [_gný_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0207:24)-[_st&oelig;rer_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0602:17), "the one who increases the noise of the spears," the same as above.
+* [_landkostr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0372:3), a plot of land where you choose to start your household.
+* [_gríma_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=bt:b0489:7) = "helm," "of the helm _Þróttr_, Odin,'the warrior, Þorgrímr.
+* _lét...lendan_, actually "let him get a land hold," allusion to the [_lendir menn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0384:16); a humorous twist.
+* [_áar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0038:5) [_brandar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0076:13), "the flames of the river," "the gold;" "the tree of gold," a generous man, Gísli himself.
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
@@ -162,12 +161,6 @@ landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>
 <a name="myfootnote29" id="f29">29</a>:
  _stendr í milli_, "intervene" (bring the fighting men away from one another).
 [↩](#a29)
-
-<!--
-<a name="myfootnote30" id="f30">30</a>:
- _er--skapi_, "is disgruntled."
-[↩](#a30)
-!-->
 
 <a name="myfootnote31" id="f31">31</a>:
  [_ands&oelig;lis_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0020:39), or else, _&#x1EB;fugt_ "wrong," meaning, backward. This type of movement seemed to be part of weather magic, see Landnáma III, c. 4, about whichis told about the wizard Ljót.
