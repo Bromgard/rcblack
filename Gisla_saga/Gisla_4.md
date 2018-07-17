@@ -18,7 +18,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _aukit_, "increased", meaning, "more than" (120 days).
+ [_aukit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0034:1), "increased", meaning, "more than" (120 days).
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
