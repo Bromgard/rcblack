@@ -78,5 +78,5 @@ layout: default
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
- _í litkl&oelig;ðum_, see Eyrb. c. 20, 14.
+ _í_ [_litkl&oelig;ðum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0390:35), see Eyrb. c. 20, 14.
 [↩](#a16)
