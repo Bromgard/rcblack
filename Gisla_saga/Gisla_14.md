@@ -165,48 +165,31 @@ sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>
 "The woman hid her agony under her veil, she secretly collects cheek rain from the good barrels of sleep. The woman then wipes the dew of her eyes with her hands, the peace is broken by her mourning for her brother."
 
 * [_linnvenge_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0390:14), "the bed of the dragon," gold; the vessels of the gold; woman (Auðr). see _linnvenges Bil_, Oddr. 31<sup>2</sup>.
-
 * _gríþar_ v. [_gríþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0215:27) (Second half of entry [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0216:1)) (or _gríþr_) appears to mean, "passion," "sensory excitement" (in modern Icel. it is often used as a stress prefix, for example, _gríðarstór_).
-
-* _kinnaél_, "the rain or the hail of the cheeks," e.g. tears.
-
-* _svafna ker_, "the barrels of sleep," meaning, the eyes.
-
-* _lauka eik_, "the oak of the leek," the woman.
-
+* [_kinna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0338:31)-[_él_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0125:7), "the rain or the hail of the cheeks," e.g. tears.
+* [_svafna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0606:64) [_ker_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0337:12), "the barrels of sleep," meaning, the eyes.
+* [_lauka_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0374:46) [_eik_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0119:31), "the oak of the leek," the woman.
 * _síþan_, soon (after); when she has cried a little, she wipes her tears from her eyes, _bráa d&#x1EB;gg_, "the dew of her brows," the tears.
-
-* _&#x1EB;ndvege_, "upright."
-
-* _&#x1EB;. geira_, "the spear's head," the hand.
-
-* _eir_, f. "rest" (only poet.).
+* [_&#x1EB;ndvege_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0764:41)(and [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0765:1).), "upright."
+* _&#x1EB;ndvege_ [_geira_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0196:12), "the spear's head," the hand.
+* [_eir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0123:63), f. "rest" (only poet.).
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
  __Str. 6.__ Prose word order: Bógar hraun-Gnǫ́ lætr fylvingar hrynja af hvítom hvarmskóge í kné; hlátrs bann hremmir svanna; Þ&#x1EB;gn snáke túns less hn&oslash;tr af síno b&#x1EB;lgróno sjónhesle, en þreyr at þessum mærþar r&#x1EB;gne.
 
-"The woman drops the tears from her brows, down upon her lap, the woman grasps grief, the woman collects nuts from the sickness of the face, grown from her grief (as ground); but seeks to cure her pain through the love (or longing) of the poet (me)."
+"The woman drops the tears from her brows, down upon her lap, the woman grasps grief, the woman cos nuts from the sickness of the face, grown from her grief (as ground); but seeks to cure her pain through the love (or longing) of the poet (me)."
 
-*  _Bógr_, "arm," _hraun=grót_, stones; "the stones of the arm," the arm-ring, the Gnǫ́ (asin, god) of a ring, a woman.
-
-* _fylvingar_ (gender uncertain) = nuts (see Sn.E. II, 430,514).
-
-* _hvarmskógr_, "the forest of eyelids," the eyelashes.
-
-* _hlátrs bann_, "the prohobition of the laughter," "the sorrow, the misery"
-
-* _hremmir_ is an approximation for _hyljar_ in S, _hranna_ in M.
-
+*  [_Bógr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0073:30), "arm," [_hraun_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0282:22)=_grót_, stones; "the stones of the arm," the arm-ring, the Gnǫ́ (asin, god) of a ring, a woman.
+* [_fylvingar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0180:2) (gender uncertain) = nuts (see Sn.E. II, 430,514).
+* [_hvarm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0296:17)-[_skógr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0555:37), "the forest of eyelids," the eyelashes.
+* [_hlátrs_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0270:7) [_bann_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0051:14), "the prohobition of the laughter," "the sorrow, the misery"
+* _hremmir_ is an approximation for [_hyljar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0304:13) in S, _hranna_ in M.
 * _Þ&#x1EB;gn_, a Valkyrie.
-
-* _snáka tún_ = _linnvenge_, in str. 4; "the Valkyrie of gold" = woman.
-
-* _sjónhelsi_, a bold description of the eye; _helsi_, (v. _hasl_) ntr. = nut tree.
-
-* _Þreyja at_, "to yearn for one."
-
-* _m&oelig;rðar r&#x1EB;gnir_, "the god (or, the one who sets in motion) the poem," the poet; by this, Gísli means himself; see K. Gíslason Njála II, 551-52.
+* [_snáka_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0573:48) [_tún_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0644:28) = _linnvenge_, in str. 4; "the Valkyrie of gold" = woman.
+* [_sjón_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0535:7)-_helsi_, an innovative description of the eye; _helsi_, (v. [_hasl_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0240:35)) ntr. = nut tree.
+* [_Þreyja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0745:8) _at_, "to yearn for one."
+* [_m&oelig;rðar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:8) [_r&#x1EB;gnir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0488:45), "the god (or, the one who sets in motion) the poem," the poet; by this, Gísli means himself; see K. Gíslason Njála II, 551-52.
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
