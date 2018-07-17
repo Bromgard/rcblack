@@ -144,10 +144,8 @@ s. 18 23 [_tír&oelig;tt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_
 
  "Hear a great wonder, hear a violent killing, hear about a big deal, hear a man's killing, one or more."
 
- * _Heyr undr mikit!_ "curious things are heard here."
-
- * _&oslash;rlygi_, this word cannot mean "monstrous lie," in this connection but certainly means the same as _&oslash;lygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
-
+ * _Heyr undr mikit!_ "significant things are heard here."
+ * [_&oslash;rlygi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=%F6r-lygi&startrow=1) (also see [_ör-lög_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0767:24)), this word cannot mean "monstrous lie," in this connection but certainly means the same as _&oslash;lygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
  * _mikit_, "significant."
 [↩](#a18)
 
@@ -168,7 +166,7 @@ s. 18 23 [_tír&oelig;tt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
- _órr&oelig;ði_, n. "the way out."
+ [_órr&oelig;ði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0473:7), n. "the way out."
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
@@ -216,7 +214,7 @@ s. 18 23 [_tír&oelig;tt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_
 [↩](#a34)
 
 <a name="myfootnote35" id="f35">35</a>:
- _þ&oelig;faz_, "quarrel" (particularly in a long-standing argument).
+ [_þ&oelig;faz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0756:15), "quarrel" (particularly in a long-standing argument).
 [↩](#a35)
 
 <a name="myfootnote36" id="f36">36</a>:
@@ -232,7 +230,7 @@ s. 18 23 [_tír&oelig;tt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_
 [↩](#a38)
 
 <a name="myfootnote39" id="f39">39</a>:
- _hvíluþr&#x1EB;ng_, f. "lack of enough space in the bed."
+ [_hvílu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0302:10)-[_þr&#x1EB;ng_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0748:14), f. "lack of enough space in the bed."
 [↩](#a39)
 
 <a name="myfootnote40" id="f40">40</a>:
@@ -244,7 +242,7 @@ s. 18 23 [_tír&oelig;tt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_
 [↩](#a41)
 
 <a name="myfootnote42" id="f42">42</a>:
- _hvárr_, namely. _kostr_.
+ [_hvárr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:14), namely. _kostr_.
 [↩](#a42)
 
 <a name="myfootnote43" id="f43">43</a>:
@@ -256,5 +254,5 @@ s. 18 23 [_tír&oelig;tt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_
 [↩](#a44)
 
 <a name="myfootnote45" id="f45">45</a>:
- _skapanna málum_, "words of fate," rumination on fate.
+ [_skapanna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0537:20) (see entry III. B.) [_málum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0415:17), "words of fate," rumination on fate.
 [↩](#a45)
