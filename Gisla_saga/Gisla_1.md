@@ -37,7 +37,7 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- _skerauki_, this nickname apears to be composed of _sker_ (sea rock) and _auki_(augmentum)
+ _skerauki_, this nickname apears to be composed of [_sker_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0544:29) (sea rock) and [_auki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0034:1)(augmentum)
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -49,11 +49,11 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _barna_, gen. pl., "of children."
+ [_barna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0052:17), gen. pl., "of children."
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _einn_, is more common than _fyrstr_ in enumerations.
+ [_einn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0122:11), is more common than _fyrstr_ in enumerations.
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -98,15 +98,15 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
- _yrði at sk&oslash;mm_, he through his cowardice, she as the berserker's prize.
+ _yrði at_ [_sk&oslash;mm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0565:31), he through his cowardice, she as the berserker's prize.
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
- _framan_, about the same as _fram_; _framan_ is the starting point of the agreed time.
+ [_framan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0169:13), nearly the same as [_fram_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0169:11); _framan_ is the starting point of the agreed time.
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
- _fellr_, usually _falla_, means the same as _láta líf_; this expression literally means, "to fall down," or, "to be struck down."
+ _fellr_, inf. [_falla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0137:10), means the same as _láta líf_; this expression literally means, "to fall down," or, "to be struck down."
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
@@ -114,7 +114,7 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
- _sverð_, a spear is made from this sword later, (s. c. 11, 3, see Sturlunga (Oxford) I, 247, 376,), where the same spear is mentioned as still existing in the 13th century.
+ [_sverð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0610:6), a spear is made from this sword later, (s. c. 11, 3, see Sturlunga (Oxford) I, 247, 376,), where the same spear is mentioned as still existing in the 13th century.
 [↩](#a22)
 
 <a name="myfootnote16" id="f23">23</a>:
@@ -138,7 +138,7 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a27)
 
 <a name="myfootnote28" id="f28">28</a>:
- _tilr&oelig;ði_, "attack;" or, "try to kill someone," from _ráða til (manns)_ "to attack someone."
+ [_tilr&oelig;ði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0632:5), "attack;" or, "try to kill someone," from _ráða til (manns)_ "to attack someone."
 [↩](#a28)
 
 <a name="myfootnote29" id="f29">29</a>:
@@ -150,5 +150,5 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 [↩](#a30)
 
 <a name="myfootnote31" id="f31">31</a>:
- _hvártveggi_, that is, Gísli and the slave; Weinhold (Altn. leben s. 197) completely misunderstood the position.
+ [_hvártveggi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16), that is, Gísli and the slave; Weinhold (Altn. leben s. 197) completely misunderstood the position.
 [↩](#a31)
