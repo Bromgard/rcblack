@@ -62,7 +62,7 @@ Ok fellr þetta þeira tal þar niðr.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _&#x1EB;nn ok erfiði_, alliterative formula.
+ [_&#x1EB;nn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0765:19) _ok_ [_erfiði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0133:4), alliterative formula.
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
