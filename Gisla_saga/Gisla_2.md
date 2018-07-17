@@ -50,7 +50,7 @@ Gísli biðr hann mæla allra manna armastan<sup id="a23">[23](#myfootnote23)</s
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _br&oelig;ðr tveir_, "his two brothers."
+ [_br&oelig;ðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0271:23) _tveir_, "his two brothers."
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -75,7 +75,7 @@ _Stokkum_, the settlement was called _Stokkar_, not _Stakkar_ s. &sect; 15; the 
  [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- _v&oelig;n ok vitr_, an alliterative formula (vgl. Fms. VI, 119 u. ö.).
+ [_v&oelig;n_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0719:32) _ok_ [_vitr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0713:24), an alliterative formula (see Fms. VI, 119 u. ö.).
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -83,7 +83,7 @@ _Stokkum_, the settlement was called _Stokkar_, not _Stakkar_ s. &sect; 15; the 
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _óm&oelig;t ómaga orð_, an alliterative proverb, "worthless, meaningless words;" c.f. Laxd. 85, 6: _óm&oelig;t eru afglapa orð_.
+ [_óm&oelig;t_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:18) [_ómaga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0668:30) _orð_, an alliterative proverb, "worthless, meaningless words;" c.f. Laxd. 85, 6: _óm&oelig;t eru afglapa orð_.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -147,7 +147,7 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 <a name="myfootnote24" id="f24">24</a>:
   [_hólmg&#x1EB;ngul&#x1EB;g_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=h%F3lmg%F6ngu-l%F6g&startrow=1), see Egilss. c. 64, 39-40.
 
- _haslar v&#x1EB;ll_, here simply "determines the limits of the battle zone," perhaps by erecting stones in a circle, as in Egilss. c. 64, 37, where the words _hólmhringr_ and _marksteinar_ are used.
+ [_haslar v&#x1EB;ll_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0240:37), here simply "determines the limits of the battle zone," perhaps by erecting stones in a circle, as in Egilss. c. 64, 37, where the words _hólmhringr_ and _marksteinar_ are used.
 [↩](#a24)
 
 <a name="myfootnote25" id="f25">25</a>:
@@ -167,7 +167,7 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a28)
 
 <a name="myfootnote29" id="f29">29</a>:
-  _gall_, the sword.
+  [_gall_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0202:2), the sword.
 [↩](#a29)
 
 <a name="myfootnote30" id="f30">30</a>:
@@ -176,11 +176,11 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 
 <a name="myfootnote31" id="f31">31</a>:
  __Str. 2.__  "The weapon moved quickly; I aimed a blow against Skegge." --
-* _hr&oelig;frakke_ is a kenning for a slash weapon; _hr&oelig;_ = "corpse;" _frakke_ (and also frakka, f.) originally meant a weapon of Frankish origin: the construction appears in the name of the sword in Sn. Edde II, 619.
+* [_hr&oelig;_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:6)-[_frakke_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0169:6) is a kenning for a slash weapon; _hr&oelig;_ = "corpse;" _frakke_ (and also frakka, f.) originally meant a weapon of Frankish origin: the construction appears in the name of the sword in Sn. Edde II, 619.
 [↩](#a31)
 
 <a name="myfootnote32" id="f32">32</a>:
-30 _tréfót_, see Eyrb. c. 45, 27.
+30 [_tréfót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=tr%E9-f%F3tr%2C&startrow=1) "wooden leg", see Eyrb. c. 45, 27.
 [↩](#a32)
 
 <a name="myfootnote33" id="f33">33</a>:
