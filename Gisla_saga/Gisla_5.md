@@ -18,7 +18,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- _selagnúpr_, perhaps "seal rock"; this man is otherwise unknown, perhaps he was the grandson of Þorbj&#x1EB;rn tálkni, see below.
+ [_sela_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0521:12)-[_gnúpr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0207:17), perhaps "seal rock"; this man is otherwise unknown, perhaps he was the grandson of Þorbj&#x1EB;rn tálkni, see below.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -50,7 +50,7 @@ layout: default
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- _f&#x1EB;stnuð_, the usual legal engagement continued. The wedding could follow soon after.
+ [_f&#x1EB;stnuð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0144:73), the usual legal engagement continued. The wedding could follow soon after.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -58,7 +58,7 @@ layout: default
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _réz--þangat_, "decided to move there."
+ [_réz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0485:15) (see entry V. 3. B. reflexive)--þangat_, "decided to move there."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -74,7 +74,7 @@ layout: default
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- _garðar_, "the fences surrounding the tún."
+ [_garðar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0191:39), "the fences surrounding the tún."
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
