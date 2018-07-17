@@ -22,7 +22,7 @@ layout: default
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- _sýruker_, "barrels of sour whey."
+ [_sýru_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0616:5)-[_ker_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0337:12), "barrels of sour whey."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -38,7 +38,7 @@ layout: default
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- _hundahljóðum_, "barking;" they came so far away from the settlement that the dogs there could not catch their scent, so as to betray them.
+ [_hunda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0292:22)-[_hljóðum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0271:23), "barking;" they came so far away from the settlement that the dogs there could not catch their scent, so as to betray them.
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -67,5 +67,5 @@ Prose word order: Eldr leikr hár of órom skála; miket bál es; gaukr Gauts mo
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
- _norðr_ is a noteworthy improvement of _suðr_ in M, c.f. &sect; 1 and the reading from S: _þeir Gísli roá norðr fyrir land ok stefna til Flúðuness_.
+ _norðr_ is a notable improvement of _suðr_ in M, c.f. &sect; 1 and the reading from S: _þeir Gísli roá norðr fyrir land ok stefna til Flúðuness_.
 [↩](#a8)
