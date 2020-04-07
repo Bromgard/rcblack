@@ -66,7 +66,7 @@ layout: default
 
 ---
 
-## [Translation of the variant introduction from the long version, AM 149 fol.](https://rcblack.net/Gisla_saga/gisli_S/)
+## [Translation of the variant introduction from AM 149 fol.](https://rcblack.net/Gisla_saga/gisli_S/)
 
 ---
 
