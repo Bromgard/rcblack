@@ -7,19 +7,78 @@ layout: default
 
 ### Þorkell Skerauki and his family
 
-1\. Þat er upphaf á s&#x1EB;gu þessi, at Hákon konungr Aðalsteinsfóstri<sup id="a1">[1](#myfootnote1)</sup> réð fyrir Nóregi; ok var þetta á ofanverðum hans d&#x1EB;gum. 2. Þorkell<sup id="a2">[2](#myfootnote2)</sup> hét maðr; hann var kallaðr skerauki;<sup id="a3">[3](#myfootnote3)</sup> hann bjó í Súrnadal<sup id="a4">[4](#myfootnote4)</sup> ok var hersir að nafnbót.<sup id="a5">[5](#myfootnote5)</sup> 3. Hann átti sér konu, er Ísgerðr hét, ok sonu iij. barna;<sup id="a6">[6](#myfootnote6)</sup> hét einn<sup id="a7">[7](#myfootnote7)</sup> Ari, annarr Gísli, þriði Þorbj&#x1EB;rn; hann var þeira yngstr, ok óxu allir upp heima þar. 4. Maðr er nefndr Ísi; hann bjó í firði þeim er Fibuli<sup id="a8">[8](#myfootnote8)</sup> heitir, á Norðm&oelig;ri; kona hans hét Ingigerðr, en Ingibj&#x1EB;rg dóttir. Ari, sonr Þorkels súrd&oelig;ls, biðr hennar, ok var hón hánum gefin með miklu fé. 5. Kolr hét þræll, er í brott fór með henni.<sup id="a9">[9](#myfootnote9)</sup>
+1\. Þat er upphaf á s&#x1EB;gu þessi, at Hákon konungr Aðalsteinsfóstri
+<sup id="a1">[1](#myfootnote1)</sup>
+réð fyrir Nóregi; ok var þetta á ofanverðum hans d&#x1EB;gum. 2. Þorkell
+<sup id="a2">[2](#myfootnote2)</sup>
+hét maðr; hann var kallaðr skerauki;
+<sup id="a3">[3](#myfootnote3)</sup>
+hann bjó í Súrnadal
+<sup id="a4">[4](#myfootnote4)</sup>
+ok var hersir að nafnbót.
+<sup id="a5">[5](#myfootnote5)</sup>
+3\. Hann átti sér konu, er Ísgerðr hét, ok sonu iij. barna;
+<sup id="a6">[6](#myfootnote6)</sup>
+hét einn
+<sup id="a7">[7](#myfootnote7)</sup>
+Ari, annarr Gísli, þriði Þorbj&#x1EB;rn; hann var þeira yngstr, ok óxu allir upp heima þar. 4. Maðr er nefndr Ísi; hann bjó í firði þeim er Fibuli
+<sup id="a8">[8](#myfootnote8)</sup>
+heitir, á Norðm&oelig;ri; kona hans hét Ingigerðr, en Ingibj&#x1EB;rg dóttir. Ari, sonr Þorkels súrd&oelig;ls, biðr hennar, ok var hón hánum gefin með miklu fé. 5. Kolr hét þræll, er í brott fór með henni.
+<sup id="a9">[9](#myfootnote9)</sup>
 
 ### A berserker kills Ari Þorkelsson and how his brother Gísli avenged him
 
-6\. Maðr hét Bj&#x1EB;rn enn blakki,<sup id="a10">[10](#myfootnote10)</sup> ok var berserkr;<sup id="a11">[11](#myfootnote11)</sup> hann fór um land ok skoraði<sup id="a12">[12](#myfootnote12)</sup> á menn til hólmg&#x1EB;ngu,<sup id="a13">[13](#myfootnote13)</sup> ef eigi vildu hans vilja gera. 7. Hann kom um vetrinn til Þorkels Súrd&oelig;ls; Ari, sonr hans, réð<sup id="a14">[14](#myfootnote14)</sup> þá fyrir búi. 8. Bj&#x1EB;rn gerir Ara tvá kosti, hvárt hann vill heldr<sup id="a15">[15](#myfootnote15)</sup> berjaz við hann í hólmi þeim, er þar liggr í Súrnadal ok heitir Stokkahólmr,<sup id="a16">[16](#myfootnote16)</sup> eða vill hann selja hánum í hendr konu sína. 9. Hann kaus skjótt, at hann vill heldr berjaz, en hvártveggja<sup id="a17">[17](#myfootnote17)</sup> yrði at sk&#x1EB;mm,<sup id="a18">[18](#myfootnote18)</sup> hann ok kona hans; skyldi þessi fundr véra á þriggja nátta fresti. 10. Nú líðr til hólmstefnu framan;<sup id="a19">[19](#myfootnote19)</sup> þá berjaz þeir, ok lýkr svá at Ari fellr<sup id="a20">[20](#myfootnote20)</sup> ok lætr líf sitt. 11. Þykkiz Bj&#x1EB;rn hafa vegit til landa ok konu; Gísli segir, at hann vill heldr láta líf sitt, en þetta gangi fram,<sup id="a21">[21](#myfootnote21)</sup> vill hann ganga á hólm við Bj&#x1EB;rn.
+6\. Maðr hét Bj&#x1EB;rn enn blakki,
+<sup id="a10">[10](#myfootnote10)</sup>
+ok var berserkr;
+<sup id="a11">[11](#myfootnote11)</sup>
+hann fór um land ok skoraði
+<sup id="a12">[12](#myfootnote12)</sup>
+á menn til hólmg&#x1EB;ngu,
+<sup id="a13">[13](#myfootnote13)</sup>
+ef eigi vildu hans vilja gera. 7. Hann kom um vetrinn til Þorkels Súrd&oelig;ls; Ari, sonr hans, réð
+<sup id="a14">[14](#myfootnote14)</sup>
+þá fyrir búi. 8. Bj&#x1EB;rn gerir Ara tvá kosti, hvárt hann vill heldr
+<sup id="a15">[15](#myfootnote15)</sup>
+berjaz við hann í hólmi þeim, er þar liggr í Súrnadal ok heitir Stokkahólmr,
+<sup id="a16">[16](#myfootnote16)</sup>
+eða vill hann selja hánum í hendr konu sína. 9. Hann kaus skjótt, at hann vill heldr berjaz, en hvártveggja
+<sup id="a17">[17](#myfootnote17)</sup>
+yrði at sk&#x1EB;mm,
+<sup id="a18">[18](#myfootnote18)</sup>
+hann ok kona hans; skyldi þessi fundr véra á þriggja nátta fresti. 10. Nú líðr til hólmstefnu framan;
+<sup id="a19">[19](#myfootnote19)</sup>
+þá berjaz þeir, ok lýkr svá at Ari fellr
+<sup id="a20">[20](#myfootnote20)</sup>
+ok lætr líf sitt. 11. Þykkiz Bj&#x1EB;rn hafa vegit til landa ok konu; Gísli segir, at hann vill heldr láta líf sitt, en þetta gangi fram,
+<sup id="a21">[21](#myfootnote21)</sup>
+vill hann ganga á hólm við Bj&#x1EB;rn.
 
-12\. Þá tók Ingibj&#x1EB;rg til orða: "Eigi var ek af því Ara gipt, at ek vilda þik eigi heldr átt hafa. Kolr, þræll minn á sverð,<sup id="a22">[22](#myfootnote22)</sup> er Grásíða<sup id="a23">[23](#myfootnote23)</sup> heitir, ok skaltu biðja, at hann ljái þér; því at þat fylgir því sverði, at sá skal sigr hafa, er þat hefir til orrostu."
+12\. Þá tók Ingibj&#x1EB;rg til orða: "Eigi var ek af því Ara gipt, at ek vilda þik eigi heldr átt hafa. Kolr, þræll minn á sverð,
+<sup id="a22">[22](#myfootnote22)</sup>
+er Grásíða
+<sup id="a23">[23](#myfootnote23)</sup>
+heitir, ok skaltu biðja, at hann ljái þér; því at þat fylgir því sverði, at sá skal sigr hafa, er þat hefir til orrostu."
 
-Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#myfootnote24)</sup> fyrir at ljá. 13. Gísli bjóz til hólmg&#x1EB;ngu, ok berjaz þeir, ok lýkr svá, at Bj&#x1EB;rn fellr. 14. Gísli þóttiz nú hafa unnit mikinn sigr; ok þat er sagt, at hann biðr Ingibjargar, ok vildi eigi láta góða konu ór ætt ganga<sup id="a25">[25](#myfootnote25)</sup> ok fær hennar; nú tekr hann allan fjárhlut ok geriz mikill maðr fyrir sér. 15. Því næst andaz faðir hans, ok tekr Gísli allan fjárhlut eptir hann. 16. Hann lét drepa þá alla, sem með Birni h&#x1EB;fðu fylgt.<sup id="a26">[26](#myfootnote26)</sup>
+Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit
+<sup id="a24">[24](#myfootnote24)</sup>
+fyrir at ljá. 13. Gísli bjóz til hólmg&#x1EB;ngu, ok berjaz þeir, ok lýkr svá, at Bj&#x1EB;rn fellr. 14. Gísli þóttiz nú hafa unnit mikinn sigr; ok þat er sagt, at hann biðr Ingibjargar, ok vildi eigi láta góða konu ór ætt ganga
+<sup id="a25">[25](#myfootnote25)</sup>
+ok fær hennar; nú tekr hann allan fjárhlut ok geriz mikill maðr fyrir sér. 15. Því næst andaz faðir hans, ok tekr Gísli allan fjárhlut eptir hann. 16. Hann lét drepa þá alla, sem með Birni h&#x1EB;fðu fylgt.
+<sup id="a26">[26](#myfootnote26)</sup>
 
 ### Gísli Þorkelsson and the slave Kolr kill each other
 
-17\. Þrællinn heimti<sup id="a27">[27](#myfootnote27)</sup> sverð sitt, ok vill Gísli eigi laust láta ok býðr hann fé fyrir, en þrællinn vill ekki annat en sverð sitt, ok fær ekki at heldr. 18. Þetta líkar þrælnum illa, ok veitir Gísla tilræði;<sup id="a28">[28](#myfootnote28)</sup> var þat<sup id="a29">[29](#myfootnote29)</sup> mikit sár. Gísli h&oslash;ggr í móti með Grásíðu í h&#x1EB;fuð þrælnum, svá fast, at sverðit brotnaði, en haussinn lamðiz,<sup id="a30">[30](#myfootnote30)</sup> ok fær hvártveggi<sup id="a31">[31](#myfootnote31)</sup> bana.
+17\. Þrællinn heimti
+<sup id="a27">[27](#myfootnote27)</sup>
+sverð sitt, ok vill Gísli eigi laust láta ok býðr hann fé fyrir, en þrællinn vill ekki annat en sverð sitt, ok fær ekki at heldr. 18. Þetta líkar þrælnum illa, ok veitir Gísla tilræði;
+<sup id="a28">[28](#myfootnote28)</sup>
+var þat
+<sup id="a29">[29](#myfootnote29)</sup>
+mikit sár. Gísli h&oslash;ggr í móti með Grásíðu í h&#x1EB;fuð þrælnum, svá fast, at sverðit brotnaði, en haussinn lamðiz,
+<sup id="a30">[30](#myfootnote30)</sup>
+ok fær hvártveggi
+<sup id="a31">[31](#myfootnote31)</sup> bana.
 
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_2">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
