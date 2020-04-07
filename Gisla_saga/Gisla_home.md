@@ -66,6 +66,10 @@ layout: default
 
 ---
 
+[English translation of the variant introduction from the long version, AM 149 fol.](https://rcblack.net/Gisla_saga/gisli_S/)
+
+---
+
 ## About
 
 This electronic edition is a [fork](https://en.wikipedia.org/wiki/Fork_(software_development)) of Finnur Jónsson's German publication of Gísla Saga Súrssonar; M. Niemeyer, 1903, for use as a reading text in SCAND 501, Readings in Old Icelandic Language and Literature at the University of Washington. The orthography and spelling follow the conventions of Finnur's edition unless otherwise noted. The numeration of both the chapters and the skaldic poems follow the common numeration used by most modern editions and translations. The sentence numeration present in Finnur's edition is preserved. The notes are translated into English from German and are generally preserved throughout. At this writing, all bibliographic references should be referred to the print edition. Additional notes and glosses included by me are indicated by a runic letter vend (&#42856;). Many glossed words are hyperlinked to their respective entries at the online edition of [_An Icelandic-English Dictionary_](http://www.ling.upenn.edu/~kurisuto/germanic/oi_cleasbyvigfusson_about.html), by Richard Cleasby and Gudbrand Vigfusson, and maintained by Sean Crist.
