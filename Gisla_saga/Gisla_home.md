@@ -66,7 +66,7 @@ layout: default
 
 ---
 
-## [Translation of the variant introduction of _Gísla saga Súrssonar_ from AM 149 fol.](https://rcblack.net/Gisla_saga/gisli_S/)
+## [English translation of the variant introduction of _Gísla saga Súrssonar_ from AM 149 fol.](https://rcblack.net/Gisla_saga/gisli_S/)
 
 ---
 
