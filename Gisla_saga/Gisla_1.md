@@ -130,15 +130,25 @@ faðir hans, ok tekr Gísli allan fjárhlut eptir hann. 16. Hann lét drepa
 ### Gísli Þorkelsson and the slave Kolr kill each other
 
 17\. Þrællinn heimti
-<sup id="a27">[27](#footnote27)</sup>
-sverð sitt, ok vill Gísli eigi laust láta ok býðr hann fé fyrir, en þrællinn vill ekki annat en sverð sitt, ok fær ekki at heldr. 18. Þetta líkar þrælnum illa, ok veitir Gísla tilræði;
-<sup id="a28">[28](#footnote28)</sup>
+<sup id="a58">[58](#footnote58)</sup>
+sverð sitt, ok vill Gísli eigi laust láta
+<sup id="a59">[59](#footnote59)</sup>
+ok býðr hann fé fyrir,
+<sup id="a60">[60](#footnote60)</sup>
+en þrællinn vill ekki annat en sverð sitt, ok fær ekki at heldr.
+<sup id="a61">[61](#footnote61)</sup>
+18\. Þetta líkar þrælnum illa, ok veitir Gísla tilræði;
+<sup id="a62">[62](#footnote62)</sup>
 var þat
-<sup id="a29">[29](#footnote29)</sup>
-mikit sár. Gísli h&oslash;ggr í móti með Grásíðu í h&#x1EB;fuð þrælnum, svá fast, at sverðit brotnaði, en haussinn lamðiz,
-<sup id="a30">[30](#footnote30)</sup>
+<sup id="a63">[63](#footnote63)</sup>
+mikit sár. Gísli h&oslash;ggr í móti
+<sup id="a64">[64](#footnote64)</sup>
+með Grásíðu í h&#x1EB;fuð þrælnum, svá fast, at sverðit brotnaði,
+<sup id="a65">[65](#footnote65)</sup>
+en haussinn lamðiz,
+<sup id="a66">[66](#footnote66)</sup>
 ok fær hvártveggi
-<sup id="a31">[31](#footnote31)</sup> bana.
+<sup id="a67">[67](#footnote67)</sup> bana.
 
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_2">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
@@ -155,7 +165,7 @@ ok fær hvártveggi
 [↩](#a2)
 
 <a name="footnote1" id="f3">3</a>:
-  _Hákon konungr Aðalsteinsfóstri_, King of Norway 935-61. The second element in his hame means the "fosterling" of the English King [Æthelstan](https://en.wikipedia.org/wiki/%C3%86thelstan). According to some sagas, Hákon spent his childhood at the court of the english king. 
+  _Hákon konungr Aðalsteinsfóstri_, King of Norway 935-61. The second element in his hame means the "fosterling" of the English King [Æþelstan](https://en.wikipedia.org/wiki/%C3%86thelstan). According to some sagas, Hákon spent his childhood at the court of the english king. There is no British record of Hákon's time in Britain and the name occurs only in later Scandinavian sources.
 [↩](#a3)
 
 <a name="footnote4" id="f4">4</a>:
@@ -375,22 +385,42 @@ ok fær hvártveggi
   _þá alla--fylgt_, these people are not mentioned before this; this would not have been necessary either because berserkers usually had a cohort; in the recension S, twelve are specified.
 [↩](#a57)
 
-<a name="footnote27" id="f27">27</a>:
+<a name="footnote58" id="f58">58</a>:
  [_heimti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0251:21), &#42856; "craved."
-[↩](#a27)
+[↩](#a58)
 
-<a name="footnote28" id="f28">28</a>:
+<a name="footnote59" id="f59">59</a>:
+  [_laust_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0375:51), [(definition continued).](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0376:1), adj., with auxiliary _láta_, he "didn't want to let it go."
+[↩](#a59)
+
+<a name="footnote60" id="f60">60</a>:
+  [_býðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0065:48), 3rd. sing. pres., "offers," 
+[↩](#a60)
+
+<a name="footnote61" id="f61">61</a>:
+  [_fær_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0145:30), 3rd. sing. pres., from _fá_, to receive. [_at heldr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0254:6), [(definition continued)](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0254:7), but rather, or "all the more." But rather it was not given back to him, or returned to him.
+[↩](#a61)
+
+<a name="footnote62" id="f62">62</a>:
  [_tilr&oelig;ði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0632:5), "attack;" or, "try to kill someone," from _ráða til (manns)_ "to attack someone."
-[↩](#a28)
+[↩](#a62)
 
-<a name="footnote29" id="f29">29</a>:
+<a name="footnote63" id="f63">63</a>:
  _var þat_, "it grew to be" (the wound), "the wound, which he inflicted, came to be severe."
-[↩](#a29)
+[↩](#a63)
 
-<a name="footnote30" id="f30">30</a>:
+<a name="footnote64" id="f64">64</a>:
+  [_høggr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0309:11), 3rd. sing. pres., from hǫggva; "strikes" with his sword. [_í moti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0436:6), "against." "Strikes into...the head."
+[↩](#a64)
+
+<a name="footnote65" id="f65">65</a>:
+  [_brotnaði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0081:26), 3rd. sing. past., "to be broken."
+[↩](#a65)
+
+<a name="footnote66" id="f66">66</a>:
  [_lamðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0383:35), &#42856; the reflexive usage appears in the next page [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0384:1). "fractured."
-[↩](#a30)
+[↩](#a66)
 
-<a name="footnote31" id="f31">31</a>:
+<a name="footnote67" id="f67">67</a>:
  [_hvártveggi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16), that is, Gísli and the slave; Weinhold (Altn. leben s. 197) completely misunderstood the position.
-[↩](#a31)
+[↩](#a67)
