@@ -79,48 +79,53 @@ eða vill hann selja
 hánum í hendr konu sína. 9. Hann kaus skjótt,
 <sup id="a34">[34](#footnote34)</sup>
 at hann vill heldr berjaz, en hvártveggja
-<sup id="a36">[36](#footnote36)</sup>
+<sup id="a35">[35](#footnote35)</sup>
 yrði at sk&#x1EB;mm,
+<sup id="a36">[36](#footnote36)</sup>
+hann ok kona hans; skyldi þessi fundr véra á þriggja nátta fresti.
 <sup id="a37">[37](#footnote37)</sup>
-hann ok kona hans; skyldi þessi fundr véra á þriggja
-<sup id="a38">[38](#footnote38)</sup>
-nátta fresti.
-<sup id="a39">[39](#footnote39)</sup>
 10\. Nú líðr til hólmstefnu framan;
-<sup id="a40">[40](#footnote40)</sup>
+<sup id="a38">[38](#footnote38)</sup>
 þá berjaz þeir, ok lýkr svá at Ari fellr
-<sup id="a41">[41](#footnote41)</sup>
+<sup id="a39">[39](#footnote39)</sup>
 ok lætr líf sitt. 11. Þykkiz
-<sup id="a42">[42](#footnote42)</sup>
+<sup id="a40">[40](#footnote40)</sup>
 Bj&#x1EB;rn hafa vegit
-<sup id="a43">[43](#footnote43)</sup>
+<sup id="a41">[41](#footnote41)</sup>
 til landa ok konu; Gísli segir, at hann vill heldr láta
-<sup id="a44">[44](#footnote44)</sup>
+<sup id="a42">[42](#footnote42)</sup>
 líf sitt, en þetta gangi fram,
-<sup id="a45">[45](#footnote45)</sup>
+<sup id="a43">[43](#footnote43)</sup>
 vill hann ganga á hólm við Bj&#x1EB;rn.
-
-
-
-
-
-
-
-
-
-
 12\. Þá tók Ingibj&#x1EB;rg til orða: "Eigi var ek af því Ara gipt, at ek vilda þik eigi heldr átt hafa. Kolr, þræll minn á sverð,
-<sup id="a22">[22](#footnote22)</sup>
+<sup id="a44">[44](#footnote44)</sup>
 er Grásíða
-<sup id="a23">[23](#footnote23)</sup>
-heitir, ok skaltu biðja, at hann ljái þér; því at þat fylgir því sverði, at sá skal sigr hafa, er þat hefir til orrostu."
+<sup id="a45">[45](#footnote45)</sup>
+heitir, ok skaltu biðja, at hann ljái
+<sup id="a46">[46](#footnote46)</sup>
+þér; því at þat fylgir
+<sup id="a47">[47](#footnote47)</sup>
+því sverði, at sá skal sigr hafa, er þat hefir til orrostu."
+<sup id="a48">[48](#footnote48)</sup>
 
 Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit
-<sup id="a24">[24](#footnote24)</sup>
-fyrir at ljá. 13. Gísli bjóz til hólmg&#x1EB;ngu, ok berjaz þeir, ok lýkr svá, at Bj&#x1EB;rn fellr. 14. Gísli þóttiz nú hafa unnit mikinn sigr; ok þat er sagt, at hann biðr Ingibjargar, ok vildi eigi láta góða konu ór ætt ganga
-<sup id="a25">[25](#footnote25)</sup>
-ok fær hennar; nú tekr hann allan fjárhlut ok geriz mikill maðr fyrir sér. 15. Því næst andaz faðir hans, ok tekr Gísli allan fjárhlut eptir hann. 16. Hann lét drepa þá alla, sem með Birni h&#x1EB;fðu fylgt.
-<sup id="a26">[26](#footnote26)</sup>
+<sup id="a49">[49](#footnote49)</sup>
+fyrir at ljá. 13. Gísli bjóz
+<sup id="a50">[50](#footnote50)</sup>
+til hólmg&#x1EB;ngu, ok berjaz þeir, ok lýkr
+<sup id="a51">[51](#footnote51)</sup>
+svá, at Bj&#x1EB;rn fellr. 14. Gísli þóttiz nú hafa unnit
+<sup id="a52">[52](#footnote52)</sup>
+mikinn sigr; ok þat er sagt, at hann biðr Ingibjargar, ok vildi eigi láta góða konu ór ætt ganga
+<sup id="a53">[53](#footnote53)</sup>
+ok fær hennar; nú tekr hann allan fjárhlut
+<sup id="a54">[54](#footnote54)</sup>
+ok geriz mikill maðr fyrir sér. 15\. Því næst andaz
+<sup id="a55">[55](#footnote55)</sup>
+faðir hans, ok tekr Gísli allan fjárhlut eptir hann. 16. Hann lét drepa
+<sup id="a56">[56](#footnote56)</sup>
+þá alla, sem með Birni h&#x1EB;fðu fylgt.
+<sup id="a57">[57](#footnote57)</sup>
 
 ### Gísli Þorkelsson and the slave Kolr kill each other
 
@@ -278,48 +283,95 @@ ok fær hvártveggi
   [_kaus_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0340:53) [_skjótt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0553:9), 3rd. sing. past, _kjosa_, "chose." Note the adjectival usage of _skjótr_. See entry 3 in CV.
 [↩](#a34)
 
-
-
-
-<a name="footnote17" id="f17">17</a>:
+<a name="footnote35" id="f35">35</a>:
  [_hvártveggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16) is ntr. &#42856;"each of them."
-[↩](#a17)
+[↩](#a35)
 
-<a name="footnote18" id="f18">18</a>:
+<a name="footnote36" id="f36">36</a>:
  _yrði at_ [_sk&oslash;mm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0565:31), he through his cowardice, she as the berserker's prize.
-[↩](#a18)
+[↩](#a36)
 
-<a name="footnote19" id="f19">19</a>:
+<a name="footnote37" id="f37">37</a>:
+  _á_ [_þriggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0745:44), gen, Note that the first four cardinal numbers decline, the lexical form being, _þrir_. [_nátta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0457:59) [_fresti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0173:4), "A delay of three nights."
+[↩](#a37)
+
+<a name="footnote38" id="f38">38</a>:
  [_framan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0169:13), nearly the same as [_fram_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0169:11); _framan_ is the starting point of the agreed time.
-[↩](#a19)
+[↩](#a38)
 
-<a name="footnote20" id="f20">20</a>:
+<a name="footnote39" id="f39">39</a>:
  _fellr_, inf. [_falla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0137:10), means the same as _láta líf_; this expression literally means, "to fall down," or, "to be struck down."
-[↩](#a20)
+[↩](#a39)
 
-<a name="footnote21" id="f21">21</a>:
+<a name="footnote40" id="f40">40</a>:
+  [_þykkisk_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0753:26), 3rd. sing. pres. mediopassive, "thought to himself," or considered it to be.
+[↩](#a40)
+
+<a name="footnote41" id="f41">41</a>:
+[↩](#a41)
+  [_vegit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0688:21), [(definition continued)](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0689:1), past participle, "won," through through battle.
+
+<a name="footnote42" id="f42">42</a>:
+[↩](#a42)
+  [_ĺáta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0377:11), "give up," or, to let go.
+
+<a name="footnote43" id="f43">43</a>:
  _gangi fram_, "to pass," or, "to become reality."
-[↩](#a21)
+[↩](#a43)
 
-<a name="footnote22" id="f22">22</a>:
+<a name="footnote44" id="f44">44</a>:
  [_sverð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0610:6), a spear is made from this sword later, (s. c. 11, 3, see Sturlunga (Oxford) I, 247, 376,), where the same spear is mentioned as still existing in the 13th century.
-[↩](#a22)
+[↩](#a44)
 
-<a name="footnote16" id="f23">23</a>:
+<a name="footnote45" id="f45">45</a>:
  Grásiða, "gray blade," or, "The weapon with the gray blade;" the color of the iron.
-[↩](#a23)
+[↩](#a45)
 
-<a name="footnote24" id="f24">24</a>:
+<a name="footnote46" id="f46">46</a>:
+ [_ljái_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0394:4), 3rd. sing. pres. subj., "lend."
+[↩](#a46)
+
+<a name="footnote47" id="f47">47</a>:
+  [_fylgir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0179:11), 3rd. sing. pres., it "follows" that...
+[↩](#a47)
+
+<a name="footnote48" id="f48">48</a>:
+ [_orrostu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0469:7), fem. sing. gen., "in battle."
+[↩](#a48)
+
+<a name="footnote49" id="f49">49</a>:
  _þótti--mikit fyrir_, "It was difficult for the slave," or, "he was reluctant," (to loan the sword.)
-[↩](#a24)
+[↩](#a49)
 
-<a name="footnote25" id="f25">25</a>:
+<a name="footnote50" id="f50">50</a>:
+  [_bjósk_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0087:2), 3rd. sing. past. mediopassive., "prepared himself.
+[↩](#a50)
+
+<a name="footnote51" id="f51">51</a>:
+ [_unnit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0708:45), past participle, "had won," or accomplished. 
+[↩](#a51)
+
+<a name="footnote52" id="f52">52</a>:
  _eiga lata--ganga_, that someone married the widow of their brother occurs often, for instance in _Egils saga_, when Egil marries the widow of Þórólf, and later in our present saga when B&oslash;rkr marries Þordis (c. 14), and so on.
-[↩](#a25)
+[↩](#a52)
 
-<a name="footnote26" id="f26">26</a>:
- _þá alla--fylgt_, these people are not mentioned before this; this would not have been necessary either because berserkers usually had a cohort; in the recension S, twelve are specified.
-[↩](#a26)
+<a name="footnote53" id="f53">53</a>:
+  "...he didn't with to let a good woman go."
+[↩](#a53)
+
+<a name="footnote54" id="f54">54</a>:
+  [_fjárhlut_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0148:1), m. acc. sing., "share of the wealth." See [_fé_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0147:36).
+[↩](#a54)
+
+<a name="footnote55" id="f55">55</a>:
+  [_andask_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0019:27), 3rd. sing. past. mediopassive., "died." This is an idiomatic usage of the verb meaning, "to breathe." 
+[↩](#a55)
+
+<a name="footnote56" id="f56">56</a>:
+  [_lét_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0377:11)[_drepa_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0105:16), _lét_, 3rd. sing. past. Used here as a common auxiliary verb, "to let," or to have something done. "He had" it be done that they were killed.
+
+  _þá alla--fylgt_, these people are not mentioned before this; this would not have been necessary either because berserkers usually had a cohort; in the recension S, twelve are specified.
+[↩](#a56)
 
 <a name="footnote27" id="f27">27</a>:
  [_heimti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0251:21), &#42856; "craved."
