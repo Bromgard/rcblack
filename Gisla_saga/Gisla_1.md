@@ -369,9 +369,11 @@ ok fær hvártveggi
 
 <a name="footnote56" id="f56">56</a>:
   [_lét_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0377:11)[_drepa_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0105:16), _lét_, 3rd. sing. past. Used here as a common auxiliary verb, "to let," or to have something done. "He had" it be done that they were killed.
-
-  _þá alla--fylgt_, these people are not mentioned before this; this would not have been necessary either because berserkers usually had a cohort; in the recension S, twelve are specified.
 [↩](#a56)
+
+<a name="footnote57" id="f57">57</a>:
+  _þá alla--fylgt_, these people are not mentioned before this; this would not have been necessary either because berserkers usually had a cohort; in the recension S, twelve are specified.
+[↩](#a57)
 
 <a name="footnote27" id="f27">27</a>:
  [_heimti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0251:21), &#42856; "craved."
