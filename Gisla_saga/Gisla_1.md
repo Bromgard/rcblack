@@ -217,11 +217,11 @@ ok fær hvártveggi
 [↩](#a15)
 
 <a name="footnote16" id="f16">16</a>:
- _Fibuli_, a fjord in Nordm&oslash;e, somewhat farther north than Halsfjord; the name is preserved in the name of the farm Fevelen, s. Sproglig-hist. stud. tilegnede prof. Unger (1896) p. 44.
+ _Fibuli_, a fjord in Nordm&oslash;e, somewhat farther north than Halsfjord; the name is preserved in the name of the farm Fevelen, (see Sproglig-hist. stud. tilegnede prof. Unger (1896) p. 44).
 [↩](#a16)
 
 <a name="footnote17" id="f17">17</a>:
-  [_biðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0062:16), 3rd. sing. pres., "propose." 
+  [_biðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0062:16), 3rd. sing. pres., "proposes." 
 [↩](#a17)
 
 <a name="footnote18" id="f18">18</a>:
@@ -233,24 +233,23 @@ ok fær hvártveggi
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
- _í brott--henni_, "who was given to her (as property)."
+ _í brott--henni_, "he went away with her. That is, he was given to her as property.
 [↩](#a20)
 
 <a name="footnote21" id="f21">21</a>:
- _ enn_ [_blakki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0067:3), "the dark," of the color of the skin.   
- &#42856; The lexical range also allows for, "the pale," or "the white," as a foreboding of death. See Cleasby/Vigfusson.
+ _ enn_ [_blakki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0067:3), "the dark," of the color of the skin. The lexical range also allows for, "the pale," or "the white," as a foreboding of death. See the entry in Cleasby-Vigfusson.
 [↩](#a21)
 
 <a name="footnote22" id="f22">22</a>:
-  About berserks and berserker battles, see Egilss. c. 64, Grettiss. c. 19 u. 40.
+  [_berserkr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0061:17), A berserker; a wild warrior that appears to have had supernatural or ritual powers in combat; a characterization that appears regularly in the medieval sagas.
 [↩](#a22)
 
 <a name="footnote23" id="f23">23</a>:
-  [_skoraði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0554:24), &#42856; "challenged."
+  [_skoraði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0554:24), 3rd. sing. past, "challenged."
 [↩](#a23)
 
 <a name="footnote24" id="f24">24</a>:
-  [_hólmgǫngu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0280:40), &#42856; a duel or battle.
+  [_hólmgǫngu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0280:40), a duel, sometimes referring to a specific ritual duel that takes place on a small island.
 [↩](#a24)
 
 <a name="footnote25" id="f25">25</a>:
@@ -258,7 +257,7 @@ ok fær hvártveggi
 [↩](#a25)
 
 <a name="footnote26" id="f26">26</a>:
-  [_vilja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0706:5), acc. pl., "wishes," or his demands. Compare this nominal form with the verb, "vilja" in the previous note. 
+  [_vilja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0706:5), acc. pl., "wishes," or his demands. Compare this nominal form with the verb, "vilja" in note 26. 
 [↩](#a26)
 
 <a name="footnote27" id="f27">27</a>:
@@ -274,11 +273,11 @@ ok fær hvártveggi
 [↩](#a29)
   
 <a name="footnote30" id="f30">30</a>:
- _at hann vill heldr_, is actually pleonastic; and the scribe writes as if he meant _segir_ instead of _kaus_.
+ _at hann vill heldr_, is actually pleonastic. The construction of this sentence is rather awkward. See note 36.
 [↩](#a30)
 
 <a name="footnote31" id="f31">31</a>:
-  [_berjask_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0060:33), [(definition continued)](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0061:1), 3rd, pl. pres. mediopassive, "fight," or do battle. 
+  [_berjask_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0060:33), [(definition continued)](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0061:1), 3rd, pl. pres. mediopassive, "fight," or do battle.
 [↩](#a31)
 
 <a name="footnote32" id="f31">32</a>:
@@ -290,19 +289,19 @@ ok fær hvártveggi
 [↩](#a33)
 
 <a name="footnote34" id="f34">34</a>:
-  [_kaus_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0340:53) [_skjótt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0553:9), 3rd. sing. past, _kjosa_, "chose." Note the adjectival usage of _skjótr_. See entry 3 in CV.
+  [_kaus_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0340:53) [_skjótt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0553:9), 3rd. sing. past, _kjosa_, "chose." Note the adjectival usage of _skjótr_. See entry 3 in CV. The scribe writes as if he meant _segir_ instead of _kaus_.
 [↩](#a34)
 
 <a name="footnote35" id="f35">35</a>:
- [_hvártveggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16) is ntr. &#42856;"each of them."
+ [_hvártveggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16) is ntr. "each of them."
 [↩](#a35)
 
 <a name="footnote36" id="f36">36</a>:
- _yrði at_ [_sk&oslash;mm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0565:31), he through his cowardice, she as the berserker's prize.
+ _yrði at_ [_sk&oslash;mm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0565:31), to him through his cowardice, and to her as the berserker's prize.
 [↩](#a36)
 
 <a name="footnote37" id="f37">37</a>:
-  _á_ [_þriggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0745:44), gen, Note that the first four cardinal numbers decline, the lexical form being, _þrir_. [_nátta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0457:59) [_fresti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0173:4), "A delay of three nights."
+  _á_ [_þriggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0745:44), gen., note that the first four cardinal numbers decline, the lexical form being, _þrir_. [_nátta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0457:59) [_fresti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0173:4), "A delay of three nights."
 [↩](#a37)
 
 <a name="footnote38" id="f38">38</a>:
@@ -330,11 +329,11 @@ ok fær hvártveggi
 [↩](#a43)
 
 <a name="footnote44" id="f44">44</a>:
- [_sverð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0610:6), a spear is made from this sword later, (s. c. 11, 3, see Sturlunga (Oxford) I, 247, 376,), where the same spear is mentioned as still existing in the 13th century.
+ [_sverð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0610:6), a spear is made from this sword later in the saga. The same spear is mentioned as still existing in the 13th century in _Sturlunga saga_.
 [↩](#a44)
 
 <a name="footnote45" id="f45">45</a>:
- Grásiða, "gray blade," or, "The weapon with the gray blade;" the color of the iron.
+ Grásiða, "gray blade," or, "The weapon with the gray blade;" the color of the iron. This is the name of the sword.
 [↩](#a45)
 
 <a name="footnote46" id="f46">46</a>:
@@ -354,7 +353,7 @@ ok fær hvártveggi
 [↩](#a49)
 
 <a name="footnote50" id="f50">50</a>:
-  [_bjósk_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0087:2), 3rd. sing. past. mediopassive., "prepared himself.
+  [_bjósk_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0087:2), 3rd. sing. past. mediopassive, "prepared himself.
 [↩](#a50)
 
 <a name="footnote51" id="f51">51</a>:
@@ -362,11 +361,11 @@ ok fær hvártveggi
 [↩](#a51)
 
 <a name="footnote52" id="f52">52</a>:
- _eiga lata--ganga_, that someone married the widow of their brother occurs often, for instance in _Egils saga_, when Egil marries the widow of Þórólf, and later in our present saga when B&oslash;rkr marries Þordis (c. 14), and so on.
+ _eiga lata--ganga_, that someone married the widow of their brother occurs often in the literature. For example, Egil marries the widow of Þórólf in _Egils saga_, and later in our present saga when B&oslash;rkr marries Þordis.
 [↩](#a52)
 
 <a name="footnote53" id="f53">53</a>:
-  "...he didn't with to let a good woman go."
+  "...he didn't wish to let a good woman go."
 [↩](#a53)
 
 <a name="footnote54" id="f54">54</a>:
@@ -374,7 +373,7 @@ ok fær hvártveggi
 [↩](#a54)
 
 <a name="footnote55" id="f55">55</a>:
-  [_andask_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0019:27), 3rd. sing. past. mediopassive., "died." This is an idiomatic usage of the verb meaning, "to breathe." 
+  [_andask_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0019:27), 3rd. sing. past. mediopassive., "died." This is an idiomatic mediopassive usage of the verb meaning, "to breathe." 
 [↩](#a55)
 
 <a name="footnote56" id="f56">56</a>:
@@ -386,7 +385,7 @@ ok fær hvártveggi
 [↩](#a57)
 
 <a name="footnote58" id="f58">58</a>:
- [_heimti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0251:21), &#42856; "craved."
+ [_heimti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0251:21), "craved."
 [↩](#a58)
 
 <a name="footnote59" id="f59">59</a>:
@@ -394,7 +393,7 @@ ok fær hvártveggi
 [↩](#a59)
 
 <a name="footnote60" id="f60">60</a>:
-  [_býðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0065:48), 3rd. sing. pres., "offers," 
+  [_býðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0065:48), 3rd. sing. pres., "offers." 
 [↩](#a60)
 
 <a name="footnote61" id="f61">61</a>:
@@ -418,9 +417,10 @@ ok fær hvártveggi
 [↩](#a65)
 
 <a name="footnote66" id="f66">66</a>:
- [_lamðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0383:35), &#42856; the reflexive usage appears in the next page [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0384:1). "fractured."
+ [_lamðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0383:35), the reflexive usage appears in the next page [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0384:1). "fractured."
 [↩](#a66)
 
 <a name="footnote67" id="f67">67</a>:
- [_hvártveggi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16), that is, Gísli and the slave; Weinhold (Altn. leben s. 197) completely misunderstood the position.
+ [_hvártveggi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16), that is, Gísli and the slave. 
+ <!--Weinhold (Altn. leben s. 197) completely misunderstood the position.-->
 [↩](#a67)
