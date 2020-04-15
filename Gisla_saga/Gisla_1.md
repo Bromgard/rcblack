@@ -27,7 +27,7 @@ hann bjó
 <sup id="a9">[9](#footnote9)</sup>
 ok var hersir
 <sup id="a10">[10](#footnote10)</sup>
-að nafnbót.
+at nafnbót.
 <sup id="a11">[11](#footnote11)</sup>
 3\. Hann átti sér konu, er Ísgerðr hét, ok sonu iij. barna;
 <sup id="a12">[12](#footnote12)</sup>
@@ -41,7 +41,7 @@ allir upp heima þar. 4. Maðr er nefndr Ísi; hann bjó í firði
 <sup id="a16">[16](#footnote16)</sup>
 heitir, á Norðm&oelig;ri; kona hans hét Ingigerðr, en Ingibj&#x1EB;rg dóttir. Ari, sonr Þorkels súrd&oelig;ls, biðr
 <sup id="a17">[17](#footnote17)</sup>
-hennar, ok var hón hánum gefin með miklu fé.
+hennar, ok var hón honum gefin með miklu fé.
 <sup id="a18">[18](#footnote18)</sup>
 5\. Kolr hét þræll,
 <sup id="a19">[19](#footnote19)</sup>
@@ -51,6 +51,7 @@ er í brott fór með henni.
 ### A berserker kills Ari Þorkelsson and Ari's brother Gísli avenges him
 
 6\. Maðr hét Bj&#x1EB;rn enn blakki,
+<!--blakki is missing in MS-->
 <sup id="a21">[21](#footnote21)</sup>
 ok var berserkr;
 <sup id="a22">[22](#footnote22)</sup>
@@ -70,7 +71,8 @@ til Þorkels Súrd&oelig;ls; Ari, sonr hans, réð
 <sup id="a29">[29](#footnote29)</sup>
 8\. Bj&#x1EB;rn gerir Ara tvá kosti, hvárt hann vill heldr
 <sup id="a30">[30](#footnote30)</sup>
-berjaz
+berjask
+<!--heldr and berjask are switched in MS-->
 <sup id="a31">[31](#footnote31)</sup>
 við hann í hólmi þeim, er þar liggr í Súrnadal ok heitir Stokkahólmr,
 <sup id="a32">[32](#footnote32)</sup>
@@ -78,7 +80,7 @@ eða vill hann selja
 <sup id="a33">[33](#footnote33)</sup>
 hánum í hendr konu sína. 9. Hann kaus skjótt,
 <sup id="a34">[34](#footnote34)</sup>
-at hann vill heldr berjaz, en hvártveggja
+at hann vill heldr berjask, en hvártveggja
 <sup id="a35">[35](#footnote35)</sup>
 yrði at sk&#x1EB;mm,
 <sup id="a36">[36](#footnote36)</sup>
@@ -86,9 +88,9 @@ hann ok kona hans; skyldi þessi fundr véra á þriggja nátta fresti.
 <sup id="a37">[37](#footnote37)</sup>
 10\. Nú líðr til hólmstefnu framan;
 <sup id="a38">[38](#footnote38)</sup>
-þá berjaz þeir, ok lýkr svá at Ari fellr
+þá berjask þeir, ok lýkr svá at Ari fellr
 <sup id="a39">[39](#footnote39)</sup>
-ok lætr líf sitt. 11. Þykkiz
+ok lætr líf sitt. 11. Þykkisk
 <sup id="a40">[40](#footnote40)</sup>
 Bj&#x1EB;rn hafa vegit
 <sup id="a41">[41](#footnote41)</sup>
@@ -110,17 +112,17 @@ heitir, ok skaltu biðja, at hann ljái
 
 Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit
 <sup id="a49">[49](#footnote49)</sup>
-fyrir at ljá. 13. Gísli bjóz
+fyrir at ljá. 13. Gísli bjóst
 <sup id="a50">[50](#footnote50)</sup>
-til hólmg&#x1EB;ngu, ok berjaz þeir, ok lýkr
+til hólmg&#x1EB;ngu, ok berjask þeir, ok lýkr
 <sup id="a51">[51](#footnote51)</sup>
-svá, at Bj&#x1EB;rn fellr. 14. Gísli þóttiz nú hafa unnit
+svá, at Bj&#x1EB;rn fellr. 14. Gísli þóttisk nú hafa unnit
 <sup id="a52">[52](#footnote52)</sup>
 mikinn sigr; ok þat er sagt, at hann biðr Ingibjargar, ok vildi eigi láta góða konu ór ætt ganga
 <sup id="a53">[53](#footnote53)</sup>
 ok fær hennar; nú tekr hann allan fjárhlut
 <sup id="a54">[54](#footnote54)</sup>
-ok geriz mikill maðr fyrir sér. 15\. Því næst andaz
+ok gerisk mikill maðr fyrir sér. 15\. Því næst andask
 <sup id="a55">[55](#footnote55)</sup>
 faðir hans, ok tekr Gísli allan fjárhlut eptir hann. 16. Hann lét drepa
 <sup id="a56">[56](#footnote56)</sup>
@@ -145,7 +147,7 @@ mikit sár. Gísli h&oslash;ggr í móti
 <sup id="a64">[64](#footnote64)</sup>
 með Grásíðu í h&#x1EB;fuð þrælnum, svá fast, at sverðit brotnaði,
 <sup id="a65">[65](#footnote65)</sup>
-en haussinn lamðiz,
+en haussinn lamðisk,
 <sup id="a66">[66](#footnote66)</sup>
 ok fær hvártveggi
 <sup id="a67">[67](#footnote67)</sup> bana.
@@ -157,7 +159,8 @@ ok fær hvártveggi
 
 ### Notes
 <a name="footnote1" id="f1">1</a>:
-  [_upp-haf_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0655:40), a beginning. 
+  [_upp-haf_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0655:40), a beginning.
+<!--The "haf" appears to be missing in MS-->
 [↩](#a1)
 
 <a name="footnote2" id="f2">2</a>:
