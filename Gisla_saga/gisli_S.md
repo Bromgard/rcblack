@@ -50,6 +50,11 @@ And now Kol was sent for and he comes to meet Gisli and Ingibjorn. Gisli said, "
 
 Kol replies, "My sword is a small treasure, however there are many things in a churl's house that is not in a king's stronghold."
 
-Gisli said, "Will you not loan me the sword for the duel against Bjorn?" 
+Gisli said, "Will you not loan me the sword for the duel against Bjorn?"
+
+Kol spoke,
+"Now you will act like so many people when someone possesses a valuable thing and the owner cannot bear to give it away.
+But I will tell you now, that the sword will cut anything it strikes, whether it is made of iron or anything else. It cannot be dulled because it is forged by dwarves. The sword is named Grasida (Grey-blade).
+And you must expect that I will be displeased if I cannot take the sword when I wish to hold it."
 
 (To be continued.)
