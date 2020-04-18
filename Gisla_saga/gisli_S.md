@@ -57,4 +57,8 @@ Kol spoke,
 But I will tell you now, that the sword will cut anything it strikes, whether it is made of iron or anything else. It cannot be dulled because it is forged by dwarves. The sword is named Grasida (Grey-blade).
 And you must expect that I will be displeased if I cannot take the sword when I wish to hold it."
 
+"On the other hand it is not right," says Gisli, "that you hold onto your sword while I have had such dire need for it."
+
+So now Gisli takes the sword and night passes. Before they leave home for the duel, Thorbjorn asks his brother Gisli, "
+
 (To be continued.)
