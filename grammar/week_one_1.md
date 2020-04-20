@@ -65,7 +65,7 @@ The rules governing this paradigm are easy to parse. The articles are suffixed t
 
 The Old Icelandic definite article likewise follows a stronger declension that also reflects the grammatical cases. 
 
-| Case &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Sing. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Sing. Def. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Plural &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Plural Def.|
+| Case &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Sing. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Sing. Def. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Plural &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Plural Def.|
 |:------------------|:----------|:------------|:----------|:-------------|
 | Nominative       | konungr  | konungrinn | konungar | konungarnir |
 | Accusative	   | konung   | konunginn  | konunga  | konungana   |
@@ -75,7 +75,7 @@ The Old Icelandic definite article likewise follows a stronger declension that a
 Notice that the construction of the case endings along with the definite article is very regular. Note the particles that make up the definite noun, _konungrinn_:
 
 | Stem  &nbsp; &nbsp; &nbsp; &nbsp;| Case Suffix &nbsp; &nbsp; &nbsp; &nbsp;| Def. Article |
-|:--------|:------------|:-------------|
+|:--------|:------------:|:-------------|
 | konung- | -r          | -inn         |
 
 When the noun appears in the nominative case, the _-r_ ending is always present after the stem, even when the definite suffix is also present.
