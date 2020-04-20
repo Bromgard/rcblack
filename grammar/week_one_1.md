@@ -15,8 +15,8 @@ If you can read this you already know that English nouns change their form depen
 
 English also use a suffixed ending that communicates the genitive, or the possessive case.
 
-| Case &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Singular | Plural |
-|:-----------------|:----------:|--------:|
+| Case &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Singular &nbsp; &nbsp; &nbsp; &nbsp; | Plural |
+|:-----------------|:----------|:--------|
 | Nominative | king | kings  |
 | Genitive | king's | kings' |
 
