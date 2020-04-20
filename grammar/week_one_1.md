@@ -35,15 +35,15 @@ Genitive         | konungs  | konunga
 
 Depending on its grammatical function, the Old Icelandic noun will display the matching suffix:
 
->	Konungr tók vel kveðju hans. (The king took his greeting well.)
+>Konungr tók vel kveðju hans. (The king took his greeting well.)
 
 Notice that the nominative noun is in first position and the verb is in second. Whenever you see this suffixed strong ending, you know that you have found a nominative singular strong noun. The king is the agent that is performing the action of the verb, _tók_. Now that we know the grammatical paradigm for _konungr_, we can spot the grammatical case when we find the word elsewhere in our reading. 
 
->	Þú hafir fundit Svein konung. (You have met King Svein.)
+>Þú hafir fundit Svein konung. (You have met King Svein.)
 
 In this sentence, the subject (nominative) is _þú_ and is in first position. The verbal construction is _havir fundit_, which is in second position. _Svein konung_ is the object of the sentence, so the noun takes the appropriate ending, which in this case is none at all.
 
->	Varðmenn sǫgðu konungi at dýrit fari þar. (The watchmen said to the king that the animal is coming there.
+>Varðmenn sǫgðu konungi at dýrit fari þar. (The watchmen said to the king that the animal is coming there.
 
 In this sentence, _konungi_ adopts the dative case ending. _Varðmenn_ is the subject and _sǫgðu_ is the verb in second position. The word, _konungi_ is the indirect object taking the dative case. The watchmen told the news _to_ the king.
 
@@ -79,9 +79,9 @@ When the noun appears in the nominative case, the _-r_ ending is always present 
 
 The presence of the _-r_ in _konungrinn_ tells you that the king in this sentence is unambiguously the agent of the action and in the nominative case. Compare this sentence with the following exchange. 
 
->	Bolli spyrr: "Hvat viltu gera?" (Bolli asks him, "What will you do?"
+>Bolli spyrr: "Hvat viltu gera?" (Bolli asks him, "What will you do?"
 >
->	"Ekki mun ek því leyna," segir Kjartan, "brenna konunginn inni." ("I will not hide this from you," says Kjartan, "To burn the king inside.)
+>"Ekki mun ek því leyna," segir Kjartan, "brenna konunginn inni." ("I will not hide this from you," says Kjartan, "To burn the king inside.)
 
 In this formation, since _konunginn_ does not contain the nominative ending _-r_, we know that the word is in the accusative case and therefore the object of _brenna_. The king is the object of Kjartan's intent to ignite his quarters and murder him in his sleep.
 
