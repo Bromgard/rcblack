@@ -74,9 +74,9 @@ The Old Icelandic definite article likewise follows a stronger declension that a
 
 Notice that the construction of the case endings along with the definite article is very regular. Note the particles that make up the definite noun, _konungrinn_:
 
-Stem    | Case Suffix | Def. Article 
---------|-------------|--------------
-konung- | -r          | -inn
+| Stem  &nbsp; &nbsp; &nbsp; &nbsp;| Case Suffix &nbsp; &nbsp; &nbsp; &nbsp;| Def. Article |
+|:--------|:------------|:-------------|
+| konung- | -r          | -inn         |
 
 When the noun appears in the nominative case, the _-r_ ending is always present after the stem, even when the definite suffix is also present.
 
