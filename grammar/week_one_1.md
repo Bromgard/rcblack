@@ -60,12 +60,12 @@ The rules governing this paradigm are easy to parse. The articles are suffixed t
 
 The Old Icelandic definite article likewise follows a stronger declension that also reflects the grammatical cases. 
 
-Case | Sing. | Sing. Definite | Plural | Plural Definite
------------------|----------|--------|---|---
-Nominative       | konungr  | konungrinn | konungar | konungarnir
-Accusative	 | konung   | konunginn  | konunga  | konungana
-Dative           | konungi  | konunginum | konungum | konungunum
-Genitive         | konungs  | konungsins | konunga  | konunganna
+| Case | Sing. | Sing. Definite | Plural | Plural Definite |
+|------------------|----------|------------|----------|------------|
+| Nominative       | konungr  | konungrinn | konungar | konungarnir |
+| Accusative	   | konung   | konunginn  | konunga  | konungana   |
+| Dative           | konungi  | konunginum | konungum | konungunum  |
+| Genitive         | konungs  | konungsins | konunga  | konunganna  |
 
 Notice that the construction of the case endings along with the definite article is very regular. Note the particles that make up the definite noun, _konungrinn_:
 
@@ -86,13 +86,3 @@ The presence of the _-r_ in _konungrinn_ tells you that the king in this sentenc
 In this formation, since _konunginn_ does not contain the nominative ending _-r_, we know that the word is in the accusative case and therefore the object of _brenna_. The king is the object of Kjartan's intent to ignite his quarters and murder him in his sleep.
 
 ## The Old Icelandic Noun Declensions and Strong Mansculine Nouns
-
-+---------------+---------------+--------------------+
-| Fruit         | Price         | Advantages         |
-+===============+===============+====================+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
-| Bananas       | first line\   | first line\        |
-|               | next line     | next line          |
-+---------------+---------------+--------------------+
