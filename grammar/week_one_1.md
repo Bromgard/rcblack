@@ -9,7 +9,7 @@ layout: default
 
 If you can read this you already know that English nouns change their form depending in number and the possession. Consider the English word, _king_. _King_ is the lexical formation of the word, but the addition of a suffixed _s_ distinguishes the plural form of the word from the singular.
 
- Singular | Plural  
+ Singular  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Plural  
 ----------|--------|
  king     | kings
 
