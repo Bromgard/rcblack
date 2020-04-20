@@ -65,7 +65,7 @@ The rules governing this paradigm are easy to parse. The articles are suffixed t
 
 The Old Icelandic definite article likewise follows a stronger declension that also reflects the grammatical cases. 
 
-| Case &nbsp; &nbsp; &nbsp; | Sing. &nbsp; &nbsp; &nbsp; &nbsp; | Sing. Def. &nbsp; &nbsp; &nbsp; &nbsp; | Plural &nbsp; &nbsp; &nbsp; &nbsp; | Plural Def.|
+| Case &nbsp; &nbsp; | Sing. &nbsp; &nbsp; &nbsp; &nbsp; | Sing. Def. &nbsp; &nbsp; &nbsp; &nbsp; | Plural &nbsp; &nbsp; &nbsp; &nbsp; | Plural Def.|
 |:------------------|:----------|:------------|:----------|:-------------|
 | Nom.       | konungr  | konungrinn | konungar | konungarnir |
 | Acc.	   | konung   | konunginn  | konunga  | konungana   |
