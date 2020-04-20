@@ -1,3 +1,8 @@
+---
+title: Grammar 1
+layout: default
+---
+
 # Week One, Section One
 
 ## The Parts of the Old Icelandic Noun
