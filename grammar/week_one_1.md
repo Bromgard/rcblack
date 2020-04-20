@@ -96,6 +96,5 @@ The presence of the _-r_ in _konungrinn_ tells you that the king in this sentenc
 >
 >"Ekki mun ek því leyna," segir Kjartan, "brenna konunginn inni." ("I will not hide this from you," says Kjartan, "To burn the king inside.)
 
-In this formation, since _konunginn_ does not contain the nominative ending _-r_, we know that the word is in the accusative case and therefore the object of _brenna_. The king is the object of Kjartan's intent to ignite his quarters and murder him in his sleep.
+In this formation, since _konunginn_ does not contain the nominative ending _-r_, we know that the word is in the accusative case and therefore the object of _brenna_. The king is the object of Kjartan's intent to ignite his quarters and murder him in his sleep. Don't worry. The king was keeping his eye on him.
 
-## The Old Icelandic Noun Declensions and Strong Mansculine Nouns
