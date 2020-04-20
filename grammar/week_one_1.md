@@ -75,7 +75,7 @@ konung- | -r          | -inn
 
 When the noun appears in the nominative case, the _-r_ ending is always present after the stem, even when the definite suffix is also present.
 
->	Konungrinn leit eptir honum. (The king looked him over.)
+>Konungrinn leit eptir honum. (The king looked him over.)
 
 The presence of the _-r_ in _konungrinn_ tells you that the king in this sentence is unambiguously the agent of the action and in the nominative case. Compare this sentence with the following exchange. 
 
