@@ -67,10 +67,10 @@ The Old Icelandic definite article likewise follows a stronger declension that a
 
 | Case &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Sing. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Sing. Def. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Plural &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Plural Def.|
 |:------------------|:----------|:------------|:----------|:-------------|
-| Nominative       | konungr  | konungrinn | konungar | konungarnir |
-| Accusative	   | konung   | konunginn  | konunga  | konungana   |
-| Dative           | konungi  | konunginum | konungum | konungunum  |
-| Genitive         | konungs  | konungsins | konunga  | konunganna  |
+| Nom.       | konungr  | konungrinn | konungar | konungarnir |
+| Acc.	   | konung   | konunginn  | konunga  | konungana   |
+| Dat.           | konungi  | konunginum | konungum | konungunum  |
+| Gen.         | konungs  | konungsins | konunga  | konunganna  |
 
 Notice that the construction of the case endings along with the definite article is very regular. Note the particles that make up the definite noun, _konungrinn_:
 
