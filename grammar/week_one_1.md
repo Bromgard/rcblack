@@ -86,3 +86,13 @@ The presence of the _-r_ in _konungrinn_ tells you that the king in this sentenc
 In this formation, since _konunginn_ does not contain the nominative ending _-r_, we know that the word is in the accusative case and therefore the object of _brenna_. The king is the object of Kjartan's intent to ignite his quarters and murder him in his sleep.
 
 ## The Old Icelandic Noun Declensions and Strong Mansculine Nouns
+
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | first line\   | first line\        |
+|               | next line     | next line          |
++---------------+---------------+--------------------+
+| Bananas       | first line\   | first line\        |
+|               | next line     | next line          |
++---------------+---------------+--------------------+
