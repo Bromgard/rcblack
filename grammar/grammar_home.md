@@ -11,7 +11,7 @@
 * Phonetics and pronunciation
 * Introductory syntax, the Old Icelandic verb and the first strong conjugation
 * [Structure of the OI noun](rcblack.net/grammar/lesson10)
-* Gender in OI nouns and their declensions
+* [Gender in OI nouns and their declensions](rcblack.net/grammar/lesson11)
 * Old Icelandic strong masculine declensions
 
 ## Week two
