@@ -84,7 +84,7 @@ When the noun appears in the nominative case, the _-r_ ending is always present 
 
 The presence of the _-r_ in _konungrinn_ tells you that the king in this sentence is unambiguously the agent of the action and in the nominative case. Compare this sentence with the following exchange. 
 
->Bolli spyrr: "Hvat viltu gera?" (Bolli asks him, "What will you do?"
+>Bolli spyrr: "Hvat viltu gera?" (Bolli asks him, "What will you do?")
 >
 >"Ekki mun ek því leyna," segir Kjartan, "brenna konunginn inni." ("I will not hide this from you," says Kjartan, "To burn the king inside.)
 
