@@ -7,7 +7,7 @@
 
 ## Week One
 
-* A quick review of Aleric's sheet or concise reference grammar
+<!--* A quick review of Aleric's sheet or concise reference grammar-->
 * Phonetics and pronunciation
 * Introductory syntax, the Old Icelandic verb and the first strong conjugation
 * [Structure of the OI noun](rcblack.net/grammar/lesson10)
@@ -16,4 +16,5 @@
 
 ## Week two
 
-* The copula and substantive verbs
+* [The copula and substantive verbs](rcblack.net/grammar/lesson12)
+* Syncope and the article declensions
