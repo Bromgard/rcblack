@@ -47,7 +47,7 @@ As you can see, the only distinct formation in singular indefinite is the geniti
 
 ## Weak Declensions
 
-The reason we call the declension of the above nouns strong is because they communicate strong information about their grammatical use. The weak nouns are called so because they communicate weak grammatical information in their formations. Take a look at the following weak nouns:
+The reason we call the declensions of the above nouns strong is because they communicate strong information about their grammatical case. The weak nouns are called so because they communicate weak grammatical information in their formations. Take a look at the following weak nouns:
 
 ### Weak Masculine, _tími_ (time)
 
@@ -81,9 +81,9 @@ As you can see these declinations are generally weaker than the strong nouns, pa
 
 Note the regularity of the patterns in dative and genitive plural. The strong _-m_ in the dative plural formations will always save you some time!
 
-Altogether we can assemble the following general patterns for indefinite nouns from these examples.
-
 ### Strong Masculine
+
+Altogether we can assemble the following general patterns for the case endings of Old Icelandic nouns.
 
 | Case | Sing | Plural |
 |:-----|:----:|:-------|
@@ -137,10 +137,7 @@ Altogether we can assemble the following general patterns for indefinite nouns f
 | Dat. |  -u  |  -um   | 
 | Gen. |  -u  |  -na   |
 
+## How to use the dictionary
 
+The noun paradigms offered in the above lesson and outlined in Aleric's sheet are good rules-of-thumb you can use to reference while you begin reading your first texts. Zoega's concise dictionary also contains a very handy reference grammar as well. However, be aware that there are many exceptions to these rules. Some resources break down the nouns into even more categories (which are expressed in the variant patterns in these charts). Others organize the noun paradigms based on reconstructed relationships uncovered by historical comparative linguists. I believe the simplest course of action is to simply learn the attributes of each noun as you build your vocabulary. When you memorize a noun, be mindful of the noun's gender and it's pattern of declension.
 
-
-
-The noun paradigms offered in the previous lesson and outlined in Aleric's sheet are good rules-of-thumb you can use to reference while you begin reading your first texts. Zoega's concise dictionary also contains a very handy reference grammar as well. However, be aware that there are many exceptions to these rules. Some resources break down the nouns into even more categories. Others organize the noun paradigms based on reconstructed relationships uncovered by historical comparative linguists. I believe the simplest course of action is simply learn attributes of each noun as you build your vocabulary. When you memorize a noun, be mindful of the noun's gender and it's pattern of declension. So, when you acquaint yourself with a new noun, say, _konungr_, it would be most useful to memorize the definite article alongside the lexical form to internalize the noun's gender.
-
-It is also highly recommended that the student consult the academic dictionaries often, particularly Cleasby-Vifusson's disctionary. 
