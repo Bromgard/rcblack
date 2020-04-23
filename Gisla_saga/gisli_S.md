@@ -59,6 +59,10 @@ And you must expect that I will be displeased if I cannot take the sword when I 
 
 "On the other hand it is not right," says Gisli, "that you hold onto your sword while I have had such dire need for it."
 
-So now Gisli takes the sword and night passes. Before they leave home for the duel, Thorbjorn asks his brother Gisli, "
+So now Gisli takes the sword and night passes. Before they leave home for the duel, Thorbjorn asks his brother Gisli, "Brother, who among us should fight the berserker today, and who should slaughter the calf?"
+
+Gisli answers, "I recommend that you slaughter the calf, then Bjorn and I will test ourselves."
+
+He did not make the easy choice. They go went then to the dueling site. Gisli and Bjorn enter the duelling ring. Then Gisli said that Bjorn should swing first. "No one has ever offered to 
 
 (To be continued.)
