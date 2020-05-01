@@ -1,4 +1,4 @@
-# The Copula
+# The Copula and Nominative Predicates
 
 ## The Substantive Copula
 
@@ -63,7 +63,7 @@ Now take a look at the following sentence from a genealogy from _Landnámabók_:
 
 >__Sonr__ Bjǫrnólfs var __Ǫrn__, __faðir__ þeira Ingólfs ok Helgu, en __Hróaldsson__ var __Hróðmarr__, __faðir__ Leifs. (The son of Bjornolf was Orn, the father of Ingolf and Helgi, but Hroald's son was Hrothmar, Leif's father.)
 
-The substantive copula in this sentence is of course, _var_, which occurs twice in in this compound sentence that is linked by the conjunction, _en_. The words that are in the nominative case are indicated. The words, _sonr_ and _faðir_  both contain strong nominative formations. (Hyperlink to declension of _faðir_?) In order to parse the rest of the sentence, it's useful to know something about how the proper names decline. _Ǫrn_ is a proper name that means "Eagle," a word that declines like this:
+The substantive copula in this sentence is of course, _var_, which occurs twice in in this compound sentence that is linked by the conjunction, _en_. The words that are in the nominative case are indicated. The words, _sonr_ and _faðir_  both contain strong nominative formations. (Hyperlink to declension of _faðir_?) In order to parse the rest of the sentence, it's useful to know something about the declensions of the other nouns. _Ǫrn_ is a proper name that means "Eagle," a word that declines like this:
 
 | Case | Noun |
 |:-----|-----:|
@@ -72,16 +72,43 @@ The substantive copula in this sentence is of course, _var_, which occurs twice 
 | Dat. | Erni |
 | Gen. | Arnar|
 
-You can easily exclude both the dative and genitive cases but we know that noun compliment _faðir_ is in the nominative case. _Hróðmarr_ is also in the nominative case. (Link. See Declension of Old Icelandic proper names.) You may have noticed that the patronymic name _Hróaldsson_ does not appear to agree with the earlier incidence of _sonr_ which contains a strong masculine nominative ending. In many modern editions and in the manuscripts, one will often find the patronymic ending separately like this: _Hróalds son_, but nevertheless this suffixed occurrence of _son_ lost the strong ending _-r_ by the time this manuscript was written. In this example, _Hróaldsson_ is nevertheless also in the nominative case. His complete name is, _Hróðmarr Hróaldsson_. (Is this interesting or too complicated?)
+You can easily exclude both the dative and genitive cases but we know that noun compliment _faðir_ is in the nominative case. _Hróðmarr_ is also in the nominative case. (Link. See Declension of Old Icelandic proper names.) You may have noticed that the patronymic name _Hróaldsson_ does not appear to agree with the earlier incidence of _sonr_ which contains a strong masculine nominative ending. In many modern editions and in the manuscripts, one will often find the patronymic ending separately like this: _Hróalds son_, but nevertheless this suffixed occurrence of _son_ lost the strong ending _-r_ by the time this manuscript was written. In this example, _Hróaldsson_ is nevertheless also in the nominative case. His complete name is, _Hróðmarr Hróaldsson_.
 
 ## Other Copular Verbs
+
+### _heita_
 
 There are other verbs in Old Icelandic that act like the substantive copula. A version of the following sentence occurs in nearly every Icelandic saga.
 
 >__Oddr__ hét __maðr__. (A man is named Oddr.)
 
-The verb, _hét_, lexical form, _heita_, is actually difficult to translate directly into English because the word fell out of common usage and has since resorted to a passive construction that communicates that the subject was named by someone at some point in their lives. The verb acts very much like _vera_ in the above examples. The word, _Oddr_, contains a strong nominative compliment that is in agreement with _maðr_. As you can see, the verb links the two nominal formations in a similar fashion to _vera_.
+The verb, _hét_, lexical form, _heita_, is actually difficult to translate because English utilizes a passive construction with the auxiliary _be_. (Link to passive formations.) Just like the substantive copula above, the words, _Oddr_, and _maðr_, represent the same thing. The two words are linked by the specific usage of this verb. Be aware that this verb also carries additional transitive usages in which the verb does not have a copular function as we can see here. 
 
+>Kjartan hét þessu. (Kjartan promised this.)
+
+The dative demonstrative article tells us that the verb carries a different function. Consultation with a dictionary will tell you the proper lexical usage.
+
+### _kalla_
+
+Another verb that appears less frequently in its copular form in Old Icelandic is, _kalla_. This usage of this word is very similar to its English cognate, _call_, which likewise carries a very similar meaning to _heita_. 
+
+>Hárr segir, "Þórr er þeirra framast, __sá__ er kallaðr __Ása-Þórr__, eða __Ǫku-Þórr__. (Hárr says, "Thor is the foremost of them, he who is called Æsir-Thor or Ukko-Thor.)[^1]
+
+[^1]: It's not clear why these alternate names for Thor appears like this. According to Cleasby-Vigfusson, _Ǫku-Þórr_ appears to be a reference to the Finnish thunder god, Ukko, which may be here differentiated from the Thor-of-the-Æsir.
+
+The word, __sá__ is naturally the nominative masculine demonstrative pronoun. Both of these versions of Thor's name, _Þórr_, is a strong nominative declension of his Name. Like _heita_, _kalla_ also appears in a transitive form that does not precede a nominative object.
+
+### _verða_
+
+This common word in it's copular formations means, _become_. Unlike the above examples, this word implies that the object has undergone some kind of change, but the predicate often maintains the nominative form. The following complex sentence comes from Snorri's telling of how the first batch of mead was brewed from the blood of the god, Kvasir. 
+
+>Þeir blendu hunangi við blóðit ok __varð__ þar af __mjǫðr sá__, er __hverr__ er af drekkr verðr __skáld__ eða __frœðamaðr__. (They blended honey with the blood that thereof became mead, that whosoever drinks from it becomes a poet or a learned man.)
+
+The word, _verða_ occurs twice in this sentence. In English syntax, the clause that follows, 'They blended honey with the blood, would require the dependent article "which," that is, the nominative pronoun that represents the mixture. The nominatives in the clause are the nominative predicatd, _mjǫðr sá_. The second clause contains a clear nominative singular subject, __hverr__ and predicate, __skáld__ or __frœðamaðr__.
+
+As with the previous examples, this word also appears transitively in other usages. Predicate nominative formations do not always accompany these words but it's always useful to recognize them when you see them in your reading. As always consult the dictionary often when you read. 
+
+(Do I need to include a more comprehensive list?)
 
 
 
