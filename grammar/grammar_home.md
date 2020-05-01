@@ -12,7 +12,7 @@
 * Introductory syntax
 * [The Old Icelandic verb](rcblack.net/grammar/lesson08)
 * The first strong conjugation
-* [Structure of the OI noun](rcblack.net/grammar/lesson10)
+* [Structure of the OI noun](https://rcblack.net/grammar/lesson10)
 
 ## Things to schedule 
 
