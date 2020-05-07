@@ -13,7 +13,7 @@
 
 ## Things to schedule later in no particular order
 
-* [Overview of the Old Icelandic verb :thumbsup: ](https://rcblack.net/grammar/lesson08)
+* [Overview of the Old Icelandic verb :thumbsup: ](https://rcblack.net/grammar/lesson09)
 * The first strong conjugation
 * [Overview of the OI noun](https://rcblack.net/grammar/lesson10)
 
