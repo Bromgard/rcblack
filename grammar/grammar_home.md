@@ -24,7 +24,7 @@
 * [The Modal Verbs](https://rcblack.net/grammar/lesson14)
 * [Prepositions:](https://rcblack.net/grammar/lesson15) usage in prepositional phrases; adverbial prepositions and preposition/verb constructions
 * Passive constructions and predicate nominative II
-* [Adverbs](https://rcblack.com/grammar/lesson16)
+* [Adverbs](https://rcblack.net/grammar/lesson16)
 * [Adjectives](https://rcblack.net/grammar/lesson17) and nominal construction
 * Predicative clauses with auxiliary verb (the at clause)
 * Subjunctive Case
