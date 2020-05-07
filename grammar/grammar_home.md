@@ -1,4 +1,9 @@
-# Old Icelandic Grammar 
+---
+title: Old Icelandic Grammar Home
+layout: default
+---
+
+# Old Icelandic Grammar
 
 ## Week Zero
 
