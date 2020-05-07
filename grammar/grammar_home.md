@@ -36,6 +36,7 @@ layout: default
 * Numeration
 * Headaches and traps (á, sá, etc.)
 * Present/Preterite Verbs
+* Participles
 
 ### Verb Classes
 
