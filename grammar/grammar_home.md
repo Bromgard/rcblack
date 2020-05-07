@@ -32,5 +32,13 @@
 * Numeration
 * Headaches and traps (á, sá, etc.)
 
+### Verb Classes
+
+* Begin with Strong class 1? etc.
+
+### Noun Declensions
+
+* Strong Masculine, etc.
+
 
 
