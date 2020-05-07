@@ -10,11 +10,12 @@
 <!--* A quick review of Aleric's sheet or concise reference grammar-->
 * Phonetics and pronunciation
 * Introductory syntax
+
+## Things to schedule later in no particular order
+
 * [Overview of the Old Icelandic verb :thumbsup: ](https://rcblack.net/grammar/lesson08)
 * The first strong conjugation
 * [Overview of the OI noun](https://rcblack.net/grammar/lesson10)
-
-## Things to schedule later in no particular order
 
 * [Gender in OI nouns and their declensions](https://rcblack.net/grammar/lesson11)
 * Old Icelandic strong masculine declensions
