@@ -3,31 +3,18 @@ title: Introduction to Verbs
 layout: default
 ---
 
-# Overview of the components of Verbs
+# Overview of the grammatical aspects of Verbs
 
-Just as nouns are conditioned by the grammatical structures of _case_, _number_, _gender_, and _definiteness_, so too is Icelandic governed by various conditions. Icelandic verbs are likewise conditioned by, _person_, _number_, _tense_, _mood_, and _voice_.
+Just as Old Icelandic nouns are conditioned by _case_, _number_, _gender_, and _definiteness_. Old Icelandic verbs are likewise conditioned by, _person_, _number_, _tense_, _mood_, and _voice_. Old Icelandic verbal inflections communicate more information than modern Scandinavian languages or English. For this reason the full conjugation charts of Old Icelandic verbs rather large. If you know German or if you already have some knowledge of Latin, much of this will already be familiar to you.
 
 ## Person
 
-This quality in Old Icelandic operates in precisely the same way as modern English. The primary persons in Icelandic are the familiar _first_, _second_, and _third_ persons.
+This quality in Old Icelandic operates in precisely the same way as modern English. The primary persons in Icelandic are the familiar _first_, _second_, and _third_ persons. The person aspect in English can often be recognized the personal pronoun that can be used in the subject. _First Person_ is expressed in the sentence, _I sing._ _Second Person_ indicates action of a person who is addressed by the utterer, _You sing_. _Third Person_ indicates the activity that is external and independent from the utterance itself, as can be seen in, _She sings._.
 
-
-
-
-
-
-
-
-
-_First Person_ indicates linguistic source of the utterance, and in English the active pronoun of the subject is "I." The cognate pronoun associated with this number is likewise "ék" in Old Icelandic.
-
-_Second Person_ indicates action of a person who is addressed. In English the active pronoun of the subject is "you," and in Old Icelandic "þú."
-
-_Third Person_ indicates the activity that is external and independent from the utterance itself. In English the active pronouns for this kind of statement is, "she," "he," "it," or "they."
-
+<!--
 Some linguists consider the functioning of the familiar "thou" in English and "du" in German (as opposed to "you" and "Sie") to be indicative of an independent _Second Person Familiar_ because the verb likewise changes to express the new condition. The changes in this case are closely associated with the verb's _number_.
-
-The English substantive copula inflects most regularly in person. 
+-->
+The English substantive copula inflects in person in the following formations. 
 
 | Person    | Form |
 |:----------|-----:|
@@ -36,7 +23,7 @@ The English substantive copula inflects most regularly in person.
 | 3rd  | is   |
 
 
-For other English nouns, the only variable inflection that represents person is a suffixed _-s_ in the third person singular. 
+For other English nouns, the only variable inflection that represents person is a suffixed _-s_ in third person singular. 
 
 | Person    | Form |
 |:----------|-----:|
@@ -44,7 +31,25 @@ For other English nouns, the only variable inflection that represents person is 
 | 2nd  | sing |
 | 3rd  | sings   |
 
-Aside from a few regional dialects, Norwegian, Danish, or Swedish does not inflect for person. Old Icelandic verbs inflect consistently for person, as you can see in this following paradigm for _hafa_, (to have). 
+Aside from a few regional dialects, Norwegian, Danish, or Swedish do not inflect for person. Old Icelandic verbs inflect consistently for person, as you can see in this following paradigm for _hafa_, (to have). 
+
+| Person    | Form |
+|:----------|-----:|
+| 1st Sing. | hefi |
+| 2nd Sing. | hefir|
+| 3rd Sing  | hefir|
+
+## Number
+
+As in English, the formation of Old Icelandic verbs must agree with the number aspect of the accompanying subjective noun, either _singular_ or _plural_. The English verbs do not have any distinguishing inflections.
+
+| Person    | Form |
+|:----------|-----:|
+| 1st Pl. | are   |
+| 2nd Pl. | are |
+| 3rd Pl. | are   |
+
+The continental Scandinavian languages do not inflect at all for number. Old Icelandic still expresses distinct inflections for number. 
 
 | Person    | Form |
 |:----------|-----:|
@@ -55,31 +60,27 @@ Aside from a few regional dialects, Norwegian, Danish, or Swedish does not infle
 | 2nd. Pl.  | hafið|
 | 3rd. Pl   | hafa |
 
-## Number
-
-_Number_ is conditioned by the number of nominative subjects the sentence. "I," "you," and "s/he/it" are numbered _singular_ and the verbs likewise reflect this numbering. The cognate pronouns for this number in the third person are, "hann," "hon," and "þat." Also representative in all Indo-European verb systems is the _plural_, and the pronouns that indicate this numbering in English are "we," "you" (also singular but sometimes, "y'all"), and "they." The pronouns that form the nominative for these verbs are, "vér," "þér," (sometimes ér), and "þeir/þær/þau." Old Icelandic also contains the dual number ("vit," and "þit") but the verb system uses the plural form for this number.
-
-English verbs distinguish themselves weakly by number in their distinctions between singular and plural formations. The plural substantive copula in English is always _are_, and the plural formation in other verbs do not carry an ending. The verbs in most Scandinavian dialects likewise to not inflect for number.
+Another number aspect, the _dual_, is also present in Old Icelandic that represents two subjective nouns. The pronouns are, _vit_ (we two), and  _þit_ (you two). However the verbal system simply utilized the plural. For more details see [Personal Pronouns]. [Link]
 
 ## Tense
 
-Icelandic, as with all other Germanic languages, contain only two "pure" tenses, the _Simple Present_ and the _Simple Past_. Germanic nouns are also characterized by division of two categories of verbs, strong and weak. The weak verbs display change in tense by the addition of suffixes. In English, simple verbs mark the past tense with an _-ed_ suffix, like _danced_. Strong vowels display tense by a change in an internal vowel, for example _sing_ and _sang_. Similar patterns are also apparent in the other Scandinavian cognate verbs including Old Icelandic as can be seen in the following words related to English _sing_. 
+Icelandic, as with all other Germanic languages, contain only two inflected tenses, the _Simple Present_ and the _Simple Past_. Germanic nouns are also characterized by division of two categories of verbs, strong and weak. The weak verbs display change in tense by the addition of suffixes. In English, simple verbs mark the past tense with an _-ed_ suffix, like _danced_. Strong vowels display tense by a change in an internal vowel, for example _sing_ and _sang_. Similar patterns are also apparent in the other Scandinavian cognate verbs including Old Icelandic as can be seen in the following words related to English _sing_. 
 
-| Tense   | Engl.| Nor.  | Dan.   | Swed.  | OI    |
+| Tense   | Engl.| Nor.  | Dan.   | Swed.  | Old. Ice.    |
 |:--------|:----:|:-----:|:------:|:------:|------:|
 | Present | sing | synger| synger | sjunger| syng  |
 | Past    | sang | sang  | sang   | sjöng  | sǫng  |
 
-This internal change in Germanic languages is called _ablaut_. Icelandic is no different in marking this change in similar fashion. The system of suffixed changed that marks weak verbs can be seen in the following paradigm. 
+This internal change is called _ablaut_ and as you can see, Icelandic is no different in marking this change. The system of suffixed changed that marks weak verbs can be seen in the following paradigm. 
 
-| Tense   | Engl.  | Nor.   | Dan.    | Swed.   | OI      |
+| Tense   | Engl.  | Nor.   | Dan.    | Swed.   | Old Ice.  |
 |:--------|:------:|:------:|:-------:|:-------:|--------:|
 | Present | dance  | danser | danser  | dansar  | dansa   |
 | Past    | danced | danset | dansede | dansade | dansaði |
 
-It is interesting to note that these words which are related to English, _dance_ ultimately come from Old French, _dancier_ with the spread of courtly culture in the High Middle Ages. Verbs imported from other languages adopt the weak tense systems in Germanic languages. 
+It is interesting to note that all of these words share a common ancestor with Old French, _dancier_, a word that moved north with the spread of courtly culture in the High Middle ages. Verbs imported from other languages adopt the weak tense systems in Germanic languages. 
 
-The other tenses in Germanic languages do not have a natural system of inflections but make use of synthetic constructions that include auxiliary verbs. The perfect tenses in English require the use of the auxiliary verb, _have_ followed by the past participle of the verb. (Hyperlink to PP)
+The other tenses in Germanic languages do not have a natural system of inflections but make use of synthetic constructions that make use of auxiliary verbs. For example, the perfect tenses in English require the use of the auxiliary verb, _have_, followed by the past participle of the verb. (Hyperlink to PP)
 
 >I __have seen__ better faces in my time.
 
@@ -87,15 +88,15 @@ The difference between the present perfect tense and the simple past is sometime
 
 >I __saw__ her laid low in her family's vault.
 
-There is not context. The sentence here simply records a fact that occurred one particular time. The use of this auxiliary is universal in the Germanic languages. 
+The sentence here simply records a fact that occurred one particular time, and provides no relative context to a present state. The use of this auxiliary is universal in the Germanic languages. 
 
-| Eng. | Dan. | OI |
+| Eng. | Dan. | Old. Ice. |
 |:-----|:--:|---:|
 |I have seen. | Jeg har set. | Ek hefi sét. |
 
 There are other perfect constructions that use synthetic auxiliary verbs that will be discussed in greater detail in a later lesson. [Hyperlink]
 
-Like other Germanic languages the future tense is indicated also by the synthetic use of auxiliary modal verbs.
+Like other Germanic languages the future tense is indicated also by the synthetic constructions that make use of auxiliary modal verbs.
 
 >I __will__ __live__ in thy heart, __die__ in thy lap, and __be buried__ in thy eyes.
 
@@ -139,18 +140,17 @@ This last last sentence is in the form of a request, or a command. In either cas
 
 The English subjunctive can also be communicated with the use of certain modal verbs. 
 
->I might call him a thing divine.
+>I __might call__ him a thing divine.
 <!--Tempest-->
 
->If I could pray to move, prayers would move me.
+>If I __could pray__ to move, prayers __would move__ me.
 <!--Julius Caesar-->
 
-[Include continental example?]
+[Include continental Scand. example?]
 
-The subjunctive mood is expressed in Old Icelandic with its own system of declensions for each verb and are generally marked by weak changes in ablaut and declension. The Old Icelandic substantive copula, _vera_, had a strong inflection that looks like this.
+The subjunctive mood is expressed in Old Icelandic with its own system of declensions for each verb and are generally marked by weak changes in ablaut and declension. The Old Icelandic substantive copula, _vera_, has an inflection that looks like this.
 
 #### Present
-
 
 | Pers.    | Sing. | Pl. |
 |:---------|:-----:|----:|
@@ -190,13 +190,13 @@ Like English, the inflection for the third person singular is strong and is expr
 
 >Bragi svarar: "Ǫlvaldi hét faðir hans, ok merki munu þér at þykkja ef ek __segi__ þér frá honum. (Bragi says, "His father was named Olvaldi, you would find it amazing, if I tell you about him".)
 
-The context of this sentence helps construct a subjunctive environment. As in English, the _if_ clause sets up the mood and the inflection of _segi_ confirms unrealized nature of the action.
+The context of this sentence helps construct a subjunctive environment. As in English, the _if_ (...ef ek...) clause sets up the mood, and the inflection of _segi_ confirms unrealized nature of the action.
 
 The _imperative_ mood represents another distinct inflection in Old Icelandic verbs. In practice, the mood appears in a command, or a request that something be accomplished on the part of the recipient of the utterance. In English these formations are very closely related to the subjunctive, and are sometimes indistinguishable. When the substantive copula is used the form _be_ is used. 
 
 >__Be__ prepared. 
 
-You may have already noticed that _Let it be_ has also has an imperative quality. When other verbs are used in English a simple second person conjugation is used. 
+You may have noticed that _Let it be_ has also has an imperative quality. When other verbs are used in English a simple second person conjugation is used. 
 
 >__Tell me__, where is fancy bred, or in the heart or in the head?
 
@@ -212,7 +212,9 @@ These are the imperative formations for the verbs, _taka_ (take) and _bera_ (bea
 
 >Let's go!
 
-### Voice [Come back to this after you write mediopassive]
+Since English does not have verbal inflexions that represent imperative, so it must rely on the auxiliary _let_. See the English translation in the previous Old Icelandic quotation. 
+
+### Voice [Come back to this after you figure out how to deal with mediopassive]
 
 Old Icelandic verbs have three voices, the _active_, _passive_, and the _middle_ voices. The _active voice_ is the condition in which the sentence communicates a simple action that is expressed by the verb that has been enabled by the nominative subject.
 
