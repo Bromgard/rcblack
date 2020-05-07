@@ -37,6 +37,7 @@ layout: default
 * Headaches and traps (á, sá, etc.)
 * Present/Preterite Verbs
 * Participles
+* How to use Cleasby/Vigfusson, Zoëga, and online materials
 
 ### Verb Classes
 
