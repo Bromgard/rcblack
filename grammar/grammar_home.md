@@ -23,7 +23,7 @@ layout: default
 * [Overview of the OI noun](https://rcblack.net/grammar/lesson10)
 * [Gender in OI nouns and their declensions](https://rcblack.net/grammar/lesson11)
 * Strong Masculine Nouns
-* [The copula and substantive verbs](https://rcblack.net/grammar/lesson12)
+* [The substantive copula and other copulae](https://rcblack.net/grammar/lesson12)
 * Article declensions < Where does this go?
 * [The Modal Verbs](https://rcblack.net/grammar/lesson14)
 * [Prepositions:](https://rcblack.net/grammar/lesson15) usage in prepositional phrases; adverbial prepositions and preposition/verb constructions
@@ -35,6 +35,7 @@ layout: default
 * Mediopassive Voice
 * Numeration
 * Headaches and traps (á, sá, etc.)
+* Present/Preterite Verbs
 
 ### Verb Classes
 
