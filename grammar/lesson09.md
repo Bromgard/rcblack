@@ -229,5 +229,4 @@ Or,
 The house is painted by John.
 
 The _middle_ voice is the reflexive form that end with the -sk ending. Barnes reports that this voicing has some similarities with the passive voice. This construction often expresses a simple active reflexive action, but overall the usage of this voice is also idiomatic. The term was coined by linguists to describe a grammatical voice that was in between the passive and active voice. For more details, see the lesson that covers mediopassive voice.
-
-## 
+ 
