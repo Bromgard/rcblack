@@ -61,8 +61,14 @@ And you must expect that I will be displeased if I cannot take the sword when I 
 
 So now Gisli takes the sword and night passes. Before they leave home for the duel, Thorbjorn asks his brother Gisli, "Brother, who among us should fight the berserker today, and who should slaughter the calf?"
 
-Gisli answers, "I recommend that you slaughter the calf, then Bjorn and I will test ourselves."
+Gisli answers, "I recommend that you slaughter the calf, then Bjorn and I will do battle."[^1]
+
+[^1]: In some saga sources, the ritual of Holmgang included the sacrifice of a calf. This exchange is also a joke that implies that Bjorn is a figurative calf. Because Gisli possesses the magic sword, Bjorn will be as easy to kill.
 
 He did not make the easy choice. They go went then to the dueling site. Gisli and Bjorn enter the duelling ring. Then Gisli said that Bjorn should swing first. "No one has ever offered to 
 
 (To be continued.)
+
+---
+
+## Notes
