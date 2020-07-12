@@ -65,9 +65,23 @@ Gisli answers, "I recommend that you slaughter the calf, then Bjorn and I will d
 
 [^1]: According to some sources, the Holmgang ritual included an animal sacrifice.
 
-He did not make the easy choice. They go went then to the dueling site. Gisli and Bjorn enter the duelling ring. Then Gisli said that Bjorn should swing first. "No one has ever offered that to me," says Bjorn, "but no one but you has ever challenged me to a duel."
+He did not make the easy choice. They go went then to the dueling site. Gisli and Bjorn enter the duelling ring. Then Gisli said that Bjorn should swing first. "No one has ever offered that to me," says Bjorn, "but then no one but you has ever challenged me to a duel."
 
-Now Bjorn swings his sword against Gisli, but his shield comes before Gisli, and 
+Now Bjorn brandishes his sword toward Gisli, but Gisli comes with his shield in front him.
+
+And Bjorn hews at 
+
+fyrir utan = accross or beyond
+mundritha=handle of the shield.
+
+skjaldr-sporthr=The shield tail. The lower part of an oblong shield.
+
+
+
+
+
+
+
 
 (To be continued.)
 
