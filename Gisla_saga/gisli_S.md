@@ -67,17 +67,39 @@ Gisli answers, "I recommend that you slaughter the calf, then Bjorn and I will d
 
 He did not make the easy choice. They go went then to the dueling site. Gisli and Bjorn enter the duelling ring. Then Gisli said that Bjorn should swing first. "No one has ever offered that to me," says Bjorn, "but then no one but you has ever challenged me to a duel."
 
-Now Bjorn brandishes his sword toward Gisli, but Gisli comes with his shield in front him.
+Now Bjorn brandishes his sword toward Gisli, but Gisli comes with his shield in front him. And Bjorn swings his sword and it sliced off everything above the handle of the shield. Gisli swings back against Bjorn and the sword meets the bottom point of Bjorn's shield,[^2] and it slices off his leg below the knee. Gisli swings his sword at Bjorn one more time onto his head. When they turned toward Bjorn's band, some of them were killed and some of them ran into a forest.
 
-And Bjorn hews at 
+[^2]: The shape of this shield appears to be of the kind in which the bottom portion of the shield ends in a point. The "shield tail" is the bottom taper below Bjorn's knee.
 
+<!--
 fyrir utan = accross or beyond
 mundritha=handle of the shield.
 
 skjaldr-sporthr=The shield tail. The lower part of an oblong shield.
+-->
 
+And so Gisli went home after these events and he got a good reputation from them. After that he takes control of the farm after the legacy of his brother Ari, who previously owned it. He also married Ingibjorg--some time passes--but he didn't let the sword leave his possession because Kol did not ask for its return. 
 
+One day they meet each other outside. Gisli had in his hand the sword Grasida and Kol had and ax. Kol asked, "How did the sword work for you?" Gisli expressed his approval of the sword's performance. "I now wish to take it back," says Kol, "If you think to have accomplished your need at this time."
+<!--
+I'm not sure I'm quite here yet. Revisit.
+__>
 
+"Will you give it to me?" says Gisli. 
+
+"No," says Kol.
+
+"I will give you your freedom and a shipload of provisions so that you can travel abroad along with other men as you wish," says Gisli. 
+
+"I will not give you the sword," says Kol. 
+
+"Then I will give you your freedom and lend to you or give to you land. And along with this wealth I will give to you as much livestock as you desire to have."
+
+"But I would rather not give you the sword," says Kol.
+
+"You are too stubborn about this," says Gisli. "You ask for so much," he says, "that you have in mind, for the loose livestock,        and I will not be stingy with the payment if you will agree to anything." 
+
+"You are too stubborn about this," says Gisli. "Set your price however much moveable wealth," he says, "that you have in mind. I will not be stingy with the payment if you settle on any value."
 
 
 
