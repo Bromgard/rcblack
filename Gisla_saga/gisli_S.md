@@ -97,12 +97,15 @@ __>
 
 "But I would rather not give you the sword," says Kol.
 
-"You are too stubborn about this," says Gisli. "You ask for so much," he says, "that you have in mind, for the loose livestock,        and I will not be stingy with the payment if you will agree to anything." 
+"You are too stubborn about this," says Gisli. "Set your price to however much moveable wealth you might have in mind," he says. "I will not be stingy with payment if you settle on any amount. Along with this I will get for you your freedom and an honorable marriage, if that is what you desire."
 
-"You are too stubborn about this," says Gisli. "Set your price however much moveable wealth," he says, "that you have in mind. I will not be stingy with the payment if you settle on any value."
+"There is nothing to discuss," says Kol. "I will not give you the sword for what you offer. And so now that is happening which I have originally suspected, that it would not be certain whether you would give the sword back, if you knew what might be in the precious thing."
 
+"I will tell you," says Gisli, "how it will go, that neither of us will do well, because I am not inclined to give up the sword, and it will not come into the hands of another man except to me if I have something to say about it."
 
+Kol raised up the ax, but Gisli brandished Grasida, and each swung their weapons at each other. Kol hewed the sword into Gisli's head so that it was lodged in Gisli's brain. And the sword came into Kol's head, but it didn't cut. However, Kol's skull split open and the sword broke in pieces.
 
+Then Kol said, "Now it would have gone better if I had originally taken the sword as I asked. 
 
 
 (To be continued.)
