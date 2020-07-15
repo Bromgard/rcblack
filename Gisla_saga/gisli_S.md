@@ -105,7 +105,14 @@ __>
 
 Kol raised up the ax, but Gisli brandished Grasida, and each swung their weapons at each other. Kol hewed the sword into Gisli's head so that it was lodged in Gisli's brain. And the sword came into Kol's head, but it didn't cut. However, Kol's skull split open and the sword broke in pieces.
 
-Then Kol said, "Now it would have gone better if I had originally taken the sword as I asked. 
+Then Kol said, "Now it would have gone better if I had originally taken the sword as I asked. And so all this will be unravelled in misfortune, in which your family will inherit."
+<!--
+This is unsatisfying. Revisit the dependent clause.
+-->
+
+And then each of them gave up their lives.
+
+After that Ingibjorg longs to leave Surnadal, and she goes home to her father with her wealth. Thorbjorn acquires a good marriage. He travels east across the Kjölen mountains to Frey's Islands. He proposed to a certain woman called Isgerd, and he married her. He went home  
 
 
 (To be continued.)
