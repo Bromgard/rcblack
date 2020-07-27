@@ -112,11 +112,13 @@ This is unsatisfying. Revisit the dependent clause.
 
 And then each of them gave up their lives.
 
-After that Ingibjorg longs to leave Surnadal, and she goes home to her father with her wealth. Thorbjorn acquires a good marriage. He travels east across the Kjölen mountains to Frey's Islands. He proposed to a certain woman called Isgerd, and he married her. AFter that he went home to Surnadal, and took up managing the estate with this father. Thorkel Gullhjalmr lives for a short time from that time before he gets sick and dies. Thorbjorn inherits all of his father's wealth. After that he was known as Thorbjorn Sur. Thorbjorn and Isgerd had children and they are so named. Their son is named Thorkel, the oldest, and the second Gisli. The third is called Ari, but he immediately goes east to Frey's Islands to be fostered, and so he has little to do with this saga. Their daughter is named Thordis. Thorkel was a large man, beautiful in appearance, powerful in his strength, and more showy in his appearance than most men. Gisli was a swarthy man, and like men who are large, men hardly knew his strength.
+After that Ingibjorg longs to leave Surnadal, and she goes home to her father with her wealth. Thorbjorn acquires a good marriage. He travels east across the Kjölen mountains to Frey's Islands. He proposed to a certain woman called Isgerd, and he married her. AFter that he went home to Surnadal, and took up managing the estate with this father. Thorkel Gullhjalmr lives for a short time from that time before he gets sick and dies. Thorbjorn inherits all of his father's wealth. After that he was known as Thorbjorn Sur. Thorbjorn and Isgerd had children and they are so named. Their son is named Thorkel, the oldest, and the second Gisli. The third is called Ari, but he immediately goes east to Frey's Islands to be fostered, and so he has little to do with this saga. Their daughter is named Thordis. Thorkel was a large man, beautiful in appearance, powerful in his strength, and more showy in his appearance than most men. Gisli was a swarthy man, and like men who have grown so large, men could hardly estimate his strength.
 <!--
-***This bothers me a lot. I'm not sure I got the precise meaning of this. Look around for cognate patterns.
+*** Got it. See Jómsviking Chp. 16.
 -->
-He was a skillful man, very hard working, and gentle in his demeanor. Their sister Thordis was beautiful in her appearance and very noble looking, rather hardy in her demeanor, and most haughty. 
+He was a skillful man, very hard working, and gentle in his demeanor. Their sister Thordis was beautiful in her appearance and very noble looking, rather hardy in her demeanor, and most haughty.
+
+These men who live in Surnadal are named, one is called Bard and another is called Kolbeinn. They were together as children and they were rather wealthy, but no one was bound to them.
 
 
 
@@ -125,4 +127,4 @@ He was a skillful man, very hard working, and gentle in his demeanor. Their sist
 
 ---
 
-## Notes
+## iotes
