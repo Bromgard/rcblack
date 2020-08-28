@@ -127,4 +127,4 @@ These men who live in Surnadal are named, one is called Bard and another is call
 
 ---
 
-## iotes
+## Notes
