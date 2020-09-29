@@ -1,4 +1,5 @@
 # Saga of Gisli Sursson
+
 ## English translation of the variant introduction from the long version, from AM 149 fol. 
 
 ## 1
@@ -118,7 +119,7 @@ After that Ingibjorg longs to leave Surnadal, and she goes home to her father wi
 -->
 He was a skillful man, very hard working, and gentle in his demeanor. Their sister Thordis was beautiful in her appearance and very noble looking, rather hardy in her demeanor, and most haughty.
 
-These men who live in Surnadal are named, one is called Bard and another is called Kolbeinn. They were together as children and they were rather wealthy, but no one was bound to them.
+These men who live in Surnadal are named, one is called Bard and another is called Kolbeinn. They were together as children and they were rather wealthy, but no one was bound to them. 
 
 
 
