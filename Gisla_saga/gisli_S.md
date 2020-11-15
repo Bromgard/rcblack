@@ -120,8 +120,14 @@ After that Ingibjorg longs to leave Surnadal, and she goes home to her father wi
 He was a skillful man, very hard working, and gentle in his demeanor. Their sister Thordis was beautiful in her appearance and very noble looking, rather hardy in her demeanor, and most haughty.
 
 These men who live in Surnadal are named, one is called Bard and another is called Kolbeinn. They were together as children and they were rather wealthy, but no one was bound to them. 
+Furthermore, Kolbeinn and Bard's fathers were absent, due to a voyage to England.
+<!--
+_litlu_? It feels like it's missing a word here. Review.
+-->
+That farm, at which Bard lived, was called Hella, and Granaskeið was the name of the place at which Kolbeinn lived.
+They were very well-matched in their childhood with the sons of Þorbjorn Sur, and each of them were the most cheerful men.
 
-
+Now in that time... 
 
 
 (To be continued.)
