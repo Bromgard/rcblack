@@ -127,7 +127,7 @@ _litlu_? It feels like it's missing a word here. Review.
 That farm, at which Bard lived, was called Hella, and Granaskeið was the name of the place at which Kolbeinn lived.
 They were very well-matched in their childhood with the sons of Þorbjorn Sur, and each of them were the most cheerful men.
 
-Now in that time... 
+Now in that time the change in in kingship occurred, more than once. First, Eric Bloodaxe, the son of Harald, took reign of the kingdom from his father while he lived. When Harald passed away, Hakon came from the west from England and immediately went north to Trondheim when he meets Sigurd Earl of Lade, and inquired before him whether 
 
 
 (To be continued.)
