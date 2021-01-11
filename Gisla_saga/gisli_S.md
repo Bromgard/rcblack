@@ -1,4 +1,4 @@
-#p Saga of Gisli Sursson
+# Saga of Gisli Sursson
 
 ## English translation of the variant introduction from the long version, from AM 149 fol. 
 
@@ -127,7 +127,31 @@ _litlu_? It feels like it's missing a word here. Review.
 That farm, at which Bard lived, was called Hella, and Granaskeið was the name of the place at which Kolbeinn lived.
 They were very well-matched in their childhood with the sons of Þorbjorn Sur, and each of them were the most cheerful men.
 
-Now in that time the change in in kingship occurred, more than once. First, Eric Bloodaxe, the son of Harald, took reign of the kingdom from his father while he lived. When Harald passed away, Hakon came from the west from England and immediately went north to Trondheim when he meets Sigurd Earl of Lade, and inquired before him whether 
+***
+
+Now in that time a change in in kingship occurred, more than once. First, Eric Bloodaxe, the son of Harald Fairhair, took charge of the kingdom from his father while he lived. When Harald passed away, Hakon came from the west from England and immediately went north to Trondheim when he meets Sigurd Earl of Lade, and he inquired before him whether his father Hakon had been ruling in Trondheim. [^3]
+
+[^3]: Eric Bloodaxe may have been king in both Norway and Northumbria. His father was Harald Fairhair. His successor was Haakon Haraldsson or Haakon the good, or Adalsteinfostre. This makes this Haakon Eric Bloodaxe's  brother. He did indeed succeed Eric to the throne. Make this into a footnote. 
+
+<!-- (??? Also, start heavy proofreading here.) -->
+
+Hakon said to him, "It seems to me also that deal was accomplished well, that you uphold me as king, but I might grant you such honors as your father had--that you might be free, but not enslaved, as all others are in this land."
+
+That had been Harald Fair-hair's burden that he possessed all the land in Norway, both inhabited and uninhabited, and equally so the all seas, lakes, and rivers,and everyone had to be his land-tenants.
+
+Now the earl thinks this over and was happy with Hakon's offer, and then they bound their friendship with each other fast.
+
+Sigurd Earl then issues a summons for an assembly of three districts. [^4]
+
+[^4]: Something something about the process.
+
+When the assembly begins, Hakon stands up before them and says, "It is known to everyone who have come that Harald Fair-hair laid all of Norway under his rule, including everything from the north to Finnmark and eastward to Alvdal. He became the sole ruler over all people. He had many sons who are known to you, and most of them were well-raised, but he loved them unequally. He sent some of his sons away to other lands, but others he kept with him in his court, like Eric Bloodaxe, who he thought was better than all his other sons.
+Everyone, look at what he has done while he has been alive.
+<!--I don't know about the precision here. Review.-->
+And now Eric has very many 
+
+uhæfa = unfitting
+
 
 
 (To be continued.)
