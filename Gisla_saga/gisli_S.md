@@ -150,9 +150,7 @@ Everyone, look at what he has done while he has been alive.
 <!--I don't know about the precision here. Review.-->
 And now Eric has very many 
 
-
-uhæfa = unfitting
-
+<!--uhæfa = unfitting-->
 
 
 (To be continued.)
