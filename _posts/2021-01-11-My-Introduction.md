@@ -10,7 +10,7 @@ author: Russell Black
 externalLink: true
 ---
 
-This blog post is for my students in UCOR 1100, _The Islamic World and the West_. I'm very happy to meet all of you and I'm really looking forward to working with you! Things have been very difficult for everyone lately, and some of us have been certainly have been experiencing many more difficulties than others. Let's work together to make things just a little better in our class!
+This blog post is for my students in UCOR 1100, _The Islamic World and the West_. I'm very happy to meet all of you and I'm really looking forward to working with you! Things have been very difficult for everyone lately, and some of us have been certainly have been experiencing many more difficulties than others. Let's work together to make things just a little better for each other.
 
 ## Of course I know him. He's me.
 
