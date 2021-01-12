@@ -28,8 +28,8 @@ Some people seem to have all the confidence they ever need, but I'm not one of t
 
 I have two furry roommates in my house. This first one is my cat Zoe, and she is the sweetest cat anyone could ever meet. The thing is, she's twenty one years old. She's pretty sick right now with cancer, but we're making things as comfortable as we can for her. She's still purring and she's still playful, so as long as she's still comfortable we're more than happy to keep her with us as long as she likes.
 
-![Zoey](http://rcblack.net/assets/images/zoe.jpg)
+![Zoey](https://rcblack.net/assets/images/zoe.jpg)
 
 This second guy is my dog Tory, a ten year old Eskie. Like any other dog of this breed, he's always eager to tell us when someone is within half a mile of the house, if a bird exists, or that there's a cloud coming too close to his territory. He makes sure that he's always at the center of attention. His fur gets pretty much everywhere, particularly this time of year, but I'm used to it. I wear a lot of black, so I take a little of him wherever I go! 
 
-![Tory](http://rcblack.net/assets/images/tory.jpg)
+![Tory](https://rcblack.net/assets/images/tory.jpg)
