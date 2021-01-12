@@ -30,11 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-<<<<<<< HEAD
   shortname: rcblack-net # enter this from your disqus account
-=======
-  shortname: russ_black # enter this from your disqus account
->>>>>>> bfdc6b215530a6fbb4f17db71ec1c5ecbec51c3a
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
