@@ -160,7 +160,7 @@ uhæfa = unfitting
 -->
 So now I ask you, every Trond, that you might consider 
 
-strengthen and support that to government, 
+strengthen and support that ... government, 
 
 (To be continued.)
 
