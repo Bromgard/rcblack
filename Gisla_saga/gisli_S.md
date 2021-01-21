@@ -147,7 +147,7 @@ Sigurd Earl then issues a summons for an assembly of three districts. [^4]
 
 When the assembly begins, Hakon stands up before them and says, "It is known to everyone who have come that Harald Fair-hair laid all of Norway under his rule, including everything from the north to Finnmark and eastward to Alvdal. He became the sole ruler over all people. He had many sons who are known to you, and most of them were well-raised, but he loved them unequally. He sent some of his sons away to other lands, but others he kept with him in his court, like Eric Bloodaxe, who he thought was better than all his other sons.
 Everyone, look at what he has done while he has been alive.
-At this moment, my brother Eric has had very much accomplished those things, which follows great shame.  
+By now my brother Eric has accomplished very many things that resulted in much wickedness.
 <!--
 I don't know about the precision here. Review.
 þá -- can be demonstrative article if hlútr.
@@ -158,7 +158,9 @@ látit
 vinna  
 uhæfa = unfitting
 -->
+So now I ask you, every Trond, that you might consider 
 
+strengthen and support that to government, 
 
 (To be continued.)
 
