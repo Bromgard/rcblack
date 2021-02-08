@@ -160,7 +160,16 @@ uhæfa = unfitting
 -->
 So now I ask you, every Trond, that you might consider 
 
-strengthen and support that ... government, 
+strengthen and support that ... government,
+
+
+hagfeldari=more suitable, fit
+landsbyggðinne=the peopled land, the tenantry
+meirr=more léti (láta 3rd subj. past sing or plural)
+frændr=kin indefinite plural N or Acc
+hefjaz=láta hefjaz=to withdraw, retreat
+alþýðu=alþýða=all the people weak noun
+niðra=to put down, lower
 
 (To be continued.)
 
