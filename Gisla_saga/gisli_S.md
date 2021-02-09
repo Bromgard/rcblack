@@ -162,21 +162,23 @@ So now I intend to ask you, every Trond, that you might consider
 
 strengthen and support that ... government,
 
-<!--
-at því= on such (a) condition...
+<!--at því= on such (a) condition...
 til landstjórnar--concerning the government (gen) MN
 hagfeldari=more suitable, fit
 landsbyggðinne=the peopled land, the tenantry
-meirr=more léti (láta 3rd subj. past sing or plural)
+frændr kin, plural, nom or acc
+meirr=more  léti (láta 3rd subj. past sing or plural)
 frændr=kin indefinite plural N or Acc
 hefjaz=láta hefjaz=to withdraw, retreat
 alþýðu=alþýða=all the people weak noun
-niðra=to put down, lower
--->
+niðra=to put down, lower-->
 
-
-, and 
-
+So now I intend to ask you, every Thrandr,
+, that you consider on this condition to strengthen and support the government,
+, who will be more fitting for the tenantry,
+, and moreover his kin retreat from himself,
+, and all the people, 
+, --enn hinn ÞÞ
 , who wishes to put down (lower) the tenantry.
 
 
