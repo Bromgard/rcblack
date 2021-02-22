@@ -147,7 +147,7 @@ Sigurd Earl then issues a summons for an assembly of three districts. [^4]
 
 When the assembly begins, Hakon stands up before them and says, "It is known to everyone who have come that Harald Fair-hair laid all of Norway under his rule, including everything from the north to Finnmark and eastward to Alvdal. He became the sole ruler over all people. He had many sons who are known to you, and most of them were well-raised, but he loved them unequally. He sent some of his sons away to other lands, but others he kept with him in his court, like Eric Bloodaxe, who he thought was better than all his other sons.
 Everyone, look at what he has done while he has been alive.
-By now my brother Eric has accomplished very many things that resulted in much wickedness.
+By now my brother Eric has accomplished very many things that resulted in much misery.
 <!--
 I don't know about the precision here. Review.
 þá -- can be demonstrative article if hlútr.
@@ -158,10 +158,7 @@ látit
 vinna  
 uhæfa = unfitting
 -->
-So now I intend to ask you, every Trond, that you might consider 
-
-strengthen and support that ... government,
-
+So now I intend to ask you, residents of Trondheim, that you think about what would strengthen and steady the ship of state. You may either choose what would be more advantageous to the tenantry, and also your kin, and make all the people become more prosperous. For yet the state of affairs now is that which will weaken the tenantry.
 <!--at því= on such (a) condition...
 til landstjórnar--concerning the government (gen) MN
 hagfeldari=more suitable, fit
@@ -171,17 +168,19 @@ meirr=more  léti (láta 3rd subj. past sing or plural)
 frændr=kin indefinite plural N or Acc
 hefjaz=láta hefjaz=to withdraw, retreat
 alþýðu=alþýða=all the people weak noun
-niðra=to put down, lower-->
-
+niðra=to put down, lower
 So now I intend to ask you, every Thrandr,
-, that you consider on this condition to strengthen and support the government,
+, that you consider on this condition to strengthen and steady the government,
 , who will be more fitting for the tenantry,
-, and moreover his kin retreat from himself,
+, and moreover his might have had retreat from himself,
 , and all the people, 
-, --enn hinn ÞÞ
+, --enn hinn, yet the other
 , who wishes to put down (lower) the tenantry.
+You are far from done with this sentence. I must have some kind of mental block with this. It can't be this difficult.
+-->
+I will also proclaim that I will return all your inherited lands to every man who will turn to me and call me king."
 
-
+Many men spoke among each other, "What a wondrous sight! King Harald Fairhair is here, and he has become young again! He was old when we last saw him! But how can this be?  
 (To be continued.)
 
 ---
