@@ -180,7 +180,12 @@ You are far from done with this sentence. I must have some kind of mental block 
 -->
 I will also proclaim that I will return all your inherited lands to every man who will turn to me and call me king."
 
-Many men spoke among each other, "What a wondrous sight! King Harald Fairhair is here, and he has become young again! He was old when we last saw him! But how can this be?  
+Many men spoke among each other, "What a wondrous sight! King Harald Fairhair is here, and he has become young again! He was old when we last saw him! But how can this be? Either he must have some son that looks so much like him, that no one can recognize him from the other. Or that one is young, and the other is old, and one of them just gave us back our inheritance and our family estates, and his father, through tyranny, deprived us of these things."
+
+
+
+
+
 (To be continued.)
 
 ---
