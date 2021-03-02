@@ -180,11 +180,15 @@ You are far from done with this sentence. I must have some kind of mental block 
 -->
 I will also proclaim that I will return all your inherited lands to every man who will turn to me and call me king."
 
-Many men spoke among each other, "What a wondrous sight! King Harald Fairhair is here, and he has become young again! He was old when we last saw him! But how can this be? Either he must have some son that looks so much like him, that no one can recognize him from the other. Or that one is young, and the other is old, and one of them just gave us back our inheritance and our family estates, and his father, through tyranny, deprived us of these things."
+Many men spoke among each other, "What a wondrous sight! King Harald Fairhair is here, and he has become young again! He was old when we last saw him! But how can this be? Either he must have some son that looks so much like him, that no one can discern him from his father. Or that one is young, and the other is old, and one of them just gave us back our inheritance and our family estates, and his father, through tyranny, deprived us of these things."
 
+So, then all the common people said that they would prefer that man who looked most like King Harald as their king, who demonstrated good will and kindness, that man who settled there from abroad with his kin.  But would never elect to have Eirik rule over them, nor would they have Queen Gunnhild or her sons.  
 
+The Thing concluded When Hakon was received as king by the people. And when the news of who the Trondheim assembly chose as their king travelled to one district, and then another, men sent a message to Hakon and requested that they celebrate the Eucharist with him. And when Hakon became king, this was the same time that Þorbjorn surr and his sons migrated to Surnadal. 
 
+***
 
+Now it is to be said first that Kolbeinn, who was already mentioned, 
 
 (To be continued.)
 
