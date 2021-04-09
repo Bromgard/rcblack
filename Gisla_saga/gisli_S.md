@@ -188,7 +188,18 @@ The Thing concluded When Hakon was received as king by the people. And when the 
 
 ***
 
-Now it is to be said first that Kolbeinn, who was already mentioned, 
+Now it is to be said first that Kolbeinn, thought it most pleasant to speak with Thordis, Thorbjorn surr's daughter. So Kolbeinn courted her when he came to visit Thorbjorn. It did not take very much time before word of this got around. And so when her father Thorbjorn learned about this, he figured that it must certainly be true.
+He then speaks with his sons, that 
+
+
+
+
+
+Gisli explained that it would be better ...
+
+"And you don't say that, which to you consider to be hatred (in this) if we speak." 
+
+"I see," said Thorbjorn, "that that higher in the sky has risen, than now would have stood to strike <d> this down.  
 
 (To be continued.)
 
