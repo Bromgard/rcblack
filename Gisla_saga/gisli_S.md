@@ -189,17 +189,21 @@ The Thing concluded When Hakon was received as king by the people. And when the 
 ***
 
 Now it is to be said first that Kolbeinn, thought it most pleasant to speak with Thordis, Thorbjorn surr's daughter. So Kolbeinn courted her when he came to visit Thorbjorn. It did not take very much time before word of this got around. And so when her father Thorbjorn learned about this, he figured that it must certainly be true.
-He then speaks with his sons, that 
+He then speaks with his sons, because it seemed to him that they would remedy this situation.  
+
+Gisli said that it is possible to remedy this so long as there is no violence. 
+
+"But don't you say that which you think is enmity when we speak?" fix
+
+"I see," said Thorbjorn, "that much more has appeared out of thin air, that must yet be struck down. Now it appears to me to me that it is much more likely that you two brothers shall become dishonest--and so there shall be little manliness among either of you."
+
+Gisli said, "Do not cause any grief over his visit, father! But I shall advise him to give up coming here."
+
+"About this, your are most likely than not," says Thorbjorn," to take your message to him, that he that he stop coming here and grant you gratitude and thanks, and cease his wretched behavior, though your words will go ignored."
+
+Now this father and son ended their conversation and Gisli leaves him. The next time Kolbeinn came to that place, Gisli leads him upon the path that evening, where he went away, and Gisli tells him that he no longer wishes him to come there, "because my father is bothered by your behavior. People are talking among themselves that you are seducing my sister Thordis, behind my father's back. 
 
 
-
-
-
-Gisli explained that it would be better ...
-
-"And you don't say that, which to you consider to be hatred (in this) if we speak." 
-
-"I see," said Thorbjorn, "that that higher in the sky has risen, than now would have stood to strike <d> this down.  
 
 (To be continued.)
 
