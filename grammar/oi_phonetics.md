@@ -49,23 +49,6 @@ y | r__ue__ (Fr.) | yfir | [y]
 ý | pur (Fr.) | kýr | [yː]
 æ | mat | sær | [æː]
 ǫ | hot | lǫnd | [ɔ]
-=======
-a | h**a**nd	| _maðr_ | [ɑ] 
-á | f**a**ther	| láta | [ɑː]
-e | ét**é** (Fr.) | gekk | [e]
-é | R**eh** (Gr.) | lét  | [eː]
-i | fin**i** (Fr.) | mikill | [i]
-í | **ea**t | líta | [iː]
-o | **eau** (Fr.) | sofa | [o]
-ó | B**o**te (Gr.) | fló | [oː]
-u | b**ou**che (Fr.) | sumar | [u]
-ú | dr**oo**p | drúpa | [uː]
-y | r**ue** (Fr.) | yfir | [y]
-ý | p**u**r (Fr.) | kýr | [yː]
-æ | m**a**t | sær | [æː]
-ǫ | h**o**t | lǫnd | [ɔ]
->>>>>>> 24bfd3c779daed95c985fd57754d7604059523ec
-
 
 ### Consonants
 
