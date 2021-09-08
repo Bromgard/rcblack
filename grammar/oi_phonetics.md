@@ -35,20 +35,20 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 
 Character | Approximate Example | Old Icelandic | Phonetic Char.
 ----------|------------|-------|-------
-a | h__a__nd	| _maðr_ | [ɑ] 
-á | f__a__ther	| láta | [ɑː]
-e | ét__é__ (Fr.) | gekk | [e]
-é | R__eh__ (Gr.) | lét  | [eː]
-i | fin__i__ (Fr.) | mikill | [i]
-í | __ea__t | líta | [iː]
-o | __eau__ (Fr.) | sofa | [o]
-ó | B__o__te (Gr.) | fló | [oː]
-u | b__ou__che (Fr.) | sumar | [u]
-ú | dr__oo__p | drúpa | [uː]
-y | r__ue__ (Fr.) | yfir | [y]
-ý | pur (Fr.) | kýr | [yː]
-æ | mat | sær | [æː]
-ǫ | hot | lǫnd | [ɔ]
+a | h**a**nd	| _maðr_ | [ɑ] 
+á | f**a**ther	| láta | [ɑː]
+e | ét**é** (Fr.) | gekk | [e]
+é | R**eh** (Gr.) | lét  | [eː]
+i | fin**i** (Fr.) | mikill | [i]
+í | **ea**t | líta | [iː]
+o | **eau** (Fr.) | sofa | [o]
+ó | B**o**te (Gr.) | fló | [oː]
+u | b**ou**che (Fr.) | sumar | [u]
+ú | dr**oo**p | drúpa | [uː]
+y | r**ue** (Fr.) | yfir | [y]
+ý | p**u**r (Fr.) | kýr | [yː]
+æ | m**a**t | sær | [æː]
+ǫ | h**o**t | lǫnd | [ɔ]
 
 
 ### Consonants
