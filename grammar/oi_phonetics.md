@@ -63,7 +63,7 @@ y | r__ue__ (Fr.) | yfir | [y]
 		<td>a</td>
 		<td>h<b>a</b>nd</td>
 		<td>
-<iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?embedplayer=yes" width="75" height="15" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?embedplayer=yes" width="65" height="17" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
 		<td>maðr</td>
 		<td>[ɑ]</td>
