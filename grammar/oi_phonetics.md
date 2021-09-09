@@ -24,31 +24,14 @@ A, a, B, b, D, d, Ð, ð, E, e, F, f, G, g, H, h, I, i, J, j, K, k, L, l, M, n, 
 
 The historical span of Old Icelandic is often taken to last from the beginnings of the extant vernacular literature in the early twelfth century to about 1500 at the very latest. This is the same span of time that divides us from Shakespeare, so it's not surprising to learn that Old Icelandic underwent many changes during that time. Most of the saga corpus was committed to parchment from the thirteenth and fourteenth centuries CE, but modern grammarians tend to normalize the text to a phonological system that may have been spoken in the first decades of the thirteenth century. 
 
-One of the reasons for this is that the pronunciation of Icelandic was documented in one of the earliest examples of Scandinavian vernacular language, _Fyrsta málfræðiritgerðin_, or, _The First Grammatical Treatise_, written by who is known today as the First Grammarian. The work itself is a systemic study of Old Icelandic phonetic system and grammar that maybe have been written sometime before 1200. This phonetic system would have likely have sounded odd to the Icelanders who composed the sagas we will read in class, given that they were written decades to over a century later. You can often spot these changes in the orthography and usage in the texts, and I will point out many of these changes as we read.  
+One of the reasons for this is that the pronunciation of Icelandic was documented in one of the earliest examples of Scandinavian vernacular language, _Fyrsta málfræðiritgerðin_, or, _The First Grammatical Treatise_, written by who is known today as the First Grammarian. The work itself is a systemic study of Old Icelandic phonetic system and grammar that existed sometime before 1200 CE. In the following years while many of the sagas were written, the language underwent some changes. The vowels lowered and some sounds coalesced into others. The following pronunciation system is both an approximation and a simplification. Nevertheless, it gives us a basic idea of what the language may have sounded like. 
 
 ### Vowels
 
 The vowel system is not unlike that of other Indo-European languages in that each vowel has two qualities, long and short. The long vowels are indicated with an acute mark (á). The short vowels generally similar in quality to the English short vowel, and the long vowels approximate a similar quality but with a more sustained duration. The specific positions of each vowel is described below. 
 
 * The long vowels are á, é, í, ó, ú, æ, œ.
-* The short vowels are a, e, i, o, u, ???
-
-Character | Audio | Example | Old Ice. | Phonetic Char.
-----------|------------|-------|-------
-a | h**a**nd | <iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?embedplayer=yes" width="175" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> | _maðr_ | [ɑ] 
-á | f__a__ther	| láta | [ɑː]
-e | ét__é__ (Fr.) | gekk | [e]
-é | R__eh__ (Gr.) | lét  | [eː]
-i | fin__i__ (Fr.) | mikill | [i]
-í | __ea__t | líta | [iː]
-o | __eau__ (Fr.) | sofa | [o]
-ó | B__o__te (Gr.) | fló | [oː]
-u | b__ou__che (Fr.) | sumar | [u]
-ú | dr__oo__p | drúpa | [uː]
-y | r__ue__ (Fr.) | yfir | [y]
-ý | pur (Fr.) | kýr | [yː]
-æ | mat | sær | [æː]
-ǫ | hot | lǫnd | [[ɔ](ɔ)]
+* The short vowels are a, e, i, o, u, ǫ, ø
 
 
 <table style="width: 500px; height: 40px;" border="0" cellpadding="0" cellspacing="0">
@@ -211,8 +194,13 @@ y | r__ue__ (Fr.) | yfir | [y]
 		<td>r<b>œ</b>ða</td>
 		<td>[øː]</td>
 	</tr>
-		
 </table>
+
+#### The diphthongs
+
+* au is sounded like, a + u _lauss_
+* ei is sounded like, e + i _beinn_
+* ey is sounded like, e + y _Freya_
 
 ### Consonants
 
