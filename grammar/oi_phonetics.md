@@ -35,7 +35,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 
 Character | Approximate Example | Old Icelandic | Phonetic Char.
 ----------|------------|-------|-------
-a | [h**a**nd](File:En-uk-hand.ogg) | _maðr_ | [ɑ] 
+a | h**a**nd | _maðr_ | [ɑ] 
 á | f__a__ther	| láta | [ɑː]
 e | ét__é__ (Fr.) | gekk | [e]
 é | R__eh__ (Gr.) | lét  | [eː]
@@ -49,6 +49,8 @@ y | r__ue__ (Fr.) | yfir | [y]
 ý | pur (Fr.) | kýr | [yː]
 æ | mat | sær | [æː]
 ǫ | hot | lǫnd | [ɔ]
+
+<iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?embedplayer=yes" width="175" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 ### Consonants
 
