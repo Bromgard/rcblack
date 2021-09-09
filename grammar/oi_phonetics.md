@@ -79,12 +79,30 @@ y | r__ue__ (Fr.) | yfir | [y]
 	</tr>
 	<tr>
 		<td>á (≈1250)</td>
-		<td>br<b>oa</b></td>
+		<td>br<b>oa</b>d</td>
 		<td>
 <iframe src="//commons.wikimedia.org/wiki/File:en-us-broad.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
 		<td>l<b>á</b>ta</td>
 		<td>ɔː</td>
+	</tr>
+	<tr>
+		<td>e</td>
+		<td><b>é</b>t<b>é</b> (Fr.)</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:Fr-été-fr_CA.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>g<b>e</b>kk</td>
+		<td>[e]</td>
+	</tr>
+	<tr>
+		<td>é</td>
+		<td>R<b>eh</b></td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:De-Reh.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>l<b>é</b>t</td>
+		<td>[eː]</td>
 	</tr>
 </table>
 
