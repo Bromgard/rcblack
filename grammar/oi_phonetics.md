@@ -139,6 +139,28 @@ y | r__ue__ (Fr.) | yfir | [y]
 		<td>fl<b>ó</b></td>
 		<td>[oː]</td>
 	</tr>
+	<tr>
+		<td>u</td>
+		<td>b<b>ou</b></td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:Fr-bouche.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>s<b>u</b>mar</td>
+		<td>[u]</td>
+	</tr>
+	<tr>
+		<td>ú</td>
+		<td>dr<b>oo</b>p</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:En-us-droop.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>dr<b>ú</b>pa</td>
+		<td>[uː]</td>
+	</tr>
+	
+	
+	
+	
 </table>
 
 ### Consonants
