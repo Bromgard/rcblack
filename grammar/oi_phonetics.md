@@ -119,7 +119,7 @@ y | r__ue__ (Fr.) | yfir | [y]
 <iframe src="//commons.wikimedia.org/wiki/File:En-uk-to_eat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
 		<td>l<b>í</b>ta</td>
-		<td>[iː]</tr>
+		<td>[iː]</td>
 	</tr>
 	<tr>
 		<td>o</td>
