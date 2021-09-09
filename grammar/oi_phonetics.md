@@ -84,7 +84,7 @@ y | r__ue__ (Fr.) | yfir | [y]
 <iframe src="//commons.wikimedia.org/wiki/File:en-us-broad.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
 		<td>l<b>á</b>ta</td>
-		<td>ɔː</td>
+		<td>[ɔː]</td>
 	</tr>
 	<tr>
 		<td>e</td>
@@ -103,6 +103,41 @@ y | r__ue__ (Fr.) | yfir | [y]
 		</td>
 		<td>l<b>é</b>t</td>
 		<td>[eː]</td>
+	</tr>
+	<tr>
+		<td>i</td>
+		<td>f<b>i</b>n<b>i</b> (Fr.)</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-fini.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>m<b>i</b>k<b>i</b>ll</td>
+		<td>[i]</td>
+	</tr>
+		<td>í</td>
+		<td><b>ea</b>t</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:En-uk-to_eat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>l<b>í</b>ta</td>
+		<td>[iː]</tr>
+	</tr>
+	<tr>
+		<td>o</td>
+		<td><b>eau</b> (Fr.)</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:Fr-eau.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>s<b>o</b>fa</td>
+		<td>[o]</td>
+	</tr>
+	<tr>
+		<td>ó</td>
+		<td>B<b>o</b>te (Gr.)</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:De-Bote.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>fl<b>ó</b></td>
+		<td>[oː]</td>
 	</tr>
 </table>
 
