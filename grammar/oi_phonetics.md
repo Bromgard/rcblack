@@ -96,6 +96,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td>m<b>i</b>k<b>i</b>ll</td>
 		<td>[i]</td>
 	</tr>
+	<tr>
 		<td>í</td>
 		<td><b>ea</b>t</td>
 		<td>
