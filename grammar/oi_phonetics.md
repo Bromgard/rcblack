@@ -53,11 +53,11 @@ y | r__ue__ (Fr.) | yfir | [y]
 
 <table style="width: 500px; height: 40px;" border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td>Character</td>
-		<td>Example</td>
-		<td>Sound</td>
-		<td>Old Ice.</td>
-		<td>Phone</td>
+		<td><b>Character</b></td>
+		<td><b>Example</b></td>
+		<td><b>Sound</b></td>
+		<td><b>Old Ice.</b></td>
+		<td><b>Phone</b></td>
 	</tr>
 	<tr>
 		<td>a</td>
@@ -65,8 +65,17 @@ y | r__ue__ (Fr.) | yfir | [y]
 		<td>
 <iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
-		<td>maðr</td>
+		<td>m<b>a</b>ðr</td>
 		<td>[ɑ]</td>
+	</tr>
+	<tr>
+		<td>á (≈1200)</td>
+		<td>f<b>a</b>ther</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-father.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>l<b>á</b>ta</td>
+		<td>[ɑː]</td>
 	</tr>
 </table>
 
