@@ -51,7 +51,7 @@ y | r__ue__ (Fr.) | yfir | [y]
 ǫ | hot | lǫnd | [[ɔ](ɔ)]
 
 
-<table>
+<table style="width: 960px; height: 81px;" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td>Character</td>
 		<td>Example</td>
