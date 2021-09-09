@@ -48,9 +48,27 @@ u | b__ou__che (Fr.) | sumar | [u]
 y | r__ue__ (Fr.) | yfir | [y]
 ý | pur (Fr.) | kýr | [yː]
 æ | mat | sær | [æː]
-ǫ | hot | lǫnd | [ɔ]
+ǫ | hot | lǫnd | [[ɔ](ɔ)]
 
+
+<table>
+	<tr>
+		<td>Character</td>
+		<td>Example</td>
+		<td>Sound</td>
+		<td>Old Ice.</td>
+		<td>Phone</td>
+	</tr>
+	<tr>
+		<td>a</td>
+		<td>h<b>a</b>nd</td>
+		<td>
 <iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?embedplayer=yes" width="175" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>maðr</td>
+		<td>[ɑ]</td>
+	</tr>
+</table>
 
 ### Consonants
 
