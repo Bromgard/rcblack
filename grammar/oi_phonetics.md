@@ -193,7 +193,25 @@ y | r__ue__ (Fr.) | yfir | [y]
 		<td>l<b>ǫ</b>nd</td>
 		<td>[ɔ]</td>
 	</tr>
-	
+	<tr>
+		<td>ø</td>
+		<td>feu (Fr.)</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:Fr-feu.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>d<b>ø</b>kkr</td>
+		<td>[ø]</td>
+	</tr>
+	<tr>
+		<td>œ</td>
+		<td>cr<b>eu</b>se</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-creuse.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>r<b>œ</b>ða</td>
+		<td>[øː]</td>
+	</tr>
+		
 </table>
 
 ### Consonants
