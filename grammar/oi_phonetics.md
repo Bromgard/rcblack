@@ -77,6 +77,15 @@ y | r__ue__ (Fr.) | yfir | [y]
 		<td>l<b>á</b>ta</td>
 		<td>[ɑː]</td>
 	</tr>
+	<tr>
+		<td>á (≈1250)</td>
+		<td>br<b>oa</b></td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-broad.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>l<b>á</b>ta</td>
+		<td>ɔː</td>
+	</tr>
 </table>
 
 ### Consonants
