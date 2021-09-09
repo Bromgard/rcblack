@@ -33,7 +33,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 * The long vowels are á, é, í, ó, ú, æ, œ.
 * The short vowels are a, e, i, o, u, ǫ, ø
 
-
+<div>
 <table style="width: 500px; height: 40px;" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td><b>Character</b></td>
@@ -195,6 +195,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td>[øː]</td>
 	</tr>
 </table>
+</div>
 
 #### The diphthongs
 
