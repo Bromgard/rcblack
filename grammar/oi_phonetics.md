@@ -88,12 +88,12 @@ y | r__ue__ (Fr.) | yfir | [y]
 	</tr>
 	<tr>
 		<td>e</td>
-		<td><b>é</b>t<b>é</b> (Fr.)</td>
+		<td>m<b>e</b>n</td>
 		<td>
-<iframe src="//commons.wikimedia.org/wiki/File:Fr-été-fr_CA.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-men.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
 		<td>g<b>e</b>kk</td>
-		<td>[e]</td>
+		<td>[ɛ]</td>
 	</tr>
 	<tr>
 		<td>é</td>
@@ -157,9 +157,42 @@ y | r__ue__ (Fr.) | yfir | [y]
 		<td>dr<b>ú</b>pa</td>
 		<td>[uː]</td>
 	</tr>
-	
-	
-	
+	<tr>
+		<td>y</td>
+		<td>r<b>ue</b> (Fr.)</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:Fr-rue.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td><b>y</b>fir</td>
+		<td>[y]</td>
+	</tr>
+	<tr>
+		<td>ý</td>
+		<td>p<b>u</b>r (Fr.)</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:Fr-pur.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>k<b>ý</b></td>
+		<td>[yː]</td>
+	</tr>
+	<tr>
+		<td>æ</td>
+		<td>m<b>a</b>t</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-mat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>s<b>æ</b>r</td>
+		<td>[æː]</td>
+	</tr>
+	<tr>
+		<td>ǫ</td>
+		<td>s<b>aw</b></td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-saw.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>l<b>ǫ</b>nd</td>
+		<td>[ɔ]</td>
+	</tr>
 	
 </table>
 
