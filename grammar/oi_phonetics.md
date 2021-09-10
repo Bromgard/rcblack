@@ -413,6 +413,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>v</b>ita</td>
 		<td>[w]<ɸ/td>
 	</tr>
+	<!--
 	<tr>
 		<td>þ</td>
 		<td><b>th</b>ing</td>
@@ -449,6 +450,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td>be<b>z</b>tr</td>
 		<td>[t]+[s]</td>
 	</tr>
+	-->
 	</table>
  </div>
 
@@ -467,9 +469,9 @@ Modern Icelandic has undergone comparatively little change since the twelfth and
 * The sound, _ö_ sounds much like German _ö_ (/ø/), as occurs in, _t<b>ö</b>nen_. <iframe src="//commons.wikimedia.org/wiki/File:De-tönen.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
 
 ### Consonants
-<!--
+
 * Both, _g_ and _k_ palletized in Modern Icelandic before the high vowels, _i_ and _e_, and _j_. This is very similar to the formation of these sound made by a native English speaker where the tongue strikes the pallet instead of the back of the throat, but with more fricatization. Compare with English, _keep_.
 * The sound, _v_ is more voiced than saga pronunciation, but softer than the American pronunciation.
 * When preceding a _v_, _h_ has become an unvoiced stop. So, in modern pronunciation, _hvart_ sounds more like, "kvart."
 * Both _ll_ and _nn_ have undergone a process of devoicing. This means that when pronounced, the larynx remains inactive. For, _ll_, the articulated sound is made by expressing a puff of air out of the side of the bottom of the tongue and sounds something like /tl/. So, The word, _kalla_ sounds something like, [/'k(h)atla/](https://en.wiktionary.org/wiki/kalla#Icelandic). Practice speaking and hearing is important, and if you can, consultation with an Icelandic speaker. The sound _nn_ is similarly devoiced and is approximated by /nd/.
-* The sounds _y_ and _ý_ have moved into _i_ and _í_. The usage of the earlier characters is only a convention of modern orthography.-->
+* The sounds _y_ and _ý_ have moved into _i_ and _í_. The usage of the earlier characters is only a convention of modern orthography.
