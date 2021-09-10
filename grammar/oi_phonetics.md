@@ -222,152 +222,216 @@ The vowel system is not unlike that of other Indo-European languages in that eac
  <iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?        embedplayer=yes" width="35" height="20"frameborder="0"                 webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>        
      <td>m<b>a</b>ðr</td>
-     <td>[ɑ]</td>
+     <td>[b]</td>
    </tr>
    <tr>
-     <td>á (≈1200)</td>
-     <td>f<b>a</b>ther</td>
+     <td>d</td>
+     <td><b>d</b>og</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache- father.wav?embedplayer=yes" width="35" height="20" frameborder="0"       webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:En-us-ne-dog.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>l<b>á</b>ta</td>
-     <td>[ɑː]</td>
+     <td><b>d</b>agr</td>
+     <td>[d]</td>
    </tr>
    <tr>
-     <td>á (≈1250)</td>
-     <td>br<b>oa</b>d</td>
+     <td>f initial</td>
+     <td><b>f</b>ee</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:en-us-broad.ogg?          embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-fee.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>l<b>á</b>ta</td>
-     <td>[ɔː]</td>
+     <td><b>f</b>é</td>
+     <td>[f]</td>
    </tr>
    <tr>
-     <td>e</td>
-     <td>m<b>e</b>n</td>
+     <td>f elsewhere</td>
+     <td>la<b>v</b>a</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:en-us-men.ogg?            embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-lava.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>g<b>e</b>kk</td>
-     <td>[ɛ]</td>
+     <td>ha<b>f</b>a</td>
+     <td>[v]</td>
    </tr>
    <tr>
-     <td>é</td>
-     <td>R<b>eh</b></td>
+     <td>g initial</td>
+     <td><b>g</b>oat</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:De-Reh.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-goat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>l<b>é</b>t</td>
-     <td>[eː]</td>
+     <td><b>g</b>efa</td>
+     <td>[g]</td>
    </tr>
    <tr>
-     <td>i</td>
-     <td>f<b>i</b>n<b>i</b> (Fr.)</td>
+     <td>g elsewhere</td>
+     <td>bo<b>g</b>a</b> Sp.</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-   fini.wav?embedplayer=yes" width="35" height="20" frameborder="0"         webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:LL-Q1321_(spa)-Millars-boga.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>m<b>i</b>k<b>i</b>ll</td>
-     <td>[i]</td>
+     <td>lau<b>g</b>a</td>
+     <td>[ɣ]</td>
    </tr>
    <tr>
-     <td>í</td>
-     <td><b>ea</b>t</td>
+     <td>g before s,t</td>
+     <td>Bach<b>ch</b></td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:En-uk-to_eat.ogg?         embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:De-Bach.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>l<b>í</b>ta</td>
-     <td>[iː]</td>
+     <td>da<b>g</b>s</td>
+     <td>[χ</td>
    </tr>
    <tr>
-     <td>o</td>
-     <td><b>eau</b> (Fr.)</td>
+     <td>h</td>
+     <td><b>h</b>ope</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:Fr-eau.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-hope.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>s<b>o</b>fa</td>
-     <td>[o]</td>
+     <td><b>h</b>afa</td>
+     <td>[h]</td>
    </tr>
    <tr>
-     <td>ó</td>
-     <td>B<b>o</b>te (Gr.)</td>
+     <td>j</td>
+     <td><b>y</b>arn</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:De-Bote.ogg?              embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-yarn.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>fl<b>ó</b></td>
-     <td>[oː]</td>
+     <td>j<b>a</b>rn</td>
+     <td>[j]</td>
    </tr>
    <tr>
-     <td>u</td>
-     <td>b<b>ou</b></td>
+     <td>k</td>
+     <td><b>k</b>ite</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:Fr-bouche.ogg?            embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:En-us-kite.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>s<b>u</b>mar</td>
-     <td>[u]</td>
+     <td><b>k</b>aupa</td>
+     <td>[k]</td>
    </tr>
    <tr>
-     <td>ú</td>
-     <td>dr<b>oo</b>p</td>
+     <td>l</td>
+     <td><b>l</b>unch</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:En-us-droop.ogg?          embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-lunch.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>dr<b>ú</b>pa</td>
-     <td>[uː]</td>
+     <td>dr<b>l</b>eyna</td>
+     <td>[l]</td>
    </tr>
    <tr>
-     <td>y</td>
-     <td>r<b>ue</b> (Fr.)</td>
+     <td>m</td>
+     <td><b>m</b>ap</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:Fr-rue.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-map.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td><b>y</b>fir</td>
-     <td>[y]</td>
+     <td><b>m</b>unu</td>
+     <td>[m]</td>
    </tr>
    <tr>
-     <td>ý</td>
-     <td>p<b>u</b>r (Fr.)</td>
+     <td>n</td>
+     <td><b>n</b>ap</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:Fr-pur.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-nap.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>k<b>ý</b></td>
-     <td>[yː]</td>
+     <td><b>n</b>orðr</td>
+     <td>[n]</td>
    </tr>
    <tr>
-     <td>æ</td>
-     <td>m<b>a</b>t</td>
+     <td>n before g,k</td>
+     <td>ri<b>ng</b></td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:en-us-mat.ogg?            embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-ring.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>s<b>æ</b>r</td>
-     <td>[æː]</td>
+     <td>hri<b>ng</b></td>
+     <td>[ŋ]</td>
    </tr>
    <tr>
-     <td>ǫ</td>
-     <td>s<b>aw</b></td>
+     <td>p</td>
+     <td><b>p</b>an</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:en-us-saw.ogg?            embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-pan.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>l<b>ǫ</b>nd</td>
-     <td>[ɔ]</td>
+     <td>l<b>p</b>an</td>
+     <td>[p]</td>
    </tr>
    <tr>
-     <td>ø</td>
-     <td>feu (Fr.)</td>
+     <td>r</td>
+     <td>zo<b>rr</b>o Sp.</td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:Fr-feu.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+ <iframe src="//commons.wikimedia.org/wiki/File:LL-Q1321_(spa)-Millars-zorro.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>d<b>ø</b>kkr</td>
-     <td>[ø]</td>
+     <td><b>r</b>eka</td>
+     <td>[r]</td>
    </tr>
    <tr>
-     <td>œ</td>
-     <td>cr<b>eu</b>se</td>
+     <td>r noun suffix</td>
+     <td>mað<b>r</b></td>
      <td>
- <iframe src="//commons.wikimedia.org/wiki/File:LL-Q150_(fra)-            WikiLucas00-creuse.wav?embedplayer=yes" width="35" height="20"           frameborder="0" webkitAllowFullScreen mozallowfullscreen                 allowFullScreen></iframe>
+<iframe src="//commons.wikimedia.org/wiki/File:Uvular_trill.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>r<b>œ</b>ða</td>
-     <td>[øː]</td>
+     <td>mað<b>r</b></td>
+     <td>[ʀ]</td>
    </tr>
+	 <tr>
+	 	<td>s</td>
+		<td><b>s</b>oap</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-soap.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td><b>s</b>itja</td>
+		<td>[s]</td>
+	</tr>
+	<tr>
+		<td>t</td>
+		<td><b>t</b>oast</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:En-us-toast.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td><b>t</b>aka</td>
+		<td>[t]</td>
+	</tr>
+	<tr>
+		<td>v</td>
+		<td><b>w</b>in</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-win.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td><b>v</b>ita</td>
+		<td>[w]</td>
+	</tr>
+	<tr>
+		<td>þ</td>
+		<td><b>th</b>ing</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-thing.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td><b>þ</b>ing</td>
+		<td>[θ]</td>
+	</tr>
+	<tr>
+		<td>ð</td>
+		<td><b>th</b>ese</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-these.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>nor<b>ð</b>r</td>
+		<td>[ð]</td>
+	</tr>
+	<tr>
+		<td>x</td>
+		<td>a<b>x</b>l</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-axe.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>ø<b>x</b></td>
+		<td>[k]+[s]</td>
+	</tr>
+	<tr>
+		<td>z</td>
+		<td>me<b>ts</b></td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Vealhurl-mets.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>be<b>z</b>tr</td>
+		<td>[t]+[s]</td>
+	
+	
  </table>
  </div>
 
