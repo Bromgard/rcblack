@@ -43,13 +43,13 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>Phone</b></td>
 	</tr>
 	<tr>
-		<td>a</td>
-		<td>h<b>a</b>nd</td>
+		<td>b</td>
+		<td><b>b</b>and</td>
 		<td>
-<iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-band.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
-		<td>m<b>a</b>ðr</td>
-		<td>[ɑ]</td>
+		<td>M<b>b</b>ana</td>
+		<td>[b]</td>
 	</tr>
 	<tr>
 		<td>á (≈1200)</td>
@@ -205,6 +205,172 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 * ey is sounded like, e + y _Freya_
 
 ### Consonants
+
+ <div>
+ <table style="width: 500px; height: 40px;" border="0" cellpadding="0"    cellspacing="0">                                                  
+   <tr>   
+     <td><b>Character</b></td>
+     <td><b>Example</b></td>
+     <td><b>Sound</b></td>
+     <td><b>Old Ice.</b></td>
+     <td><b>Phone</b></td>
+   </tr>                   
+   <tr>  
+     <td>a</td>
+     <td>h<b>a</b>nd</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?        embedplayer=yes" width="35" height="20"frameborder="0"                 webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>        
+     <td>m<b>a</b>ðr</td>
+     <td>[ɑ]</td>
+   </tr>
+   <tr>
+     <td>á (≈1200)</td>
+     <td>f<b>a</b>ther</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache- father.wav?embedplayer=yes" width="35" height="20" frameborder="0"       webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>l<b>á</b>ta</td>
+     <td>[ɑː]</td>
+   </tr>
+   <tr>
+     <td>á (≈1250)</td>
+     <td>br<b>oa</b>d</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-broad.ogg?          embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>l<b>á</b>ta</td>
+     <td>[ɔː]</td>
+   </tr>
+   <tr>
+     <td>e</td>
+     <td>m<b>e</b>n</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-men.ogg?            embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>g<b>e</b>kk</td>
+     <td>[ɛ]</td>
+   </tr>
+   <tr>
+     <td>é</td>
+     <td>R<b>eh</b></td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:De-Reh.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>l<b>é</b>t</td>
+     <td>[eː]</td>
+   </tr>
+   <tr>
+     <td>i</td>
+     <td>f<b>i</b>n<b>i</b> (Fr.)</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:LL-Q150_(fra)-LoquaxFR-   fini.wav?embedplayer=yes" width="35" height="20" frameborder="0"         webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>m<b>i</b>k<b>i</b>ll</td>
+     <td>[i]</td>
+   </tr>
+   <tr>
+     <td>í</td>
+     <td><b>ea</b>t</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:En-uk-to_eat.ogg?         embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>l<b>í</b>ta</td>
+     <td>[iː]</td>
+   </tr>
+   <tr>
+     <td>o</td>
+     <td><b>eau</b> (Fr.)</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:Fr-eau.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>s<b>o</b>fa</td>
+     <td>[o]</td>
+   </tr>
+   <tr>
+     <td>ó</td>
+     <td>B<b>o</b>te (Gr.)</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:De-Bote.ogg?              embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>fl<b>ó</b></td>
+     <td>[oː]</td>
+   </tr>
+   <tr>
+     <td>u</td>
+     <td>b<b>ou</b></td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:Fr-bouche.ogg?            embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>s<b>u</b>mar</td>
+     <td>[u]</td>
+   </tr>
+   <tr>
+     <td>ú</td>
+     <td>dr<b>oo</b>p</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:En-us-droop.ogg?          embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>dr<b>ú</b>pa</td>
+     <td>[uː]</td>
+   </tr>
+   <tr>
+     <td>y</td>
+     <td>r<b>ue</b> (Fr.)</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:Fr-rue.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td><b>y</b>fir</td>
+     <td>[y]</td>
+   </tr>
+   <tr>
+     <td>ý</td>
+     <td>p<b>u</b>r (Fr.)</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:Fr-pur.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>k<b>ý</b></td>
+     <td>[yː]</td>
+   </tr>
+   <tr>
+     <td>æ</td>
+     <td>m<b>a</b>t</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-mat.ogg?            embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>s<b>æ</b>r</td>
+     <td>[æː]</td>
+   </tr>
+   <tr>
+     <td>ǫ</td>
+     <td>s<b>aw</b></td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:en-us-saw.ogg?            embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>l<b>ǫ</b>nd</td>
+     <td>[ɔ]</td>
+   </tr>
+   <tr>
+     <td>ø</td>
+     <td>feu (Fr.)</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:Fr-feu.ogg?               embedplayer=yes" width="35" height="20" frameborder="0"                  webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+     </td>
+     <td>d<b>ø</b>kkr</td>
+     <td>[ø]</td>
+   </tr>
+   <tr>
+     <td>œ</td>
+     <td>cr<b>eu</b>se</td>
+     <td>
+ <iframe src="//commons.wikimedia.org/wiki/File:LL-Q150_(fra)-            WikiLucas00-creuse.wav?embedplayer=yes" width="35" height="20"           frameborder="0" webkitAllowFullScreen mozallowfullscreen                 allowFullScreen></iframe>
+     </td>
+     <td>r<b>œ</b>ða</td>
+     <td>[øː]</td>
+   </tr>
+ </table>
+ </div>
+
 
 ## Modern pronunciation
 
