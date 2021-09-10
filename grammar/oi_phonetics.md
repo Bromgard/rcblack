@@ -43,13 +43,13 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>Phone</b></td>
 	</tr>
 	<tr>
-		<td>b</td>
+		<td>a</td>
 		<td><b>b</b>and</td>
 		<td>
-<iframe src="//commons.wikimedia.org/wiki/File:en-us-band.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-bar.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
-		<td>M<b>b</b>ana</td>
-		<td>[b]</td>
+		<td>b<b>a</b>na</td>
+		<td>[ɑ]</td>
 	</tr>
 	<tr>
 		<td>á (≈1200)</td>
@@ -216,7 +216,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td><b>Phone</b></td>
    </tr>
 	 <tr>
-    <td>[b]</td>
+    <td>b</td>
 		<td><b>b</b>read</td>
 		<td>
 <iframe src="//commons.wikimedia.org/wiki/File:en-us-bread.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -251,6 +251,15 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>ha<b>f</b>a</td>
      <td>[v]</td>
    </tr>
+	 <tr>
+	 		<td>f before n</d>
+			<td>ja<b>m</b></td>
+			<td>
+<iframe src="//commons.wikimedia.org/wiki/File:En-us-jam.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+			</td>
+			<td>ja<b>f</b></td>
+			<td>[m]</td>
+	 </tr>
    <tr>
      <td>g initial</td>
      <td><b>g</b>oat</td>
@@ -276,7 +285,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
  <iframe src="//commons.wikimedia.org/wiki/File:De-Bach.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
      <td>da<b>g</b>s</td>
-     <td>[χ</td>
+		 <td>[χ]</td>
    </tr>
    <tr>
      <td>h</td>
@@ -350,6 +359,15 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>l<b>p</b>an</td>
      <td>[p]</td>
    </tr>
+		<tr>
+			<td>p before t</td>
+			<td>pu<b>b</b> (Sp.)</td>
+			<td>
+<iframe src="//commons.wikimedia.org/wiki/File:Voiceless_bilabial_fricative.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+			</td>
+			<td>jafn</td>
+			<td>[ɸ]</td>
+		</tr>
    <tr>
      <td>r</td>
 		 <td>zo<b>rr</b>o (Spa.)</td>
@@ -393,7 +411,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 <iframe src="//commons.wikimedia.org/wiki/File:en-us-win.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
 		<td><b>v</b>ita</td>
-		<td>[w]</td>
+		<td>[w]<ɸ/td>
 	</tr>
 	<tr>
 		<td>þ</td>
@@ -434,8 +452,25 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 	</table>
  </div>
 
+* Double consonants, like _kalla_, were sustained for an additional phonetic beat, as in how one would say, "wall lamp," in English. The double consonant, _gg_ follows the same rule as _g_ when it stands before _s_ or _t_ in that it is pronounced, [χ]. 
+
+
 ## Modern pronunciation
+
+Modern Icelandic has undergone comparatively little change since the twelfth and thirteenth centuries. The differences in grammar, word usage, and pronunciation is comparable to the difference between Modern English and the language utilized by William Shakespeare and John Donne. To most Icelanders, saga language might feel strange and archaic, but mostly still intelligible. Many students choose to use modern pronunciation in their study of Old Icelandic literature. If you know Icelandic and would prefer to use modern pronunciation, you may.
 
 ### Vowels
 
+* The sound, _á_ has changed to /aʊ/ as in English, "h<b>ou</b>se." <iframe src="//commons.wikimedia.org/wiki/File:en-us-house-noun.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+* The sound, _é_ has change to /jɛ/ as in English, "<b>y</b>es." <iframe src="//commons.wikimedia.org/wiki/File:En-us-yes.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+* The sound, _ó_ has changed to /oʊ/ as in English, "g<b>oa</b>t." <iframe src="//commons.wikimedia.org/wiki/File:en-us-goat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+* The sound, _æ_ has changed to /aɪ/ as in English, "b<b>ye</b>." <iframe src="//commons.wikimedia.org/wiki/File:en-us-bye.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+* The sound, _ö_ sounds much like German _ö_ (/ø/), as occurs in, _t<b>ö</b>nen_. <iframe src="//commons.wikimedia.org/wiki/File:De-tönen.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+
 ### Consonants
+
+* Both, _g_ and _k_ palletized in Modern Icelandic before the high vowels, _i_ and _e_, and _j_. This is very similar to the formation of these sound made by a native English speaker where the tongue strikes the pallet instead of the back of the throat, but with more fricatization. Compare with English, _keep_.
+* The sound, _v_ is more voiced than saga pronunciation, but softer than the American pronunciation.
+* When preceding a _v_, _h_ has become an unvoiced stop. So, in modern pronunciation, _hvart_ sounds more like, "kvart."
+* Both _ll_ and _nn_ have undergone a process of devoicing. This means that when pronounced, the larynx remains inactive. For, _ll_, the articulated sound is made by expressing a puff of air out of the side of the bottom of the tongue and sounds something like /tl/. So, The word, _kalla_ sounds something like, [/'k(h)atla/](https://en.wiktionary.org/wiki/kalla#Icelandic). Practice speaking and hearing is important, and if you can, consultation with an Icelandic speaker. The sound _nn_ is similarly devoiced and is approximated by /nd/.
+* The sounds _y_ and _ý_ have moved into _i_ and _í_. The usage of the earlier characters is only a convention of modern orthography.
