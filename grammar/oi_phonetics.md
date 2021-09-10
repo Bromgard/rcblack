@@ -374,7 +374,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td><b>r</b>eka</td>
      <td>[r]</td>
    </tr>
-  <!--
+
 	<tr>
      <td>r noun suffix</td>
      <td>mað<b>r</b></td>
@@ -384,6 +384,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>mað<b>r</b></td>
      <td>[ʀ]</td>
    </tr>
+<!--	 
 	 <tr>
 	 	<td>s</td>
 		<td><b>s</b>oap</td>
@@ -461,7 +462,10 @@ Modern Icelandic has undergone comparatively little change since the twelfth and
 
 ### Vowels
 
-* The sound, _á_ has changed to /aʊ/ as in English, "h<b>ou</b>se." <iframe src="//commons.wikimedia.org/wiki/File:en-us-house-noun.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+* The sound, _á_ has changed to /aʊ/ as in English, "h<b>ou</b>se." 
+
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-house-noun.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
 * The sound, _é_ has change to /jɛ/ as in English, "<b>y</b>es." <iframe src="//commons.wikimedia.org/wiki/File:En-us-yes.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 * The sound, _ó_ has changed to /oʊ/ as in English, "g<b>oa</b>t." <iframe src="//commons.wikimedia.org/wiki/File:en-us-goat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 * The sound, _æ_ has changed to /aɪ/ as in English, "b<b>ye</b>." <iframe src="//commons.wikimedia.org/wiki/File:en-us-bye.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
