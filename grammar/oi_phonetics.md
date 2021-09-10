@@ -215,14 +215,13 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td><b>Old Ice.</b></td>
      <td><b>Phone</b></td>
    </tr>                   
-   <tr>  
-     <td>a</td>
-     <td>h<b>a</b>nd</td>
-     <td>
- <iframe src="//commons.wikimedia.org/wiki/File:En-uk-hand.ogg?        embedplayer=yes" width="35" height="20"frameborder="0"                 webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-     </td>        
-     <td>m<b>a</b>ðr</td>
-     <td>[b]</td>
+    <td>[b]</td>
+		<td><b>b</b>read</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:en-us-bread.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td><b>b</b>úa</td>
+		<td>[b]</td>
    </tr>
    <tr>
      <td>d</td>
@@ -234,7 +233,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>[d]</td>
    </tr>
    <tr>
-     <td>f initial</td>
+     <td>f init.</td>
      <td><b>f</b>ee</td>
      <td>
  <iframe src="//commons.wikimedia.org/wiki/File:en-us-fee.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -243,7 +242,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>[f]</td>
    </tr>
    <tr>
-     <td>f elsewhere</td>
+     <td>f </td>
      <td>la<b>v</b>a</td>
      <td>
  <iframe src="//commons.wikimedia.org/wiki/File:en-us-lava.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
