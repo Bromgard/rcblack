@@ -413,7 +413,6 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>v</b>ita</td>
 		<td>[w]<ɸ/td>
 	</tr>
-	<!--
 	<tr>
 		<td>þ</td>
 		<td><b>th</b>ing</td>
@@ -423,6 +422,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>þ</b>ing</td>
 		<td>[θ]</td>
 	</tr>
+	<!--
 	<tr>
 		<td>ð</td>
 		<td><b>th</b>ese</td>
