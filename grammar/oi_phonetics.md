@@ -394,7 +394,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>s</b>itja</td>
 		<td>[s]</td>
 	</tr>
-<!--
+
 	<tr>
 		<td>t</td>
 		<td><b>t</b>oast</td>
@@ -404,7 +404,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>t</b>aka</td>
 		<td>[t]</td>
 	</tr>
-	
+<!--	
 	<tr>
 		<td>v</td>
 		<td><b>w</b>in</td>
@@ -464,7 +464,6 @@ Modern Icelandic has undergone comparatively little change since the twelfth and
 ### Vowels
 
 * The sound, _á_ has changed to /aʊ/ as in English, "h<b>ou</b>se." 
-
 <iframe src="//commons.wikimedia.org/wiki/File:en-us-house-noun.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 * The sound, _é_ has change to /jɛ/ as in English, "<b>y</b>es." <iframe src="//commons.wikimedia.org/wiki/File:En-us-yes.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
