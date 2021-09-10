@@ -211,7 +211,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
    <tr>   
      <td><b>Character</b></td>
      <td><b>Example</b></td>
-     <td><b>Sound</b></td>
+     <td><b>Audio</b></td>
      <td><b>Old Ice.</b></td>
      <td><b>Phone</b></td>
    </tr>
@@ -252,7 +252,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>[v]</td>
    </tr>
 	 <tr>
-	 		<td>f before n</d>
+	 		<td>f before n</td>
 			<td>ja<b>m</b></td>
 			<td>
 <iframe src="//commons.wikimedia.org/wiki/File:En-us-jam.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
