@@ -404,7 +404,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>t</b>aka</td>
 		<td>[t]</td>
 	</tr>
-<!--	
+	
 	<tr>
 		<td>v</td>
 		<td><b>w</b>in</td>
@@ -412,7 +412,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 <iframe src="//commons.wikimedia.org/wiki/File:en-us-win.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
 		<td><b>v</b>ita</td>
-		<td>[w]<ɸ/td>
+		<td>[ɸ]</td>
 	</tr>
 	
 	<tr>
@@ -452,7 +452,6 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td>be<b>z</b>tr</td>
 		<td>[t]+[s]</td>
 	</tr>
-	-->
 	</table>
 
  * Double consonants, like _kalla_, were sustained for an additional phonetic beat, as in how one would say, "wall lamp," in English. The double consonant, _gg_ follows the same rule as _g_ when it stands before _s_ or _t_ in that it is pronounced, [χ]. 
