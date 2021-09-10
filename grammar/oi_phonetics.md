@@ -215,7 +215,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td><b>Old Ice.</b></td>
      <td><b>Phone</b></td>
    </tr>
-	 </tr>
+	 <tr>
     <td>[b]</td>
 		<td><b>b</b>read</td>
 		<td>
