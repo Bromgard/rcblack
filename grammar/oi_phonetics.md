@@ -38,7 +38,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 	<tr>
 		<td><b>Character</b></td>
 		<td><b>Example</b></td>
-		<td><b>Sound</b></td>
+		<td><b>Audio</b></td>
 		<td><b>Old Ice.</b></td>
 		<td><b>Phone</b></td>
 	</tr>
@@ -370,7 +370,6 @@ The vowel system is not unlike that of other Indo-European languages in that eac
    </tr>
  </table>
  </div>
-
 
 ## Modern pronunciation
 
