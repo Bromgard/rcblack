@@ -467,11 +467,11 @@ Modern Icelandic has undergone comparatively little change since the twelfth and
 	<li> 
 		The sound, _á_ has changed to /aʊ/ as in English, "h<b>ou</b>se." <iframe src="//commons.wikimedia.org/wiki/File:en-us-house-noun.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	</li>
-<!--
+
 	<li>
 		The sound, _é_ has change to /jɛ/ as in English, "<b>y</b>es." <iframe src="//commons.wikimedia.org/wiki/File:En-us-yes.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	</li> 
-
+<!--
 	<li>
 		The sound, _ó_ has changed to /oʊ/ as in English, "g<b>oa</b>t." <iframe src="//commons.wikimedia.org/wiki/File:en-us-goat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	</li>
