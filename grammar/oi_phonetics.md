@@ -374,7 +374,8 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td><b>r</b>eka</td>
      <td>[r]</td>
    </tr>
-   <tr>
+  <!--
+	<tr>
      <td>r noun suffix</td>
      <td>mað<b>r</b></td>
      <td>
@@ -401,6 +402,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>t</b>aka</td>
 		<td>[t]</td>
 	</tr>
+	
 	<tr>
 		<td>v</td>
 		<td><b>w</b>in</td>
@@ -410,6 +412,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>v</b>ita</td>
 		<td>[w]<ɸ/td>
 	</tr>
+	
 	<tr>
 		<td>þ</td>
 		<td><b>th</b>ing</td>
@@ -419,7 +422,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>þ</b>ing</td>
 		<td>[θ]</td>
 	</tr>
-	<!--
+	
 	<tr>
 		<td>ð</td>
 		<td><b>th</b>ese</td>
