@@ -384,7 +384,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>mað<b>r</b></td>
      <td>[ʀ]</td>
    </tr>
-<!--	 
+	 
 	 <tr>
 	 	<td>s</td>
 		<td><b>s</b>oap</td>
@@ -394,6 +394,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td><b>s</b>itja</td>
 		<td>[s]</td>
 	</tr>
+<!--
 	<tr>
 		<td>t</td>
 		<td><b>t</b>oast</td>
