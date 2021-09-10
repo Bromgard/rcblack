@@ -471,11 +471,11 @@ Modern Icelandic has undergone comparatively little change since the twelfth and
 	<li>
 		The sound, _é_ has change to /jɛ/ as in English, "<b>y</b>es." <iframe src="//commons.wikimedia.org/wiki/File:En-us-yes.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	</li> 
-<!--
+
 	<li>
 		The sound, _ó_ has changed to /oʊ/ as in English, "g<b>oa</b>t." <iframe src="//commons.wikimedia.org/wiki/File:en-us-goat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 	</li>
-
+<!--
 	<li>
 		The sound, _æ_ has changed to /aɪ/ as in English, "b<b>ye</b>." <iframe src="//commons.wikimedia.org/wiki/File:en-us-bye.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe
 	</li>
