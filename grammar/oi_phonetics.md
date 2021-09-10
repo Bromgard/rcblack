@@ -214,7 +214,8 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td><b>Sound</b></td>
      <td><b>Old Ice.</b></td>
      <td><b>Phone</b></td>
-   </tr>                   
+   </tr>
+	 </tr>
     <td>[b]</td>
 		<td><b>b</b>read</td>
 		<td>
@@ -261,7 +262,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
    </tr>
    <tr>
      <td>g elsewhere</td>
-     <td>bo<b>g</b>a</b> Sp.</td>
+		 <td>bo<b>g</b>a (Spa.)</td>
      <td>
  <iframe src="//commons.wikimedia.org/wiki/File:LL-Q1321_(spa)-Millars-boga.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
@@ -270,7 +271,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
    </tr>
    <tr>
      <td>g before s,t</td>
-     <td>Bach<b>ch</b></td>
+     <td>Ba<b>ch</b></td>
      <td>
  <iframe src="//commons.wikimedia.org/wiki/File:De-Bach.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
@@ -351,7 +352,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
    </tr>
    <tr>
      <td>r</td>
-     <td>zo<b>rr</b>o Sp.</td>
+		 <td>zo<b>rr</b>o (Spa.)</td>
      <td>
  <iframe src="//commons.wikimedia.org/wiki/File:LL-Q1321_(spa)-Millars-zorro.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
@@ -429,9 +430,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		</td>
 		<td>be<b>z</b>tr</td>
 		<td>[t]+[s]</td>
-	
-	
- </table>
+	</table>
  </div>
 
 ## Modern pronunciation
