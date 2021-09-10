@@ -430,6 +430,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		</td>
 		<td>be<b>z</b>tr</td>
 		<td>[t]+[s]</td>
+	</tr>
 	</table>
  </div>
 
