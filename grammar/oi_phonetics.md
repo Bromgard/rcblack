@@ -460,18 +460,16 @@ Modern Icelandic has undergone comparatively little change since the twelfth and
 
 ### Vowels
 
-<!--
 * The sound, _á_ has changed to /aʊ/ as in English, "h<b>ou</b>se." <iframe src="//commons.wikimedia.org/wiki/File:en-us-house-noun.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 * The sound, _é_ has change to /jɛ/ as in English, "<b>y</b>es." <iframe src="//commons.wikimedia.org/wiki/File:En-us-yes.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 * The sound, _ó_ has changed to /oʊ/ as in English, "g<b>oa</b>t." <iframe src="//commons.wikimedia.org/wiki/File:en-us-goat.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 * The sound, _æ_ has changed to /aɪ/ as in English, "b<b>ye</b>." <iframe src="//commons.wikimedia.org/wiki/File:en-us-bye.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 * The sound, _ö_ sounds much like German _ö_ (/ø/), as occurs in, _t<b>ö</b>nen_. <iframe src="//commons.wikimedia.org/wiki/File:De-tönen.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
--->
 
 ### Consonants
-
+<!--
 * Both, _g_ and _k_ palletized in Modern Icelandic before the high vowels, _i_ and _e_, and _j_. This is very similar to the formation of these sound made by a native English speaker where the tongue strikes the pallet instead of the back of the throat, but with more fricatization. Compare with English, _keep_.
 * The sound, _v_ is more voiced than saga pronunciation, but softer than the American pronunciation.
 * When preceding a _v_, _h_ has become an unvoiced stop. So, in modern pronunciation, _hvart_ sounds more like, "kvart."
 * Both _ll_ and _nn_ have undergone a process of devoicing. This means that when pronounced, the larynx remains inactive. For, _ll_, the articulated sound is made by expressing a puff of air out of the side of the bottom of the tongue and sounds something like /tl/. So, The word, _kalla_ sounds something like, [/'k(h)atla/](https://en.wiktionary.org/wiki/kalla#Icelandic). Practice speaking and hearing is important, and if you can, consultation with an Icelandic speaker. The sound _nn_ is similarly devoiced and is approximated by /nd/.
-* The sounds _y_ and _ý_ have moved into _i_ and _í_. The usage of the earlier characters is only a convention of modern orthography.
+* The sounds _y_ and _ý_ have moved into _i_ and _í_. The usage of the earlier characters is only a convention of modern orthography.-->
