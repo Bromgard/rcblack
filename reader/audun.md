@@ -2,6 +2,11 @@
 ## Frá Því er Auðunn enn vestfirzki fœrði Sveini konungi bjarndýri
 ## Part 1
 
+
+Hello
+
+
+
 >1\. Maðr hét Auðunn, vestfirzkr at kyni ok félítill.
 
 * Let's begin by looking at the first three words. Old Icelandic is a SVO language, which means that word order is generally governed by this order: __subject, verb, object__. Icelandic is often further categorized as a V2 language, which means that the expectation that the verb lies in __second position__ is a reliable pattern. From this rule we can guess that _Maðr_ is the subject, _hét_ is the verb. 
