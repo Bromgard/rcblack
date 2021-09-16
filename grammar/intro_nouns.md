@@ -1,3 +1,8 @@
+---
+title: The Icelandic noun
+layout: default
+---
+
 # Nominal Gender and declension
 
 ## The Icelandic noun in practice
