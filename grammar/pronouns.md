@@ -1,3 +1,8 @@
+---
+title: pronouns
+layout: default
+---
+
 # The seven kinds of pronouns in Old Icelandic
 
 The pronomial system of Old Icelandic has many of the familiar forms you might already be familiar with in the Germanic language you already know. Unless you're a German or modern Icelandic speaker, the system of declension is the greatest hurdle. Nevertheless, these words are very common and understanding how they function in the sentences you read is very important. Memorize the personal pronouns, and refer often to the paradigm charts as you read. Always make sure you keep track of the grammatical case. 
