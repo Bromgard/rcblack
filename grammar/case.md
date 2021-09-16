@@ -1,5 +1,5 @@
 ---
-title: Grammar 1
+title: Grammatical Case
 layout: default
 ---
 
