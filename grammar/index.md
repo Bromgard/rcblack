@@ -17,12 +17,50 @@ layout: default
 * Begin reading _Auðunar þáttr_, [Part 1](http://rcblack.net/grammar/reader/audun)
 ### Week Two
 
-* 
+* [The Old Icelandic Verb](http://rcblack.net/grammar/verbs/)
+* [Copula Verbs](http://rcblack.net/grammar/copula/)
+
+### Week Three
+
+* [Verbs: Strong verbs: 1-3]
+* [Nouns: The masculine nouns]
+
+### Week Four
+
+* Verbs: Weak verbs I; Subjunctive voice
+* Nouns: Adjectives
+
+### Week Five
+
+* Verbs: Strong verbs: 4-6: participles and supine
+* Nouns: The neuter nouns
+
+### Week Six
+
+* Verbs: middle voice
+* Prepositions
+
+### Week Seven
+
+* Verbs: Weak verbs II: modal verbs
+* Numeration
+
+### Week Eight
+
+* Verbs: Strong verbs: 7
+
+### Week Nine
+
+* Headaches and traps
+
+### Week Ten
+
+
 
 ## Reader
 
 ## Grammar
 
-### Nominal
+### Nominals
 
-### Verbal
+### Verbals
