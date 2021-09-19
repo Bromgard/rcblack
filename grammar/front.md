@@ -19,15 +19,16 @@ layout: default
 
 * [The Old Icelandic Verb](http://rcblack.net/grammar/verbs/)
 * [Copula Verbs](http://rcblack.net/grammar/copula/)
+* The section on demonstrative pronouns, in [Pronouns](http://rcblack.net/grammar/pronouns/)
 
 ### Week Three
 
-* [Verbs: Strong verbs: 1-3]
-* [Nouns: The masculine nouns]
+* [Verbs: Strong verbs: 1-2](http://rcblack.net/grammar/verbs_strong_1-2/)
+* [Nouns: The masculine nouns](http://rcblack.net/grammar/nouns_masc/)
 
 ### Week Four
 
-* Verbs: Weak verbs I; Subjunctive voice
+* Verbs: Weak verbs part I
 * Nouns: Adjectives
 
 ### Week Five
