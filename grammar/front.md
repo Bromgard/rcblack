@@ -20,6 +20,7 @@ layout: default
 * [The Old Icelandic Verb](http://rcblack.net/grammar/verbs/)
 * [Copula Verbs](http://rcblack.net/grammar/copula/)
 * The section on demonstrative pronouns, in [Pronouns](http://rcblack.net/grammar/pronouns/)
+* Continue with _Auðunar þáttr_, [Parts 1-3]
 
 ### Week Three
 
@@ -28,8 +29,8 @@ layout: default
 
 ### Week Four
 
-* Verbs: Weak verbs part I
-* Nouns: Adjectives
+* Verbs: [Weak verbs part I](http://rcblack.net/grammar/verbs_weak_i/)
+* [Nouns: Adjectives](http://rcblack.net/    grammar/adjectives/)
 
 ### Week Five
 
