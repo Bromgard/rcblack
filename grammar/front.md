@@ -34,7 +34,7 @@ layout: default
 
 ### Week Five
 
-* Verbs: Strong verbs: 4-6: participles and supine
+* Verbs: Strong verbs: 3-5; participles and supine
 * Nouns: The neuter nouns
 
 ### Week Six
