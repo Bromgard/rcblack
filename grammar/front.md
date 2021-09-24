@@ -34,8 +34,8 @@ layout: default
 
 ### Week Five
 
-* Verbs: Strong verbs: 3-5; participles and supine
-* Nouns: The neuter nouns
+* Verbs: [Strong verbs: 3-5](http://rcblack.net/grammar/verbs_strong_3-5/); participles and supine
+* Nouns: The feminine nouns
 
 ### Week Six
 
