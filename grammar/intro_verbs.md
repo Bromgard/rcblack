@@ -146,8 +146,6 @@ The English subjunctive can also be communicated with the use of certain modal v
 >If I __could pray__ to move, prayers __would move__ me.
 <!--Julius Caesar-->
 
-[Include continental Scand. example?]
-
 The subjunctive mood is expressed in Old Icelandic with its own system of declensions for each verb and are generally marked by weak changes in ablaut and declension. The Old Icelandic substantive copula, _vera_, has an inflection that looks like this.
 
 #### Present
@@ -214,9 +212,9 @@ These are the imperative formations for the verbs, _taka_ (take) and _bera_ (bea
 
 Since English does not have verbal inflexions that represent imperative, so it must rely on the auxiliary _let_. See the English translation in the previous Old Icelandic quotation. 
 
-### Voice [Come back to this after you figure out how to deal with mediopassive]
+### Voice
 
-Old Icelandic verbs have three voices, the _active_, _passive_, and the _middle_ voices. The _active voice_ is the condition in which the sentence communicates a simple action that is expressed by the verb that has been enabled by the nominative subject.
+Old Icelandic verbs have three voices, the _active_, _passive_, and the _medio-passive_ voices. The _active voice_ is the condition in which the sentence communicates a simple action that is expressed by the verb that has been enabled by the nominative subject.
 
 John paints the house.
 

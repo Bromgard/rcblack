@@ -138,12 +138,12 @@ The reason we call the declensions of the above nouns strong is because they com
 
 ### Weak Feminine, _tunga_ (tongue, language)
 
-| Case &nbsp; | Sing. &nbsp; &nbsp; &nbsp; | Sing. Def. &nbsp; &nbsp; | Plural &nbsp; &nbsp; &nbsp; | Plural Def.|
-|:-----|:---------|:-----------|:---------|:------------|
-| Nom. | tunga  | tungan    | tungur  | tungurnar |
-| Acc. | tungu  | tunguna   | tungur  | tungurnar |
-| Dat. | tungu  | tungunni  | tungum  | tungunum  |
-| Gen. | tungu  | tungunnar | tungna  | tunganna  |
+| Case &nbsp; | Sing. &nbsp; &nbsp; &nbsp; | Sing. Def. &nbsp; &nbsp; | Plural &nbsp; &nbsp; &nbsp; | Plural Def. |
+|-------------|----------------------------|--------------------------|-----------------------------|-------------|
+| Nom.        | tunga                      | tungan                   | tungur                      | tungurnar   |
+| Acc.        | tungu                      | tunguna                  | tungur                      | tungurnar   |
+| Dat.        | tungu                      | tungunni                 | tungum                      | tungunum    |
+| Gen.        | tungu                      | tungunnar                | tungna                      | tunganna    |
 
 As you can see these declinations are generally weaker than the strong nouns, particularly in the indefinite singular formations. When used the suffixed definite article relays information about the noun's gender and grammatical case. In all cases, if the noun's formation doesn't communicate information, look to the other words in the sentence for help, refer to reading context. 
 
@@ -153,12 +153,12 @@ Note the regularity of the patterns in dative and genitive plural. The strong _-
 
 Altogether we can assemble the following general patterns for the case endings of Old Icelandic nouns.
 
-| Case | Sing | Plural |
-|:-----|:----:|:-------|
-| Nom. |  -r  |  -ar or ir  |
-| Acc. |  --  |  -a, -i, or -u |
-| Dat. | -i or -- | -um | 
-| Gen. | -s or -ar| -a  |
+| Case |   Sing    | Plural        |
+|------|:---------:|---------------|
+| Nom. |    -r     | -ar or ir     |
+| Acc. |    --     | -a, -i, or -u |
+| Dat. | -i or --  | -um           |
+| Gen. | -s or -ar | -a            |
 
 ### Weak Masculine
 
