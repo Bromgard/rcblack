@@ -49,7 +49,7 @@ layout: default
 
 ### Week Eight
 
-* Verbs: Strong verbs: 7
+* Verbs: Strong verbs: 6-7
 
 ### Week Nine
 
