@@ -5,7 +5,7 @@ layout: default
 
 # Readings in Old Icelandic literature
 
-## Program
+## Schedule
 
 ### Week One
 
