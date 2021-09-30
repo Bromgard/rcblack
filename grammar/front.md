@@ -19,7 +19,7 @@ layout: default
 ### Week Two
 
 * [The Old Icelandic Verb](http://rcblack.net/grammar/verbs/)
-* [Copula Verbs](http://rcblack.net/grammar/copula/)
+* [Copula Verbs](http://rcblack.net/grammar/copulae/)
 * The section on demonstrative pronouns, in [Pronouns](http://rcblack.net/grammar/pronouns/)
 * Continue with _Auðunar þáttr_, [Part 1](http://rcblack.net/reader/audun/), [Part2](http://rcblack.net/reader/audun2/). 
 
