@@ -9,7 +9,7 @@ layout: default
 
 ### Week One
 
-* If necessary review [Parts of speech overview](https://owl.purdue.edu/owl/general_writing/mechanics/parts_of_speech_overview.html)
+* If necessary review [Parts of speech](https://owl.purdue.edu/owl/general_writing/mechanics/parts_of_speech_overview.html)
 * [Pronunciation](http://rcblack.net/grammar/pronunciation/)
 * [Grammatical Case](http://rcblack.net/grammar/case/)
 * [The Old Icelandic Noun](http://rcblack.net/grammar/intro_nouns/)
@@ -29,22 +29,22 @@ layout: default
 
 ### Week Four
 
-* Verbs: [Weak verbs part I](http://rcblack.net/grammar/verbs_weak_i/)
+* [Verbs: Weak verbs part I](http://rcblack.net/grammar/verbs_weak_i/)
 * [Nouns: Adjectives](http://rcblack.net/    grammar/adjectives/)
 
 ### Week Five
 
-* Verbs: [Strong verbs: 3-5](http://rcblack.net/grammar/verbs_strong_3-5/); participles and supine
-* Nouns: The feminine nouns
+* [Verbs: Strong verbs: 3-5](http://rcblack.net/grammar/verbs_strong_3-5/)
+* [Nouns: The feminine nouns](http://rcblack.net/grammar/nouns_fem/)
 
 ### Week Six
 
-* Verbs: middle voice
-* Prepositions
+* [Nouns: The neuter nouns](http://rcblack.net/grammar/nouns_neut/)
+* [Prepositions](http://rcblack.net/grammar/prepositions/)
 
 ### Week Seven
 
-* Verbs: Weak verbs II: modal verbs
+* [Verbs: Weak verbs II: modal verbs](http://rcblack.net/grammar/verbs_weak_ii/)
 * Numeration
 
 ### Week Eight
