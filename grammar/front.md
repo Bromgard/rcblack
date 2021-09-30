@@ -13,6 +13,8 @@ layout: default
 
 * [Wiktionary.org](https://www.wiktionary.org/) This is useful to look up paradigm charts.
 
+* [Alaric's magic sheet](https://www.alarichall.org.uk/teaching/Alaric's_magic_sheet.pdf) This is a very useful tool that you can keep handy as you read.
+* 
 ## Schedule
 
 ### Week One
