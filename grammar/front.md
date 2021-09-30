@@ -70,7 +70,7 @@ layout: default
 
 ### _Auðunar þáttr vestfirska_
 
-* [Part 1]((http://rcblack.net/grammar/reader/audun/)
+* [Part 1](http://rcblack.net/grammar/reader/audun/)
 * [Part 2](http://rcblack.net/grammar/reader/audun2/)
 * [Part 3](http://rcblack.net/grammar/reader/audun3/)
 * [Part 4](http://rcblack.net/grammar/reader/audun4/)
