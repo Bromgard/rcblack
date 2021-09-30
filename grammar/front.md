@@ -5,6 +5,14 @@ layout: default
 
 # Readings in Old Icelandic literature
 
+## Dictionary resources
+
+* [A Concise Dictionary of Old Icelandic by Geir Zoëga](https://old-icelandic.vercel.app/)
+* [An Iceladnic-English Dictionary by Richard Cleasby and Gudbrand Vigfusson](http://lexicon.ff.cuni.cz/texts/oi_cleasbyvigfusson_about.html)
+* _Alternate Page_ [An Icelandic-English Dictionary by Richard Cleasby and Gudbrand Vigfusson](https://old-norse.net/search.php)
+
+* [Wiktionary.org](https://www.wiktionary.org/) This is useful to look up paradigm charts.
+
 ## Schedule
 
 ### Week One
