@@ -49,7 +49,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td>[ɑ]</td>
 	</tr>
 	<tr>
-		<td>á (≈1200)</td>
+		<td>á early</td>
 		<td>f<b>a</b>ther</td>
 		<td>
 <iframe src="//commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Back_ache-father.wav?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -57,8 +57,10 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td>l<b>á</b>ta</td>
 		<td>[ɑː]</td>
 	</tr>
-	<tr>
-		<td>á (≈1250)</td>
+
+
+		<tr>
+		<td>á late</td>
 		<td>br<b>oa</b>d</td>
 		<td>
 <iframe src="//commons.wikimedia.org/wiki/File:en-us-broad.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -66,8 +68,22 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td>l<b>á</b>ta</td>
 		<td>[ɔː]</td>
 	</tr>
+		
+		
+		
+		<tr>
+		<td>e early</td>
+		<td>m<b>e</b>n</td>
+		<td>
+<iframe src="//commons.wikimedia.org/wiki/File:Fr-été-fr_CA.ogg?embedplayer=yes" width="175" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+		</td>
+		<td>g<b>e</b>kk</td>
+		<td>[e]</td>
+	</tr>
+	
+	
 	<tr>
-		<td>e</td>
+		<td>e late</td>
 		<td>m<b>e</b>n</td>
 		<td>
 <iframe src="//commons.wikimedia.org/wiki/File:en-us-men.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -252,7 +268,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 			<td>
 <iframe src="//commons.wikimedia.org/wiki/File:En-us-jam.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 			</td>
-			<td>ja<b>f</b></td>
+			<td>ja<b>f</b>n</td>
 			<td>[m]</td>
 	 </tr>
    <tr>
@@ -315,7 +331,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>
  <iframe src="//commons.wikimedia.org/wiki/File:en-us-lunch.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>dr<b>l</b>eyna</td>
+     <td><b>l</b>eyna</td>
      <td>[l]</td>
    </tr>
    <tr>
@@ -351,7 +367,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
      <td>
  <iframe src="//commons.wikimedia.org/wiki/File:en-us-pan.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
      </td>
-     <td>l<b>p</b>an</td>
+     <td>kau<b>p</b>a</td>
      <td>[p]</td>
    </tr>
 		<tr>
