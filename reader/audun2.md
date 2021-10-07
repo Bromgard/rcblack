@@ -198,6 +198,6 @@
 
 <div style="float: left"><a href="http://rcblack.net/reader/audun">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/reader/audun3">⇨</a></div>
-<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/reader/front">&#8962;</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
 
 
