@@ -129,7 +129,7 @@
 
 >41\. "Keyptak þat með allri eigu minni, ok nú er þó á orðit mikit fyrir mér: ek á nú hálft eitt dýrit." 
 
-* [keyptak](https://en.wiktionary.org/wiki/kaupa#Old_Norse); Another conjunction. _keypta+ek_.  
+* [keyptak](https://en.wiktionary.org/wiki/kaupa#Old_Norse); Another contraction. _keypta+ek_.  
 * þat; Demonstrative referring to the bear.
 * [eigu](https://en.wiktionary.org/wiki/eiga#Etymology_2_4); The noun. "Possessions."
 * [orðit](https://en.wiktionary.org/wiki/eiga#Etymology_2_4) [mikit](https://en.wiktionary.org/wiki/mikill#Adjective_2) fyrir; "Much has happened to me."
