@@ -1,4 +1,4 @@
-# The Copula and Nominative Predicates
+# The Copula
 
 ## The Substantive Copula
 
