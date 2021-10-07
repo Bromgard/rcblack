@@ -10,7 +10,7 @@ Curiously, the case function in prepositional phrases in all Celtic languages ha
 
 ## Prepositions that Activate Only the Genitive Case
 
-The following prepositions activate the genitive case only. According to E.V. Gordon, the prepositional use of these words came relatively late.
+The following prepositions activate the genitive case only. The prepositional use of these words came relatively late.
 
 * til
 * innan
