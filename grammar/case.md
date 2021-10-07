@@ -5,7 +5,7 @@ layout: default
 
 # Grammatical case
 
-If you're already familiar with German, Russian, Hungarian, Latin, or any number of Medieval languages, you're already familiar with noun cases and how they function. If this is your first time learning about them, understanding the grammatical cases is just a matter of knowing how to outline a sentence and knowing what role the nouns play. If you look at the noun paradigms you already know that the noun suffix changes depending on how the noun functions in the sentence. Take a look at the various forms of the Old Icelandic word for "king."
+If you're already familiar with German, Russian, Hungarian, Latin, or any number of Medieval languages, you're already familiar with noun cases and how they function. If this is your first time learning about them, understanding the grammatical cases is just a matter of knowing how to outline a sentence and knowing what role the nouns play. Take a look at the forms of the Old Icelandic word for "king."
 
 Case | Singular | Plural
 -----------------|----------|--------
@@ -14,13 +14,13 @@ Accusative    	 | konung   | konunga
 Dative           | konungi  | konungum
 Genitive         | konungs  | konunga
 
-See where the word changes at the end? That's the case ending, and the thing that tells us how the word works in a sentence. Actually, English still maintains grammatical endings for its nouns, just not as many cases as what a language like German or Icelandic has. Now think about what suffixes get attached to English nouns. If you can read this, you already know that English nouns change their form depending on number and possession. Consider the English word, _king_. _King_ is the lexical form of the word, but the addition of a suffixed _s_ distinguishes the plural form of the word from the singular.
+See where the word changes at the end? That's the case ending, and the thing that tells us how the word works in a sentence. If you can read this, you already know that English nouns change their form depending on number and possession. Consider the English word, _king_. _King_ is the lexical form of the word, but the addition of a suffixed _s_ distinguishes the plural form of the word from the singular.
 
 | Singular  &nbsp; &nbsp; &nbsp; &nbsp; | Plural |
 |---------|--------|
 | king    | kings  |
 
-So, we can see here that _-s_ is the English grammatical ending that communicates that the word represents more than one king. So, this is the plural ending. But what about the other cases that run vertically in the chart above?
+So, we can see here that _-s_ is the English grammatical ending that communicates that the word represents more than one king. So, this is the plural ending. But what about the other cases that run vertically in the chart above for the word, _konungr_?
 
 ## The Genitive case
 
@@ -33,7 +33,7 @@ The Genitive case is the case that indicates ownership or close affiliation to a
 
 If you regularly write in English you know that apostrophe in the genitive plural slot can be annoying, but it functions as a way to distinguish plural possessive from the singular possessive. The plural slots are also showing some signs of instability, particularly when a noun already ends with an _s_. Do I type _Russ' frisbee_, or _Russ's frisbee_? The style guides aren't consistent so I will never know which is correct. 
 
-The second way the genitive is expressed in English is with the word, _of_. In the phrase, _The fall of Troy_, there is a possessive relationship between _Troy_ and _fall_. You can rewrite this phrase as, _Troy's fall_, and it does make sense, and you can feel the "genitiveness" of both versions if you're fluent in English. But the range of meaning between these two English genitives are a little different. If I wanted to clear up my confusion by writing, "where is the frisbee of Russ?" it would sound a little weird. This is because the _of_ genitive is different and carries a meaning of affiliation. I am Russ _of_ Seattle. I've read Geoffrey _of_ Monmouth, and I've listened to Gang _of_ Four. This affiliative meaning is covered in the Old Icelandic genitive noun form, but there are prepositions that trigger the genitive case like English, _of_. Those can be found [here](http://rcblack.net/grammar/prepositions/).
+The second way the genitive is expressed in English is with the word, _of_. In the phrase, _The fall of Troy_, there is a possessive relationship between _Troy_ and _fall_. You can rewrite this phrase as, _Troy's fall_, and it does make sense. But the range of meaning between these two English genitives are a little different with other usages. If I wanted to clear up my confusion by writing, "where is the frisbee of Russ?" it would sound a little weird. This is because the _of_ genitive is different and also carries a meaning of affiliation. I am Russ _of_ Seattle. I've read Geoffrey _of_ Monmouth, and I've listened to Gang _of_ Four. This affiliative meaning is covered in the Old Icelandic genitive noun form, but there are prepositions that trigger the genitive case like English, _of_. Those can be found [here](http://rcblack.net/grammar/prepositions/).
 
 ## The Nominative case
 
@@ -49,7 +49,7 @@ We know from our experience of how paint works that the second sentence does not
 
 The subject, the noun that executes the action at the front of an English sentence, is the same as the nominative case in declining languages. This is also the reason why meaning breaks down in English if you mess with the word order like we did above. If one changed the noun order in and Old Icelandic sentence, meaning would not be lost.
 
-Think about this. Are you able to construct an English sentence in which the subject of the sentence is in a genitive form with an _-s_ ending? It's impossible because the genitive is a distinct grammatical condition from another grammatical case. A genitive noun can not be the subject of a sentence.
+Think about this. Are you able to construct an English sentence in which the subject of the sentence is in a genitive form with an _-s_ ending? It's impossible because the genitive is a distinct grammatical condition from the nominative. A genitive noun can not be the subject of a sentence.
 
 ## The Accusative case
 
@@ -59,7 +59,7 @@ Now let's look at an Icelandic version of this sentence.
 
 > Katla málar girðinguna.
 
-The lexical forms of these words are [Katla](https://en.wiktionary.org/wiki/Katla), [mála](https://en.wiktionary.org/wiki/m%C3%A1la), and [girðing](https://en.wiktionary.org/wiki/gir%C3%B0ing). Both nouns in this sentence, _Katla_ and _girðing_, have unique endings that display which grammatical case they are set it. We can see that _Katla_ is in the nominative case, and that _girðing_ has a special ending that displays its "accusativeness." _Katla_, the name of a woman, is the nominative subject, and _girðing_, is the accusative object of this sentence. If we fiddle with the word order like we did with the English sentence above, our act isn't quite so destructive. 
+The lexical forms of these words are [Katla](https://en.wiktionary.org/wiki/Katla), [mála](https://en.wiktionary.org/wiki/m%C3%A1la), and [girðing](https://en.wiktionary.org/wiki/gir%C3%B0ing). Both nouns in this sentence, _Katla_ and _girðing_, have unique endings that display which grammatical case they are set it. We can see that _Katla_ is in the nominative case, and that _girðing_ has a special ending that displays its "accusativeness." _Katla_, the name of a woman, is the nominative subject, and _girðing_, is the accusative object of this sentence. If we fiddle with the word order like we did with the English sentence above, our act isn't so destructive. 
 
 > Girðinguna málar Katla.
 
