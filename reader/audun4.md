@@ -159,3 +159,8 @@
 * [týnir](https://en.wiktionary.org/wiki/t%C3%BDna)
 * [nýtr](https://en.wiktionary.org/wiki/n%C3%BDtr)
 * [fannt](https://en.wiktionary.org/wiki/finna#Old_Norse)
+
+<div style="float: left"><a href="http://rcblack.net/reader/audun3">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/reader/audun5">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/reader/front">&#8962;</a></div>
+
