@@ -203,4 +203,7 @@ This is one of the reasons why English is not a V2 language. Compare these two s
 * [þó at](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0742:15); "although." From Cleasby/Vigfusson. Look at entry B.
 * [eigi](https://en.wiktionary.org/wiki/eiga#Old_Norse)
 * [nauðsyn](https://en.wiktionary.org/wiki/nau%C3%B0syn); "need." A requirement to do something.
-* [til](https://en.wiktionary.org/wiki/til#Preposition_10); Idiom. When you see _til_ hanging like this, it implies a, "something," or, _einhverr_ that indicates a reason or purpose. English, "...have to (do something), captures something of this construction. This also captures the king's bemused tone. "...although they have to do this." They have no choice but to go into enemy territory. 
+* [til](https://en.wiktionary.org/wiki/til#Preposition_10); Idiom. When you see _til_ hanging like this, it implies a, "something," or, _einhverr_ that indicates a reason or purpose. English, "...have to (do something), captures something of this construction. This also captures the king's bemused tone. "...although they have to do this." They have no choice but to go into enemy territory.
+
+<div style="float: right"><a href="http://rcblack.net/reader/audun2/">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
