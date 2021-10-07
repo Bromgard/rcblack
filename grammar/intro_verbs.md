@@ -3,13 +3,13 @@ title: Introduction to Verbs
 layout: default
 ---
 
-# Overview of the grammatical aspects of Verbs
+# Overview of Old Icelandic verbs
 
-Just as Old Icelandic nouns are conditioned by _case_, _number_, _gender_, and _definiteness_. Old Icelandic verbs are likewise conditioned by, _person_, _number_, _tense_, _mood_, and _voice_. Old Icelandic verbal inflections communicate more information than modern Scandinavian languages or English. For this reason the full conjugation charts of Old Icelandic verbs rather large. If you know German or if you already have some knowledge of Latin, much of this will already be familiar to you.
+Just as Old Icelandic nouns are conditioned by _case_, _number_, _gender_, and _definiteness_, Old Icelandic verbs are likewise conditioned by, _person_, _number_, _tense_, _mood_, and _voice_. Old Icelandic verbal inflections communicate more information than modern Scandinavian languages or English. For this reason the full conjugation charts of Old Icelandic verbs rather large.
 
 ## Person
 
-This quality in Old Icelandic operates in precisely the same way as modern English. The primary persons in Icelandic are the familiar _first_, _second_, and _third_ persons. The person aspect in English can often be recognized the personal pronoun that can be used in the subject. _First Person_ is expressed in the sentence, _I sing._ _Second Person_ indicates action of a person who is addressed by the utterer, _You sing_. _Third Person_ indicates the activity that is external and independent from the utterance itself, as can be seen in, _She sings._.
+This quality in Old Icelandic operates in precisely the same way as modern English--the familiar _first_, _second_, and _third_ persons. The person can be recognized by its associative personal pronoun. _First Person_ is expressed in the sentence, _I sing._ _You sing_ is in the second person, and _she sings_ is in the third person.
 
 <!--
 Some linguists consider the functioning of the familiar "thou" in English and "du" in German (as opposed to "you" and "Sie") to be indicative of an independent _Second Person Familiar_ because the verb likewise changes to express the new condition. The changes in this case are closely associated with the verb's _number_.
@@ -22,8 +22,7 @@ The English substantive copula inflects in person in the following formations.
 | 2nd  | are  |
 | 3rd  | is   |
 
-
-For other English nouns, the only variable inflection that represents person is a suffixed _-s_ in third person singular. 
+For other English verbs, the only variable inflection that represents person is a suffixed _-s_ in third person singular.
 
 | Person    | Form |
 |:----------|-----:|
@@ -60,7 +59,7 @@ The continental Scandinavian languages do not inflect at all for number. Old Ice
 | 2nd. Pl.  | hafið|
 | 3rd. Pl   | hafa |
 
-Another number aspect, the _dual_, is also present in Old Icelandic that represents two subjective nouns. The pronouns are, _vit_ (we two), and  _þit_ (you two). However the verbal system simply utilized the plural. For more details see [Personal Pronouns]. [Link]
+Another number aspect, the _dual_, is also present in Old Icelandic that represents two subjective nouns. The pronouns are, _vit_ (we two), and  _þit_ (you two). However the verbal system simply utilized the plural. For more details see [Personal Pronouns](https://www.rcblack.net/grammar/pronouns/).
 
 ## Tense
 
@@ -83,10 +82,12 @@ It is interesting to note that all of these words share a common ancestor with O
 The other tenses in Germanic languages do not have a natural system of inflections but make use of synthetic constructions that make use of auxiliary verbs. For example, the perfect tenses in English require the use of the auxiliary verb, _have_, followed by the past participle of the verb. (Hyperlink to PP)
 
 >I __have seen__ better faces in my time.
+<!-- King Lear 2:2-->
 
-The difference between the present perfect tense and the simple past is sometimes subtle, but the meaning is always relative to the context of the present condition from the point of view of the utterer. The act of seeing is something that has been completed sometime in the past. In this case the utterer is comparing his previous experience of faces with one particular face. The completion of the previous acts are being emphasized. If we compare this sentence with a simple past construction, 
+The difference between the present perfect tense and the simple past is sometimes subtle, but the meaning is always relative to the context of the present condition from the point of view of the utterer. The act of seeing is something that has been completed sometime in the past. In this case the utterer is comparing his previous experience of faces with one particular face. The completion of the previous acts are being emphasized. Compare the previous sentence with a simple past construction: 
 
->I __saw__ her laid low in her family's vault.
+>I __saw__ her laid low in her kindred's vault.
+<!-- R & J -->
 
 The sentence here simply records a fact that occurred one particular time, and provides no relative context to a present state. The use of this auxiliary is universal in the Germanic languages. 
 
@@ -94,13 +95,14 @@ The sentence here simply records a fact that occurred one particular time, and p
 |:-----|:--:|---:|
 |I have seen. | Jeg har set. | Ek hefi sét. |
 
-There are other perfect constructions that use synthetic auxiliary verbs that will be discussed in greater detail in a later lesson. [Hyperlink]
+There are other perfect constructions that use synthetic auxiliary verbs that will be discussed in greater detail in a later lesson.
 
 Like other Germanic languages the future tense is indicated also by the synthetic constructions that make use of auxiliary modal verbs.
 
 >I __will__ __live__ in thy heart, __die__ in thy lap, and __be buried__ in thy eyes.
+<!-- Much ado -->
 
-As you can see the word, _will_ contextually triggers the future tense of three verbs. This construction has a similar cognate construction in Danish. 
+As you can see the word, _will_ triggers the future tense of three verbs. This construction has a similar cognate construction in Danish. 
 
 >Jeg vil dø. (I will die.)
 
@@ -108,7 +110,7 @@ The Old Icelandic modal auxiliary that most often triggers the future tense is _
 
 >Dýrit __mun__ __deyja__ fyrir þér. (The animal will die before you.)
 
-The auxiliary verb _mun_ works in the same way. The synthesis of this verb with the infinitive form of _deyja_ (die) work together to tell us, in this case warn us, that something will happen in the future. The use modal verbs will be discussed in greater detail in our lesson on modal verbs. [Hyperlink]
+The auxiliary verb _mun_ works in the same way. The synthesis of this verb with the infinitive form of _deyja_ (die) work together to tell us, in this case warn us, that something will happen in the future.
 
 ## Mood
 
@@ -202,7 +204,7 @@ The imperative forms of Old Icelandic verbs are always included in a complete pa
 
 >En þér, Auðunn, kann ek slíka þǫkk, sem þú gæfir mér allt dýrit. __Ver__ hér með mér. (For you AuðunnI will thank you as though you had given me the whole bear. Be here with me. (That is, "stay with me."))
 
-As you read, be sure to be prepared to recognize the imperative inflections for other words as well.Let's take one more look at this sentence from _Eiríkś saga rauða_. 
+As you read, be sure to be prepared to recognize the imperative inflections for other words as well. Let's take one more look at this sentence from _Eiríkś saga rauða_. 
 
 >"Hvat mun þetta tákna?" Snorri svarar honum: "Vera kann at þetta sé friðartákn ok __tǫkum__ skjǫld hvítan ok __berum__ í mót. ("What can this mean?" Snorri replied, "It may be a sign of peace, so let us take a white shield and lift it up in return.") 
 
@@ -226,5 +228,4 @@ Or,
 
 The house is painted by John.
 
-The _middle_ voice is the reflexive form that end with the -sk ending. Barnes reports that this voicing has some similarities with the passive voice. This construction often expresses a simple active reflexive action, but overall the usage of this voice is also idiomatic. The term was coined by linguists to describe a grammatical voice that was in between the passive and active voice. For more details, see the lesson that covers mediopassive voice.
- 
+The _middle_ voice is the reflexive form that end with the -sk ending. Barnes reports that this voicing has some similarities with the passive voice. This construction often expresses a simple active reflexive action, but overall the usage of this voice is also idiomatic. The term was coined by linguists to describe a grammatical voice that was in between the passive and active voice. 
