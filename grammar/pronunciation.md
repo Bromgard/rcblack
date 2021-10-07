@@ -75,7 +75,7 @@ The vowel system is not unlike that of other Indo-European languages in that eac
 		<td>e early</td>
 		<td>m<b>e</b>n</td>
 		<td>
-<iframe src="//commons.wikimedia.org/wiki/File:Fr-été-fr_CA.ogg?embedplayer=yes" width="175" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="//commons.wikimedia.org/wiki/File:Fr-été-fr_CA.ogg?embedplayer=yes" width="35" height="20" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 		</td>
 		<td>g<b>e</b>kk</td>
 		<td>[e]</td>
