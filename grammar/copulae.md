@@ -74,7 +74,7 @@ The substantive copula in this sentence is of course, _var_, which occurs twice 
 
 You can easily exclude both the dative and genitive cases but we know that noun compliment _faðir_ is in the nominative case. _Hróðmarr_ is also in the nominative case. (Link. See Declension of Old Icelandic proper names.) You may have noticed that the patronymic name _Hróaldsson_ does not appear to agree with the earlier incidence of _sonr_ which contains a strong masculine nominative ending. In many modern editions and in the manuscripts, one will often find the patronymic ending separately like this: _Hróalds son_, but nevertheless this suffixed occurrence of _son_ lost the strong ending _-r_ by the time this manuscript was written. In this example, _Hróaldsson_ is nevertheless also in the nominative case. His complete name is, _Hróðmarr Hróaldsson_.
 
-## Other Copular Verbs
+## Other Copula Verbs
 
 ### _heita_
 
@@ -106,9 +106,7 @@ This common word in it's copular formations means, _become_. Unlike the above ex
 
 The word, _verða_ occurs twice in this sentence. In English syntax, the clause that follows, 'They blended honey with the blood, would require the dependent article "which," that is, the nominative pronoun that represents the mixture. The nominatives in the clause are the nominative predicatd, _mjǫðr sá_. The second clause contains a clear nominative singular subject, __hverr__ and predicate, __skáld__ or __frœðamaðr__.
 
-As with the previous examples, this word also appears transitively in other usages. Predicate nominative formations do not always accompany these words but it's always useful to recognize them when you see them in your reading. As always consult the dictionary often when you read. 
-
-(Do I need to include a more comprehensive list?)
+As with the previous examples, this word also appears transitively in other usages. Predicate nominative formations do not always accompany these words but it's always useful to recognize them when you see them in your reading. As always consult the dictionary often when you read.
 
 
 
