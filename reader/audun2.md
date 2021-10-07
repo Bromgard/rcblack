@@ -194,4 +194,10 @@
 * [þǫkk](https://en.wiktionary.org/wiki/%C3%BE%C3%B6kk)
 * [sem](https://en.wiktionary.org/wiki/sem#Conjunction_4)
 * [gæfir](https://en.wiktionary.org/wiki/gefa#Old_Norse)
-* [ver](https://en.wiktionary.org/wiki/vera#Old_Norse); This is the imperative form of English, "to be." 
+* [ver](https://en.wiktionary.org/wiki/vera#Old_Norse); This is the imperative form of English, "to be."
+
+<div style="float: left"><a href="http://rcblack.net/reader/audun">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/reader/audun3">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/reader/front">&#8962;</a></div>
+
+
