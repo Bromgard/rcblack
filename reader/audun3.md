@@ -142,3 +142,8 @@
 * [hǫnd](https://en.wiktionary.org/wiki/h%C7%ABnd)
 * [bað](https://en.wiktionary.org/wiki/bi%C3%B0ja#Old_Norse); "Bade."
 * [vel](https://en.wiktionary.org/wiki/vel#Old_Norse) [komin](https://en.wiktionary.org/wiki/koma#Old_Norse); The past participle of _koma_. I think you might be able to figure out the meaning of these words without help.
+
+<div style="float: left"><a href="http://rcblack.net/reader/audun2">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/reader/audun4">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/reader/front">&#8962;</a></div>
+
