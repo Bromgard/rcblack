@@ -24,13 +24,13 @@ Look for the case ending for the nominative case. Whenever you see this suffixed
 
 >Þú hafir fundit Svein konung. (You have met King Svein.)
 
-What case is _konungr_ in this sentence? Here, the subject (nominative) is _þú_ and is in first position. The verbal construction is _havir fundit_, which is in second position. _Svein konung_ is the object of the sentence, so the noun takes the appropriate ending, which in this case is none at all. The singular accusative case is our only option.
+What case is _konung_ in this sentence? Here, the subject (nominative) is _þú_ and is in first position. The verbal construction is _havir fundit_, which is in second position. _Svein konung_ is the object of the sentence, so the noun takes the appropriate ending, which in this case is none at all. The singular accusative case is our only option.
 
 >Varðmenn sǫgðu konungi at dýrit fari þar. (The watchmen said to the king that the animal is coming there.
 
 In this sentence, _konungi_ adopts the dative case ending. _Varðmenn_ is the subject and _sǫgðu_ is the verb in second position. The word, _konungi_ is the indirect object taking the dative case. The watchmen told the news _to_ the king.
 
-## The Suffixed Definite Article
+## The suffixed definite article
 
 If you already know a Scandinavian language, then you are already acquainted with the suffixed definite article. The English definite article, _the_, does not decline and always precedes the accompanying noun. In Scandinavian languages, the definite article performs very much the same function, but appears as an additional particle suffixed to the accompanying noun. Let's take another look at the Swedish noun, _konung_, this time with the suffixed article.
 
@@ -68,7 +68,7 @@ The presence of the _-r_ in _konungrinn_ tells you that the king in this sentenc
 
 In this formation, since _konunginn_ does not contain the nominative ending _-r_, we know that the word is in the accusative case and therefore the object of _brenna_. The king is the object of Kjartan's intent to ignite his quarters and murder him in his sleep. Don't worry. The king was keeping his eye on him.
 
-## Strong Nouns
+## Strong declensions
 
 Old Icelandic noun declensions are generically classed into three genders, masculine, feminine, and neuter. Each gender is likewise organized into strong strong and weak declensions which altogether make six total declension patterns.
 
@@ -115,7 +115,7 @@ As you can see, the only distinct formation in singular indefinite is the geniti
 
 ## Weak Declensions
 
-The reason we call the declensions of the above nouns strong is because they communicate strong information about their grammatical case. The weak nouns are called so because they communicate weak grammatical information in their formations. Take a look at the following weak nouns:
+The reason we call the declensions of the above nouns strong is because they communicate strong information about their grammatical case. The weak nouns are called so because they communicate weak grammatical information. Take a look at the following weak nouns:
 
 ### Weak Masculine, _tími_ (time)
 
@@ -145,7 +145,7 @@ The reason we call the declensions of the above nouns strong is because they com
 | Dat.        | tungu                      | tungunni                 | tungum                      | tungunum    |
 | Gen.        | tungu                      | tungunnar                | tungna                      | tunganna    |
 
-As you can see these declinations are generally weaker than the strong nouns, particularly in the indefinite singular formations. When used the suffixed definite article relays information about the noun's gender and grammatical case. In all cases, if the noun's formation doesn't communicate information, look to the other words in the sentence for help, refer to reading context. 
+Because these words relay weaker grammatical information, they can be trickier to place in a sentence, but the suffixed definite article can also relay information about the noun's gender and grammatical case. If the noun's formation doesn't communicate enough information, look to the other words in the sentence for help and always refer to context. 
 
 Note the regularity of the patterns in dative and genitive plural. The strong _-m_ in the dative plural formations will always save you some time!
 
