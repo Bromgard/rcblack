@@ -147,3 +147,7 @@
 >108\. Frá þessum manni, Auðuni, var kominn þorsteinn Gyðuson.
 
 * [manni](https://en.wiktionary.org/wiki/ma%C3%B0r)
+
+<div style="float: left"><a href="http://rcblack.net/reader/audun4">⇦</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/reader/front">&#8962;</a></div>
+
