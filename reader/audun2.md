@@ -33,8 +33,8 @@
 
 >28\. Ok er þá uppi hverr penningr fjárins, ok verðr hann þá biðja matar bæði fyr sik ok fyr dýrit.
 
-* This first clause appears to be missing a verb. Include an implied, "var."
-* Ok er þá; "And when..."
+* Ok er þá; "And then..."
+* "er...uppi"; "is gone."
 * [hverr](https://en.wiktionary.org/wiki/hverr#Pronoun); "Every."
 * [penningr](https://en.wiktionary.org/wiki/peningur#Icelandic) [fjárins](https://en.wiktionary.org/wiki/f%C3%A9#Noun_3); "Every penny of his money." This genitive is known as a partitive genitive. English has this kind of genitive in such statements as, "four out __of__ five dentists..."
 * [verðr](https://en.wiktionary.org/wiki/ver%C3%B0a#Old_Norse) [biðja](https://en.wiktionary.org/wiki/bi%C3%B0ja#Old_Norse); When _verða_ is used as an auxiliary verb, it means, "had to," or, "must be." _biðja_ activates the genitive. 
