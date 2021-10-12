@@ -99,6 +99,7 @@
 * firir honum; "Before him," but you can just say, "to him."
 * [sættask](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0619:25); To agree to the terms of a transaction.
 * [selr](https://en.wiktionary.org/wiki/selja#Old_Norse)
+* [meta](https://en.wiktionary.org/wiki/meta#Old_Norse); to put a value on something. Think of the audience with the king as a transaction. It's expected that the king will reward them for the gift.
 * [allt](https://en.wiktionary.org/wiki/allr) [saman](https://en.wiktionary.org/wiki/saman#Old_Norse); "All together." 
 
 >37\. Skulu þeir fara báðir nú á fund konungs, ok svá gjǫra þeir, fara nú báðir á fund konungs ok stóðu fyr borðinu.
