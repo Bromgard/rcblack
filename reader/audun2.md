@@ -73,6 +73,7 @@
 
 * [mun](https://en.wiktionary.org/wiki/munu#Verb_2) [fá](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0145:30); For this usage find entry 4.II.  
 * [sem](https://en.wiktionary.org/wiki/sem#Old_Norse)
+* [it](https://en.wiktionary.org/wiki/hann#Old_Norse); Dual pronoun. "You two."
 * [þurfið](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse); "Require" works well here.
 * [fundar](https://en.wiktionary.org/wiki/fundr#Old_Norse); I would translate this as, "audience." Don't be shy about putting this in its cultural context.
 * [í](https://en.wiktionary.org/wiki/%C3%AD#Old_Norse) [moti](https://en.wiktionary.org/wiki/m%C3%B3t#Old_Norse); This last word is cognate with English meeting. When paired with _í_ it forms an idiomatic construction that sometimes means, "against," or "in opposition to." But in the context of this sentence, it means, "in return for," or, "in exchange for."
