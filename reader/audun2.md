@@ -85,7 +85,7 @@
 * [máttu](https://en.wiktionary.org/wiki/mega#Old_Norse) [á](https://en.wiktionary.org/wiki/%C3%A1#Etymology_7) þat [líta](https://en.wiktionary.org/wiki/l%C3%ADta#Old_Norse); Vocative contraction with _mega_. "[You] must look upon this."
 * [mun](https://en.wiktionary.org/wiki/munu#Old_Norse) [deyja](https://en.wiktionary.org/wiki/deyja#Old_Norse)
 * [fyrir](https://en.wiktionary.org/wiki/fyrir#Old_Norse) þér; "Before you..."
-* [þars](https://en.wiktionary.org/wiki/%C3%BEars) [it](https://en.wiktionary.org/wiki/inn#Article) [þurfið](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse); Note the contraction, _þars = þar er_, meaning, "there that."
+* [þars](https://en.wiktionary.org/wiki/%C3%BEars) [it](https://en.wiktionary.org/wiki/inn#Article) [þurfuð](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse); Note the contraction, _þars = þar er_, meaning, "there that."
 * [vistir](https://en.wiktionary.org/wiki/vist#Old_Norse) [miklar](https://en.wiktionary.org/wiki/mikill#Old_Norse); "Much," or, "a lot"--of food. Note the genitive.
 * en fé [sé](https://en.wiktionary.org/wiki/vera#Verb_4) [farit](https://en.wiktionary.org/wiki/fara#Verb_4); "...and [your] money is gone."
 * ok er [buit](https://en.wiktionary.org/wiki/b%C3%BAa#Old_Norse) [við](https://en.wiktionary.org/wiki/vi%C3%B0#Preposition_3); participle formation of _búa_. Now, if we consult the Cleasby/Vigfusson entry of [búa](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0087:1), You can find an idiomatic usage of the word when paired with the preposition, _við_, that means something like, "to live with." I like, "endure."
