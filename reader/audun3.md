@@ -114,7 +114,7 @@
 >63\. Ok er þeir gengu inn aptr, þá þekði konungr mann ok þóttisk finna, at eigi hafði frama til, at ganga fram at hitta hann.
 
 * [þekði](https://en.wiktionary.org/wiki/%C3%BEekkja); "Noticed."
-* [þóttisk] [finna](https://en.wiktionary.org/wiki/finna#Old_Norse); "to notice." 
+* [þóttisk](https://en.wiktionary.org/wiki/%C3%BEykkja#Old_Norse) [finna](https://en.wiktionary.org/wiki/finna#Old_Norse); "to notice." 
 * [frama](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0170:2); A rare verb that means, "to distinguished himself..." be doing something. So, in this clause, Audun, "had not distinguished himself at going from (the church wall) to meet him. In the dictionary entry, I like the "proceeded so far with their suit, that..." part. The kind could tell he wanted to speak to him.
 * [fram](https://en.wiktionary.org/wiki/fram#Old_Norse); "Forward."
 
