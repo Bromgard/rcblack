@@ -127,11 +127,11 @@
 * [kominn](https://en.wiktionary.org/wiki/eigi#Etymology_2); Past participle. "Have come."
 * [útan](https://en.wiktionary.org/wiki/%C3%BAtan); "From away," Or from a certain location to a closer location, or here. 
 * [nú...nú](https://en.wiktionary.org/wiki/n%C3%BA#Old_Norse); "And then I...and after that, I..."
-* [ætlaðak](https://en.wiktionary.org/wiki/%C3%A6tla#Old_Norse); "Planned for myself..."
+* [ætlaðak](https://en.wiktionary.org/wiki/%C3%A6tla#Old_Norse); "Planned for myself..." Another contraction, _ætlaði_+_ek_. 
 
 >41\. "Keyptak þat með allri eigu minni, ok nú er þó á orðit mikit fyrir mér: ek á nú hálft eitt dýrit." 
 
-* [keyptak](https://en.wiktionary.org/wiki/kaupa#Old_Norse); Another contraction. _keypta+ek_.  
+* [keyptak](https://en.wiktionary.org/wiki/kaupa#Old_Norse); _keypta+ek_.  
 * þat; Demonstrative referring to the bear.
 * [eigu](https://en.wiktionary.org/wiki/eiga#Etymology_2_4); The noun. "Possessions."
 * [orðit](https://en.wiktionary.org/wiki/eiga#Etymology_2_4) [mikit](https://en.wiktionary.org/wiki/mikill#Adjective_2) fyrir; "Much has happened to me."
@@ -156,7 +156,7 @@
 * [þótti](https://en.wiktionary.org/wiki/%C3%BEykkja#Old_Norse) [þér](https://en.wiktionary.org/wiki/ek#Pronoun_4)
 * [til](https://en.wiktionary.org/wiki/ek#Pronoun_4) [liggja](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0388:23); "Speaks well." Befitting. 
 * [þar sem](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0388:23); Scroll down and find _þar sem_ in Cleasby/Vigfusson. "Where," works, but it does not entirely capture the sense. I like, "while." 
-* [settak](https://en.wiktionary.org/wiki/setja#Old_Norse) þik; Variant spelling. _Settumk_ on the chart. There's a pattern in this manuscript. "Put you in place as." "Elevated" works.
+* [settak](https://en.wiktionary.org/wiki/setja#Old_Norse) þik
 * [at](https://en.wiktionary.org/wiki/at#Preposition_4) [hepta](https://en.wiktionary.org/wiki/hefta#Verb); "to hinder."
 * [tálma](https://en.wiktionary.org/wiki/t%C3%A1lma); "To hinder." When you see this happen just use another common usage in English, like, "to hold back."
 * [gjǫrðisk](https://en.wiktionary.org/wiki/gera#Verb_5); "Undertake for himself." "Plan," works too.
