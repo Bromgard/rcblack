@@ -115,7 +115,7 @@
 
 * [þekði](https://en.wiktionary.org/wiki/%C3%BEekkja); "Noticed."
 * [þóttisk](https://en.wiktionary.org/wiki/%C3%BEykkja#Old_Norse) [finna](https://en.wiktionary.org/wiki/finna#Old_Norse); "to notice." 
-* [frama]();
+* [frama](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0170:49);
 * [fram](https://en.wiktionary.org/wiki/fram#Old_Norse); "Forward."
 
 >64\. Ok nú er hirðin gekk inn, þá veik konungr út ok mælti: "Gangi sá nú fram er mik vill finna; mik grunar, at sá muni vera maðrinn."
