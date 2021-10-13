@@ -4,7 +4,7 @@
 
 * [skipask](https://en.wiktionary.org/wiki/skipa#Old_Norse); "Change," "Transform."
 * [vit](https://en.wiktionary.org/wiki/ek#Old_Norse); Dual first person nominative pronoun."
-* [sámsk](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2); The mediopassive chart appears to not be available yet. "Saw each other."
+* [sámsk](https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse); Reciprocal "Saw each other."
 * [leiðir]
 
 >68\. Ok er hirðin sá hann, hlógu þeir at honum, en konungr segir: "Eigi þurfu þér at honum at hlæja, því at betr hefir hann sét fyr sinni sál heldr en ér."
