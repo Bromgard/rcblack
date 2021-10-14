@@ -73,7 +73,7 @@
 * [svaraði](https://en.wiktionary.org/wiki/svara#Icelandic)
 * [mannliga](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0411:14)
 * [giptumaðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0200:27)
-* [sjá](https://en.wiktionary.org/wiki/sj%C3%A1#Pronoun) [einn](https://en.wiktionary.org/wiki/einn#Adjective; "That alone."
+* [sjá](https://en.wiktionary.org/wiki/sj%C3%A1#Pronoun) [einn](https://en.wiktionary.org/wiki/einn#Adjective); "That alone."
 * [hlutrinn](https://en.wiktionary.org/wiki/hlutr)
 * [mislíka](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0431:21)
 * [heðan](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:130)
