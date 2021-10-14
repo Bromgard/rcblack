@@ -1,5 +1,5 @@
 ---
-title: Readings in Old Icelandic
+title: Weak Verbs I
 layout: default
 ---
 
