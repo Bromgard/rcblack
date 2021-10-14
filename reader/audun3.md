@@ -1,4 +1,4 @@
-[#](#) Part 3
+# Part 3
 
 >49\. Þat Þekkisk hann, ok er með Sveini konungi um hríð.
 
