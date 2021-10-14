@@ -9,7 +9,7 @@
 
 >68\. Ok er hirðin sá hann, hlógu þeir at honum, en konungr segir: "Eigi þurfu þér at honum at hlæja, því at betr hefir hann sét fyr sinni sál heldr en ér."
 
- [sá](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2)
+* [sá](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2)
 * [hlógu](https://en.wiktionary.org/wiki/hl%C3%A6ja#Old_Norse)
 * [þurfa](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse)
 * [betr](https://en.wiktionary.org/wiki/betr#Old_Norse)
