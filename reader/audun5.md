@@ -32,7 +32,7 @@
 * [kømr](https://en.wiktionary.org/wiki/l%C3%A1ta#Old_Norse)
 * [flytja](https://en.wiktionary.org/wiki/l%C3%A1ta#Old_Norse)
 * [varnað](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0681:2)
-* [þurfti](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse)
+* [þurfti](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse) meira; "He needed more with that"; idiom. He needed more help with unloading because he had more stuff. 
 
 >91\. Hann ferr nú síðan á fund Haralds konungs ok vill efna þat er hann hét honum áðr hann fór til Danmerkr, ok kveðr konung vel.
 
@@ -139,6 +139,7 @@
 
 >107\. Auðunn varði fénu til Íslandsferðar ok fór út þegar um sumarit til Íslands ok þótti vera inn mesti gæfumaðr.
 
+* [varði](https://en.wiktionary.org/wiki/verja#Old_Norse)
 * [fénu](https://en.wiktionary.org/wiki/f%C3%A9#Old_Norse)
 * [aðr](https://en.wiktionary.org/wiki/%C3%A1%C3%B0r); I like, "in return."
 * [sumarit](https://en.wiktionary.org/wiki/sumar#Old_Norse)
