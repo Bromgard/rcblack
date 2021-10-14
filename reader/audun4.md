@@ -4,7 +4,7 @@
 
 * [skipask](https://en.wiktionary.org/wiki/skipa#Old_Norse); "Change," "Transform."
 * [vit](https://en.wiktionary.org/wiki/ek#Old_Norse); Dual first person nominative pronoun."
-* [sámsk](https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse); Reciprocal "Saw each other."
+* [sámsk](https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse); Reciprocal "Saw each other." The mediopassive forms aren't present in this entry. 
 * [leiðir]
 
 >68\. Ok er hirðin sá hann, hlógu þeir at honum, en konungr segir: "Eigi þurfu þér at honum at hlæja, því at betr hefir hann sét fyr sinni sál heldr en ér."
@@ -40,7 +40,8 @@
 * [Guð](https://en.wiktionary.org/wiki/Gu%C3%B0)
 * [þakki](https://en.wiktionary.org/wiki/%C3%BEakka#Old_Norse)
 * [yðr](https://en.wiktionary.org/wiki/%C3%A9r#Old_Norse)
-* [sóma](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0579:32)
+* [sóma](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0579:33)
+* [allan](https://en.wiktionary.org/wiki/allr)
 * [vilið](https://en.wiktionary.org/wiki/vilja#Old_Norse)
 * [hitt](https://en.wiktionary.org/wiki/hinn#Old_Norse); Article and pronoun.
 * [skapi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0537:20); "Disposition," or, "mind." Take a close look at this entry.
@@ -49,7 +50,7 @@
 
 * [sýnisk](https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse); "Looks to me."
 * [undarliga](https://en.wiktionary.org/wiki/undarligr); "Weird."
-* [kosit](https://en.wiktionary.org/wiki/kj%C3%B3sa#Old_Norse); Nominal participle.
+* [kosit](https://en.wiktionary.org/wiki/kj%C3%B3sa#Old_Norse); Participle.
 
 >73\. Auðunn mælti, "Eigi má ek þat vita, herra," sagði hann, "at ek hafa hér mikinn sóma með yðr, en móðir mín troði stafkarls stíg út á Íslandi, því at nú er lokit bjǫrg þeiri er ek lagða til áðr ek fœra af Íslandi."
 
