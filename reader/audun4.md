@@ -84,7 +84,7 @@
 >75\. Hann gørir svá. Einn dag, er á leið várit, gekk Sveinn konungr ofan á bryggjur, ok váru menn þá at, at búa skip til ýmissa landa, í Austrveg eða Saxland, til Svíþjóðar eða Nóregs.
 
 * [dag](https://en.wiktionary.org/wiki/dagr)
-* [leið](https://en.wiktionary.org/wiki/lei%C3%B0#Old_Norse)
+* [leið](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0390:45)
 * [várit](https://en.wiktionary.org/wiki/v%C3%A1r#Old_Norse)
 * [ofan](https://en.wiktionary.org/wiki/ofan#Old_Norse); Downward, "from above."
 * [bryggjur](https://en.wiktionary.org/wiki/bryggja#Old_Norse); This is somewhat difficult to piece together, and the exact meaning of the noun is speculative. This word is cognate with English, "bridge," but has a nautical meaning, that might mean something like a pier, boardwalk along the shore, or a gangplank to a ship. The use of _ofan_ tells me that he came down from above where his hall was, to the pier or boardwalk where the ships were moored.
