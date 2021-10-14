@@ -9,7 +9,7 @@
 
 >68\. Ok er hirðin sá hann, hlógu þeir at honum, en konungr segir: "Eigi þurfu þér at honum at hlæja, því at betr hefir hann sét fyr sinni sál heldr en ér."
 
-* [sá](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2)
+ [sá](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2)
 * [hlógu](https://en.wiktionary.org/wiki/hl%C3%A6ja#Old_Norse)
 * [þurfa](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse)
 * [betr](https://en.wiktionary.org/wiki/betr#Old_Norse)
@@ -72,20 +72,22 @@
 * [svaraði](https://en.wiktionary.org/wiki/svara#Icelandic)
 * [mannliga](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0411:14)
 * [giptumaðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0200:27)
+* [sjá](https://en.wiktionary.org/wiki/sj%C3%A1#Pronoun) [einn](https://en.wiktionary.org/wiki/einn#Adjective; "That alone."
 * [hlutrinn](https://en.wiktionary.org/wiki/hlutr)
 * [mislíka](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0431:21)
 * [heðan](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:130)
-* [ver](https://en.wiktionary.org/wiki/vera#Old_Norse); Imperative.
+* [ver](https://en.wiktionary.org/wiki/vera#Old_Norse); "Remain," or, "stay.
 * þar til; "Until."
-* [búask](https://en.wiktionary.org/wiki/b%C3%BAa#Old_Norse); "Remain," or, "stay."
+* [búask](https://en.wiktionary.org/wiki/b%C3%BAa#Old_Norse)
 
->75\. Hann gørir svá. Einn dag, er á leið várit, gekk Sveinn konungr ofan á bryggjur, ok váru menn þá at at búa skip til ýmissa landa, í Austrveg eða Saxland, til Svíþjóðar eða Nóregs.
+>75\. Hann gørir svá. Einn dag, er á leið várit, gekk Sveinn konungr ofan á bryggjur, ok váru menn þá at, at búa skip til ýmissa landa, í Austrveg eða Saxland, til Svíþjóðar eða Nóregs.
 
 * [dag](https://en.wiktionary.org/wiki/dagr)
 * [leið](https://en.wiktionary.org/wiki/lei%C3%B0#Old_Norse)
 * [várit](https://en.wiktionary.org/wiki/v%C3%A1r#Old_Norse)
 * [ofan](https://en.wiktionary.org/wiki/ofan#Old_Norse); Downward, "from above."
-* [bryggjur](https://en.wiktionary.org/wiki/bryggja#Old_Norse); This is somewhat difficult to piece together and is speculative. This word is cognate with English, "bridge," but has a specifically nautical meaning here, that might mean something like a pier, boardwalk along the shore, or a gangplank to a ship. The use of _ofan_ tells me that he came down from above where his hall was, to the pier or boardwalk where the ships were moored.
+* [bryggjur](https://en.wiktionary.org/wiki/bryggja#Old_Norse); This is somewhat difficult to piece together, and the exact meaning of the noun is speculative. This word is cognate with English, "bridge," but has a nautical meaning, that might mean something like a pier, boardwalk along the shore, or a gangplank to a ship. The use of _ofan_ tells me that he came down from above where his hall was, to the pier or boardwalk where the ships were moored.
+* [váru](https://en.wiktionary.org/wiki/vera#Old_Norse) at; "were...busy at..."
 * [búa](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0084:110); You know this definition. Take a look at the detailed entry.
 * [ýmissa](https://en.wiktionary.org/wiki/%C3%BDmiss); "Various," works well here.
 * [Austrveg](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0036:2); These geographic names tell us a little of what the early Scandinavians thought of other places and don't always match with our modern assumptions of what a nation or region is. This is the East-way and depending on context could mean the Baltic region, Finland, Russia, or some other Slavic region.
@@ -132,7 +134,7 @@
 >83\. Nú brýtr þú ok týnir skipinu ok fénu, lítt sér þat þá á, at þú hafir fundit Svein konung ok gefit honum gjǫrsimi."
 
 * [brýtr](https://en.wiktionary.org/wiki/brj%C3%B3ta#Old_Norse)
-* [týnir](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0647:7)
+* [týnir](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0647:7,)
 * [fénu](https://en.wiktionary.org/wiki/f%C3%A9#Old_Norse)
 * [lítt](https://en.wiktionary.org/wiki/l%C3%ADtill#Old_Norse)
 * [sér](https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse)
