@@ -115,7 +115,7 @@
 
 * [þekði](https://en.wiktionary.org/wiki/%C3%BEekkja); "Noticed."
 * [þóttisk](https://en.wiktionary.org/wiki/%C3%BEykkja#Old_Norse) [finna](https://en.wiktionary.org/wiki/finna#Old_Norse); "to notice." 
-* [frama](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0170:2); A rare verb that means, "to distinguished himself..." be doing something. So, in this clause, Audun, "had not distinguished himself at going from (the church wall) to meet him. In the dictionary entry, I like the "proceeded so far with their suit, that..." part. The kind could tell he wanted to speak to him.
+* [frama](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0170:49);
 * [fram](https://en.wiktionary.org/wiki/fram#Old_Norse); "Forward."
 
 >64\. Ok nú er hirðin gekk inn, þá veik konungr út ok mælti: "Gangi sá nú fram er mik vill finna; mik grunar, at sá muni vera maðrinn."
