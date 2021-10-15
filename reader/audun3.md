@@ -1,3 +1,8 @@
+---
+title: Readings in Old Icelandic
+layout: default
+---
+
 # Part 3
 
 >49\. Þat Þekkisk hann, ok er með Sveini konungi um hríð.
