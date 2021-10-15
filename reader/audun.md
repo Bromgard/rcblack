@@ -1,3 +1,9 @@
+
+---
+title: Readings in Old Icelandic
+layout: default
+---
+
 # AUÐUNAR ÞÁTTR
 ## Frá Því er Auðunn enn vestfirzki fœrði Sveini konungi bjarndýri
 ## Part 1
