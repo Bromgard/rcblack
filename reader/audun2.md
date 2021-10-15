@@ -1,3 +1,9 @@
+
+---
+title: Readings in Old Icelandic
+layout: default
+---
+
 # Part 2
 
 >24\. Auðunn svaraði, "Herra, þat er á yðru valdi, en øngu játum vér ǫðru, en þessu, er vér hǫfum áðr ætlat."
