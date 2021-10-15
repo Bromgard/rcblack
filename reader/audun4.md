@@ -1,3 +1,9 @@
+
+---
+title: Readings in Old Icelandic
+layout: default
+---
+
 # Part 4
 
 >67\. "Ok hefir þú mikit skipazk," sagði hann, "síðan vit sámsk," — leiðir hann eptir sér inn.
