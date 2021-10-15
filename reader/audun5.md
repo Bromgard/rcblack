@@ -1,3 +1,8 @@
+---
+title: Readings in Old Icelandic
+layout: default
+---
+
 >87\. Síðan dró konungr hring af hendi sér, ok gaf Auðuni ok mælti, "Þó at svá illa verði at þú brjótir skipit ok týnir fénu, eigi ertu félauss ef þú kemsk á land, því at margir menn hafa gull á sér í skipsbrotum. 
 
 * [dró](https://en.wiktionary.org/wiki/draga#Old_Norse)
