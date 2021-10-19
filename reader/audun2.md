@@ -1,4 +1,3 @@
-
 ---
 title: Readings in Old Icelandic
 layout: default
