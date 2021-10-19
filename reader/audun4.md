@@ -107,7 +107,7 @@ layout: default
 >77\. þá spurði konungr: "Hversu lízk þér, Auðunn, á þetta skip?"
 
 * [spurði](https://en.wiktionary.org/wiki/spyrja#Old_Norse)
-	* [Hversu](https://en.wiktionary.org/wiki/hversu)
+* [Hversu](https://en.wiktionary.org/wiki/hversu)
 * [lízk](https://en.wiktionary.org/wiki/l%C3%ADka#Icelandic)
 
 >78\. Hann svaraði, "Vel, herra."
