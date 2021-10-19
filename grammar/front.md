@@ -43,7 +43,7 @@ layout: default
 ### Week Four
 
 * [Verbs: Weak verbs part I](http://rcblack.net/grammar/verbs_weak_i/)
-* [Nouns: Adjectives](http://rcblack.net/    grammar/adjectives/)
+* [Nouns: Adjectives](http://rcblack.net/grammar/adjectives/)
 * _Hrólfs saga kraka_, [Part 1](http://rcblack.net/reader/hrolf1/), [Part2](http://rcblack.net/reader/hrolf2/). 
 
 ### Week Five
