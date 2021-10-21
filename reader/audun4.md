@@ -15,7 +15,7 @@ layout: default
 
 * [sá](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2)
 * [hlógu](https://en.wiktionary.org/wiki/hl%C3%A6ja#Old_Norse)
-* [þurfa](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse)
+* [þurfu](https://en.wiktionary.org/wiki/%C3%BEurfa#Old_Norse); = þurfuð. The terminal _ð_ becomes eclipsed by the _þ_ phone in _þér_.
 * [betr](https://en.wiktionary.org/wiki/betr#Old_Norse)
 * [sét](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2); Participle. He, "has seen over his soul rather better than you."
 * [sál](https://en.wiktionary.org/wiki/s%C3%A1l#Icelandic)
