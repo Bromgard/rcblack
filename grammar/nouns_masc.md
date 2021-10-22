@@ -79,7 +79,7 @@ Also, compare this pattern with the paradigm chart for [ketill](https://en.wikti
 
 Note the vowel mutations in the plural. The lowering of the vowel in the dative plural formations follow the predictable pattern of a>ǫ when u appears in the second syllable.
 
-### Strong masculine -ja and -wa nounds
+### Strong masculine -ja and -wa nouns
 
 The declensions of some nouns in some declensions preserves earlier Proto-Germanic forms. The word, [niðr](https://en.wiktionary.org/wiki/ni%C3%B0r) preserves the _-ja_ in the plural that was originally part of the word, [*niþjaz](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/ni%C3%BEjaz). 
 
@@ -101,7 +101,7 @@ Likewise [sǫngr](https://en.wiktionary.org/wiki/s%C7%ABngr#Old_Norse) preserves
 
 The _-ja_ and _-wa_ nouns are not as populated as the _hestr_ declension, so it's useful to make note of these when you find them. Other _-ja_ nouns include, [beðr](https://en.wiktionary.org/wiki/be%C3%B0r), [herr](https://en.wiktionary.org/wiki/herr#Old_Norse), [hellir](https://en.wiktionary.org/wiki/hellir#Old_Norse), [mækir](https://en.wiktionary.org/wiki/m%C3%A6kir). Other _-wa_ nouns include [sær](https://en.wiktionary.org/wiki/s%C3%A6r#Old_Norse) and [hǫgg](https://en.wiktionary.org/wiki/h%C7%ABgg).
 
-### A few other declension patters
+### A few other declension patterns
 
 Some declensions display other kinds of internal vowel mutation like [skjǫldr](https://en.wiktionary.org/wiki/skj%C7%ABldr), and [maðr](https://en.wiktionary.org/wiki/ma%C3%B0r). The declension for _maðr_ recalls the irregular plural in English, _man_.  
 
