@@ -2,19 +2,19 @@
 
 >1\. Síðan ferr Bǫðvarr leið sína til Hleiðargarðs.
 
-* [ferr](https://en.wiktionary.org/wiki/fara#Old_Norse) [leið](https://en.wiktionary.org/wiki/lei%C3%B0#Old_Norse); "When on is way."
+* [ferr](https://en.wiktionary.org/wiki/fara#Old_Norse) [leið](https://en.wiktionary.org/wiki/lei%C3%B0#Old_Norse); "Goes on is way."
 * [Hleiðargarðs](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0270:12); This is the name of Hrólf's hall. Cleasby and Viggfusson suggests that it means something like, "tent-gard," but given the reach of the etymological sources, consider it speculation. 
 
 >2\. Hann kemr til konungs atsetu. Bǫðvarr leiðir þegar hest sinn á stall hjá konungs hestum hinum beztu ok spyrr øngvan at. 
 
 * [atsetu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0031:8); The "king's seat," or residence.
-* [leiðar](https://en.wiktionary.org/wiki/lei%C3%B0a#Old_Norse)
+* [leiðir](https://en.wiktionary.org/wiki/lei%C3%B0a#Old_Norse)
 * [hest](https://en.wiktionary.org/wiki/hestr)
 * [stall](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0587:32); Or, "stable." We have the same word, but note that the lexical range of this word is more generic and used for any number of wooden containers.
 * [hjá](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0266:26)
 * [hinum](https://en.wiktionary.org/wiki/hinn#Article_2); The article. You will often find this non-suffix formation.
 * [betzu](https://en.wiktionary.org/wiki/betr#Adverb)
-* [øngvan](https://en.wiktionary.org/wiki/engi#Pronoun); = engan. "No one." Another variant formation.
+* [øngvan](https://en.wiktionary.org/wiki/engi#Pronoun); = engan. "No one." Another variant formation. This tells us that the manuscript is early.
 
 >3\. Gekk síðan inn í hǫll ok var þar fátt manna.
 
@@ -32,6 +32,7 @@
 
 >5\. Bǫðvarr lítr þangat ok sér at mannshǫnd kemr upp ór mikilli beinahrúgu, er þar lá. Hǫndin var svǫrt mjǫk. 
 
+* [lítr](https://en.wiktionary.org/wiki/l%C3%ADta#Old_Norse)
 * [sér](https://en.wiktionary.org/wiki/sj%C3%A1#Verb_2)
 * [mikilli](https://en.wiktionary.org/wiki/mikill#Old_Norse)
 * [beina](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0055:21)-[hrúgu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0288:26)
@@ -45,7 +46,7 @@
 >7\. Þá var honum svarat, ok heldr óframliga. "Hǫttr heiti ek, bokki sæll."
 
 * [óframiliga](http://lexicon.ff.cuni.cz/html/oi_cleasbyvigfusson/b0659.html)
-* [bokki] [sæll]
+* [bokki](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0071:63) [sæll](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0617:18)
 
 >8\. "Því ertu hér," spyrr Bǫðvarr, "eða hvat gørir þú?"
 
@@ -53,7 +54,7 @@
 
 >9\. Hǫttr svarar, "Ek gøri mér skjaldborg, bokki sæll."
 
-* [skjald](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0553:17)-[borg](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0073:14); Hott has build a protective structure in the corner out of the bones the hall's men has thrown at him.
+* [skjald](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0553:17)-[borg](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0073:14); Hott has build a protective structure in the corner out of the bones that the hall's men has thrown at him.
 
 >10\. Bǫðvarr segir, "Vesall ertu þinnar skjaldborgar!"
 
@@ -67,14 +68,16 @@
 
 >12\. Hǫtt kvað þá hátt við ok mælti: "Nú viltu bana mér! Gør eigi þetta, svá sem ek hefi nú vel um búizk, en þú hefr nú rofit í sundr skjaldborg mína, ok hafða ek nú gǫrt hana svá háva útan at mér, at hon hefr hlíft mér við ǫllum hǫggum ykkar, svá ekkert hǫgg hefr komit á mik lengi, en ekki var hon þó enn svá búin sem ek ætlaða hon skyldi vera."
 
+* [kveða við](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0361:1); The second page for the entry on _kveða_. When paired with the preposition, _við_, it means, "to scream."
+* [hátt](https://en.wiktionary.org/wiki/h%C3%A1r#Old_Norse); This word is used adverbially. In this position, it means, "loudly." 
 * [bana](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0051:6)
-* [búizk](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0088:1); This is a clicks, from the beginning of the Cleasby/Vigfusson entry for _búa_. On this page you can find special meanings of the mediopassive forms. You can also do this with your edition of Zoëga's concise dictionary. You can find the beginning of the entry by clicking, "View previous entry." a couple of times.
+* [búizk](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0088:1); "Prepared for himself." Take a look at the Cleasby/Vigfusson entry for _búa_. On this page you can find special meanings of the medio-passive forms. You can also do this with your edition of Zoëga's concise dictionary. You can find the beginning of the entry by clicking, "View previous entry."
 * [rofit](https://en.wiktionary.org/wiki/rj%C3%BAfa#Old_Norse)
 * í [sundr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0604:13); Literally, "asunder."
 * [háva](https://en.wiktionary.org/wiki/h%C3%A1r#Adjective_2)
 * [hlíft](https://en.wiktionary.org/wiki/hl%C3%ADfa); Supine formation.
 * [hǫggum](https://en.wiktionary.org/wiki/h%C7%ABgg#Old_Norse)
-* [ekkert](https://en.wiktionary.org/wiki/ek#Pronoun_4); (https://en.wiktionary.org/wiki/enginn#Old_Norse)
+* [ekkert](https://en.wiktionary.org/wiki/enginn#Old_Norse); "No..." Take a look at the modern declension on this page. See also the entry for [eingi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0120:57) in Cleasby/Vigfusson.
 
 >13\. Bǫðvarr mælti: "Ekki muntu nú fá skjaldborgina gǫrða lengr."
 
@@ -84,7 +87,6 @@
 
 >15\. Bǫðvarr bað hann ekki hafa hátt, tók hann upp síðan ok bar hann út ór hǫllinni ok til vatns nǫkkurs sem þar var í nánd, ok gáfu fáir at þessu gaum. Hann þváði hann upp allan.
 
-* [hátt]()
 * [bar](https://en.wiktionary.org/wiki/bera#Old_Norse)
 * [vatns](https://en.wiktionary.org/wiki/vatn#Old_Norse)
 * [nánd](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0448:23)
