@@ -8,7 +8,7 @@
 
 >46\. Hann kippti upp í einhverjum stað þremr mǫnnum, ok síðan settusk þeir Hǫttr þar niðr ok innar í hǫllinni en þeim var skipat. 
 
-* [kippti](https://en.wiktionary.org/wiki/kippa#Icelandic=
+* [kippti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0338:50)
 * [einhverjum](https://en.wiktionary.org/wiki/einnhverr)
 * [þremr](https://en.wiktionary.org/wiki/%C3%BEr%C3%ADr#Old_Norse); = þrimr
 * [settusk](https://en.wiktionary.org/wiki/setja#Old_Norse)
