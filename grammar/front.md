@@ -36,15 +36,20 @@ layout: default
 
 ### Week Three
 
-* [Verbs: Strong verbs: 1-2](http://rcblack.net/grammar/verbs_strong_1-2/)
+* [Verbs: Strong verbs: 1-2](http://rcblack.net/grammar/verbs_strong_1-2/)i
 * [Nouns: The masculine nouns](http://rcblack.net/grammar/nouns_masc/)
 * Continue with _Auðunar þáttr_, [Part 3](http://rcblack.net/reader/audun3/), [Part4](http://rcblack.net/reader/audun4/). 
 
-### Week Four
+### Week Four; OCT 19-26
 
 * [Verbs: Weak verbs part I](http://rcblack.net/grammar/verbs_weak_i/)
 * [Nouns: Adjectives](http://rcblack.net/grammar/adjectives/)
-* _Hrólfs saga kraka_, [Part 1](http://rcblack.net/reader/hrolf1/), [Part2](http://rcblack.net/reader/hrolf2/). 
+* The _-hv_ words in [Pronouns](http://rcblack.net/grammar/pronouns/)
+* _Hrólfs saga kraka_, [Part 1](http://rcblack.net/reader/hrolf1/), [Part2](http://rcblack.net/reader/hrolf2/)
+* Readings, PDFS available on Canvas
+	* "State Formation and Courtly Culture in the Scandinavian Kingdoms in the High Middle Ages," Marlen Ferrer
+	* "Scolding the Skald: The Construction of Cultural Memory in _Morkinskinna's Sneglu-Halla þáttr_, Yoav Tirosh
+	* "Fact and Fiction in the Icelandic Sagas," Margaret Cormak
 
 ### Week Five
 
