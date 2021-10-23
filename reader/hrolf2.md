@@ -7,16 +7,17 @@ layout: default
 
 >21\. Hirðmenn hafa nú sama vanða, ok kasta fyrst smám beinum um þvert gólfit til Bǫðvars ok Hattar.
 
+* [sama](https://en.wiktionary.org/wiki/samr)
 * [vanða](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0677:19)
 * [smám](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0570:40)
 * [beinum](https://en.wiktionary.org/wiki/bein#Old_Norse)
-* [þvert](https://en.wiktionary.org/wiki/%C3%BEverr); The definitions use some archaic words, but you can translate this as, "accross." Technically it means "kitty-corner."
+* [þvert](https://en.wiktionary.org/wiki/%C3%BEverr); The definitions use some archaic words, but you can translate this as, "across." Technically it means "kitty-corner."
 * [gólfit](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0210:18)
 
 >22\. Bǫðvarr lætr sem hann sjái eigi þetta.
 
 * [lætr](https://en.wiktionary.org/wiki/l%C3%A1ta#Old_Norse)
-* [sjái](https://en.wiktionary.org/wiki/sj%C3%A1#Alternative_forms); = sé
+* [sjái](https://en.wiktionary.org/wiki/sj%C3%A1#Alternative_forms); = sæi
 
 >23\. Hǫttr er svá hræddr at hann tekr eigi á mat né drykk, ok þykir honum þá ok þá sem hann muni vera lostinn. 
 
