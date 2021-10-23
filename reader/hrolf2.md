@@ -21,11 +21,12 @@ layout: default
 
 >23\. Hǫttr er svá hræddr at hann tekr eigi á mat né drykk, ok þykir honum þá ok þá sem hann muni vera lostinn. 
 
+* [mat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0414:52)
 * [lostinn](https://en.wiktionary.org/wiki/lj%C3%B3sta#Old_Norse)
 
 >24\. Ok nú mælir Hǫttr til Bǫðvars, "Bokki sæll, nú ferr at okkr stór knúta, ok mun þetta ætlat okkr til nauða."
 
-* [knútr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0346:28); The piece of meat around the knuckle.
+* [knúta](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0346:28); The piece of meat around the knuckle.
 * [nauða](https://en.wiktionary.org/wiki/nau%C3%B0#Old_Norse)
 
 >25\. Bǫðvarr bað hann þegja. 
@@ -37,7 +38,7 @@ layout: default
 * [holan](https://en.wiktionary.org/wiki/hola#Icelandic) [lófann](https://en.wiktionary.org/wiki/l%C3%B3fi#Old_Norse); The, "hollow of his palm." We would say the palm of his hand.
 * [tekr](https://en.wiktionary.org/wiki/taka#Old_Norse)
 * [fylgir](https://en.wiktionary.org/wiki/fylgja#Old_Norse)
-* [leggrinn](https://en.wiktionary.org/wiki/leggr); The entire leg happens to be attached to the small knuckle. This happened in the heroic age, when some people had this kind of super-strength.
+* [leggrinn](https://en.wiktionary.org/wiki/leggr); The entire leg happens to be attached to the knuckle. This happened in the heroic age, that people had this kind of super-strength.
 
 >27\. Bǫðvarr sendir aptr knútuna ok setr á þann sem kastaði, ok rétt framan í hann með svá harðri svipan at hann fekk bana. 
 
@@ -70,7 +71,7 @@ layout: default
 
 * [næsta](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0461:16); "Almost," or, "mostly." This is supposed to be funny. "Soooort of..."
 
->32\. Komsk þá fyrir Hrólf konung ǫll sannindi hér um. 
+>32\. Komsk þá fyrir Hrólf konung ǫll sannindi hér um.
 
 * [sannindi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0514:21)
 
@@ -113,7 +114,7 @@ layout: default
 
 >41\. Bǫðvarr svarar, "Til þess gørði hann, sem hann fekk."
 
-* Explain...
+* This this over carefully. 
 
 >42\. Konungr mælir, "Viltu vera minn maðr ok skipa rúm hans?"
 
