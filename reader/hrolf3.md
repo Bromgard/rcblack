@@ -26,7 +26,7 @@
 
 >49\. Hann sagði honum at dýr eitt hafi komit þar tvá vetr í samt, mikit ok ógurligt.
 
-* [í samt](https://en.wiktionary.org/wiki/samt#Old_Norse)
+* [í samt](https://en.wiktionary.org/wiki/samt#Old_Norse); That is, two consecutive winters.
 * [ógurligt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0471:27)
 
 >50\. "Ok hefr vængi á bakinu ok flýgr jafnan. Tvau haust hefr þat nú hingat vitjat ok gǫrt mikinn skaða. 
@@ -60,11 +60,11 @@
 >54\. Nú kemr jólaaptann. þá mælir konungr, "Nú vil ek at allir menn séu kyrrir ok hljóðir í nótt, ok banna ek ǫllum mínum mǫnnum at ganga í nǫkkurn háska við dýrit, en fé ferr eptir því sem auðnar, því ek vil eigi missa menn mína."
 
 * [jólaaptann](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0326:15); Scroll to find the compound word.
-* [séu](https://en.wiktionary.org/wiki/vera#Old_Norse); = sé; Third person plural.
+* [séu](https://en.wiktionary.org/wiki/vera#Old_Norse); = sé; Third person plural. This form appears in modern usage.
 * [kyrrir](https://en.wiktionary.org/wiki/kyrr#Old_Norse)
 * [hljóðir](https://en.wiktionary.org/wiki/hlj%C3%B3%C3%B0r)
 * [banna](https://en.wiktionary.org/wiki/banna#Old_Norse)
-* [háska](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:106); [And here.](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:107); Faulty entry.
+* [háska](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:106); [And here.](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:107); The link has a faulty path. Click directly to find the link after the break in the page.
 * [auðnar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0032:7); "...goes the way fate determines."
 * [missa](https://en.wiktionary.org/wiki/missa#Old_Norse)
 
