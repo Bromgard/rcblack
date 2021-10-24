@@ -2,13 +2,13 @@
 
 >72\. Þeir gøra nu svá. Eptir þat fara þeir heim ok hafa kyrrt um sik, ok veit enginn maðr hvat þeir hafa iðjat.
 
-* [veit](https://en.wiktionary.org/wiki/i%C3%B0ja)
-* [iðjat](https://en.wiktionary.org/wiki/i%C3%B0ja)
+* [veit](https://en.wiktionary.org/wiki/vita#Old_Norse)
+* [iðjat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0313:12)
 
 >73\. Konungr spyrr um morguninn hvat þeir viti til dýrsins, hvárt þat hafi nǫkkut þangat vitjat um nóttina. 
 
 * [viti](https://en.wiktionary.org/wiki/i%C3%B0ja)
-* [vitjat](https://en.wiktionary.org/wiki/vitja#Icelandic)
+* [vitjat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0713:4)
 
 >74\. Honum var sagt at fé allt væri heilt í grindum ok ósakat. 
 
@@ -111,6 +111,7 @@
 
 * [dautt](https://en.wiktionary.org/wiki/dau%C3%B0r)
 * [Sjáið](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2); Impersonal formation. "It is to be seen," or, "It's obvious that..."
+* [unni](https://en.wiktionary.org/wiki/vinna#Verb_4)
 
 >90\. Konungr segir, "Víst hefr hann mikit skipazk, en ekki hefr Hǫttr einn dýrit drepit. Heldr hefr þú þat gǫrt."
 
