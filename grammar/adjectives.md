@@ -66,7 +66,7 @@ Acc. | gamla     | gamlar   | gǫmul
 Dat. | gǫmlum    | gǫmlum   | gǫmlum
 Gen. | gamalla     | gamalla  | gamalla
 
-The declension of _annarr_ is very interesing. It also always takes the strong declension.
+The declension of _annarr_ is interesting. It also always takes the strong declension.
 
 #### Singular
 
@@ -108,7 +108,7 @@ Gen. | lǫngu     | lǫngu  | lǫngu
 
 ### Adjective Usage in Old Icelandic
 
-The usage of the strong and weak declensions is largely consistent with their usage in modern German. The weak adjectives were were used after the definite article or demonstrative pronoun. They were also used in noun constructions in which the article has been omitted, for instance, _Gizurr (inn) Hvíti_. Also note that the strong forms of _samr_ occured infrequently.
+The usage of the strong and weak declensions is largely consistent with their usage in modern German. The weak adjectives were were used after the definite article or demonstrative pronoun. They were also used in noun constructions in which the article has been omitted, for instance, _Gizurr (inn) Hvíti_. Also note that the strong forms of _samr_ occurred infrequently.
 
 An adjective denoting part of a thing agreed with the noun (where English has 'of' in a partitive sense), for instance, _hálft dýrit_ 'half of the animal', _í miðju hafinu_, 'in the middle of the sea', _þeir margir_, 'many of them.'
 
