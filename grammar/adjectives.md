@@ -16,7 +16,7 @@ _Stone Roses_, _Mushroomhead_, _Sex Pistols_
 
 _Jane's Addiction, Mary's Danish, Herman's Hermits_
 
-3) The Proto-Indo-European adjective is a familiar part of speech that specifies a specific quality belonging to the accompanying noun. These adjectives had their own system of grammatical declension which may have been inherited from an older system of nominal genitives (or some other grammatical case). In PIE, the adjectives likewise decline to agree with its accompanying noun.
+3) Dedicated noun modifiers. The Proto-Indo-European adjective is a familiar part of speech that specifies a specific quality belonging to the accompanying noun. These adjectives had their own system of grammatical declension which may have been inherited from an older system of nominal genitives (or some other grammatical case). In PIE, the adjectives likewise decline to agree with its accompanying noun.
 
 _Green Day, Twisted Sister, Fleet Foxes._
 
@@ -108,7 +108,12 @@ Gen. | lǫngu     | lǫngu  | lǫngu
 
 ### Adjective Usage in Old Icelandic
 
-The usage of the strong and weak declensions is largely consistent with their usage in modern German. The weak adjectives were were used after the definite article or demonstrative pronoun. They were also used in noun constructions in which the article has been omitted, for instance, _Gizurr (inn) Hvíti_. Also note that the strong forms of _samr_ occurred infrequently.
+The usage of the strong and weak declensions is largely consistent with their usage in modern German. 
+
+
+
+
+
 
 An adjective denoting part of a thing agreed with the noun (where English has 'of' in a partitive sense), for instance, _hálft dýrit_ 'half of the animal', _í miðju hafinu_, 'in the middle of the sea', _þeir margir_, 'many of them.'
 
