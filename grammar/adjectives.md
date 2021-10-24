@@ -106,9 +106,20 @@ Acc. | lǫngu     | lǫngu   | lǫngu
 Dat. | lǫngum    | lǫngum   | lǫngum
 Gen. | lǫngu     | lǫngu  | lǫngu
 
-### Adjective Usage in Old Icelandic
+### Adjective usage in Old Icelandic
 
-The usage of the strong and weak declensions is largely consistent with their usage in modern German. 
+The usage of the strong and weak declensions is largely consistent with their usage in modern German. When standing alone as a modifier to a noun, the adjective always takes the strong ending.
+
+> __Eiríkr alspakr__ hét __lendr maðr__ í Nóregi. ([A] landed man is named Eirík All-wise.)
+<!--_Egla_, chapt. 64-->
+
+This sentence contains two simple noun-adjective pairs, __Eiríkr alspakr__, and __lendr maðr__. The word, _lendr_ is and adjective that carries the strong nominative adjective ending in parallel with _maðr_ and the other moun-adjective pairing, _Eiríkr alspakr_, that begins the sentence. Note that the nouns precede their adjectives.
+
+> En __þat sama haust__, Eiríkr alspakr var andaðr. (But that same autumn, Eirík All-wise was dead.)
+<!--Egla, chapt. 64-->
+
+I'm sure you recognize the many strong masculine declensions in this text. But note the lexical string,  _þat sama haust_. 
+
 
 
 
