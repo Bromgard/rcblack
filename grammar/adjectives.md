@@ -35,7 +35,7 @@ This sentence contains two simple noun-adjective pairs, __Eiríkr alspakr__, and
 
 The weak endings become active in proximity to the noun when it follows either a demonstrative pronoun or the definite article. Take a look at the following sentence:
 
-> Sigldi hann fyrst í Austrveginn, ok varð honum bæði gott til fjár ok mannorðs, en aldri lá hann svá vakandi, at væri eigi honum fyrir augum __sú fagra h&#x1EB;nd__ ok __þat væna gull__, sem hann missti í Aldeigjuborg. (First he sailed to Russia, and did well in both wealth and reputation, but always while he lay awake, there would not be before his eyes that beautiful hand and that lovely gold, which he lost in Staraya Ladoga.)
+> Sigldi hann fyrst í Austrveginn, ok varð honum bæði gott til fjár ok mannorðs, en aldri lá hann svá vakandi, at væri eigi honum fyrir augum __sú fagra h&#x1EB;nd__ ok __þat væna gull__, sem hann missti í Aldeigjuborg. (First he sailed to Russia, and did well in both wealth and reputation, but never while he lay awake, there would not be before his eyes that beautiful hand and that lovely gold, which he lost in Staraya Ladoga.)
 <!--Hálfdanar Saga Eysteinsson, 10-->
 
 There are two nominative clusters used in this sentence, both marked in bold. The noun, _h&#x1EB;nd_ is modified by the demonstrative _sú_, which communicates strong grammatical declination of the feminine noun. The adjective, _fagra_ therefore takes the weak ending. The same thing likewise occurs in the second construction. The noun, _gull_ is a neuter noun that is modified by the demonstrative, _þat_. Because it follows the demonstrative, the adjective _væna_ is suffixed by a weak adjective declension.
