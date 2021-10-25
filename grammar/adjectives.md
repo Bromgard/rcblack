@@ -115,18 +115,37 @@ The usage of the strong and weak declensions is largely consistent with their us
 
 This sentence contains two simple noun-adjective pairs, __Eiríkr alspakr__, and __lendr maðr__. The word, _lendr_ is and adjective that carries the strong nominative adjective ending in parallel with _maðr_ and the other moun-adjective pairing, _Eiríkr alspakr_, that begins the sentence. Note that the nouns precede their adjectives.
 
-> En __þat sama haust__, Eiríkr alspakr var andaðr. (But that same autumn, Eirík All-wise was dead.)
-<!--Egla, chapt. 64-->
+The weak endings become active in proximity to the noun when it follows either a demonstrative pronoun or the definite article. Take a look at the following sentence:
 
-I'm sure you recognize the many strong masculine declensions in this text. But note the lexical string,  _þat sama haust_. 
+> Sigldi hann fyrst í Austrveginn, ok varð honum bæði gott til fjár ok mannorðs, en aldri lá hann svá vakandi, at væri eigi honum fyrir augum __sú fagra h&#x2DB;nd__ ok __þat væna gull__, sem hann missti í Aldeigjuborg. (First he sailed to Austrveg, and did well will both wealth and reputations, but he never lay awake, that there would not be before his eyes that lovely hand, and that lovely gold, that he lost in Staraya Ladoga.)
+<!--Hálfdanar Saga Eysteinsson, 10-->
+
+There are two nominative clusters used in this sentence, both marked in bold. The noun, _h&#x2DB;nd_ is modified by the demonstrative _sú_, which communicates strong grammatical declination of the feminine noun. The adjective, _fagra_ therefore takes the weak ending. The same thing likewise occurs int he second construction. The noun, _gull_ is a neuter noun that is modified by the demonstrative, _þat_. Because it follows the demonstrative, the adjective _væna_ is suffixed by a weak adjective declension. 
+
+The weak adjective endings are also used when grammatical case is already indicated by the definite article. 
+
+> F&#x2DB;rum til skipa tíðast, þar siglir nú __Ormr inn langi__ austan. (Let us go as soon as possible, the Long Dragon sails there now.)
+<!--Fagrskinna, Olaf T. ch. 24-->
+
+Notice how the definite article detaches from the noun. When in this position, particularly with proper nouns, the sequence is often translated with the English article following the noun and preceding the adjective. Note that in each case, the adjective takes a weak ending.
+
+> Hans sonr var __Ormr inn sterki__. (His son was Dragon the strong.)
+<!--Egla 23-->
+<!--__Inn helgi Jón byskup__ hafði skamma stund at stóli setit at Hólum áðr en hann lét leggja ofan kirkju þá er þar var. Jóns saga helga, 8-->
+
+A common anomalous adjective is _samr_. This verb often functions with it's weak endings even if there is no definite formation or demonstrative present. For example, 
+
+> Hirðmenn hafa nú sama vanða, ok kasta fyrst smám beinum um þvert gólfit til b&#x2DB;ðvars ok Hattar (The hirð men now display the same behavior, and first threw small bones across the floor toward Boðvar and H&#x2DB;ttr.)
+
+Other adjective to remember is, _annarr_, and _allr_. These were always strong no matter their position.
+
+> Þá spurði hann þau tiðendi, at Sveinn konungr var kominn til Sjálandz ok þá var kominn til hans __herr sjá allr__. (Then he learned these tidings, that King Sveinn came to Zealand, and __that entire army__ came to him.)
+
+A partitive adjective construction also exists in a similar sense in English in which one might say, "He drank half of the bottle."
+
+> Ek á nu __hálft eitt dýrit__. (I now have half of an animal.)
 
 
-
-
-
-
-
-An adjective denoting part of a thing agreed with the noun (where English has 'of' in a partitive sense), for instance, _hálft dýrit_ 'half of the animal', _í miðju hafinu_, 'in the middle of the sea', _þeir margir_, 'many of them.'
 
 ### Declension of Present Participles and the Comparatives of Adjectives
 
