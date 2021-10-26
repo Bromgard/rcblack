@@ -27,7 +27,7 @@ This pattern is expressed in Old Icelandic with a system of suffixes in which an
 
 ## The first conjugation
 
-This class of weak verbs echo the behavior of the _-ja_ nouns in that the Proto-Germanic verb, [*taljaną](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/taljan%C4%85) contained a _-ja_ as part of it's root formation. This word, and other verbs of this class, were compound verbs with the suffix, [*-janą](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-jan%C4%85) In this case, this suffix may have been used to verb the noun, [*talo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/tal%C5%8D), meaning, "calculation." Note the preserved, _-ja_ in the following conjugation for _telja_.
+This class of weak verbs echo the behavior of the _-ja_ nouns in that the Proto-Germanic verb, [*taljana](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/taljan%C4%85) contained a _-ja_ as part of it's root formation. This word, and other verbs of this class, were compound verbs with the suffix, [*-jana](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/-jan%C4%85) In this case, this suffix may have been used to verb the noun, [*talo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/tal%C5%8D), meaning, "calculation." Note the preserved, _-ja_ in the following conjugation for _telja_.
 
 ### Indicative
 
