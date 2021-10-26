@@ -93,7 +93,7 @@ layout: default
 
 * [rœtt](https://en.wiktionary.org/wiki/r%C3%A9ttr)
 * [øngvan](https://en.wiktionary.org/wiki/engi#Pronoun)
-* [leitat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0383:18); A metaphorical usage. "Challenged," works. "Sought," works as well. 
+* [leitat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0383:18); Look in this entry for usages with prepositions. _Leita at_ means, "to offend," or, "to be aggressive." 
 
 >37\. Ok kallið hann til mín, svá ek viti hverr hann er."
 
