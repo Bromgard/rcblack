@@ -26,7 +26,7 @@
 
 * [sezk](https://en.wiktionary.org/wiki/setja#Old_Norse)
 * [útarliga](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0670:8)
-* [þrausk](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0748:33); I kind of sound that resembles the sound made when someone [Threshes](https://en.wiktionary.org/wiki/%C3%BEreskja).
+* [þrausk](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0748:33); The sound that is made when someone [Threshes](https://en.wiktionary.org/wiki/%C3%BEreskja).
 * [hornit](https://en.wiktionary.org/wiki/horn#Old_Norse)
 * [stað](https://en.wiktionary.org/wiki/sta%C3%B0r)
 
