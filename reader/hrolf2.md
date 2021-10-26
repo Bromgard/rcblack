@@ -133,3 +133,7 @@ layout: default
 >44\. Konungr segir, "Eigi sé ek at honum sœmð, en ekki spara ek mat við hann."
 
 * [sœmð](https://en.wiktionary.org/wiki/s%C5%93md)
+
+<div style="float: right"><a href="http://rcblack.net/reader/hrolf2">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
