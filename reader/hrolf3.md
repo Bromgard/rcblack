@@ -162,3 +162,9 @@
 * [reisum](https://en.wiktionary.org/wiki/reisa#Old_Norse)
 * [búum](https://en.wiktionary.org/wiki/b%C3%BAa#Old_Norse)
 * [kvikt](https://en.wiktionary.org/wiki/kvikr)
+
+
+<div style="float: left"><a href="http://rcblack.net/reader/hrolf1">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/reader/hrolf3">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
