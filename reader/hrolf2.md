@@ -22,6 +22,7 @@ layout: default
 >23\. Hǫttr er svá hræddr at hann tekr eigi á mat né drykk, ok þykir honum þá ok þá sem hann muni vera lostinn. 
 
 * [mat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0414:52)
+* [þá ok þá](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0732:1); From the second page of the entry for _þá_. "Then and then,'or at every moment.
 * [lostinn](https://en.wiktionary.org/wiki/lj%C3%B3sta#Old_Norse)
 
 >24\. Ok nú mælir Hǫttr til Bǫðvars, "Bokki sæll, nú ferr at okkr stór knúta, ok mun þetta ætlat okkr til nauða."
@@ -88,10 +89,11 @@ layout: default
 * [óvirðing](https://en.wiktionary.org/wiki/%C3%B3vir%C3%B0ing)
 * [stór](https://en.wiktionary.org/wiki/st%C3%B3r#Old_Norse) [skǫmm](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0565:31)
 
->36\. Hefi ek jafnan rœtt um Þetta áðr, ok hafi þit hér at øngvan gaum gefit, ok hygg ek at þessi maðr muni ekki alllítill fyrir sér, er þér hafið nú á leitat. 
+>36\. Hefi ek jafnan rœtt um þetta áðr, ok hafi þit hér at øngvan gaum gefit, ok hygg ek at þessi maðr muni ekki alllítill fyrir sér, er þér hafið nú á leitat. 
 
 * [rœtt](https://en.wiktionary.org/wiki/r%C3%A9ttr)
 * [øngvan](https://en.wiktionary.org/wiki/engi#Pronoun)
+* [leitat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0383:18); A metaphorical usage. "Challenged," works. "Sought," works as well. 
 
 >37\. Ok kallið hann til mín, svá ek viti hverr hann er."
 
