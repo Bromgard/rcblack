@@ -36,7 +36,7 @@ layout: default
 
 ### Week Three
 
-* [Verbs: Strong verbs: 1-2](http://rcblack.net/grammar/verbs_strong_1-2/)i
+* [Verbs: Strong verbs: 1-2](http://rcblack.net/grammar/verbs_strong_1-2/:)
 * [Nouns: The masculine nouns](http://rcblack.net/grammar/nouns_masc/)
 * Continue with _Auðunar þáttr_, [Part 3](http://rcblack.net/reader/audun3/), [Part4](http://rcblack.net/reader/audun4/). 
 
