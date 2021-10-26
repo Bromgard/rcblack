@@ -124,3 +124,6 @@
 * [kunningja](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0359:11)
 * [reynt](https://en.wiktionary.org/wiki/reyna#Old_Norse)
 
+<div style="float: right"><a href="http://rcblack.net/reader/hrolf2">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
