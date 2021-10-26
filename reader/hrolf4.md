@@ -134,4 +134,9 @@
 >94\. Ok endar hér þennan þátt frá Bǫðvari ok brœðrum hans.
 
 * [þátt](https://en.wiktionary.org/wiki/%C3%BE%C3%A1ttur); Also see [þáttr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0732:10). Literally a "thread," but used here as a metaphorical literary term. The Icelandic sagas are actually collections of smaller "threads" that run alongside each other, or in sequence. _Hrólf saga karaka_ is no different, and the story of Bǫðvarr Bjarki is one of these. The word is often used to mean, "short story," or a short saga.
-* [brœðrum](https://en.wiktionary.org/wiki/br%C3%B3%C3%B0ir#Old_Norse); notice the irregular declension. This is common with family terms. 
+* [brœðrum](https://en.wiktionary.org/wiki/br%C3%B3%C3%B0ir#Old_Norse); notice the irregular declension. This is common with family terms.
+
+<div style="float: left"><a href="http://rcblack.net/reader/hrolf3">⇦</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
+
