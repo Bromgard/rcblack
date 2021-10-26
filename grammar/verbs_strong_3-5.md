@@ -1,5 +1,5 @@
 ---
-title: Readings in Old Icelandic
+title: Strong Verbs 3, 4, 5
 layout: default
 ---
 
@@ -217,7 +217,7 @@ Other such verbs of this class are,
 * [eta](https://en.wiktionary.org/wiki/eta#Etymology_2_5)
 * [fregna](https://en.wiktionary.org/wiki/fregna#Old_Norse)
 
-Since the language(s) that corresponds to our reconstructions of Indo-European were spoken there has been an ongoing process of verbs in all the descendent languages to to slowly move from the strong verbs to weak verbs. This process is ongoing today. Take a look at the following verbs. These verbs have weak present tenses whereas the past tenses still preserve the strong endings.
+The strong verbs in all Indo-European languages are slowly and gradually migrating to the weak verbs. This has been happening since Indo-European was in use and is still happening today. Take a look at the following verbs. These verbs have weak present tenses whereas the past tenses still preserve the strong endings.
 
 * [biðja](https://en.wiktionary.org/wiki/bi%C3%B0ja#Old_Norse)
 * [liggja](https://en.wiktionary.org/wiki/liggja#Old_Norse)
