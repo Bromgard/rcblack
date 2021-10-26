@@ -116,7 +116,7 @@ layout: default
 
 >41\. Bǫðvarr svarar, "Til þess gørði hann, sem hann fekk."
 
-* This this over carefully. 
+* Think this over carefully. 
 
 >42\. Konungr mælir, "Viltu vera minn maðr ok skipa rúm hans?"
 
