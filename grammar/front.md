@@ -55,7 +55,12 @@ layout: default
 
 * [Verbs: Strong verbs: 3-5](http://rcblack.net/grammar/verbs_strong_3-5/)
 * [Nouns: The feminine nouns](http://rcblack.net/grammar/nouns_fem/)
-* _Hrólfs saga kraka_, [Part 3](http://rcblack.net/reader/hrolf3/), [Part4](http://rcblack.net/grammar/hrolf4/). 
+* [Adjective Usage](http://rcblack.net/grammar/adjective_usage)
+* [Prepositions](http://rcblack.net/grammar/prepositons)
+* _Hrólfs saga kraka_, [Part 3](http://rcblack.net/reader/hrolf3/), [Part4](http://rcblack.net/grammar/hrolf4/).
+* Readings: PDFs available on Canvas
+	* "Prologue," and "Introduction," from _The Children of Ash and Elm_, by Neil Price.
+	* "Goodby to the Vikings?" Richard Hodges 
 
 ### Week Six
 
