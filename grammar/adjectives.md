@@ -1,5 +1,5 @@
 ---
-title: Old Adjectives
+title: Adjectives
 layout: default
 ---
 
