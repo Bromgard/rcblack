@@ -22,6 +22,7 @@
 * [engin](https://en.wiktionary.org/wiki/engi#Old_Norse)
 * [sæi](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2)
 * [líkendi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0204:30)
+* [heim](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0249:24)
 
 >76\. Varðmenn gørðu svá ok kómu skjótt aptr ok sǫgðu konungi at dýrit fœri þar ok heldr geyst at borginni.
 
@@ -32,10 +33,10 @@
 
 >77\. Konungr bað hirðmenn vera nú hrausta ok duga nú hvern eptir því sem hann hefði hug til, ok ráða af óvætt þenna.
 
-* [hrausta](https://en.wiktionary.org/wiki/hraustur); Note the modern spelling in his entry.
+* [hrausta](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0282:32)
 * [duga](https://en.wiktionary.org/wiki/duga#Old_Norse)
 * [hug](https://en.wiktionary.org/wiki/hugr)
-* [ráða](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0485:15); This is the beginning of the entry and continues to the next page. Please look it over.
+* [ráða](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0485:15); Look deep into the entry. ráða af = "To do away with," or "kill."
 * [óvætt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0667:1); Word search!
 
 >78\. Ok svá var gǫrt, sem konungr bauð, at þeir bjuggu sik til þess. 
