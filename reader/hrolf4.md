@@ -112,7 +112,7 @@
 >89\. Dýrit fellr niðr dautt. Bǫðvarr mælir, "Sjáið nú, herra, hvat hann hefr til unnit."
 
 * [dautt](https://en.wiktionary.org/wiki/dau%C3%B0r)
-* [Sjáið](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2); Impersonal formation. "It is to be seen," or, "It's obvious that..."
+* [Sjáið](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2); Scroll up to the modern conjugation.
 * [unni](https://en.wiktionary.org/wiki/vinna#Verb_4)
 
 >90\. Konungr segir, "Víst hefr hann mikit skipazk, en ekki hefr Hǫttr einn dýrit drepit. Heldr hefr þú þat gǫrt."
