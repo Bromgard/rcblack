@@ -91,7 +91,7 @@ layout: default
 
 >36\. Hefi ek jafnan rœtt um þetta áðr, ok hafi þit hér at øngvan gaum gefit, ok hygg ek at þessi maðr muni ekki alllítill fyrir sér, er þér hafið nú á leitat. 
 
-* [rœtt](https://en.wiktionary.org/wiki/r%C3%A9ttr)
+* [rœtt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0505:46)
 * [øngvan](https://en.wiktionary.org/wiki/engi#Pronoun)
 * [leitat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0383:18); Look in this entry for usages with prepositions. _Leita at_ means, "to offend," or, "to be aggressive." 
 
