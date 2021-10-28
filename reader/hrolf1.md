@@ -122,6 +122,7 @@
 
 * [tillit](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0631:67); The CV dictionary is based on a corpus of literature and often includes examples. Note that the dictionary cites our saga!
 * [kunningja](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0359:11)
+* [íllt eitt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0318:20); "all wickedness."
 * [reynt](https://en.wiktionary.org/wiki/reyna#Old_Norse)
 
 <div style="float: right"><a href="http://rcblack.net/reader/hrolf2">⇨</a></div>
