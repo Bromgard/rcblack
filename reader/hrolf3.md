@@ -44,6 +44,7 @@
 
 * [bíta](https://en.wiktionary.org/wiki/b%C3%ADta#Old_Norse); In this case, "to cut," but metaphorical, "bite" can work if you know the context.
 * [vápn](https://en.wiktionary.org/wiki/v%C3%A1pn#Old_Norse)
+* [mestr](https://en.wiktionary.org/wiki/mestr#Adjective).
 
 >52\. Bǫðvarr mælti, "Ekki er hǫllin svá vel skipuð sem ek ætlaða, at eitt dýr skal hér eyða ríki ok fé konungsins."
 
@@ -63,7 +64,7 @@
 * [séu](https://en.wiktionary.org/wiki/vera#Old_Norse); = sé; Third person plural. This form appears in modern usage.
 * [kyrrir](https://en.wiktionary.org/wiki/kyrr#Old_Norse)
 * [hljóðir](https://en.wiktionary.org/wiki/hlj%C3%B3%C3%B0r)
-* [banna](https://en.wiktionary.org/wiki/banna#Old_Norse)
+* [banna](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0051:15)
 * [háska](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:106); [And here.](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:107); The link has a faulty path. Click directly to find the link after the break in the page.
 * [auðnar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0032:7); "...goes the way fate determines."
 * [missa](https://en.wiktionary.org/wiki/missa#Old_Norse)
@@ -118,6 +119,7 @@
 * [hjartanu](https://en.wiktionary.org/wiki/hjarta#Old_Norse)
 * [datt](https://en.wiktionary.org/wiki/detta#Old_Norse)
 * [jarðar](https://en.wiktionary.org/wiki/j%C7%ABr%C3%B0#Old_Norse)
+* [dautt](https://en.wiktionary.org/wiki/dau%C3%B0r)
 
 >63\. Eptir þat ferr hann þangat sem Hǫttr liggr.
 

@@ -91,7 +91,7 @@ layout: default
 
 >36\. Hefi ek jafnan rœtt um þetta áðr, ok hafi þit hér at øngvan gaum gefit, ok hygg ek at þessi maðr muni ekki alllítill fyrir sér, er þér hafið nú á leitat. 
 
-* [rœtt](https://en.wiktionary.org/wiki/r%C3%A9ttr)
+* [rœtt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0505:46)
 * [øngvan](https://en.wiktionary.org/wiki/engi#Pronoun)
 * [leitat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0383:18); Look in this entry for usages with prepositions. _Leita at_ means, "to offend," or, "to be aggressive." 
 
@@ -121,12 +121,14 @@ layout: default
 >42\. Konungr mælir, "Viltu vera minn maðr ok skipa rúm hans?"
 
 * [skipa](https://en.wiktionary.org/wiki/skipa#Old_Norse)
+* [rúm](https://en.wiktionary.org/wiki/r%C3%BAm#Old_Norse)
 
 >43\. Bǫðvarr svarar, "Ekki neita ek at vera yðar maðr, ok munu vit ekki skiljask svá buit, vit Hǫttr, ok dveljask nær þér báðir, heldr en þessi hefr setit. Elligar vit fǫrum burt báðir."
 
 * [neita](https://en.wiktionary.org/wiki/neita#Old_Norse)
 * [vit](https://en.wiktionary.org/wiki/ek#Old_Norse)
 * [skiljask](https://en.wiktionary.org/wiki/skilja#Old_Norse)
+* svá buit; "...as things stand."
 * [dveljask](https://en.wiktionary.org/wiki/dvelja#Old_Norse)
 * [nær](https://en.wiktionary.org/wiki/n%C3%A6r#Old_Norse)
 * [Elligar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0126:21); = ella

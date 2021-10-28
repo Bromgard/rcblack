@@ -71,7 +71,8 @@
 * [kveða við](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0361:1); The second page for the entry on _kveða_. When paired with the preposition, _við_, it means, "to scream."
 * [hátt](https://en.wiktionary.org/wiki/h%C3%A1r#Old_Norse); This word is used adverbially. In this position, it means, "loudly." 
 * [bana](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0051:6)
-* [búizk](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0088:1); "Prepared for himself." Take a look at the Cleasby/Vigfusson entry for _búa_. On this page you can find special meanings of the medio-passive forms. You can also do this with your edition of Zoëga's concise dictionary. You can find the beginning of the entry by clicking, "View previous entry."
+* svá sem; "Now that."
+* [búizk](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0088:1); "made himself comfortable." Take a look at the Cleasby/Vigfusson entry for _búa_. On this page you can find special meanings of the medio-passive forms. You can also do this with your edition of Zoëga's concise dictionary. You can find the beginning of the entry by clicking, "View previous entry."
 * [rofit](https://en.wiktionary.org/wiki/rj%C3%BAfa#Old_Norse)
 * í [sundr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0604:13); Literally, "asunder."
 * [háva](https://en.wiktionary.org/wiki/h%C3%A1r#Adjective_2)
@@ -103,7 +104,7 @@
 
 * [hræddr](https://en.wiktionary.org/wiki/hr%C3%A6%C3%B0a#Old_Norse)
 * [skelfr](https://en.wiktionary.org/wiki/skjalfa#Old_Norse)
-* [leggr](https://en.wiktionary.org/wiki/leggja#Old_Norse)
+* [leggr](https://en.wiktionary.org/wiki/leggr#Old_Norse)
 * [liðr](https://en.wiktionary.org/wiki/li%C3%B0r)
 * [þykisk](https://en.wiktionary.org/wiki/%C3%BEykkja#Old_Norse)
 * [hjálpa](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0267:9)
