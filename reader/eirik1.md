@@ -1,16 +1,10 @@
----
+---x
 title: Eirík saga rauða, Part I
 layout: default
 ---
 
 
-Ætluðu þeir Karlsefni ok Snorri at leita[^1] Vínlands[^2] ok tǫluðu[^3] menn margt um þat.
-
-[^1]: [leita](https://en.wiktionary.org/wiki/leita#Old_Norse)
-[^2]: This appears to have been a particular region somewhere in North America.
-[^3]: [tǫluðu](https://en.wiktionary.org/wiki/tala#Etymology_2_5); Notice that this implies that people already seems to have known about the place already.
-
-En því lauk svá at þeir Karlsefni ok Snorri bjuggu skip sitt ok ætluðu at leita Vínlands um sumarit.
+Ætluðu þeir Karlsefni ok Snorri at leita[^1] Vínlands[^2] ok tǫluðu[^3] menn margt um þat. En því lauk[^4] svá at þeir Karlsefni ok Snorri bjuggu skip sitt ok ætluðu at leita Vínlands um sumarit.
 
 Til þeirar ferðar réðusk þeir Bjarni ok fiórhallr með skip sitt ok þat fǫruneyti er þeim hafði
 
@@ -52,3 +46,9 @@ fundu  þeir  þar  bjarnd‡r  ok  kǫlluðu  Bjarney.  En  landit  kǫlluðu  
 Markland, þar er skógrinn ‹varð.
 fiá er liðin váru tvau dœgr, sjá þeir land ok þeir sigldu undir landit.
 fiar var nes, er þeir kvámu at. fieir beittu með landinu ok létu landit á stjórnborða.
+
+[^1]: [leita](https://en.wiktionary.org/wiki/leita#Old_Norse)
+[^2]: This appears to have been a particular region somewhere in North America.
+[^3]: [tǫluðu](https://en.wiktionary.org/wiki/tala#Etymology_2_5); Notice that this implies that people already seems to have known about the place already.
+[^4]: [lauk](https://en.wiktionary.org/wiki/l%C3%BAka#Old_Norse); That is, the conversation.
+
