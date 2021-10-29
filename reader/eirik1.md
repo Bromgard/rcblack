@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-Ætluðu þeir Karlsefni ok Snorri at leita[^1] Vínlands[^2] ok tǫluðu menn margt um þat.
+Ætluðu þeir Karlsefni ok Snorri at leita[^1] Vínlands[^2] ok tǫluðu[^3] menn margt um þat.
 
 [^1]: [leita](https://en.wiktionary.org/wiki/leita#Old_Norse)
 [^2]: This appears to have been a particular region somewhere in North America.
