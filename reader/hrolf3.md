@@ -1,8 +1,13 @@
+---
+title: Hrolf 3
+layout: default
+---
+
 # Part 3
 
 >45\. Bǫðvarr gengr nú til þess rúms sem honum líkaði, en ekki vildi hann þat skipa sem hinn hafði áðr. 
 
-* [rúms](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0503:56i); "Space," works fine here, but this usage implies a place, or a spot on the bench. So, "place," or, "spot," might be best in a translation.
+* [rúms](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0503:56); "Space," works fine here, but this usage implies a place, or a spot on the bench. So, "place," or, "spot," might be best in a translation.
 * [líkaði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0392:3)
 * [skipa](https://en.wiktionary.org/wiki/skipa#Old_Norse)
 
