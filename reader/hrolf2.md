@@ -3,7 +3,7 @@ title: Hrolf 2
 layout: default
 ---
 
-# Hrolf saga kraka Part 2
+# Hrolf saga Part 2
 
 >21\. Hirðmenn hafa nú sama vanða, ok kasta fyrst smám beinum um þvert gólfit til Bǫðvars ok Hattar.
 
