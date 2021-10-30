@@ -9,23 +9,17 @@ Maðr hét Þorvarðr. Hann var mágr Eiríks rauða. Hann fór ok með þeim, o
 
 Þórhallr var mikill vexti,[^10] svartr ok þursligr. Hann var heldr við aldr,[^11] ódæll í skapi, hljóðlyndr,[^12] fámálugr[^13] hversdagliga,[^14] undirfǫrull[^15] ok þó atmælasamr[^16] ok fýstisk[^17] jafnan hins verra.[^18] Hann hafði lítt við trú blandazk[^19] síðan hon kom á Grœnland. Þórhallr var lítt vinsældum[^20] horfinn, en þó hafði Eiríkr lengi tal[^21] af honum haldit Hann var á skipi með þeim Þorvaldi, því at honum var víða kunnigt í óbyggðum.[^22] Þeir hǫfðu þat skip er Þorbjǫrn hafði út þangat ok réðusk til ferðar með þeim Karlsefni, ok váru þar flestir grœnlenzkir menn á. Á skipum þeira var fjórir tigir manna annars hundraðs.
 
-Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja. Sigldu þeir þaðan undan Bjarneyjum norðanveðr.[^23] Váru þeir úti tvau dœgr. 
+Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja.[^23] Sigldu þeir þaðan undan Bjarneyjum norðanveðr. Váru þeir úti tvau dœgr. Þá fundu þeir land ok reru fyrir á bátum ok kǫnnuðu[^24] landit ok fundu þar hellur[^25] margar ok svá stórar at tveir menn máttu vel spyrnask í iljar.[^26] Melrakkar[^27] váru þar margir. Þeir gáfu nafn landinu ok kǫlluðu Helluland.
 
+Þá sigldu þeir norðanveðr[^28] tvau dœgr ok var þá land fyrir þeim ok var á skógr[^29] mikill ok dýr mǫrg.
 
-fiá fundu þeir land ok reru fyrir á bátum ok kǫnnuðu landit ok fundu þar
+Ey lá í landsuðr[^30] undan landinu ok fundu þeir þar bjarndýr ok kǫlluðu Bjarney.  
 
-hellur margar ok svá stórar at tveir menn máttu vel spyrnask í iljar.
+En landit kǫlluðu þeir Markland, þar er skógrinn var.
 
-Melrakkar  váru  þar  margir.  fieir  gáfu  naf‹nð  landinu  ok  kǫlluðu
-Helluland.
-fiá sigldu þeir norðanveðr tvau dœgr ok var þá land fyrir þeim ok
-var  á  skógr  mikill  ok  d‡r  mǫrg.  Ey  lá  í  landsuðr  undan  landinu  ok
+Þá er liðin váru tvau dœgr, sjá þeir land ok þeir sigldu undir landit.
 
-fundu  þeir  þar  bjarnd‡r  ok  kǫlluðu  Bjarney.  En  landit  kǫlluðu  þeir
-
-Markland, þar er skógrinn ‹varð.
-fiá er liðin váru tvau dœgr, sjá þeir land ok þeir sigldu undir landit.
-fiar var nes, er þeir kvámu at. fieir beittu með landinu ok létu landit á stjórnborða.
+Þar var nes,[^31] er þeir kvámu at. Þeir beittu[^32] með landinu ok létu landit á stjórnborða.
 
 [^1]: [leita](https://en.wiktionary.org/wiki/leita#Old_Norse)
 [^2]: This appears to have been a particular region somewhere in North America.
@@ -51,4 +45,12 @@ fiar var nes, er þeir kvámu at. fieir beittu með landinu ok létu landit á s
 
 [^22]: [óbyggðum](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0658:3)
 
-[^23]: Vestribyggðar ok til Bjarneyja; _Vestribyggð_ was the northernmost settlement in Norse Greenland. The exact location of the "Bear Islands," is uncertain. This could have been Baffin Island. 
+[^23]: Vestribyggðar ok til Bjarneyja; _Vestribyggð_ was the northernmost settlement in Norse Greenland. The exact location of the "Bear Islands," is uncertain. This could have been Baffin Island.
+[^24]: [kǫnnuðu](https://en.wiktionary.org/wiki/kanna#Verb_3)
+[^25]: [hellur](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0255:10)
+[^26]: [spyrnask í iljar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=formquery2&query=spyrna&startrow=1); So, two people lying on their backs, with their feet touching. This is understood to be an estimated span of measurement.
+[^27]: [mellrakkar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0424:1); Arctic fox. This is in the definition entry for, _melr_, or, oats. I'm not sure why this word was used for the animal.
+[^28]: [norðanveðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0457:1)
+[^29]: [skógr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0555:37)
+[^30]: [landsuðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0372:35)
+[^31]: [beittu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0056:31)
