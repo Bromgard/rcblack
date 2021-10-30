@@ -9,16 +9,13 @@ layout: default
 
 En er þeir hǫfðu siglt fyrir Furðustrandir, þá létu þeir ena skozku menn á land ok báðu þau hlaupa[^10] í suðrátt[^11] ok leita landskosta[^12] ok koma aptr áðr þrjú dœgr væri liðin. 
 
+Þau váru svá búin at þau hǫfðu þat klæði er þau kǫlluðu kjafal.[^13] Þat var svá gjǫrt at hattr[^14] var á upp ok opit[^15] at hliðum[^16] ok engar ermar[^17] á, ok kneppt[^18] í milli fóta. Helt  þar  saman  knappr[^19] ok nezla,[^20] en ber[^21] váru þau annars staðar. 
+
+Þeir kǫstuðu akkerum ok lágu þar þessa stund.
 
 
 
-fiau váru svá búin at þau hǫfðu þat klæði er
 
-þau kǫlluðu kjafal þat var svá gjǫrt at hattr var á upp ok opit at hliðum
-ok  engar  ermar  á  ok  kneppt  í  milli  fóta;  helt  þar  saman  knappr  ok
-
-nezla, en ber váru ‹þauð annars staðar. fieir kǫstuðu akkerum ok lágu
-þar þessa stund.
 Ok er þrír dagar váru liðnir hljópu þau af landi ofan ok hafði annat
 þeira í hendi vínber en annat hveiti sjálfsáit.8 Sagði Karlsefni at þau
 þóttusk fundit hafa landskosti góða. Tóku þeir þau á skip sitt ok fóru
@@ -57,4 +54,12 @@ var eigi svá brátt við látit sem þeim var annt til
 [^10]: [hlaupa](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0269:22)
 [^11]: suðr-[átt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0047:20)
 [^12]: [landskosta](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0372:3)
-[^13]: 
+[^13]: [kjafal](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=formquery2&query=kjafall&startrow=1); This entry in the dictionary is faulty. This is a bit of clothing worn by the Gaels accompanying the party, and is actually an Old Irish loan word, [cabhail](https://en.wiktionary.org/wiki/cabhail). The word itself is ultimately a Latin, [cuculla](https://en.wiktionary.org/wiki/cuculla#Latin), and simply means, "cowl," or, "hood."
+[^14]: [hattr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0241:11); Or, in this case, the hood.
+[^15]: [opit](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0466:30)
+[^16]: [hliðum](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0271:1); Along the side.
+[^17]: [ermar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0133:32)
+[^18]: [kneppt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0346:13)
+[^19]: [knappr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0345:24) 
+[^20]: [nezla](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0454:24)
+[^21]: [berr](https://en.wiktionary.org/wiki/berr#Old_Norse)
