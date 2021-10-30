@@ -3,6 +3,8 @@ title: Eiríks saga rauða, Part 2
 layout: default
 ---
 
+# Eiríks saga, 2
+
 Þar var ørœfi ok strandir[^1] langar ok sandar. Fara þeir á bátum til lands ok fundu kjǫl[^2] af skipi ok kǫlluðu þar Kjalarnes.[^3] Þeir gáfu ok nafn strǫndunum ok kǫlluðu Furðustrandir,[^4] því at langt var með at sigla. Þá gjǫrðisk vágskorit[^5] landit ok heldu þeir skipunum at vágunum.[^6] 
 
 Þat var þá er Leifr var með Óláfi konungi Tryggvasyni ok hann bað hann boða kristni á Grœnlandi ok þá gaf konungr honum tvá menn skozka.[^7] Hét karlmaðrinn Haki en konan Hekja. Konungr bað Leif taka til þessara manna ef hann þyrfti[^8] skjótleiks[^9] við, því at þau váru dýrum skjótari. Þessa menn fengu þeir Leifr ok Eiríkr til fylgðar við Karlsefni. 
