@@ -7,14 +7,12 @@ layout: default
 
 Maðr hét Þorvarðr. Hann var mágr Eiríks rauða. Hann fór ok með þeim, ok Þorvaldr, son Eiríks. Þórhallr var kallaðr veiðimaðr.[^8] Hann hafði lengi verit í veiðifǫrum með Eiríki um sumrum ok hafði hann margar varðveizlur.[^9]
 
+Þórhallr var mikill vexti,[^10] svartr ok þursligr. Hann var heldr við aldr,[^11] ódæll í skapi, hljóðlyndr,[^12] fámálugr[^13] hversdagliga,[^14] undirfǫrull[^15] ok þó atmælasamr[^16] ok fýstisk[^17] jafnan hins verra.[^18] Hann hafði lítt við trú blandazk[^19] síðan hon kom á Grœnland. Þórhallr var lítt vinsældum[^20] horfinn, en þó hafði Eiríkr lengi tal[^21] af honum haldit Hann var á skipi með þeim Þorvaldi, því at honum var víða kunnigt í óbyggðum.[^22] Þeir hǫfðu þat skip er Þorbjǫrn hafði út þangat ok réðusk til ferðar með þeim Karlsefni, ok váru þar flestir grœnlenzkir menn á. Á skipum þeira var fjórir tigir manna annars hundraðs.
 
-Þórhallr var mikill vexti,[^10] svartr ok þursligr. Hann var heldr við aldr,[^11] ódæll í skapi, hljóðlyndr,[^12] fámálugr[^13] hversdagliga,[^14] undirfǫrull[^15] ok þó atmælasamr[^16] ok fýstisk[^17] jafnan hins verra.[^18] Hann hafði lítt við trú blandazk[^19] síðan hon kom á Grœnland. Þórhallr var lítt vinsældum[^20] horfinn, en þó hafði Eiríkr lengi tal[^21] af honum haldit Hann var á skipi með þeim Þorvaldi, því at honum var víða kunnigt í óbyggðum.[^21] Þeir hǫfðu þat skip er Þorbjǫrn hafði út þangat ok réðusk til ferðar með þeim Karlsefni, ok váru þar flestir grœnlenzkir menn á. Á skipum þeira var fjórir tigir manna annars hundraðs.
+Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja. Sigldu þeir þaðan undan Bjarneyjum norðanveðr. Váru þeir úti tvau dœgr. 
 
 
-Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja. Sigldu
-þeir þaðan undan Bjarneyjum norðanveðr. Váru þeir úti tvau dœgr. fiá
-
-fundu þeir land ok reru fyrir á bátum ok kǫnnuðu landit ok fundu þar
+fiá fundu þeir land ok reru fyrir á bátum ok kǫnnuðu landit ok fundu þar
 
 hellur margar ok svá stórar at tveir menn máttu vel spyrnask í iljar.
 
@@ -51,3 +49,4 @@ fiar var nes, er þeir kvámu at. fieir beittu með landinu ok létu landit á s
 [^20]: [vinsældum](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0710:4)
 [^21]: [tal](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0623:17)
 [^22]: [óbyggðum](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0658:3)
+[^23]: Vestribyggðar ok til Bjarneyja; _Vestribyggð_ was the northernmost settlement in Norse Greenland. The exact location of the "Bear Islands," is uncertain. This could have been Baffin Island. 
