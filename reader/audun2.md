@@ -27,7 +27,7 @@ layout: default
 
 >26\. "Því heit ek þér," sagði Auðunn.
 
-* [Því](https://en.wiktionary.org/wiki/s%C3%A1#Pronoun_3); The singular neuter genitive pronoun. You can pick up a sense of the genitive when you translate it as, "Of this I..."
+* [Því](https://en.wiktionary.org/wiki/s%C3%A1#Pronoun_3); The singular neuter dative pronoun. You can pick up a sense of the dative when you translate it as, "About this I..."
 * [heit](https://en.wiktionary.org/wiki/heita#Verb_6); We've already seen this verb in the first sentence, but look at the secondary definition--that's the one at work here. Notice the verb in this usage triggers the dative case in the subject. That's why we see _því_.
 
 >27\. Hann ferr nú síðan suðr með landi, ok í Vik austr, ok þá til Danmerkr.
