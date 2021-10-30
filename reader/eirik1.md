@@ -11,15 +11,7 @@ Maðr hét Þorvarðr. Hann var mágr Eiríks rauða. Hann fór ok með þeim, o
 
 Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja.[^23] Sigldu þeir þaðan undan Bjarneyjum norðanveðr. Váru þeir úti tvau dœgr. Þá fundu þeir land ok reru fyrir á bátum ok kǫnnuðu[^24] landit ok fundu þar hellur[^25] margar ok svá stórar at tveir menn máttu vel spyrnask í iljar.[^26] Melrakkar[^27] váru þar margir. Þeir gáfu nafn landinu ok kǫlluðu Helluland.
 
-Þá sigldu þeir norðanveðr[^28] tvau dœgr ok var þá land fyrir þeim ok var á skógr[^29] mikill ok dýr mǫrg.
-
-Ey lá í landsuðr[^30] undan landinu ok fundu þeir þar bjarndýr ok kǫlluðu Bjarney.  
-
-En landit kǫlluðu þeir Markland, þar er skógrinn var.
-
-Þá er liðin váru tvau dœgr, sjá þeir land ok þeir sigldu undir landit.
-
-Þar var nes,[^31] er þeir kvámu at. Þeir beittu[^32] með landinu ok létu landit á stjórnborða.
+Þá sigldu þeir norðanveðr[^28] tvau dœgr ok var þá land fyrir þeim ok var á skógr[^29] mikill ok dýr mǫrg. Ey lá í landsuðr[^30] undan landinu ok fundu þeir þar bjarndýr ok kǫlluðu Bjarney. En landit kǫlluðu þeir Markland, þar er skógrinn var. Þá er liðin váru tvau dœgr, sjá þeir land ok þeir sigldu undir landit. Þar var nes,[^31] er þeir kvámu at. Þeir beittu[^32] með landinu ok létu landit á stjórnborða.
 
 [^1]: [leita](https://en.wiktionary.org/wiki/leita#Old_Norse)
 [^2]: This appears to have been a particular region somewhere in North America.
