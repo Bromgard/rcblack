@@ -1,14 +1,12 @@
 ---
-title: Eirík saga rauða, Part I
+title: Eiríks saga rauða, Part I
 layout: default
 ---
 
+Ætluðu þeir Karlsefni ok Snorri at leita[^1] Vínlands[^2] ok tǫluðu[^3] menn margt um þat. En því lauk[^4] svá at þeir Karlsefni ok Snorri bjuggu [^5] skip sitt ok ætluðu at leita Vínlands um sumarit. Til þeirar ferðar réðusk [^6] þeir Bjarni ok Þórhallr með skip sitt ok þat fǫruneyti [^7] er þeim hafði fylgt.
 
-Ætluðu þeir Karlsefni ok Snorri at leita[^1] Vínlands[^2] ok tǫluðu[^3] menn margt um þat. En því lauk[^4] svá at þeir Karlsefni ok Snorri bjuggu skip sitt ok ætluðu at leita Vínlands um sumarit.
 
-Til þeirar ferðar réðusk þeir Bjarni ok fiórhallr með skip sitt ok þat fǫruneyti er þeim hafði
 
-fylgt.
 Maðr hét fiorvarðr. Hann var mágr Eiríks rauða. ‹Hann fór ok með
 þeim, ok fiorvaldr, son Eiríks.ð
 fiórhallr var kallaðr veiðimaðr.2 Hann hafði lengi verit í veiðifǫrum
@@ -51,4 +49,6 @@ fiar var nes, er þeir kvámu at. fieir beittu með landinu ok létu landit á s
 [^2]: This appears to have been a particular region somewhere in North America.
 [^3]: [tǫluðu](https://en.wiktionary.org/wiki/tala#Etymology_2_5); Notice that this implies that people already seems to have known about the place already.
 [^4]: [lauk](https://en.wiktionary.org/wiki/l%C3%BAka#Old_Norse); That is, the conversation.
-
+[^5]: [bjuggu](https://en.wiktionary.org/wiki/b%C3%BAa#Old_Norse); This is an interesting position in the conjugation paradigm.
+[^6]: [réðusk](https://en.wiktionary.org/wiki/r%C3%A1%C3%B0a#Old_Norse); There's a special nautical meaning of this word that's only touched on in the Cleasby/Vigfusson entry for [ráða](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0486:1). The reference straddles the very end of that page and continues to the next. The idiom, _ráðask til ferðar_ menas to join a nautical expedition of some kind.
+[^7]: [fǫruneyti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0185:32)
