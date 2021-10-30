@@ -1,0 +1,52 @@
+---
+title: Eiríks saga rauða, Part 2
+layout: default
+---
+
+Þar  var  ørœfi  ok  strandir  langar  ok  sandar.  Fara  þeir  á
+bátum til lands ok fundu kjǫl af skipi ok kǫlluðu þar Kjalarnes. fieir
+gáfu ok nafn strǫndunum ok kǫlluðu Furðustrandir,4 því at langt var
+með at sigla. fiá gjǫrðisk vágskorit landit ok heldu þeir skipunum at
+
+vágunum.
+fiat var þá er Leifr var með Óláfi konungi Tryggvasyni ok hann bað
+hann boða kristni á Grœnlandi5 ok þá gaf konungr honum tvá menn
+skozka. Hét karlmaðrinn Haki en konan Hekja. Konungr bað Leif taka
+til þessara manna ef hann þyrfti skjótleiks við, því at þau váru d‡rum
+
+skjótari.6 fiessa menn fengu þeir Leifr ok Eiríkr til fylgðar við Karlsefni.
+En er þeir hǫfðu siglt fyrir Furðustrandir, þá létu þeir ena skozku menn
+á land ok báðu þau hlaupa í suðrátt ok leita landskosta ok koma aptr
+
+áðr þrjú dœgr væri liðin. fiau váru svá búin at þau hǫfðu þat klæði er
+
+þau kǫlluðu kjafal þat var svá gjǫrt at hattr var á upp ok opit at hliðum
+ok  engar  ermar  á  ok  kneppt  í  milli  fóta;  helt  þar  saman  knappr  ok
+
+nezla, en ber váru ‹þauð annars staðar. fieir kǫstuðu akkerum ok lágu
+þar þessa stund.
+Ok er þrír dagar váru liðnir hljópu þau af landi ofan ok hafði annat
+þeira í hendi vínber en annat hveiti sjálfsáit.8 Sagði Karlsefni at þau
+þóttusk fundit hafa landskosti góða. Tóku þeir þau á skip sitt ok fóru
+leiðar  sinnar,  þar  til  er  varð  fjarðskorit.  fieir  lǫgðu  skipunum  inn  á
+
+fjǫrð ‹eðinn. fiar var ey ein út fyrir ok váru þar straumar mikli‹rð ok um
+eyna; þeir kǫlluðu hana Straumsey. Fugl var þar svá margr at trautt
+
+mátti fœti niðr koma í milli eggjanna. fieir heldu inn með firðinum ok
+
+kǫlluðu hann Straumsfjǫrð ok báru farminn af skipunum ok bjuggusk
+
+þar um. fieir hǫfðu með sér alls konar fé9 ok leituðu sér þar landsnytja.
+Fjǫll váru þar ok fagrt var þar um at litask. fieir gáðu einskis nema at
+
+kanna landit. fiar váru grǫs mikil. fiar váru þeir um vetrinn ok gjǫrðisk
+
+vetr mikill, en ekki fyrir unnit, ok gjǫrðisk illt til matarins, ok tókusk
+
+af veiðarnar. fiá fóru þeir út í eyna ok væntu at þar mundi gefa nǫkkut
+af veiðum eða rekum. fiar var þó lítit til matfanga en fé þeira varð þar
+
+vel. Síðan hétu þeir á Guð, at hann sendi þeim nǫkkut til matfanga ok
+
+var eigi svá brátt við látit sem þeim var annt til
