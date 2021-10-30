@@ -48,5 +48,7 @@ fiar var nes, er þeir kvámu at. fieir beittu með landinu ok létu landit á s
 [^19]: [blandazk](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0067:6)
 [^20]: [vinsældum](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0710:4)
 [^21]: [tal](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0623:17)
+
 [^22]: [óbyggðum](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0658:3)
+
 [^23]: Vestribyggðar ok til Bjarneyja; _Vestribyggð_ was the northernmost settlement in Norse Greenland. The exact location of the "Bear Islands," is uncertain. This could have been Baffin Island. 
