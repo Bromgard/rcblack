@@ -13,13 +13,15 @@ En er þeir hǫfðu siglt fyrir Furðustrandir, þá létu þeir ena skozku menn
 
 Þeir kǫstuðu akkerum ok lágu þar þessa stund.
 
+Ok er þrír dagar váru liðnir hljópu þau af landi ofan ok hafði annat þeira í hendi vínber[^22] en annat hveiti sjálfsáit.[^23] Sagði Karlsefni at þau þóttusk fundit hafa landskosti góða. 
+
+
+Tóku þeir þau á skip sitt ok fóru leiðar sinnar, þar til er varð fjarðskorit.[^23]
 
 
 
-Ok er þrír dagar váru liðnir hljópu þau af landi ofan ok hafði annat
-þeira í hendi vínber en annat hveiti sjálfsáit.8 Sagði Karlsefni at þau
-þóttusk fundit hafa landskosti góða. Tóku þeir þau á skip sitt ok fóru
-leiðar  sinnar,  þar  til  er  varð  fjarðskorit.  fieir  lǫgðu  skipunum  inn  á
+
+fieir  lǫgðu  skipunum  inn  á
 
 fjǫrð ‹eðinn. fiar var ey ein út fyrir ok váru þar straumar mikli‹rð ok um
 eyna; þeir kǫlluðu hana Straumsey. Fugl var þar svá margr at trautt
@@ -63,3 +65,7 @@ var eigi svá brátt við látit sem þeim var annt til
 [^19]: [knappr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0345:24) 
 [^20]: [nezla](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0454:24)
 [^21]: [berr](https://en.wiktionary.org/wiki/berr#Old_Norse)
+[^22]: [vínber](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0717:14)
+[^23]: [hveiti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0299:6) [sjálfsáit](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0534:29); "Self sown wheat," so, some kind of wild wheat. This doesn't exist naturally anywhere in North America, so who knows that this really means.
+[^24]: [fjarð](https://en.wiktionary.org/wiki/fj%C7%ABr%C3%B0r#Old_Norse)- [skorit](https://en.wiktionary.org/wiki/skera#Old_Norse); Sco
+
