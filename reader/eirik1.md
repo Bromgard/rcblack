@@ -7,9 +7,10 @@ layout: default
 
 
 
-Maðr hét fiorvarðr. Hann var mágr Eiríks rauða. ‹Hann fór ok með
-þeim, ok fiorvaldr, son Eiríks.ð
-fiórhallr var kallaðr veiðimaðr.2 Hann hafði lengi verit í veiðifǫrum
+Maðr hét Þorvarðr. Hann var mágr Eiríks rauða. Hann fór ok með þeim, ok Þorvaldr, son Eiríks.
+
+
+Þórhallr var kallaðr veiðimaðr. [^8] Hann hafði lengi verit í veiðifǫrum
 með Eiríki um sumrum ok hafði hann margar varðveizlur. fiórhallr var
 
 mikill vexti, svartr ok þursligr. Hann var heldr við aldr, ódæll í skapi,
@@ -52,3 +53,4 @@ fiar var nes, er þeir kvámu at. fieir beittu með landinu ok létu landit á s
 [^5]: [bjuggu](https://en.wiktionary.org/wiki/b%C3%BAa#Old_Norse); This is an interesting position in the conjugation paradigm.
 [^6]: [réðusk](https://en.wiktionary.org/wiki/r%C3%A1%C3%B0a#Old_Norse); There's a special nautical meaning of this word that's only touched on in the Cleasby/Vigfusson entry for [ráða](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0486:1). The reference straddles the very end of that page and continues to the next. The idiom, _ráðask til ferðar_ menas to join a nautical expedition of some kind.
 [^7]: [fǫruneyti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0185:32)
+[^8]: [veiði-maðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=formquery2&query=veithi+@loose)
