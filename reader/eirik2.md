@@ -13,24 +13,11 @@ En er þeir hǫfðu siglt fyrir Furðustrandir, þá létu þeir ena skozku menn
 
 Þeir kǫstuðu akkerum ok lágu þar þessa stund.
 
-Ok er þrír dagar váru liðnir hljópu þau af landi ofan ok hafði annat þeira í hendi vínber[^22] en annat hveiti sjálfsáit.[^23] Sagði Karlsefni at þau þóttusk fundit hafa landskosti góða. 
-
-
-Tóku þeir þau á skip sitt ok fóru leiðar sinnar, þar til er varð fjarðskorit.[^23]
+Ok er þrír dagar váru liðnir hljópu þau af landi ofan ok hafði annat þeira í hendi vínber[^22] en annat hveiti sjálfsáit.[^23] Sagði Karlsefni at þau þóttusk fundit hafa landskosti góða. Tóku þeir þau á skip sitt ok fóru leiðar sinnar, þar til er varð fjarðskorit.[^24] Þeir lǫgðu skipunum inn á fjǫrð einn. Þar var ey ein út fyrir ok váru þar straumar[^25] miklir ok um eyna. Þeir kǫlluðu hana Straumsey. Fugl var þar svá margr at trautt[^26] mátti fœti niðr koma í milli eggjanna. Þeir heldu inn með firðinum ok kǫlluðu hann Straumsfjǫrð ok báru farminn af skipunum ok bjuggusk þar um. 
 
 
 
-
-fieir  lǫgðu  skipunum  inn  á
-
-fjǫrð ‹eðinn. fiar var ey ein út fyrir ok váru þar straumar mikli‹rð ok um
-eyna; þeir kǫlluðu hana Straumsey. Fugl var þar svá margr at trautt
-
-mátti fœti niðr koma í milli eggjanna. fieir heldu inn með firðinum ok
-
-kǫlluðu hann Straumsfjǫrð ok báru farminn af skipunum ok bjuggusk
-
-þar um. fieir hǫfðu með sér alls konar fé9 ok leituðu sér þar landsnytja.
+fieir hǫfðu með sér alls konar fé9 ok leituðu sér þar landsnytja.
 Fjǫll váru þar ok fagrt var þar um at litask. fieir gáðu einskis nema at
 
 kanna landit. fiar váru grǫs mikil. fiar váru þeir um vetrinn ok gjǫrðisk
@@ -67,5 +54,8 @@ var eigi svá brátt við látit sem þeim var annt til
 [^21]: [berr](https://en.wiktionary.org/wiki/berr#Old_Norse)
 [^22]: [vínber](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0717:14)
 [^23]: [hveiti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0299:6) [sjálfsáit](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0534:29); "Self sown wheat," so, some kind of wild wheat. This doesn't exist naturally anywhere in North America, so who knows that this really means.
-[^24]: [fjarð](https://en.wiktionary.org/wiki/fj%C7%ABr%C3%B0r#Old_Norse)- [skorit](https://en.wiktionary.org/wiki/skera#Old_Norse); Sco
+[^24]: [fjarð](https://en.wiktionary.org/wiki/fj%C7%ABr%C3%B0r#Old_Norse)- [skorit](https://en.wiktionary.org/wiki/skera#Old_Norse); Scorred with fjords.
+[^25]: [straumar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0597:18)
+[^26]: [trautt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0639:25)
+[^27]: 
 
