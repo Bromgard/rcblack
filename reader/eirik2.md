@@ -3,23 +3,15 @@ title: Eiríks saga rauða, Part 2
 layout: default
 ---
 
-Þar var ørœfi ok strandir[^1] langar ok sandar. Fara þeir á bátum til lands ok fundu kjǫl[^2] af skipi ok kǫlluðu þar Kjalarnes.[^3] Þeir gáfu ok nafn strǫndunum ok kǫlluðu Furðustrandir,[^4] því at langt var með at sigla. Þá gjǫrðisk vágskorit[^5] landit ok heldu þeir skipunum at vágunum.[^6] Þat var þá er Leifr var með Óláfi konungi Tryggvasyni ok hann bað hann boða kristni á Grœnlandi ok þá gaf konungr honum tvá menn skozka.[^7] Hét karlmaðrinn Haki en konan Hekja. 
+Þar var ørœfi ok strandir[^1] langar ok sandar. Fara þeir á bátum til lands ok fundu kjǫl[^2] af skipi ok kǫlluðu þar Kjalarnes.[^3] Þeir gáfu ok nafn strǫndunum ok kǫlluðu Furðustrandir,[^4] því at langt var með at sigla. Þá gjǫrðisk vágskorit[^5] landit ok heldu þeir skipunum at vágunum.[^6] Þat var þá er Leifr var með Óláfi konungi Tryggvasyni ok hann bað hann boða kristni á Grœnlandi ok þá gaf konungr honum tvá menn skozka.[^7] Hét karlmaðrinn Haki en konan Hekja. Konungr bað Leif taka til þessara manna ef hann þyrfti[^8] skjótleiks[^9] við, því at þau váru dýrum skjótari. Þessa menn fengu þeir Leifr ok Eiríkr til fylgðar við Karlsefni.
+
+
+En er þeir hǫfðu siglt fyrir Furðustrandir, þá létu þeir ena skozku menn á land ok báðu þau hlaupa[^10] í suðrátt[^11] ok leita landskosta[^12] ok koma aptr áðr þrjú dœgr væri liðin. 
 
 
 
 
-
-
-Konungr bað Leif taka til þessara manna ef hann þyrfti skjótleiks við, því at þau váru dýrum skjótari 
-
-
-
-
-fiessa menn fengu þeir Leifr ok Eiríkr til fylgðar við Karlsefni.
-En er þeir hǫfðu siglt fyrir Furðustrandir, þá létu þeir ena skozku menn
-á land ok báðu þau hlaupa í suðrátt ok leita landskosta ok koma aptr
-
-áðr þrjú dœgr væri liðin. fiau váru svá búin at þau hǫfðu þat klæði er
+fiau váru svá búin at þau hǫfðu þat klæði er
 
 þau kǫlluðu kjafal þat var svá gjǫrt at hattr var á upp ok opit at hliðum
 ok  engar  ermar  á  ok  kneppt  í  milli  fóta;  helt  þar  saman  knappr  ok
@@ -59,4 +51,9 @@ var eigi svá brátt við látit sem þeim var annt til
 [^5]: [vágskorit](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0178:21)
 [^6]: [vágunum](https://en.wiktionary.org/wiki/v%C3%A1gr)
 [^7]: [skozka](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0555:7); These two people were probably British Gaels, however this word sometimes also applied to the Gaels who lived in Ireland as well. This passage is a brief flashback that explains the presence of these thralls.
-[^8]: 
+[^8]: [þyrfti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0749:27)
+[^9]: [skjótleiks](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0553:6)
+[^10]: [hlaupa](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0269:22)
+[^11]: suðr-[átt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0047:20)
+[^12]: [landskosta](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0372:3)
+[^13]: 
