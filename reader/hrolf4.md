@@ -2,6 +2,7 @@
 
 >72\. Þeir gøra nu svá. Eptir þat fara þeir heim ok hafa kyrrt um sik, ok veit enginn maðr hvat þeir hafa iðjat.
 
+* [kyrrt](https://en.wiktionary.org/wiki/kyrr#Old_Norse)
 * [veit](https://en.wiktionary.org/wiki/vita#Old_Norse)
 * [iðjat](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0313:12)
 
@@ -75,6 +76,7 @@
 
 >83\. Hǫttr mælti, "Gef mér til sverðit Gullinhjalta, er þú heldr á, ok skal ek þá fella dýrit eða fá bana."
 
+* [fella](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0151:3)
 * [Gullin](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0221:2)-[hjalta](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0265:23); A compound name for the sword. Note that _hjalt_, although cognate with English _hilt_ is the boss of the sword. _Beowulf_ also has a sword named, _Gyldenhilt_.
 
 >84\. Hrólfr konungr mælti, "þetta sverð er ekki beranda nema þeim manni sem bæði er góðr drengr ok hraustr."
@@ -101,7 +103,7 @@
 >87\. Nú tak við sverðinu ok njót manna bezt, ef þetta er til unnit."
 
 * [njót](https://en.wiktionary.org/wiki/nj%C3%B3ta#Old_Norse)
-* til [unnit](https://en.wiktionary.org/wiki/vinna#Old_Norse); "desired."
+* til [unnit](https://en.wiktionary.org/wiki/vinna#Old_Norse); "desired," or, "accomplished."
 
 >88\. Síðan gengr Hǫttr at dýrinu alldjarfliga ok høggr til þess, þá hann kemr í hǫggfœri. 
 
@@ -135,7 +137,7 @@
 
 >94\. Ok endar hér þennan þátt frá Bǫðvari ok brœðrum hans.
 
-* [þátt](https://en.wiktionary.org/wiki/%C3%BE%C3%A1ttur); Also see [þáttr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0732:10). Literally a "thread," but used here as a metaphorical literary term. The Icelandic sagas are actually collections of smaller "threads" that run alongside each other, or in sequence. _Hrólf saga karaka_ is no different, and the story of Bǫðvarr Bjarki is one of these. The word is often used to mean, "short story," or a short saga.
+* [þátt](https://en.wiktionary.org/wiki/%C3%BE%C3%A1ttur); Also see [þáttr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0732:10). Literally a "thread," but used here as a metaphorical literary term. The Icelandic sagas are actually collections of smaller "threads" that run alongside each other, or in sequence. _Hrólf saga kraka_ is no different, and the story of Bǫðvarr Bjarki is one of these. The word is often used to mean, "short story," or a short saga.
 
 <div style="float: left"><a href="http://rcblack.net/reader/hrolf3">⇦</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
