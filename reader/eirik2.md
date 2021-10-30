@@ -13,23 +13,9 @@ En er þeir hǫfðu siglt fyrir Furðustrandir, þá létu þeir ena skozku menn
 
 Þeir kǫstuðu akkerum ok lágu þar þessa stund.
 
-Ok er þrír dagar váru liðnir hljópu þau af landi ofan ok hafði annat þeira í hendi vínber[^22] en annat hveiti sjálfsáit.[^23] Sagði Karlsefni at þau þóttusk fundit hafa landskosti góða. Tóku þeir þau á skip sitt ok fóru leiðar sinnar, þar til er varð fjarðskorit.[^24] Þeir lǫgðu skipunum inn á fjǫrð einn. Þar var ey ein út fyrir ok váru þar straumar[^25] miklir ok um eyna. Þeir kǫlluðu hana Straumsey. Fugl var þar svá margr at trautt[^26] mátti fœti niðr koma í milli eggjanna. Þeir heldu inn með firðinum ok kǫlluðu hann Straumsfjǫrð ok báru farminn af skipunum ok bjuggusk þar um. 
+Ok er þrír dagar váru liðnir hljópu þau af landi ofan ok hafði annat þeira í hendi vínber[^22] en annat hveiti sjálfsáit.[^23] Sagði Karlsefni at þau þóttusk fundit hafa landskosti góða. Tóku þeir þau á skip sitt ok fóru leiðar sinnar, þar til er varð fjarðskorit.[^24] Þeir lǫgðu skipunum inn á fjǫrð einn. Þar var ey ein út fyrir ok váru þar straumar[^25] miklir ok um eyna. Þeir kǫlluðu hana Straumsey. Fugl var þar svá margr at trautt[^26] mátti fœti niðr koma í milli eggjanna. Þeir heldu inn með firðinum ok kǫlluðu hann Straumsfjǫrð ok báru farminn af skipunum ok bjuggusk þar um. Þeir hǫfðu með sér alls konar[^27] fé ok leituðu sér þar landsnytja.[^28] Fjǫll váru þar ok fagrt var þar um at litask. Þeir gáðu[^29] einskis[^30] nema at kanna landit. Þar váru grǫs mikil. Þar váru þeir um vetrinn ok gjǫrðisk vetr mikill, en ekki fyrir unnit, ok gjǫrðisk illt til matarins, ok tókusk af veiðarnar. Þá fóru þeir út í eyna ok væntu at þar mundi gefa nǫkkut af veiðum eða rekum.[^31] Þar var þó lítit til matfanga en fé þeira varð þar vel. 
 
-
-
-fieir hǫfðu með sér alls konar fé9 ok leituðu sér þar landsnytja.
-Fjǫll váru þar ok fagrt var þar um at litask. fieir gáðu einskis nema at
-
-kanna landit. fiar váru grǫs mikil. fiar váru þeir um vetrinn ok gjǫrðisk
-
-vetr mikill, en ekki fyrir unnit, ok gjǫrðisk illt til matarins, ok tókusk
-
-af veiðarnar. fiá fóru þeir út í eyna ok væntu at þar mundi gefa nǫkkut
-af veiðum eða rekum. fiar var þó lítit til matfanga en fé þeira varð þar
-
-vel. Síðan hétu þeir á Guð, at hann sendi þeim nǫkkut til matfanga ok
-
-var eigi svá brátt við látit sem þeim var annt til
+Síðan hétu þeir á Guð, at hann sendi þeim nǫkkut til matfanga ok var eigi svá brátt við látit sem þeim var annt[^32] til.
 
 [^1]: [Strandir](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0599:26)
 [^2]: [kjǫl](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0341:8)
@@ -57,5 +43,9 @@ var eigi svá brátt við látit sem þeim var annt til
 [^24]: [fjarð](https://en.wiktionary.org/wiki/fj%C7%ABr%C3%B0r#Old_Norse)- [skorit](https://en.wiktionary.org/wiki/skera#Old_Norse); Scorred with fjords.
 [^25]: [straumar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0597:18)
 [^26]: [trautt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0639:25)
-[^27]: 
-
+[^27]: [konar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0350:18)
+[^28]: [landsnytja](https://old-icelandic.vercel.app/word/landsnytjar)
+[^29]: [gáðu](https://en.wiktionary.org/wiki/g%C3%A1#Verb_2)
+[^30]: [einskis](https://en.wiktionary.org/wiki/engi#Pronoun)
+[^31]: [rekum](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0492:10)
+[^32]: [annt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0022:17)
