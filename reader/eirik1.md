@@ -1,5 +1,5 @@
 ---
-title: Eiríks saga rauða, Part I
+title: Eiríks saga rauða, Part 1
 layout: default
 ---
 
