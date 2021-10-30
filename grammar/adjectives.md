@@ -23,9 +23,9 @@ The Proto-Indo-European noun was modified by three different conditional constru
 
 Just as in contemporary speech, there is overlap between these categories. Nouns may easily function as adjectives and vice versa.
 
-Because of this natural overlap, it is possible that before the reconstructed phase of Indo-European development, adjectives and nouns shared the same declensions. However there is evidence in the reconstructed PIE, that the distinction between natural nouns and adjectives, and their declensions were becoming more distinct from each other. In modern Indo-European languages that retain a system of declension, the individual behaviors of adjectives and nouns are gradually becoming more idiomatic.
+Because of this overlap, it is possible that before the reconstructed phase of Indo-European development, adjectives and nouns shared the same declensions. However there is evidence in the reconstructed PIE, that the distinction between natural nouns and adjectives, and their declensions were becoming more distinct from each other. In modern Indo-European languages that retain a system of declension, the individual behaviors of adjectives and nouns are gradually becoming more idiomatic.
 
-### The strong declensions
+### The strong adjectival declensions
 
 Because early adjectives and nouns developed so closely, the strong adjectival declensions are very similar to the noun declensions in that there is a well-populated category of _-a_ and _-o_ stems (the "default" declensions below) and _-ja_ and _-wa_ stems. The word, [langr](https://en.wiktionary.org/wiki/langr) is a good example of the "basic" strong declension.
 
