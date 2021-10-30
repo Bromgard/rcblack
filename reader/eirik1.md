@@ -9,7 +9,7 @@ Maðr hét Þorvarðr. Hann var mágr Eiríks rauða. Hann fór ok með þeim, o
 
 Þórhallr var mikill vexti,[^10] svartr ok þursligr. Hann var heldr við aldr,[^11] ódæll í skapi, hljóðlyndr,[^12] fámálugr[^13] hversdagliga,[^14] undirfǫrull[^15] ok þó atmælasamr[^16] ok fýstisk[^17] jafnan hins verra.[^18] Hann hafði lítt við trú blandazk[^19] síðan hon kom á Grœnland. Þórhallr var lítt vinsældum[^20] horfinn, en þó hafði Eiríkr lengi tal[^21] af honum haldit Hann var á skipi með þeim Þorvaldi, því at honum var víða kunnigt í óbyggðum.[^22] Þeir hǫfðu þat skip er Þorbjǫrn hafði út þangat ok réðusk til ferðar með þeim Karlsefni, ok váru þar flestir grœnlenzkir menn á. Á skipum þeira var fjórir tigir manna annars hundraðs.
 
-Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja. Sigldu þeir þaðan undan Bjarneyjum norðanveðr. Váru þeir úti tvau dœgr. 
+Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja. Sigldu þeir þaðan undan Bjarneyjum norðanveðr.[^23] Váru þeir úti tvau dœgr. 
 
 
 fiá fundu þeir land ok reru fyrir á bátum ok kǫnnuðu landit ok fundu þar
