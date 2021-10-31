@@ -1,45 +1,60 @@
-Þórhallr hvarf á brott ok gengu menn at leita hans. Stóð þat yÞr þrjú
-dœgr í samt. Á hinu fjórða dœgri fundu þeir Karlsefni ok Bjarni hann
-Þórhall  á  hamargnípu  einni.  Hann  horfði  í  lopt  upp  ok  gapði  hann
-bæði augum ok munni ok nǫsum ok klóraði sér ok kl‡pti sik ok þulði
+---
+title: Eiriks saga 2
+style: default
+___
 
-nǫkkut. Þeir spurðu því hann væri þar kominn. Hann kvað þat øngu
+# Eiríks saga 2
 
-skipta;  bað  hann  þá  ekki  þat  undrask,  kvezk  svá  lengst  lifat  hafa  at
+Þórhallr hvarf[^1] á brott ok gengu menn at leita hans. Stóð þat yfir þrjú dœgr í samt. Á hinu fjórða dœgri fundu þeir Karlsefni ok Bjarni hann Þórhall á hamargnípu[^2] einni. Hann  horfði[^3] í lopt upp ok gapði[^4] hann bæði augum ok munni ok nǫsum ok klóraði[^4] sér ok klýpti[^5] sik ok þulði[^6] nǫkkut. Þeir spurðu því hann væri þar kominn. Hann kvað þat øngu skipta.[^7] bað hann þá ekki þat undrask, kvezk svá lengst lifat hafa at þeir þurftu ekki ráð fyrir honum at gjǫra. Þeir báðu hann fara heim með sér. Hann gjǫrði svá.
 
-þeir þurftu ekki ráð fyrir honum at gjǫra. Þeir báðu hann fara heim
+Litlu síðar kom þar hvalr, ok drifu menn til ok skáru hann, en þó kenndu menn eigi hvat hvala þat var. Karlsefni kunni mikla skyn[^8] á hvǫlum ok kenndi hann þó eigi. Þenna hval suðu matsveinar[^9] ok átu[^10] af ok varð þó ǫllum illt af. 
 
-með sér. Hann gjǫrði svá.
-Litlu síðar kom þar hvalr, ok drifu menn til ok skáru hann, en þó
-kenndu menn eigi hvat hval‹að þat var. Karlsefni kunni mikla skyn á
-hvǫlum ok kenndi hann þó eigi. Þenna hval suðu matsveinar ok átu af
-ok varð þó ǫllum illt af.
-Þá gengr Þórhallr at ok mælti: ‘Var eigi svá at hinn rauðskeggjaði
-varð drjúgari en Kristr yðvarr? Þetta hafða ek nú fyrir skáldskap minn,
-er ek orta um Þór fulltrúann. Sjaldan heÞr hann mér brugðizk.’
-Ok  er  menn  vissu  þetta  vildu  øngvir  n‡ta  ok  kǫstuðu  fyrir  bjǫrg
-ofan ok sneru sínu máli til Guðs miskunnar. Gaf þeim þá út at róa ok
+Þá gengr Þórhallr at ok mælti, "Var eigi svá at hinn rauðskeggjaði[^11] varð drjúgari[^12] en Kristr yðvarr? Þetta hafða ek nú fyrir skáldskap minn, er ek orta[^13] um Þór fulltrúann.[^14] Sjaldan hefir hann mér brugðizk."[^14]
 
-skorti þá eigi birgðir.10
- Um várit fara þeir inn í Straumsfjǫrð ok hǫfðu fǫng af hvárutveggja
+Ok er menn vissu þetta vildu øngvir[^15] nýta ok kǫstuðu fyrir bjǫrg ofan ok sneru sínu máli til Guðs miskunnar. Gaf þeim þá út at róa[^16] ok skorti[^17] þá eigi birgðir.[^18]
+
+Um várit fara þeir inn í Straumsfjǫrð ok hǫfðu fǫng af hvárutveggja
 landinu, veiðar af meginlandinu, eggver ok útróðra af sjónum.
 
-## 10
+## 9
 
-Karlsefni  fór  suðr  fyrir  land  ok  Snorri  ok  Bjarni  ok  annat  lið  þeira.
+Karlsefni fór suðr fyrir land ok Snorri ok Bjarni ok annat lið þeira.
 
-Þeir fóru lengi ok til þess er þeir kvámu at á þeiri er fell af landi ofan ok
+Þeir fóru lengi ok til þess er þeir kvámu at á[^19] þeiri er fell af landi ofan ok í vatn ok svá til sjóvar. Eyrar váru þar miklar fyrir árósinum,[^20] ok mátti eigi komask inn í ána nema at háflœðum.[^21] Sigldu þeir Karlsefni þá til áróssins ok kǫlluðu í Hópi[^22] landit. Þar fundu þeir sjálfsána hveitiakra[^23] þar sem lægðir[^24] váru, en vínviðr[^25] allt þar sem holta[^26] kenndi. Hverr lœkr[^27] var þar fullr af fiskum. 
 
-í vatn ok svá til sjóvar. Eyrar váru þar miklar fyrir árósinum, ok mátti
-eigi komask inn í ána nema at háþœðum. Sigldu þeir Karlsefni þá til
+Þeir gjǫrðu þar grafir[^28] sem landit mœttisk[^29] ok flóðit[^30] gekk efst.[^31] Ok er út fell váru helgir fiskar[^32] í grǫfunum. Þar var mikill fjǫlði dýra á skógi með ǫllu móti.[^33] Þeir váru þar hálfan mánuð ok skemmtu[^34] sér ok urðu við ekki varir.[^35] Fé sitt hǫfðu þeir með sér.
 
-áróssins ok kǫlluðu í Hópi12 landit. Þar fundu þeir sjálfsána hveitiakra
-þar sem lægðir váru, en vínviðr allt þar sem holta kenndi. Hverr lœkr
-
-var þar fullr af Þskum. Þeir gjǫrðu þar graÞr sem landit mœttisk ok
-
-þóðit  gekk  efst;  ok  er  út  fell  váru  helgir  Þskar  í  grǫfunum.  Þar  var
-
-mikill fjǫlði d‡ra á skógi með ǫllu móti. Þeir váru þar hálfan mánuð
-
-ok skemmtu sér ok urðu við ekki varir. Fé sitt hǫfðu þeir með sér.
+[^1]: [hvarf](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0299:22)
+[^2]: [hamargnípu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0235:26)
+[^3]: [horfði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0279:15)
+[^4]: [gapði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0191:22)
+[^5]: [klóraði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0344:3)
+[^6]: [klýpti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0344:31)
+[^7]: [þulði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0753:38); So, this appears to be some kind of pagan ritual. This may have been not much more than the imaginings of a Christian writer.
+[^8]: [skyn](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0563:7)
+[^9]: [matsveinar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0414:67)
+[^10]: [átu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=formquery2&query=eta&startrow=1)
+[^11]: The "red-bearded" one.
+[^12]: [drjúgari](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0107:9)
+[^13]: [orta](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0726:45)
+[^14]: [fulltrúann](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0178:1); From the entry for the prefix, _full-_. 
+[^15]: [øngvir](https://en.wiktionary.org/wiki/engi#Old_Norse); Look closely at the alternate forms.
+[^16]: [róa](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0502:11); 
+[^17]: [skorti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0555:1)
+[^18]: [birgðir](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0063:5)
+[^20]: [á-róss](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0039:1); The sub-entries on this page isn't in bold type. The mouth of the river.
+[^21]: [háflœðum](https://old-norse.net/html/h.php#h%C3%A1r)
+[^22]: [Hóp](https://old-norse.net/html/h.php#h%C3%B3p); A generic term for this kind of location.
+[^23]: sjálf-[https://old-norse.net/html/s.php#s%C3%A12] [hveitiakra]()https://old-norse.net/html/h.php#hveitiakr
+[^24]: [lægð](https://old-norse.net/html/l.php#l%C3%A6g%C3%B0)
+[^25]: [vínviðr](https://old-norse.net/html/v.php#v%C3%ADnvi%C3%B0r)
+[^26]: [holta](https://old-norse.net/html/h.php#holt)
+[^27]: [lækr](https://old-norse.net/html/l.php#l%C3%A6kr2)
+[^28]: [grafir](https://old-norse.net/html/l.php#l%C3%A6kr2); What's going on here is that they are digging holes in the tidal pools so that fish get trapped in them when the tide rolls out.
+[^29]: [mœttisk](https://old-norse.net/html/m.php#m%C3%A6ta)
+[^30]: [flóðit](https://old-norse.net/html/f.php#fl%C3%B3%C3%B0)
+[^31]: [efst](https://old-norse.net/html/e.php#efri-I)
+[^32]: "Holy fish." In English this used to be, "Holy bait," but is now contracted to "halibut." Fish were allowed to be eaten on fasting days and on Friday.
+[^33]: með ǫllu [móti](https://old-norse.net/html/m.php#m%C3%B3t2); Find, "every shape and manner..."
+[^34]: [skemmtu](https://old-norse.net/html/s.php#skemta)
+[^35]: [varir](https://old-norse.net/html/v.php#varr)
