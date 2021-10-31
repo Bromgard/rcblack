@@ -49,7 +49,9 @@ Acc. | langa     | langar   | lǫng
 Dat. | lǫngum    | lǫngum   | lǫngum
 Gen. | langra     | langra  | langra
 
-Note the changes exhibited by the _-ll_ in _gamal_. The _-ll_ of this word eclipses and contracts the initial part of the grammar suffix.
+### The _-ll_ and _-nn_ adjectives
+
+Note the changes exhibited by the _-ll_ in _gamal_. The _-ll_ of this word syncopates the grammar suffix. Other adjectives that and with, _-nn_ like [vænn](https://en.wiktionary.org/wiki/v%C3%A6nn#Old_Norse) exhibited a similar pattern.
 
 #### Singular
 
@@ -68,6 +70,8 @@ Nom. | gamlir     | gamlar  | gǫmul
 Acc. | gamla     | gamlar   | gǫmul
 Dat. | gǫmlum    | gǫmlum   | gǫmlum
 Gen. | gamalla     | gamalla  | gamalla
+
+### Root _-r_ adjectives
 
 Some adjectives like [fagr](https://en.wiktionary.org/wiki/langr) have a terminal _-r_ that is part of the root of the word and is not a grammatical ending.
 
@@ -89,6 +93,8 @@ Acc. | fagra     | fagrar   | fǫgr
 Dat. | fǫgrum    | fǫgrum   | fǫgrum
 Gen. | fagra    | fagra  | fagra
 
+### Adjectives that end with a vowel
+
 Among those declensions that display patterns of contraction are the words that have a root that ends with a vowel, such as [blár](https://en.wiktionary.org/wiki/bl%C3%A1r#Old_Norse). 
 
 #### Singular
@@ -108,6 +114,8 @@ Nom. | bláir     | bláar  | blá
 Acc. | bláa     | bláar   | blá
 Dat. | bláum    | bláum   | bláum
 Gen. | blárra   | blárra  | blárra
+
+### _annarr_
 
 Another declension pattern to make note of, just because of it's peculiarities, is _annarr_. Also note that this word only declines strongly.
 
@@ -173,22 +181,3 @@ Acc. | gløggva   | gløggvar   | gløgg
 Dat. | gløggum    | gløggum   | gløggum
 Gen. | gløggra   | gløggra  | gløggra
 
-### The Weak Declension
-
-#### Singular
-
-Case | Masculine | Feminine | Neuter
------|-----------|----------|-------
-Nom. | langi     | langa     | langa
-Acc. | langa    | lǫngu    | langa
-Dat. | langa    | lǫngu   | langa
-Gen. | langa     | lǫngu  | langa
-
-#### Plural
-
-Case | Masculine | Feminine | Neuter
------|-----------|----------|-------
-Nom. | lǫngu     | lǫngu  | lǫngu
-Acc. | lǫngu     | lǫngu   | lǫngu
-Dat. | lǫngum    | lǫngum   | lǫngum
-Gen. | lǫngu     | lǫngu  | lǫngu
