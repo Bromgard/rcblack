@@ -72,7 +72,7 @@
 >12\. Hann hóf þar frásǫgn at..."þrír Æsir fóru heiman, Óðinn ok Loki ok Hœnir, ok fóru um fjǫll ok eyðimerkr ok var illt til matar.
 
 * [hóf](https://en.wiktionary.org/wiki/hefja#Old_Norse) at; 
-* [frásǫgn][http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0171:50]; Here begins the principal story told by Bragi.
+* [frásǫgn](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0171:50); Here begins the principal story told by Bragi.
 * [Loki](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0397:41)
 * [Hœnir](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0305:38)
 * [fjǫll](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0156:18)
