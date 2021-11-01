@@ -87,18 +87,7 @@ The weak neuter nouns are exemplified by the declension pattern for the word, [h
 | Nom.        | hjarta                     | hjartat                  | hjǫrtu                      | hjǫrtun     |
 | Acc.        | hjarta                     | hjartat                  | hjǫrtu                      | hjǫrtun     |
 | Dat.        | hjarta                     | hjartanu                 | hjǫrtum                     | hjǫrtunum   |
-| Gen.        | hjarta                     | hjartans                 | hjartna                     | hjǫrtnanna        |
-https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hert%C3%B4
+| Gen.        | hjarta                     | hjartans                 | hjartna                     | hjǫrtnanna  |
+
 Note the _-n-_ in the genitive plural. Like some of the masculine neuter words, this comes from the genitive ending in our reconstruction for Proto-Germanic [*hertô](https://en.wiktionary.org/wiki/Reconstruction:Proto-Germanic/hert%C3%B4).
-
-
-
-
-
-
-
-
-
-
-
 
