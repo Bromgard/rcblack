@@ -59,7 +59,7 @@
 * [áfenginn](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0040:6)
 * [mjǫðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0433:4)
 
->10\. Næsti maðr Ægi sat Bragi, ok áttusk þeir við drykkju ok orðaskipti.9
+>10\. Næsti maðr Ægi sat Bragi, ok áttusk þeir við drykkju ok orðaskipti.
 
 * [Bragi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0075:21); Remember, this narrative is part of a handbook on Nordic poetry.
 * [áttusk](https://en.wiktionary.org/wiki/eiga#Old_Norse); Remember when Bǫðvar Bjarki wrestled with Hǫtt? The same word is used there. Here Bragi and Ægir are engaging each other in both drinking and word play.
