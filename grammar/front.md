@@ -122,6 +122,30 @@ layout: default
 
 ## Grammar
 
-### Nominals
+### Nouns
 
+* [Grammatical Case](http://rcblack.net/grammar/case/)
+* [Overview of Old Icelandic Nouns](https://rcblack.net/grammar/intro_nouns)
+* [Nouns: Masculine Declensions](Http://rcblack.net/grammar/nouns_masc/)
+* [Nouns: Neuter Declensions](http://rcblack.net/grammar/nouns_neut/)
+* [Nouns: Feminine Declensions](http://rcblack.net/grammar/nouns_fem/)
+* [Pronouns](http://rcblack.net/grammar/pronouns/)
+
+### Adjectives
+
+* [Adjectives: Strong](http://rcblack.net/grammar/adjectives/)
+* [Adjectives: Weak](http://rcblack.net/grammar/adjectives_weak/)
+* [Ajectives: Usage](http://rcblack.net/grammar/adjective_usage/)
+* [Adjectives: Verb Participles](http://rcblack.net/grammar/adjectives_participles/)
 ### Verbals
+
+* [Overview of Old Icelandic Verbs](http://rcblack.net/grammar/intro_verbs/)
+* [The Copulae](http://rcblack.net/grammar/copulae/)
+* [Verbs: Strong Conjugations 1-2](http://rcblack.net/grammar/verbs_strong_1-2/)
+* [Verbs: Strong Congugations 3-5](http://rcblack.net/grammar/verbs_strong_3-5/)
+* [Verbs: Weak Conjugations 1](http://rcblack.net/grammar/verbs_weak_i/)
+* [Verbs: Weak Conjugations 2](http://rcblack.net/grammar/verbs_weak_ii/)
+ 
+
+
+
