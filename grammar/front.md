@@ -3,7 +3,6 @@ title: Readings in Old Icelandic
 layout: default
 ---
 
-
 # Readings in Old Icelandic literature
 
 ## Dictionary resources
@@ -137,6 +136,7 @@ layout: default
 * [Adjectives: Weak](http://rcblack.net/grammar/adjectives_weak/)
 * [Ajectives: Usage](http://rcblack.net/grammar/adjective_usage/)
 * [Adjectives: Verb Participles](http://rcblack.net/grammar/adjectives_participles/)
+
 ### Verbals
 
 * [Overview of Old Icelandic Verbs](http://rcblack.net/grammar/intro_verbs/)
