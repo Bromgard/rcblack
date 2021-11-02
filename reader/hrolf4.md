@@ -48,7 +48,7 @@
 
 * [horfði](https://en.wiktionary.org/wiki/horfa#Old_Norse)
 * [Øngva](https://en.wiktionary.org/wiki/engi#Old_Norse); = enga
-* [fǫr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0185:25); Entry 4 works best. 
+* [fǫr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0185:25); The usage of this word here definitely implies, "movement." I think comparative usage in modern English might be "travel," as in, "The keys of this keyboard has good travel." 
 * [kaup](https://en.wiktionary.org/wiki/kaup#Old_Norse)
 
 >80\. Bǫðvarr mælti, "þat væri næsta hrausts manns forvitnisbót. Hǫttr félagi, rektu af þér illmæli þat at menn láta, sem enginn krellr eðr dugr muni í þér vera. Farþú nú ok dreptu dýrit. Máttu sjá at enginn er allfúss til annarra."
