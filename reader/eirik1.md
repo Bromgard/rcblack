@@ -15,7 +15,7 @@ Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja.[^23] Sigldu þei
 
 [^1]: [leita](https://en.wiktionary.org/wiki/leita#Old_Norse)
 [^2]: This appears to have been a particular region somewhere in North America.
-[^3]: [tǫluðu](https://en.wiktionary.org/wiki/tala#Etymology_2_5); Notice that this implies that people already seems to have known about the place already.
+[^3]: [tǫluðu](https://en.wiktionary.org/wiki/tala#Etymology_2_5); Earlier in the saga, Leif Eiriksson's ship gets blown off course and they discover a land with wheat fields and grape vines.
 [^4]: [lauk](https://en.wiktionary.org/wiki/l%C3%BAka#Old_Norse); That is, the conversation.
 [^5]: [bjuggu](https://en.wiktionary.org/wiki/b%C3%BAa#Old_Norse); This is an interesting position in the conjugation paradigm.
 [^6]: [réðusk](https://en.wiktionary.org/wiki/r%C3%A1%C3%B0a#Old_Norse); There's a special nautical meaning of this word that's only touched on in the Cleasby/Vigfusson entry for [ráða](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0486:1). The reference straddles the very end of that page and continues to the next. The idiom, _ráðask til ferðar_ menas to join a nautical expedition of some kind.
