@@ -151,13 +151,13 @@ layout: default
 
 >68\. Eptir þetta tók Bǫðvarr til hans ok áttusk þeir við lengi. 
 
-* [áttusk](https://en.wiktionary.org/wiki/eiga#Old_Norse); Idiomatically, they fought each other, or wrestled.
+* [áttusk](https://old-norse.net/html/e.php#eiga); Scroll to reflexive usage. Idiomatically, they fought each other, or wrestled.
 
 >69\. Bǫðvarr mælti, "Helzt ertu nú sterkr orðinn, ok ekki vænti ek þú hræðisk nú hirðmenn Hrólfs konungs."
 
 * [Helzt](https://en.wiktionary.org/wiki/helzt)
 * [orðinn](https://en.wiktionary.org/wiki/ver%C3%B0a#Old_Norse)
-* [vænti](https://en.wiktionary.org/wiki/v%C3%A6nta#Old_Norse)
+* [vænti](https://old-norse.net/html/v.php#v%C3%A6nta)
 * [hræðisk](https://en.wiktionary.org/wiki/hr%C3%A6%C3%B0a#Old_Norse)
 
 >70\. Hǫttr svarar, "Eigi mun ek þá hræðask upp frá þessu ok ekki þik."
