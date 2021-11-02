@@ -59,7 +59,7 @@
 * [áfenginn](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0040:6)
 * [mjǫðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0433:4)
 
->10\. Næsti maðr Ægi sat Bragi, ok áttusk þeir við drykkju ok orðaskipti.9
+>10\. Næsti maðr Ægi sat Bragi, ok áttusk þeir við drykkju ok orðaskipti.
 
 * [Bragi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0075:21); Remember, this narrative is part of a handbook on Nordic poetry.
 * [áttusk](https://en.wiktionary.org/wiki/eiga#Old_Norse); Remember when Bǫðvar Bjarki wrestled with Hǫtt? The same word is used there. Here Bragi and Ægir are engaging each other in both drinking and word play.
@@ -72,7 +72,7 @@
 >12\. Hann hóf þar frásǫgn at..."þrír Æsir fóru heiman, Óðinn ok Loki ok Hœnir, ok fóru um fjǫll ok eyðimerkr ok var illt til matar.
 
 * [hóf](https://en.wiktionary.org/wiki/hefja#Old_Norse) at; 
-* [frásǫgn][http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0171:50]; Here begins the principal story told by Bragi.
+* [frásǫgn](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0171:50); Here begins the principal story told by Bragi.
 * [Loki](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0397:41)
 * [Hœnir](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0305:38)
 * [fjǫll](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0156:18)
@@ -94,7 +94,7 @@
 * [liðin](https://en.wiktionary.org/wiki/lei%C3%B0a#Old_Norse); After some time passed.
 * [á milli](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0428:17)
 
->15\. Þá heyra þeir mál í eikina upp yþr sik at sá er þar sat kvazk ráða því er eigi soðnaði á seyðinum. 
+>15\. Þá heyra þeir mál í eikina upp yfir sik at sá er þar sat kvazk ráða því er eigi soðnaði á seyðinum. 
 
 * [heyra](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0261:3)
 * [eik](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0119:31)
@@ -159,4 +159,4 @@
 * [veiti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0691:10)
 * [svardaga](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0606:26)
 * [Iðunni](https://en.wikipedia.org/wiki/I%C3%B0unn)
-	* [epli](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0130:29)
+* [epli](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0130:29)
