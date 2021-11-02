@@ -70,7 +70,7 @@ layout: default
 * [kyrrir](https://en.wiktionary.org/wiki/kyrr#Old_Norse)
 * [hljóðir](https://en.wiktionary.org/wiki/hlj%C3%B3%C3%B0r)
 * [banna](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0051:15)
-* [háska](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:106); [And here.](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0244:107); The link has a faulty path. Click directly to find the link after the break in the page.
+* [háska](https://old-norse.net/html/h.php#h%C3%A1ski)
 * [auðnar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0032:7); "...goes the way fate determines."
 * [missa](https://en.wiktionary.org/wiki/missa#Old_Norse)
 
