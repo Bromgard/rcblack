@@ -21,7 +21,7 @@ layout: default
 >47\. Heldr þótti mǫnnum ódælt við Bǫðvar, ok var þeim inn mesti íhugi á honum.
 
 * [ódælt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0659:1); "Overbearing."
-* [íhugi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0317:37)
+* [íhugi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0317:38)
 
 >48\. Ok sem leið at jólum, gørðusk menn þar ókátir. Bǫðvarr spurði Hǫtt hverju þat sætti. 
 
