@@ -15,7 +15,8 @@ layout: default
 * [Wiktionary.org](https://www.wiktionary.org/) This is useful to look up paradigm charts.
 
 * [Alaric's magic sheet](https://www.alarichall.org.uk/teaching/Alaric's_magic_sheet.pdf) This is a very useful tool that you can keep handy as you read.
-* 
+
+
 ## Schedule
 
 ### Week One
@@ -40,7 +41,7 @@ layout: default
 * [Nouns: The masculine nouns](http://rcblack.net/grammar/nouns_masc/)
 * Continue with _Auðunar þáttr_, [Part 3](http://rcblack.net/reader/audun3/), [Part4](http://rcblack.net/reader/audun4/). 
 
-### Week Four; OCT 19-26
+### OCT 19-26
 
 * [Verbs: Weak verbs part I](http://rcblack.net/grammar/verbs_weak_i/)
 * [Nouns: Adjectives](http://rcblack.net/grammar/adjectives/)
@@ -51,7 +52,7 @@ layout: default
 	* "Scolding the Skald: The Construction of Cultural Memory in _Morkinskinna's Sneglu-Halla þáttr_, Yoav Tirosh
 	* "Fact and Fiction in the Icelandic Sagas," Margaret Cormak
 
-### Week Five
+### OCT 26- NOV 2 
 
 * [Verbs: Strong verbs: 3-5](http://rcblack.net/grammar/verbs_strong_3-5/)
 * [Nouns: The feminine nouns](http://rcblack.net/grammar/nouns_fem/)
@@ -60,13 +61,20 @@ layout: default
 * _Hrólfs saga kraka_, [Part 3](http://rcblack.net/reader/hrolf3/), [Part4](http://rcblack.net/grammar/hrolf4/).
 * Readings: PDFs available on Canvas
 	* "Prologue," and "Introduction," from _The Children of Ash and Elm_, by Neil Price.
-	* "Goodby to the Vikings?" Richard Hodges 
+	* "Goodbye to the Vikings?" Richard Hodges 
 
-### Week Six
+### NOV 2-9
 
+* [Adjectives: Weak Declensions](http://rcblack.net/grammar/adjectives_weak)
+* [Adjectives: Participles](http://rcblack.net/grammar/adjectives_participles)
 * [Nouns: The neuter nouns](http://rcblack.net/grammar/nouns_neut/)
-* [Prepositions](http://rcblack.net/grammar/prepositions/)
-* _Skáldskaparmál_, [Part 1](http://rcblack.net/reader/skald1/), [Part2](http://rcblack.net/reader/skald2/). 
+* [Pronouns: Reflexives](http://rcblack.net/grammar/reflexives)
+* _Skáldskaparmál_, [Part 1](http://rcblack.net/reader/skald1/), [Part2](http://rcblack.net/reader/skald2/).
+* Optional Readings: PDFs available on Canvas
+	* "Sources of Skáldkaparmál," Anthony Faulks
+	* "Euhemerism and and the Veiling of History,"
+* Midterm: Translate the following PDF
+	* Available in Canvas
 
 ### Week Seven
 
