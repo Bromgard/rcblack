@@ -8,7 +8,7 @@ The reflexive pronoun in this sentence is, _myself_, which refers back to the su
 
 ### First and second person reflexive pronouns
 
-Except for the nominative case, all the first and second person personal pronouns listed above can function as reflexive pronouns. (If you think about it, it's impossible for a reflexive pronoun to be in the nominative case, because by definition it needs to reflex the action of the verb to the nominative.) 
+Except for the nominative case, all the first and second person personal pronouns listed in the personal pronoun paradigm can function as reflexive pronouns. (If you think about it, it's impossible for a reflexive pronoun to be in the nominative case, because by definition it needs to reflex the action of the verb to the nominative.) 
 
 ### Third person reflexive pronouns
 
