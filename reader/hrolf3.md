@@ -25,7 +25,7 @@ layout: default
 
 >48\. Ok sem leið at jólum, gørðusk menn þar ókátir. Bǫðvarr spurði Hǫtt hverju þat sætti. 
 
-* [jólum](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0326:14); The entry continues on the next page [here](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0326:15).
+* [jólum](https://old-norse.net/html/j.php#j%C3%B3l).
 * [ókátir](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0662:1)
 * [sætti](https://en.wiktionary.org/wiki/s%C3%A6ta#Old_Norse)
 
