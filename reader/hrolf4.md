@@ -21,7 +21,7 @@
 
 * [forvitnask](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0167:12)
 * [engin](https://en.wiktionary.org/wiki/engi#Old_Norse)
-* [sæi](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2)
+* [sæi](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2); _sjá til_ = to investigate.
 * [líkendi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0204:30)
 * [heim](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0249:24)
 
