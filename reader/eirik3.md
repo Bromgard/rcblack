@@ -1,8 +1,3 @@
----
-title: Eiriks saga 
-style: default
-___
-
 
 # Eiríks saga 3
 
