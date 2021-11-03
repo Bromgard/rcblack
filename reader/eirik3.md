@@ -1,9 +1,10 @@
 ---
-title: Eiriks saga 2
+title: Eiriks saga 
 style: default
 ___
 
-# Eiríks saga 2
+
+# Eiríks saga 3
 
 Þórhallr hvarf[^1] á brott ok gengu menn at leita hans. Stóð þat yfir þrjú dœgr í samt. Á hinu fjórða dœgri fundu þeir Karlsefni ok Bjarni hann Þórhall á hamargnípu[^2] einni. Hann  horfði[^3] í lopt upp ok gapði[^4] hann bæði augum ok munni ok nǫsum ok klóraði[^4] sér ok klýpti[^5] sik ok þulði[^6] nǫkkut. Þeir spurðu því hann væri þar kominn. Hann kvað þat øngu skipta.[^7] bað hann þá ekki þat undrask, kvezk svá lengst lifat hafa at þeir þurftu ekki ráð fyrir honum at gjǫra. Þeir báðu hann fara heim með sér. Hann gjǫrði svá.
 
