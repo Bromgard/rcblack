@@ -17,6 +17,7 @@
 * [Þjazi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0739:7)
 * [arnar](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0767:33)[ham](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0236:14); And eagle skin, that is in the shape of an eagle. We now know exactly who the eagle was that was causing the problems with their cooking.
 * [Þrymheim](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0747:41); This is the name of of the giant's hall, or estate. "Noiseville"?
+* [bús](https://old-norse.net/html/b.php#b%C3%BA)
 
 >27\. En Æsir urðu illa við hvarf Iðunnar ok gerðusk þeir brátt hárir ok gamlir.
 
@@ -121,7 +122,7 @@
 
 >42\. En þat var Njǫrðr ór Nóatúnum.
 
-* [Njórðr](https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r); A god of the sea. Hold up. Something is going on here that only Snorri seems to know. Compare this figure with Ægir, a personification of the sea. This reminds me of the weird relationship between classical [Okeanus](https://en.wikipedia.org/wiki/Oceanus) and [Poseidon](https://en.wikipedia.org/wiki/Poseidon). Also, [Helios](https://en.wikipedia.org/wiki/Helios) and [Apollo](https://en.wikipedia.org/wiki/Apollo). So, in the framing story, we have the actual (personified) sea walk into Asgard and listens to a story in which a god of the sea is an important character. If you can figure this out, go ahead and write a paper on it. I suspect it's a joke of some kind.
+* [Njórðr](https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r); A god of the sea. Hold up. Something is going on here that only Snorri seems to know. Compare this figure with Ægir, a personification of the sea. This reminds me of the weird relationship between classical [Okeanus](https://en.wikipedia.org/wiki/Oceanus) and [Poseidon](https://en.wikipedia.org/wiki/Poseidon). Also, [Helios](https://en.wikipedia.org/wiki/Helios) and [Apollo](https://en.wikipedia.org/wiki/Apollo). So, in the framing story, we have the actual (personified) sea walk into Asgard and listen to a story in which a god of the sea is an important character. If you can figure this out, go ahead and write a paper on it. I suspect it's a joke of some kind.
 * [Nóatúnum](https://en.wikipedia.org/wiki/N%C3%B3at%C3%BAn_(mythology)) 
 
 >43\. Þat hafði hon ok í sættargjǫrð sinni at Æsir skyldu þat gera er hon hugði at þeir skyldu eigi mega, at hlœgja hana.
