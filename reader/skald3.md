@@ -43,7 +43,7 @@
 
 >53\. Þá mælir Ægir: "Þat þykki mér vera vel fólgit í rúnum."
 
-* [fólgit](https://en.wiktionary.org/wiki/fela#Old_Norse); Supine formation.
+* [fólgit](https://en.wiktionary.org/wiki/fela#Old_Norse); Participle formation.
 
 >54\. Ok enn mælir Ægir: "Hvaðan af hefir hafizk sú íþrótt er þér kallið skáldskap?"
 
