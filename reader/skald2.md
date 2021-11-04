@@ -27,7 +27,7 @@
 
 >28\. Þá áttu þeir Æsir þing ok spyrr hverr annan hvat síðarst vissi til Iðunnar, en þat var sét síðarst at hon gekk ór Ásgarði með Loka.
 
-* [þing](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0736:4); This word actually is cognate with English, _think_, but in the Old Icelandic literature it means an organized meeting of any kind. The gods are assembling themselves to solve this problem.
+* [þing](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0736:4); This word actually is cognate with English, _thing_, but in the Old Icelandic literature it's an organized meeting. The gods are assembling themselves to solve this problem.
 * [síðarst](https://en.wiktionary.org/wiki/s%C3%AD%C3%B0an#Old_Norse); "Latest," or, "most recent."
 * [sét](https://en.wiktionary.org/wiki/sj%C3%A1#Etymology_2); "Observed."
 
