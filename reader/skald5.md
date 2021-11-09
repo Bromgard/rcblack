@@ -50,7 +50,7 @@
 
 >95\. Hafði þat hverr er vildi, ok kǫllum vér þat skáldfífla hlut.
 
-* [skáldfifla](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0541:19); And artistic hack.
+* [skáldfifla](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0541:19); A hack.
 
 >96\. En Suttunga mjǫð gaf Óðinn Ásunum ok þeim mǫnnum er yrkja kunnu. 
 
