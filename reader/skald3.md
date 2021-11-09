@@ -61,7 +61,7 @@
 * [grið](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0215:3)
 * [kers](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0337:12)
 * [spýttu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0585:15)
-* [hráka](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0289:18)
+* [hráka](https://old-norse.net/html/h.php#hr%C3%A1ki)
 
 >56\. En at skilnaði þá tóku goðin ok vildu eigi láta týnask þat griðamark ok skǫpuðu þar ór mann. 
 
