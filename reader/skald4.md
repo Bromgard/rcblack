@@ -8,11 +8,12 @@
 >67\. Þá mælti hann við Galar bróður sinn at hann skal fara upp yfir dyrrnar er hon gengi út ok láta kvernstein falla í hǫfuð henni, ok talði sér leiðask óp hennar, ok svá gerði hann. 
 
 * [dyrrnar](https://en.wiktionary.org/wiki/dyrr); This is a great word. Note the short vowel that distinguishes it from the word you already know. Look at the declension--the word only exists in the plural, just like the English word, "pants."
-* [kvernstin](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0363:6)
+* [kvernstein](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0363:6)
 * [hǫfuð](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0307:8)
+* [leiðask](https://old-norse.net/html/l.php#lei%C3%B0a2)
 * [óp](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0472:13)
 
->68\. Þá er þetta spurði Suttungr bróðurson Gillings, ferr hann til ok tók dvergana ok flytr á sæ út ok setr þá í þœðarsker.
+>68\. Þá er þetta spurði Suttungr bróðurson Gillings, ferr hann til ok tók dvergana ok flytr á sæ út ok setr þá í flœðarsker.
 
 * [flœðarsker](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0163:5)
 * [Suttungr](https://en.wikipedia.org/wiki/Suttungr)
