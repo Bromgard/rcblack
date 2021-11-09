@@ -140,7 +140,7 @@
 * [ymsi](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0727:45); Something like, "one after the other...
 * [skrækti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0559:29)
 * [hvarttveggja](https://en.wiktionary.org/wiki/hv%C3%A1rrtveggja)
-* [hátt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0243:17); Look through the entire entry. "Racket," works.
+* [hátt](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0243:17); Look through the entire entry. He screamed.
 
 >45\. Þá lét Loki fallask í kné Skaða ok þá hló hon. 
 
