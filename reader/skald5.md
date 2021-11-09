@@ -38,7 +38,7 @@
 
 * [ákafast](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0041:25); Superlative formation. 
 
->93\. En er Suttungr sá flug arnarins, tók hann sér arnarham ok þaug eptir honum. 
+>93\. En er Suttungr sá flug arnarins, tók hann sér arnarham ok flaug eptir honum. 
 
 * [flug](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0162:10)
 
