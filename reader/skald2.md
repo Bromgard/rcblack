@@ -1,6 +1,6 @@
 # Part 2 
 
->24\. Verðr hann þá lauss ok ferr til lagsmanna sinna ok er eigi at sinni sǫgð þeiri tíðindi um þeira ferð áðr þeir koma heim.
+>24\. Verðr hann þá lauss ok ferr til lagsmanna sinna ok er eigi at sinni sǫgð þeiri tíðindi um fleira ferð áðr þeir koma heim.
 
 * [lagsmanna](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0369:19); Scroll near the bottom.
 
