@@ -80,7 +80,7 @@ háls ǫðrum.
 
 * [fjárhald](http://lexicon.ff.cuni.cz/html/oi_cleasbyvigfusson/b0148.html); "Econimics."
 * eigi; Verb.
-* [ván](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0684:34); Look over the lexical range carefully. _eigi_is the auxiliary. He, "...to know for himself expectation." Or, that he knows where he can expect to secure work men for Baugi.
+* [ván](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0684:34); Look over the lexical range carefully.  He, "...to know for himself expectation." Or, that he doesn't knows where he can expect to secure work men for Baugi.
 * [verkmanna](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0698:1)
 
 >80\. En Óðinn nefndisk fyrir honum Bǫlverkr. Hann bauð at taka upp níu manna verk fyrir Bauga, en mælir sér til kaups einn drykk af Suttunga miði.
