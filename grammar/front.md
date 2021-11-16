@@ -75,11 +75,18 @@ layout: default
 * Midterm: Translate the following PDF
 	* Available in Canvas
 
-### Week Seven
+### Nov 15-22
 
+* [Adverbs](http://rcblack.net/grammar/adverbs/)
+* [Adjectives: Comparatives](http://rcblack.net/grammar/adjectives_comparatives/)
 * [Verbs: Weak verbs II: modal verbs](http://rcblack.net/grammar/verbs_weak_ii/)
-* [Numeration]()
-* _Skáldskaparmál_, [Part 3](http://rcblack.net/reader/skald3/), [Part4](http://rcblack.net/reader/skald4/).
+* Let's continue with _Skáldskaparmál_, [Part 3](http://rcblack.net/reader/skald3/), [Part4](http://rcblack.net/reader/skald4/). When we're done with this, we can move on to _Eiríks saga rauða_, [Part 1](http://rcblack.net/reader/eirik1/), ... and so on.
+* Optional Reading: PDFs available on Canvas
+    * "Negotiating Gender in Sorri's _Edda_," Abby Sprenkle
+    * "Hunting Identities: Intersectional Perspectives on Viking Age Mortuary Expressions," Julie Lund & Marianne Moen
+    * Some materials on the excavation of BJ 581
+        * https://www.medievalists.net/2019/12/grave-bj-581-the-viking-warrior-that-was-a-woman/
+        * Judith Jesch's response: https://norseandviking.blogspot.com/2017/09/some-further-discussion-of-article-on.html
 
 ### Week Eight
 
