@@ -13,6 +13,13 @@ Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja.[^23] Sigldu þei
 
 Þá sigldu þeir norðanveðr[^28] tvau dœgr ok var þá land fyrir þeim ok var á skógr[^29] mikill ok dýr mǫrg. Ey lá í landsuðr[^30] undan landinu ok fundu þeir þar bjarndýr ok kǫlluðu Bjarney. En landit kǫlluðu þeir Markland, þar er skógrinn var. Þá er liðin váru tvau dœgr, sjá þeir land ok þeir sigldu undir landit. Þar var nes,[^31] er þeir kvámu at. Þeir beittu[^32] með landinu ok létu landit á stjórnborða.
 
+<div style="float: right"><a href="http://rcblack.net/reader/eirik2">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
+***
+
+## Notes
+
 [^1]: [leita](https://en.wiktionary.org/wiki/leita#Old_Norse)
 [^2]: This appears to have been a particular region somewhere in North America.
 [^3]: [tǫluðu](https://en.wiktionary.org/wiki/tala#Etymology_2_5); Earlier in the saga, Leif Eiriksson's ship gets blown off course and they discover a land with wheat fields and grape vines.

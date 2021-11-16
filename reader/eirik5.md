@@ -12,3 +12,11 @@
 Síðan fundu þeir nes eitt ok á fjǫlða dýra. Ok þann veg var nesit at sjá sem mykiskán væri, af því at dýrin lágu þar um vetrna. Nú koma þeir í Straumsfjǫrð ok er þar alls gnóttir.  Er þat sumra manna sǫgn at þau Bjarni ok Freydís hafi þar eptir verit ok tíu tigir manna með þeim ok hafi eigi farit lengra, en þeir Karlsefni ok Snorri hǫfðu suðr farit ok fjórir tigir manna ok hafi eigi lengr verit í Hópi en vart tvá mánuðu ok hafi hit sama sumar aptr komit.
 
 Karlsefni fór á einu skipi at leita Þórhalls, en liðit var eptir, ok fóru þeir norðr fyrir Kjalarnes, ok berr þá fyrir vestan fram ok var landit á bakborða þeim. Þar váru eyðimerkr einar. Ok er þeir hǫfðu lengi farit fellr á af landi ofan ór austri ok í vestr. Þeir lǫgðu inn í árósinn ok lágu við hinn syðra bakkann.
+
+<div style="float: left"><a href="http://rcblack.net/reader/eirik4">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/reader/eirik6">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
+***
+
+## Notes

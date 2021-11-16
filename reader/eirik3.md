@@ -20,6 +20,14 @@ Karlsefni fór suðr fyrir land ok Snorri ok Bjarni ok annat lið þeira.
 
 Þeir gjǫrðu þar grafir[^28] sem landit mœttisk[^29] ok flóðit[^30] gekk efst.[^31] Ok er út fell váru helgir fiskar[^32] í grǫfunum. Þar var mikill fjǫlði dýra á skógi með ǫllu móti.[^33] Þeir váru þar hálfan mánuð ok skemmtu[^34] sér ok urðu við ekki varir.[^35] Fé sitt hǫfðu þeir með sér.
 
+<div style="float: left"><a href="http://rcblack.net/reader/eirik2">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/reader/eirik4">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
+***
+
+## Notes
+
 [^1]: [hvarf](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0299:22)
 [^2]: [hamargnípu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0235:26)
 [^3]: [horfði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0279:15)

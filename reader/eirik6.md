@@ -20,3 +20,10 @@
 Gengu menn þá mjǫk sleitum. Sóttu ‹þeirð er kvánlausir váru í hendr þeim er kvángaðir váru. Þar kom til hit fyrsta haust Snorri, son Karlsefnis, ok var hann þá þrívetr er þeir fóru á brott.
 
 Hǫfðu þeir sunnanveðr ok hittu Markland ok fundu Skrælinga fimm; var einn skeggjaðr ok tvær konur, bǫrn tvau. Tóku þeir Karlsefni til sveinanna en hitt komsk undan ok sukku í jǫrð niðr. En sveinana hǫfðu þeir með sér ok kenndu þeim mál ok váru skírðir. Þeir nefndu móður sína Vætildi ok ‹fǫðurð Óvægi. Þeir sǫgðu at konungar stjórnuðu Skrælingalandi. Hét annarr Avaldamon, en annarr hét Valdidida. Þeir kváðu þar engi hús ok lágu menn í hellum eða holum. Þeir sǫgðu land þar ǫðru megin gagnvart sínu landi ok gengu menn þar í hvítum klæðum ok œptu hátt ok báru stangir ok fóru með þíkr. Þat ætla menn Hvítra-mannaland. Nú kvámu þeir til Grœnlands ok eru með Eiríki rauða um vetrinn.
+
+<div style="float: left"><a href="http://rcblack.net/reader/eirik5">⇦</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
+***
+
+## Notes

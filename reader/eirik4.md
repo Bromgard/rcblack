@@ -20,6 +20,14 @@ En er sjá stund var liðin, sjá þeir sunnan fara mikinn fjǫlða  skipa Skræ
 
 Freydís kom út ok sá er þeir heldu undan. Hon kallaði, "Því renni þér undan slíkum auvirðismǫnnum,[^24] svá gildir menn er mér þœtti líkligt at þér mættið drepa þá svá sem búfé? Ok ef ek hefða vápn þœtti mér sem ek munda betr berjask en einnhverr yðvar."
 
+<div style="float: left"><a href="http://rcblack.net/reader/eirik3">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/reader/eirik5">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
+
+***
+
+## Notes
+
 [^1]: [lituðusk](https://old-norse.net/html/l.php#litask); Note the deponent form.
 [^2]: [húðkeipa](https://old-norse.net/html/h.php#h%C3%BA%C3%B0keipr); A good reminder that this kind of scholarship is plagued by racism.
 [^3]: [trjánum](https://en.wiktionary.org/wiki/tr%C3%A9#Old_Norse); Take a close look at this declension. The translation for this is contextually difficult. It must be some kind of stick or pole.
