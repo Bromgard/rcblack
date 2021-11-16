@@ -109,3 +109,7 @@ háls ǫðrum.
 >84\. Þá mælir Bǫlverkr til Bauga at þeir skyldu freista véla nokkvorra, ef þeir megi ná miðinum, en Baugi lætr þat vel vera.
 
 * [véla](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0692:11)
+
+<div style="float: left"><a href="http://rcblack.net/reader/skald3">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/reader/skald5">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>

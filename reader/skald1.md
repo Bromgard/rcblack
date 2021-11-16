@@ -160,3 +160,6 @@
 * [svardaga](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0606:26)
 * [Iðunni](https://en.wikipedia.org/wiki/I%C3%B0unn)
 * [epli](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0130:29)
+
+<div style="float: right"><a href="http://rcblack.net/reader/skald2">⇨</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>

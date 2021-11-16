@@ -59,3 +59,6 @@
 >97\. Því kǫllum vér skáldskapinn feng Óðins ok fund ok drykk hans ok gjǫf hans ok drykk Ásanna.’
 
 * [skáldskapinn](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0541:26)
+
+<div style="float: left"><a href="http://rcblack.net/reader/skald4">⇦</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
