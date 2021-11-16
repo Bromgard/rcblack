@@ -79,7 +79,6 @@ háls ǫðrum.
 >79\. Baugi kallaði illt fjárhald sitt ok sagði at þrælar hans níu hǫfðu drepizk, en talðisk eigi vita sér ván verkmanna.
 
 * [fjárhald](http://lexicon.ff.cuni.cz/html/oi_cleasbyvigfusson/b0148.html); "Econimics."
-* eigi; Verb.
 * [ván](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0684:34); Look over the lexical range carefully.  He, "...to know for himself expectation." Or, that he doesn't knows where he can expect to secure work men for Baugi.
 * [verkmanna](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0698:1)
 
