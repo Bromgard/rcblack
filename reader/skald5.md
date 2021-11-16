@@ -34,7 +34,7 @@
 
 >91\. Í inum fyrsta drykk drakk hann allt ór Óðreri, en í ǫðrum ór Boðn, í inum þriðja ór Són, ok hafði hann þá allan mjǫðinn.
 
->92\. Þá brásk hann í arnarham ok þaug sem ákafast. 
+>92\. Þá brásk hann í arnarham ok flaug sem ákafast. 
 
 * [ákafast](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0041:25); Superlative formation. 
 
