@@ -52,4 +52,6 @@ Sigldu þeir undan síðan til Vestribyggðar ok til Bjarneyja.[^23] Sigldu þei
 [^28]: [norðanveðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0457:1)
 [^29]: [skógr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0555:37)
 [^30]: [landsuðr](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0372:35)
-[^31]: [beittu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0056:31)
+[^31]: [nes](https://old-norse.net/html/n.php#nes)
+
+[^32]: [beittu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0056:31)
