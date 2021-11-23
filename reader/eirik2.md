@@ -3,7 +3,7 @@ title: Eiríks saga rauða, Part 2
 layout: default
 ---
 
-# Eiríks saga, 2
+# Eiríks saga 2
 
 Þar var ørœfi ok strandir[^1] langar ok sandar. Fara þeir á bátum til lands ok fundu kjǫl[^2] af skipi ok kǫlluðu þar Kjalarnes.[^3] Þeir gáfu ok nafn strǫndunum ok kǫlluðu Furðustrandir,[^4] því at langt var með at sigla. Þá gjǫrðisk vágskorit[^5] landit ok heldu þeir skipunum at vágunum.[^6] 
 
@@ -31,7 +31,7 @@ Síðan hétu þeir á Guð, at hann sendi þeim nǫkkut til matfanga ok var eig
 [^2]: [kjǫl](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0341:8)
 [^3]: [Kjalarnes](https://en.wikipedia.org/wiki/Kjalarnes); Of course, this is not the place in Iceland.
 [^4]: [Furðustrandir](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0178:21); The dictionary suggests that this could be the coast of Labrador. It's a good guess but remember, we don't have solid evidence for this.
-[^5]: [vágskorit](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0178:21)
+[^5]: [vágskorit](https://old-norse.net/html/v.php#v%C3%A1gskorinn)
 [^6]: [vágunum](https://en.wiktionary.org/wiki/v%C3%A1gr)
 [^7]: [skozka](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0555:7); These two people were probably British Gaels, however this word sometimes also applied to the Gaels who lived in Ireland as well. This passage is a brief flashback that explains the presence of these thralls.
 [^8]: [þyrfti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0749:27)
