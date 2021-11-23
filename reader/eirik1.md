@@ -3,6 +3,8 @@ title: Eiríks saga rauða, Part 1
 layout: default
 ---
 
+# Eiríks saga 1
+
 Ætluðu þeir Karlsefni ok Snorri at leita[^1] Vínlands[^2] ok tǫluðu[^3] menn margt um þat. En því lauk[^4] svá at þeir Karlsefni ok Snorri bjuggu[^5] skip sitt ok ætluðu at leita Vínlands um sumarit. Til þeirar ferðar réðusk[^6] þeir Bjarni ok Þórhallr með skip sitt ok þat fǫruneyti[^7] er þeim hafði fylgt.
 
 Maðr hét Þorvarðr. Hann var mágr Eiríks rauða. Hann fór ok með þeim, ok Þorvaldr, son Eiríks. Þórhallr var kallaðr veiðimaðr.[^8] Hann hafði lengi verit í veiðifǫrum með Eiríki um sumrum ok hafði hann margar varðveizlur.[^9]
