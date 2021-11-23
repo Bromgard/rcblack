@@ -5,7 +5,7 @@
 
 Litlu síðar kom þar hvalr, ok drifu menn til ok skáru hann, en þó kenndu menn eigi hvat hvala þat var. Karlsefni kunni mikla skyn[^8] á hvǫlum ok kenndi hann þó eigi. Þenna hval suðu matsveinar[^9] ok átu[^10] af ok varð þó ǫllum illt af. 
 
-Þá gengr Þórhallr at ok mælti, "Var eigi svá at hinn rauðskeggjaði[^11] varð drjúgari[^12] en Kristr yðvarr? Þetta hafða ek nú fyrir skáldskap minn, er ek orta[^13] um Þór fulltrúann.[^14] Sjaldan hefir hann mér brugðizk."[^14]
+Þá gengr Þórhallr at ok mælti, "Var eigi svá at hinn rauðskeggjaði[^11] varð drjúgari[^12] en Kristr yðvarr? Þetta hafða ek nú fyrir skáldskap minn, er ek orta[^13] um Þór fulltrúann.[^14] Sjaldan hefir hann mér brugðizk."[^14.5]
 
 Ok er menn vissu þetta vildu øngvir[^15] nýta ok kǫstuðu fyrir bjǫrg ofan ok sneru sínu máli til Guðs miskunnar. Gaf þeim þá út at róa[^16] ok skorti[^17] þá eigi birgðir.[^18]
 
@@ -45,6 +45,7 @@ Karlsefni fór suðr fyrir land ok Snorri ok Bjarni ok annat lið þeira.
 [^12]: [drjúgari](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0107:9)
 [^13]: [orta](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0726:45)
 [^14]: [fulltrúann](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0178:1); From the entry for the prefix, _full-_. 
+[^14.5]: [brugðizk](https://old-norse.net/html/b.php#breg%C3%B0a-A-I)
 [^15]: [øngvir](https://en.wiktionary.org/wiki/engi#Old_Norse); Look closely at the alternate forms.
 [^16]: [róa](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0502:11); 
 [^17]: [skorti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0555:1)
