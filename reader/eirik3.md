@@ -1,7 +1,7 @@
 
 # Eiríks saga 3
 
-Þórhallr hvarf[^1] á brott ok gengu menn at leita hans. Stóð þat yfir þrjú dœgr í samt. Á hinu fjórða dœgri fundu þeir Karlsefni ok Bjarni hann Þórhall á hamargnípu[^2] einni. Hann  horfði[^3] í lopt upp ok gapði[^4] hann bæði augum ok munni ok nǫsum ok klóraði[^4] sér ok klýpti[^5] sik ok þulði[^6] nǫkkut. Þeir spurðu því hann væri þar kominn. Hann kvað þat øngu skipta.[^7] bað hann þá ekki þat undrask, kvezk svá lengst lifat hafa at þeir þurftu ekki ráð fyrir honum at gjǫra. Þeir báðu hann fara heim með sér. Hann gjǫrði svá.
+Þórhallr hvarf[^1] á brott ok gengu menn at leita hans. Stóð þat yfir þrjú dœgr í samt. Á hinu fjórða dœgri fundu þeir Karlsefni ok Bjarni hann Þórhall á hamargnípu[^2] einni. Hann  horfði[^3] í lopt upp ok gapði[^4] hann bæði augum ok munni ok nǫsum ok klóraði[^5] sér ok klýpti[^6] sik ok þulði[^7] nǫkkut. Þeir spurðu því hann væri þar kominn. Hann kvað þat øngu skipta. bað hann þá ekki þat undrask, kvezk svá lengst lifat hafa at þeir þurftu ekki ráð fyrir honum at gjǫra. Þeir báðu hann fara heim með sér. Hann gjǫrði svá.
 
 Litlu síðar kom þar hvalr, ok drifu menn til ok skáru hann, en þó kenndu menn eigi hvat hvala þat var. Karlsefni kunni mikla skyn[^8] á hvǫlum ok kenndi hann þó eigi. Þenna hval suðu matsveinar[^9] ok átu[^10] af ok varð þó ǫllum illt af. 
 
@@ -31,8 +31,11 @@ Karlsefni fór suðr fyrir land ok Snorri ok Bjarni ok annat lið þeira.
 [^1]: [hvarf](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0299:22)
 [^2]: [hamargnípu](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0235:26)
 [^3]: [horfði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0279:15)
+
 [^4]: [gapði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0191:22)
+
 [^5]: [klóraði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0344:3)
+
 [^6]: [klýpti](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0344:31)
 [^7]: [þulði](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0753:38); So, this appears to be some kind of pagan ritual. This may have been not much more than the imaginings of a Christian writer.
 [^8]: [skyn](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0563:7)
