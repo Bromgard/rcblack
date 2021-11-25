@@ -1,8 +1,5 @@
 # Eiríks saga 4
 
-Hello
-
-
 Ok einn morgin snemma, er þeir lituðusk um,[^1] sáu þeir níu húðkeipa[^2] ok var veift trjánum[^3] af skipunum ok lét því líkast í sem í hálmþústum[^4] ok ferr sólarsinnis.[^5]
 
 Þá mælti Karlsefni, "Hvat mun þetta tákna?"
