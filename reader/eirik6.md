@@ -7,20 +7,20 @@
 Þá kvað einn maðr kviðling þenna:
 
 >
-Eltu seggir,
-allsatt var þat,
+Eltu seggir,[^8]
+allsatt var þat,[^9]
 einn einfœting
 ofan til strandar.
 En kynligr maðr
-kostaði rásar
-hart of stopir.
-Heyrðu, Karlsefni.[^8]
+kostaði rásar[^10]
+hart of stopir.[^11]
+Heyrðu, Karlsefni.
 
-Þeir fóru þá í brott ok norðr aptr ok þóttusk sjá Einfœtingaland. Vildu þeir þá eigi lengr hætta liði sínu. fieir ætluðu ǫll ein fjǫll, þau er í Hópi váru ok þessi er  nú fundu þeir. Fóru þeir aptr ok váru í Straumsfirði hinn þriðja vetr.
+Þeir fóru þá í brott ok norðr aptr ok þóttusk sjá Einfœtingaland. Vildu þeir þá eigi lengr hætta liði sínu. Þeir ætluðu ǫll ein fjǫll, þau er í Hópi váru ok þessi er nú fundu þeir. Fóru þeir aptr ok váru í Straumsfirði hinn þriðja vetr.
 
-Gengu menn þá mjǫk sleitum. Sóttu ‹þeirð er kvánlausir váru í hendr þeim er kvángaðir váru. Þar kom til hit fyrsta haust Snorri, son Karlsefnis, ok var hann þá þrívetr er þeir fóru á brott.
+Gengu menn þá mjǫk sleitum.[^12] Sóttu þeir er kvánlausir váru í hendr þeim er kvángaðir váru.[^13] Þar kom til hit fyrsta haust Snorri, son Karlsefnis, ok var hann þá þrí vetr er þeir fóru á brott.[^14]
 
-Hǫfðu þeir sunnanveðr ok hittu Markland ok fundu Skrælinga fimm; var einn skeggjaðr ok tvær konur, bǫrn tvau. Tóku þeir Karlsefni til sveinanna en hitt komsk undan ok sukku í jǫrð niðr. En sveinana hǫfðu þeir með sér ok kenndu þeim mál ok váru skírðir. Þeir nefndu móður sína Vætildi ok ‹fǫðurð Óvægi. Þeir sǫgðu at konungar stjórnuðu Skrælingalandi. Hét annarr Avaldamon, en annarr hét Valdidida. Þeir kváðu þar engi hús ok lágu menn í hellum eða holum. Þeir sǫgðu land þar ǫðru megin gagnvart sínu landi ok gengu menn þar í hvítum klæðum ok œptu hátt ok báru stangir ok fóru með þíkr. Þat ætla menn Hvítra-mannaland. Nú kvámu þeir til Grœnlands ok eru með Eiríki rauða um vetrinn.
+Hǫfðu þeir sunnanveðr ok hittu Markland ok fundu Skrælinga fimm. Var einn skeggjaðr ok tvær konur, bǫrn tvau. Tóku þeir Karlsefni til sveinanna en hitt komsk undan ok sukku í jǫrð niðr. En sveinana hǫfðu þeir með sér ok kenndu þeim mál ok váru skírðir. Þeir nefndu móður sína Vætildi ok fǫður Óvægi. Þeir sǫgðu at konungar stjórnuðu Skrælingalandi. Hét annarr Avaldamon, en annarr hét Valdidida. Þeir kváðu þar engi hús ok lágu menn í hellum eða holum. Þeir sǫgðu land þar ǫðru megin gagnvart sínu landi ok gengu menn þar í hvítum klæðum ok œptu hátt ok báru stangir ok fóru með flíkr. Þat ætla menn Hvítra-mannaland. Nú kvámu þeir til Grœnlands ok eru með Eiríki rauða um vetrinn.
 
 <div style="float: left"><a href="http://rcblack.net/reader/eirik5">⇦</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/grammar/front">&#8962;</a></div>
@@ -36,4 +36,10 @@ Hǫfðu þeir sunnanveðr ok hittu Markland ok fundu Skrælinga fimm; var einn s
 [^5]: [hrœrðisk](https://old-norse.net/html/h.php#hr%C3%A6ra)
 [^6]: [einfœtingr](https://old-norse.net/html/e.php#einf%C3%A6tingr); This person would have been familiar to the medieval readership as a _Monopod_, a person who lived in the antipodes--a region on the opposite side of the globe. The folklore about these people stretches back to antiquity, but the source for this in the saga would have likely been Isidore of Seville's _Etymoologiae_ which describes their unusual speed. There is no evidence for one-footed people in North America.
 [^7]: [ístruna](https://old-norse.net/html/ii.php#%C3%ADstra)
-[^8]: []()
+[^8]: [Eltu](https://old-norse.net/html/e.php#elta) [seggir](https://old-norse.net/html/s.php#seggr); The language and vocabulary of much Old Icelandic verse is fascinatingly archaic.
+[^9]: [allsatt](https://old-norse.net/html/s.php#sannr); "Completely true."
+[^10]: [kostaði](https://old-norse.net/html/k.php#kosta) [rásar](https://old-norse.net/html/r.php#r%C3%A1s)
+[^11]: [stopir](https://lexiconpoeticum.org/m.php?p=lemma&i=96838); The poetry often demands different lexical resources. According to this dictionary, "cliffs," work. Craggy or uneven ground works. You decide.
+[^12]: [sleita](https://old-norse.net/html/s.php#sleita); To backslide, meaning they began to shirk their duties. Or in the context of this sentence, they began to backslide in managing their morals. Translations tend to also translate this as, "arguing."
+[^13]: The relevant word is [kván](https://old-norse.net/html/k.php#kv%C3%A1n); The word, _kvángaðir_ means, "married."
+[^14]: The word, _kom_ is shorthand for "was born."
