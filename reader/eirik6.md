@@ -6,15 +6,21 @@
 
 Þá kvað einn maðr kviðling þenna:
 
->
-Eltu seggir,[^8]
-allsatt var þat,[^9]
-einn einfœting
-ofan til strandar.
-En kynligr maðr
-kostaði rásar[^10]
-hart of stopir.[^11]
-Heyrðu, Karlsefni.
+>Eltu seggir,[^8]
+
+>allsatt var þat,[^9]
+
+>einn einfœting
+
+>ofan til strandar.
+
+>En kynligr maðr
+
+>kostaði rásar[^10]
+
+>hart of stopir.[^11]
+
+>Heyrðu, Karlsefni.
 
 Þeir fóru þá í brott ok norðr aptr ok þóttusk sjá Einfœtingaland. Vildu þeir þá eigi lengr hætta liði sínu. Þeir ætluðu ǫll ein fjǫll, þau er í Hópi váru ok þessi er nú fundu þeir. Fóru þeir aptr ok váru í Straumsfirði hinn þriðja vetr.
 
