@@ -25,7 +25,7 @@ Karlsefni fór á einu skipi at leita Þórhalls, en liðit var eptir, ok fóru 
 [^3]: [býsk](https://old-norse.net/html/b.php#b%C3%BAa-A)
 [^4]: [fælask](https://old-norse.net/html/f.php#fæla)
 [^5]: lofa [happ](https://old-norse.net/html/h.php#happ); They praised her good luck.
-[^6]: They became, "borne with an overwhelming multitude." They were outnumbered.
+[^6]: They became, "burdened with an overwhelming multitude." They were outnumbered.
 [^7]: þversýningar: þversýning, a "vision from athwart." A magic illusion of some kind. 
 [^8]: [skinnhjúpum](https://old-norse.net/html/s.php#skinn-B); essentially, a sleeping bag.
 [^9]: [gjǫrvir](); From _gera_, past participle. _gera af_ = "driven off," or driven away from their people. They assumed these people in sleeping bags were outlaws, and so they could kill them with no consequences.
