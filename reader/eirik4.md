@@ -31,7 +31,7 @@ Freydís kom út ok sá er þeir heldu undan. Hon kallaði, "Því renni þér u
 [^1]: [lituðusk](https://old-norse.net/html/l.php#litask); Note the deponent form.
 [^2]: [húðkeipa](https://old-norse.net/html/h.php#h%C3%BA%C3%B0keipr); A good reminder that this kind of scholarship is plagued by racism.
 [^3]: [trjánum](https://en.wiktionary.org/wiki/tr%C3%A9#Old_Norse); Take a close look at this declension. The translation for this is contextually difficult. It must be some kind of stick or pole.
-[^4]: [hálmþústum](https://old-norse.net/html/h.php#h%C3%A1lm%C3%BE%C3%BAst)
+[^4]: [lét](https://old-norse.net/html/l.php#l%C3%A1ta-A)... [hálmþústum](https://old-norse.net/html/h.php#h%C3%A1lm%C3%BE%C3%BAst); Scroll down for a specialized usage of _láta_--"To make a noise."
 [^5]: [sólarsinni](https://old-norse.net/html/s.php#s%C3%B3larsinnis); So, clockwise?
 [^6]: There's a couple of things going on here, and much of this is speculative. The indigenous folk seem to be signalling that they're peaceful, which would have been recognized by the Norse to be a positive, or friendly display. They return this with their own sign of peace.
 [^7]: [hár](https://old-norse.net/html/h.php#h%C3%A1r5); Note the common homophones.
