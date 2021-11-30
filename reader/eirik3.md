@@ -1,7 +1,7 @@
 
 # Eiríks saga 3
 
-Þórhallr hvarf[^1] á brott ok gengu menn at leita hans. Stóð þat yfir þrjú dœgr í samt. Á hinu fjórða dœgri fundu þeir Karlsefni ok Bjarni hann Þórhall á hamargnípu[^2] einni. Hann  horfði[^3] í lopt upp ok gapði[^4] hann bæði augum ok munni ok nǫsum ok klóraði[^5] sér ok klýpti[^6] sik ok þulði[^7] nǫkkut. Þeir spurðu því hann væri þar kominn. Hann kvað þat øngu skipta. bað hann þá ekki þat undrask, kvezk svá lengst lifat hafa at þeir þurftu ekki ráð fyrir honum at gjǫra. Þeir báðu hann fara heim með sér. Hann gjǫrði svá.
+Þórhallr hvarf[^1] á brott ok gengu menn at leita hans. Stóð þat yfir þrjú dœgr í samt. Á hinu fjórða dœgri fundu þeir Karlsefni ok Bjarni hann Þórhall á hamargnípu[^2] einni. Hann  horfði[^3] í lopt upp ok gapði[^4] hann bæði augum ok munni ok nǫsum ok klóraði[^5] sér ok klýpti[^6] sik ok þulði[^7] nǫkkut. Þeir spurðu því hann væri þar kominn. Hann kvað þat øngu skipta. Bað hann þá ekki þat undrask, kvezk svá lengst lifat hafa at þeir þurftu ekki ráð fyrir honum at gjǫra. Þeir báðu hann fara heim með sér. Hann gjǫrði svá.
 
 Litlu síðar kom þar hvalr, ok drifu menn til ok skáru hann, en þó kenndu menn eigi hvat hvala þat var. Karlsefni kunni mikla skyn[^8] á hvǫlum ok kenndi hann þó eigi. Þenna hval suðu matsveinar[^9] ok átu[^10] af ok varð þó ǫllum illt af. 
 
@@ -9,8 +9,7 @@ Litlu síðar kom þar hvalr, ok drifu menn til ok skáru hann, en þó kenndu m
 
 Ok er menn vissu þetta vildu øngvir[^16] nýta ok kǫstuðu fyrir bjǫrg ofan ok sneru sínu máli til Guðs miskunnar. Gaf þeim þá út at róa[^17] ok skorti[^18] þá eigi birgðir.[^19]
 
-Um várit fara þeir inn í Straumsfjǫrð ok hǫfðu fǫng af hvárutveggja
-landinu, veiðar af meginlandinu, eggver ok útróðra af sjónum.
+Um várit fara þeir inn í Straumsfjǫrð ok hǫfðu fǫng af hvárutveggja landinu, veiðar af meginlandinu, eggver ok útróðra af sjónum.
 
 ## 9
 
