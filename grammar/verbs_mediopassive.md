@@ -67,7 +67,7 @@ The _-sk_ words occasionally communicate the passive voice. Remember that you wi
 
 This grammatical usage is similar in appearance to Old Icelandic reflexive verbs, but the verb is expressed intransitively, that is in a form in which the verb does not take an object. Take a look at the following sentence:
 
-> Þá __gj&#1EB;rðisk__ vágskorit landit ok heldu þeir skipunum at vágunum. (And then inlet-cut land appeared, and they held the course of their ships to to the inlets.) 
+> Þá __gj&x#1EB;rðisk__ vágskorit landit ok heldu þeir skipunum at vágunum. (And then inlet-cut land appeared, and they held the course of their ships to to the inlets.) 
 
 Another interesting construction also occurs when an auxiliary/infinitive phrase is expressed in a way that the subject of the infinitive phrase is the same as the subject of the greater sentence.
 
