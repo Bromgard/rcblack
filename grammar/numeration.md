@@ -2,6 +2,10 @@
 
 ## The Old Icelandic numerals
 
+The first four cardinal numbers were declineable adjectives. You can find the declension in the chart below. The other numbers functioned as undeclinable adjectives. Numbers in _tigir_, _hundrað_, _þúsand_, etc., were nouns that triggered the genitive case. 
+
+> sex tigur skipa...
+
 Digit | Cardinal | Ordinal
 ------|----------|--------
 1. 		| einn		 | fyrstr
