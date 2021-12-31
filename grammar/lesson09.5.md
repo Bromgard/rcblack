@@ -1,5 +1,3 @@
-Testing. 
-
 
 
 # Strong Verbs, First Conjugation
