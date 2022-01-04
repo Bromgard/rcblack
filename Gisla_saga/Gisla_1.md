@@ -1,8 +1,3 @@
----
-title: Gísla 1
-layout: default
----
-
 # Gísla saga Súrssonar 1
 
 ### Þorkell Skerauki and his family
