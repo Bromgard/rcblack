@@ -133,7 +133,7 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
-  _hvárt--vinna_, "...to get Þórdis married."
+  _hvárt--vinna_, "...whether he has to to this...."
 [↩](#a21)
 
 <a name="myfootnote22" id="f22">22</a>:
