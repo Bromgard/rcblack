@@ -5,23 +5,23 @@ layout: default
 
 # Gísla saga Súrssonar 2
 
-### Þorbj&#x1EB;rn and his family. Battle for the daughter, Þórdis
+### Þorbjǫrn and his family. Battle for Þórdis
 
-1\. Hér eftir tekr Þorbj&#x1EB;rn við fé &#x1EB;llu því er átt hafði faðir hans ok br&oelig;ðr ij.<sup id="a1">[1](#myfootnote1)</sup> Hann býr í Súrnadal at Stokkum.<sup id="a2">[2](#myfootnote2)</sup> 2. Hann biðr konu þeirar, er Þóra hét ok var Rauðsdóttir ór Friðarey,<sup id="a3">[3](#myfootnote3)</sup> ok fékk hennar. Þeira samfarir váru góðar ok eigi langar, áðr en þan gátu b&#x1EB;rn at eiga. 3. Dóttir þeira er nefnd Þórdís, ok var hón ellzt barna þeira. Þorkell hét sonr þeira, enn ellzti, annarr Gísli, Ari enn yngsti; ok vaxa allir upp heima þar; funduz eigi fremri menn þar í nánd þeira jafnaldrar. 4. Ara var fóstr fengit með Styrkári, móðurbróður sínum; en þeir Þorkell ok Gísli váru heima báðir. 5. Bárðr hét maðr; hann bjó þar í Súrnadal; hann var ungr maðr, ok hafði nýtekit við f&#x1EB;ðurarfi sínum. 6. Kolbj&#x1EB;rn hét maðr, er bjó á Hellu<sup id="a4">[4](#myfootnote4)</sup> í Súrnadal; hann var ungr maðr ok hafði nýtekið við f&#x1EB;ðurarfi sínum.<sup id="a5">[5](#myfootnote5)</sup> 7. Þat t&#x1EB;luðu sumir menn, at Bárðr fíflði<sup id="a6">[6](#myfootnote6)</sup> Þórdísi Þorbjarnardóttur; hón var bæði væn ok vitur.<sup id="a7">[7](#myfootnote7)</sup> 8. Þorbirni hugnaði þat illa, ok kveðzt ætla, ef Ari væri heima, at þá myndi eigi vel gefaz.<sup id="a8">[8](#myfootnote8)</sup>
+1\. Hér eftir tekr Þorbjǫrn við fé ǫllu því er átt hafði faðir hans ok br&oelig;ðr ij.<sup id="a1">[1](#myfootnote1)</sup> Hann býr í Súrnadal at Stokkum.<sup id="a2">[2](#myfootnote2)</sup> 2. Hann biðr konu þeirar, er Þóra hét ok var Rauðsdóttir ór Friðarey,<sup id="a3">[3](#myfootnote3)</sup> ok fékk hennar. Þeira samfarir váru góðar ok eigi langar, áðr en þan gátu bǫrn at eiga. 3. Dóttir þeira er nefnd Þórdís, ok var hón ellzt barna þeira. Þorkell hét sonr þeira, enn ellzti, annarr Gísli, Ari enn yngsti; ok vaxa allir upp heima þar; funduz eigi fremri menn þar í nánd þeira jafnaldrar. 4. Ara var fóstr fengit með Styrkári, móðurbróður sínum; en þeir Þorkell ok Gísli váru heima báðir. 5. Bárðr hét maðr; hann bjó þar í Súrnadal; hann var ungr maðr, ok hafði nýtekit við fǫðurarfi sínum. 6. Kolbjǫrn hét maðr, er bjó á Hellu<sup id="a4">[4](#myfootnote4)</sup> í Súrnadal; hann var ungr maðr ok hafði nýtekið við fǫðurarfi sínum.<sup id="a5">[5](#myfootnote5)</sup> 7. Þat tǫluðu sumir menn, at Bárðr fíflði<sup id="a6">[6](#myfootnote6)</sup> Þórdísi Þorbjarnardóttur; hón var bæði væn ok vitur.<sup id="a7">[7](#myfootnote7)</sup> 8. Þorbirni hugnaði þat illa, ok kveðzt ætla, ef Ari væri heima, at þá myndi eigi vel gefaz.<sup id="a8">[8](#myfootnote8)</sup>
 
 Bárður kvað ómæt ómaga orð<sup id="a9">[9](#myfootnote9)</sup> -- "ok mun ek fara sem áðr."
 
-9\. Með þeim Þorkeli<sup id="a10">[10](#myfootnote10)</sup> var vingott, ok var hann í bragði með hánum, en Gísla var óþokkat<sup id="a11">[11](#myfootnote11)</sup> um tal þeira sem f&#x1EB;ður hans. 10. Þat er sagt einn tíma, at Gísli ræz í ferð með þeim Bárði ok Þorkeli; hann fór á miðja vega<sup id="a12">[12](#myfootnote12)</sup> til Granaskeiðs;<sup id="a13">[13](#myfootnote13)</sup> svá heitir þar, er Bárðr bjó; ok þá er minst ván var, h&oslash;ggr Gísli Bárð banah&#x1EB;gg. 11. Þorkell reiddiz ok kvað Gísla illa g&#x1EB;rt hafa, en Gísli bað bróður sinn sefaz -- "ok skiptu vit sverðum ok haf þú þat, sem betr bítr;" hann brá á glens við hann.<sup id="a14">[14](#myfootnote14)</sup> 12. Nú sefaz Þorkell ok sez niðr hjá Bárði, en Gísli ferr heim ok segir f&#x1EB;ður sínum ok líkaði hánum vel. 13. Aldrei varð síðan jafnblítt með þeim br&oelig;ðrum, ok ekki þá Þorkell vápnaskiptit,<sup id="a15">[15](#myfootnote15)</sup> ok eigi vildi hann heima þar vera, ok fór til Hólmg&#x1EB;ngu-Skeggja<sup id="a16">[16](#myfootnote16)</sup> í eyna S&#x1EB;xu;<sup id="a17">[17](#myfootnote17)</sup> hann<sup id="a18">[18](#myfootnote18)</sup> var mj&#x1EB;k skyldr Bárði, ok var hann þar. 14. Hann eggjar mj&#x1EB;k Skeggja at hefna Bárðar, frænda síns, en ganga at eiga Þórdísi, systur sína. 15. Nú fara þeir til Stokka, xx. saman; ok er þeir kómu á b&oelig;inn mælir Skeggi til mægða við Þorbj&#x1EB;rn, "en til samfara við Þórdísi, dóttur þína."
+9\. Með þeim Þorkeli<sup id="a10">[10](#myfootnote10)</sup> var vingott, ok var hann í bragði með hánum, en Gísla var óþokkat<sup id="a11">[11](#myfootnote11)</sup> um tal þeira sem fǫður hans. 10. Þat er sagt einn tíma, at Gísli ræz í ferð með þeim Bárði ok Þorkeli; hann fór á miðja vega<sup id="a12">[12](#myfootnote12)</sup> til Granaskeiðs;<sup id="a13">[13](#myfootnote13)</sup> svá heitir þar, er Bárðr bjó; ok þá er minst ván var, h&oslash;ggr Gísli Bárð banahǫgg. 11. Þorkell reiddiz ok kvað Gísla illa gǫrt hafa, en Gísli bað bróður sinn sefaz -- "ok skiptu vit sverðum ok haf þú þat, sem betr bítr;" hann brá á glens við hann.<sup id="a14">[14](#myfootnote14)</sup> 12. Nú sefaz Þorkell ok sez niðr hjá Bárði, en Gísli ferr heim ok segir fǫður sínum ok líkaði hánum vel. 13. Aldrei varð síðan jafnblítt með þeim br&oelig;ðrum, ok ekki þá Þorkell vápnaskiptit,<sup id="a15">[15](#myfootnote15)</sup> ok eigi vildi hann heima þar vera, ok fór til Hólmgǫngu-Skeggja<sup id="a16">[16](#myfootnote16)</sup> í eyna Sǫxu;<sup id="a17">[17](#myfootnote17)</sup> hann<sup id="a18">[18](#myfootnote18)</sup> var mjǫk skyldr Bárði, ok var hann þar. 14. Hann eggjar mjǫk Skeggja at hefna Bárðar, frænda síns, en ganga at eiga Þórdísi, systur sína. 15. Nú fara þeir til Stokka, xx. saman; ok er þeir kómu á b&oelig;inn mælir Skeggi til mægða við Þorbjǫrn, "en til samfara við Þórdísi, dóttur þína."
 
-16\. En Þorbj&#x1EB;rn vildi eigi gipta hánum konuna; þat var talat, at Kolbj&#x1EB;rn væri í þingum við<sup id="a19">[19](#myfootnote19)</sup> Þórdísi; þótti Skeggja sem hann ylli, er hann gat eigi fengit ráðit,<sup id="a20">[20](#myfootnote20)</sup> ok ferr til fundar við Kolbj&#x1EB;rn ok býðr hánum hólmg&#x1EB;ngu í eyinni S&#x1EB;xu. 17. Hann kvez koma mundu, ok sagðiz eigi verðr at eiga Þórdísi, ef hann þyrði eigi at berjaz við Skeggja; þeir Þorkell ok Skeggi fóru heim í S&#x1EB;xu, ok biðu þar hólmstefnunnar við annan mann ok xx. 18. Ok er liðnar váru iij. nætr, fór Gísli ok hittir Kolbj&#x1EB;rn ok spyrr, hvárt hann er búinn til hólmstefnunnar; Kolbj&#x1EB;rn svarar ok spyrr hvárt hann skal þat til ráðsins vinna.<sup id="a21">[21](#myfootnote21)</sup>
+16\. En Þorbjǫrn vildi eigi gipta hánum konuna; þat var talat, at Kolbjǫrn væri í þingum við<sup id="a19">[19](#myfootnote19)</sup> Þórdísi; þótti Skeggja sem hann ylli, er hann gat eigi fengit ráðit,<sup id="a20">[20](#myfootnote20)</sup> ok ferr til fundar við Kolbjǫrn ok býðr hánum hólmgǫngu í eyinni Sǫxu. 17. Hann kvez koma mundu, ok sagðiz eigi verðr at eiga Þórdísi, ef hann þyrði eigi at berjaz við Skeggja; þeir Þorkell ok Skeggi fóru heim í Sǫxu, ok biðu þar hólmstefnunnar við annan mann ok xx. 18. Ok er liðnar váru iij. nætr, fór Gísli ok hittir Kolbjǫrn ok spyrr, hvárt hann er búinn til hólmstefnunnar; Kolbjǫrn svarar ok spyrr hvárt hann skal þat til ráðsins vinna.<sup id="a21">[21](#myfootnote21)</sup>
 
 19\. "Þat skaltu eigi segja,"<sup id="a22">[22](#myfootnote22)</sup> segir Gísli.
 
-Kolbj&#x1EB;rn segir: "Svá hyggz mér at ek mun eigi þat til vinna at berjaz við Skeggja."
+Kolbjǫrn segir: "Svá hyggz mér at ek mun eigi þat til vinna at berjaz við Skeggja."
 
-Gísli biðr hann mæla allra manna armastan<sup id="a23">[23](#myfootnote23)</sup> -- "ok þóttu verðir allr at sk&#x1EB;mm, þá skal ek nú þó fara."
+Gísli biðr hann mæla allra manna armastan<sup id="a23">[23](#myfootnote23)</sup> -- "ok þóttu verðir allr at skǫmm, þá skal ek nú þó fara."
 
-20\. Nú ferr Gísli við xij. mann í eyna S&#x1EB;xu. Skeggi kom til hólmsins ok segir upp hólmg&#x1EB;ngul&#x1EB;g ok haslar v&#x1EB;ll<sup id="a24">[24](#myfootnote24)</sup> Kolbirni, ok sér eigi hann þar kominn né þann er gangi á hólminn fyrir hann. 21. Refr hét maðr, er var smiðr Skeggja. Hann bað, at Refr skyldi gera mannlíkan eptir Gísla ok Kolbirni -- "ok skal annar standa aptar en annar;<sup id="a25">[25](#myfootnote25)</sup> ok skal níð þat standa ávallt þeim til háðungar".
+20\. Nú ferr Gísli við xij. mann í eyna Sǫxu. Skeggi kom til hólmsins ok segir upp hólmgǫngulǫg ok haslar vǫll<sup id="a24">[24](#myfootnote24)</sup> Kolbirni, ok sér eigi hann þar kominn né þann er gangi á hólminn fyrir hann. 21. Refr hét maðr, er var smiðr Skeggja. Hann bað, at Refr skyldi gera mannlíkan eptir Gísla ok Kolbirni -- "ok skal annar standa aptar en annar;<sup id="a25">[25](#myfootnote25)</sup> ok skal níð þat standa ávallt þeim til háðungar".
 
 22\. Nú heyrði Gísli í skóginn<sup id="a26">[26](#myfootnote26)</sup> ok svarar: "Annat munu húskarlar þínir vinna þarfara ok máttu hér þann sjá er þorir at berjaz við þik."
 
@@ -30,16 +30,16 @@ Gísli biðr hann mæla allra manna armastan<sup id="a23">[23](#myfootnote23)</s
 >1
 >   
 >Gall Gunnloge,   
->gaman vas S&#x1EB;xo.<sup id="a30">[30](#myfootnote30)</sup>
+>gaman vas Sǫxo.<sup id="a30">[30](#myfootnote30)</sup>
 
-24\. Gísli hjó í móti með h&#x1EB;ggspjóti, ok af sporðinn skildinum ok af hánum fótinn, ok mælti:
+24\. Gísli hjó í móti með hǫggspjóti, ok af sporðinn skildinum ok af hánum fótinn, ok mælti:
 
 >2
 >   
->Hr&#x1EB;kk hræfrakke,   
+>Hrǫkk hræfrakke,
 >hjók til Skeggja.<sup id="a31">[31](#myfootnote31)</sup>
 
-25\. Skeggi leysti sik af hólmi, ok gekk ávallt við tréfót<sup id="a32">[32](#myfootnote32)</sup> síðan. En Þorkell fór nú heim með Gísla bróður sínum, ok var nú mj&#x1EB;k vel í frændsemi þeira, ok þykkir<sup id="a33">[33](#myfootnote33)</sup> Gísli mikit hafa vaxit af þessum málum.
+25\. Skeggi leysti sik af hólmi, ok gekk ávallt við tréfót<sup id="a32">[32](#myfootnote32)</sup> síðan. En Þorkell fór nú heim með Gísla bróður sínum, ok var nú mjǫk vel í frændsemi þeira, ok þykkir<sup id="a33">[33](#myfootnote33)</sup> Gísli mikit hafa vaxit af þessum málum.
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_1">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_3">⇨</a></div>
@@ -113,11 +113,11 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
- _Hólmg&#x1EB;ngu-Skeggi_, this man, probably once famous for his duels, is otherwise unknown.
+ _Hólmgǫngu-Skeggi_, this man, probably once famous for his duels, is otherwise unknown.
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
-  _S&#x1EB;xu_, the location of this island is unknown.
+  _Sǫxu_, the location of this island is unknown.
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
@@ -141,13 +141,13 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a22)
 
 <a name="myfootnote23" id="f23">23</a>:
-  _biðr--armastan_, a curse that would be in more direct speech, _m&oelig; þú allra manna armastr_, "you are miserable among men because of your words;" for example see, Heimskr II, 406, 19: _h&#x1EB;gg þú allra manna armastr_, "may you be miserable for the stroke [that you inflicted]."
+  _biðr--armastan_, a curse that would be in more direct speech, _m&oelig; þú allra manna armastr_, "you are miserable among men because of your words;" for example see, Heimskr II, 406, 19: _hǫgg þú allra manna armastr_, "may you be miserable for the stroke [that you inflicted]."
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
-  [_hólmg&#x1EB;ngul&#x1EB;g_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=h%F3lmg%F6ngu-l%F6g&startrow=1), see Egilss. c. 64, 39-40.
+  [_hólmgǫngulǫg_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=h%F3lmg%F6ngu-l%F6g&startrow=1), see Egilss. c. 64, 39-40.
 
- [_haslar v&#x1EB;ll_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0240:37), here simply "determines the limits of the battle zone," perhaps by erecting stones in a circle, as in Egilss. c. 64, 37, where the words _hólmhringr_ and _marksteinar_ are used.
+ [_haslar vǫll_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0240:37), here simply "determines the limits of the battle zone," perhaps by erecting stones in a circle, as in Egilss. c. 64, 37, where the words _hólmhringr_ and _marksteinar_ are used.
 [↩](#a24)
 
 <a name="myfootnote25" id="f25">25</a>:
@@ -184,5 +184,5 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a32)
 
 <a name="myfootnote33" id="f33">33</a>:
- _þykkir, m&#x1EB;nnum_ (not _Þorkeli_) completes this. Everyone thought that Gísli...
+ _þykkir, mǫnnum_ (not _Þorkeli_) completes this. Everyone thought that Gísli...
 [↩](#a33)
