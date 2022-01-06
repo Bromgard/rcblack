@@ -154,12 +154,12 @@ ok fær hvártveggi
 
 ### Notes
 <a name="footnote1" id="f1">1</a>:
-  [_upp-haf_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0655:40), a beginning.
+  [_upp-haf_](https://old-norse.net/html/u.php#upphaf), a beginning.
 <!--The "haf" appears to be missing in MS-->
 [↩](#a1)
 
 <a name="footnote2" id="f2">2</a>:
-  [_saga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0508:29), [(definition continued).](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0509:1), A story, legend.
+  [_saga_](https://old-norse.net/html/s.php#saga2), A story, legend.
 [↩](#a2)
 
 <a name="footnote1" id="f3">3</a>:
@@ -167,11 +167,11 @@ ok fær hvártveggi
 [↩](#a3)
 
 <a name="footnote4" id="f4">4</a>:
-  [_réð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0485:15), [(definition continued).](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0486:1), 3rd. sing. past, "ruled."
+  [_réð_](https://old-norse.net/html/r.php#r%C3%A1%C3%B0a), 3rd. sing. past, "ruled."
 [↩](#a4)
 
 <a name="footnote5" id="f5">5</a>:
-  His last days ([ofanverðir](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0463:12) dagar) were therefore in the years 950-61. According to the calculation of G. Vigfússon (Safu til sögu Ísl. I, 362) Gísli came to Iceland near the year 955; this year also fits very well if one refers the words, _ok var þetta_, not to the Norwegian events mentioned below but most likely to the emmigration.
+  His last days ([ofanverðir](https://old-norse.net/html/o.php#ofanver%C3%B0r) dagar) were therefore in the years 950-61. According to the calculation of G. Vigfússon (Safu til sögu Ísl. I, 362) Gísli came to Iceland near the year 955; this year also fits very well if one refers the words, _ok var þetta_, not to the Norwegian events mentioned below but most likely to the emmigration.
 [↩](#a5)
 
 <a name="footnote6" id="f6">6</a>:
@@ -179,11 +179,11 @@ ok fær hvártveggi
 [↩](#a6)
 
 <a name="footnote7" id="f7">7</a>:
- _skerauki_, this nickname apears to be composed of [_sker_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0544:29) (sea rock) and [_auki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0034:1)(augmentum)
+ _skerauki_, this nickname apears to be composed of [_sker_](https://old-norse.net/html/s.php#sker) (sea rock) and [_auki_](https://old-norse.net/html/a.php#auka)(augmentum)
 [↩](#a7)
 
 <a name="footnote8" id="f8">8</a>:
-  [_bjó_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0087:1), 3rd. sing. past, _búa_, "lived."
+  [_bjó_](https://old-norse.net/html/b.php#b%C3%BAa), 3rd. sing. past, _búa_, "lived."
 [↩](#a8)
 
 <a name="footnote9" id="f9">9</a>:
@@ -191,27 +191,27 @@ ok fær hvártveggi
 [↩](#a9)
 
 <a name="footnote10" id="f10">10</a>:
-  [hersir](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0259:7), "lord; someone of high rank closely associated with the king."
+  [hersir](https://old-norse.net/html/h.php#hersir), "lord; someone of high rank closely associated with the king."
 [↩](#a10)
 
 <a name="footnote11" id="f11">11</a>:
- [_nafnbót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0445:13), "ennobling of name," i.e. title.
+ [_nafnbót_](https://old-norse.net/html/n.php#nafnb%C3%B3t), "ennobling of name," i.e. title.
 [↩](#a11)
 
 <a name="footnote12" id="f12">12</a>:
- [_barna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0052:17), gen. pl., "of children."
+ [_barna_](https://old-norse.net/html/b.php#barn), gen. pl., "of children."
 [↩](#a12)
 
 <a name="footnote13" id="f13">13</a>:
- [_einn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0122:11), is more common than _fyrstr_ in enumerations.
+ [_einn_](https://old-norse.net/html/e.php#einn), is more common than _fyrstr_ in enumerations.
 [↩](#a13)
 
 <a name="footnote14" id="f14">14</a>:
-  [_óxu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0683:2), 3rd. pl. past, _vaxa_, "grew up."
+  [_óxu_](https://old-norse.net/html/v.php#vaxa), 3rd. pl. past, _vaxa_, "grew up."
 [↩](#a14)
 
 <a name="footnote15" id="f15">15</a>:
-  [_firði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0158:21), dat. sing., _fjörðr_, a "fjord." 
+  [_firði_](https://old-norse.net/html/f.php#fj%C3%B6r%C3%B0r), dat. sing., _fjörðr_, a "fjord." 
 [↩](#a15)
 
 <a name="footnote16" id="f16">16</a>:
@@ -219,15 +219,15 @@ ok fær hvártveggi
 [↩](#a16)
 
 <a name="footnote17" id="f17">17</a>:
-  [_biðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0062:16), 3rd. sing. pres., "proposes." 
+  [_biðr_](https://old-norse.net/html/b.php#bi%C3%B0ja), 3rd. sing. pres., "proposes." 
 [↩](#a17)
 
 <a name="footnote18" id="f18">18</a>:
-  [_fé_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0147:36), wealth. 
+  [_fé_](https://old-norse.net/html/f.php#f%C3%A9-II), wealth. 
 [↩](#a18)
 
 <a name="footnote19" id="f19">19</a>:
-  [_þræll_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0747:57), a serf, or slave.
+  [_þræll_](https://old-norse.net/html/th.php#%C3%BEr%C3%A6ll), a serf, or slave.
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
@@ -235,31 +235,31 @@ ok fær hvártveggi
 [↩](#a20)
 
 <a name="footnote21" id="f21">21</a>:
- _ enn_ [_blakki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0067:3), "the dark," of the color of the skin. The lexical range also allows for, "the pale," or "the white," as a foreboding of death. See the entry in Cleasby-Vigfusson.
+ _ enn_ [_blakki_](https://old-norse.net/html/b.php#blakkr3), "the dark," of the color of the skin. The lexical range also allows for, "the pale," or "the white," as a foreboding of death. See the entry in Cleasby-Vigfusson.
 [↩](#a21)
 
 <a name="footnote22" id="f22">22</a>:
-  [_berserkr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0061:17), A berserker; a wild warrior that appears to have had supernatural or ritual powers in combat; a characterization that appears regularly in the medieval sagas.
+  [_berserkr_](https://old-norse.net/html/b.php#berserkr), A berserker; a wild warrior that appears to have had supernatural or ritual powers in combat; a characterization that appears regularly in the medieval sagas.
 [↩](#a22)
 
 <a name="footnote23" id="f23">23</a>:
-  [_skoraði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0554:24), 3rd. sing. past, "challenged."
+  [_skoraði_](https://old-norse.net/html/s.php#skora), 3rd. sing. past, "challenged."
 [↩](#a23)
 
 <a name="footnote24" id="f24">24</a>:
-  [_hólmgǫngu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0280:40), a duel, sometimes referring to a specific ritual duel that takes place on a small island.
+  [_hólmgǫngu_](https://old-norse.net/html/h.php#h%C3%B3lmganga), a duel, sometimes referring to a specific ritual duel that takes place on a small island.
 [↩](#a24)
 
 <a name="footnote25" id="f25">25</a>:
-  [_vildu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0706:7), 3rd. pl. past, "wished". 
+  [_vildu_](https://old-norse.net/html/v.php#vilja), 3rd. pl. past, "wished". 
 [↩](#a25)
 
 <a name="footnote26" id="f26">26</a>:
-  [_vilja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0706:5), acc. pl., "wishes," or his demands. Compare this nominal form with the verb, "vilja" in note 26. 
+  [_vilja_](https://old-norse.net/html/v.php#vilja), acc. pl., "wishes," or his demands. Compare this nominal form with the verb, "vilja" in note 26. 
 [↩](#a26)
 
 <a name="footnote27" id="f27">27</a>:
-  [_vetr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=vetr&startrow=1), "winter," or season.
+  [_vetr_](https://old-norse.net/html/v.php#vetr), "winter," or season.
 [↩](#a27)
 
 <a name="footnote28" id="f28">28</a>:
@@ -267,7 +267,7 @@ ok fær hvártveggi
 [↩](#a28)
 
 <a name="footnote29" id="f29">29</a>:
-  [_búi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0084:109), dat. sing., "household," or farmstead. 
+  [_búi_](https://old-norse.net/html/b.php#b%C3%BA), dat. sing., "household," or farmstead. 
 [↩](#a29)
   
 <a name="footnote30" id="f30">30</a>:
@@ -275,7 +275,7 @@ ok fær hvártveggi
 [↩](#a30)
 
 <a name="footnote31" id="f31">31</a>:
-  [_berjask_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0060:33), [(definition continued)](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0061:1), 3rd, pl. pres. mediopassive, "fight," or do battle.
+  [_berjask_](https://old-norse.net/html/b.php#berja-I), 3rd, pl. pres. mediopassive, "fight," or do battle.
 [↩](#a31)
 
 <a name="footnote32" id="f31">32</a>:
@@ -283,11 +283,11 @@ ok fær hvártveggi
 [↩](#a32)
 
 <a name="footnote33" id="f33">33</a>:
-  [_selja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0521:8), to give. 
+  [_selja_](https://old-norse.net/html/s.php#selja), to give. 
 [↩](#a33)
 
 <a name="footnote34" id="f34">34</a>:
-  [_kaus_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0340:53) [_skjótt_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0553:9), 3rd. sing. past, _kjosa_, "chose." Note the adjectival usage of _skjótr_. See entry 3 in CV. The scribe writes as if he meant _segir_ instead of _kaus_.
+  [_kaus_](https://old-norse.net/html/k.php#kj%C3%B3sa) [_skjótt_](), 3rd. sing. past, _kjosa_, "chose." Note the adjectival usage of _skjótr_. See entry 3 in CV. The scribe writes as if he meant _segir_ instead of _kaus_.
 [↩](#a34)
 
 <a name="footnote35" id="f35">35</a>:
