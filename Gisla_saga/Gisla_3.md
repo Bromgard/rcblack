@@ -53,10 +53,12 @@ layout: default
 >stofnask styrjar efne,   
 >stinn j&#x1EB;rn of s&#x1EB;k minne.   
 
-Prose word order: Eldr leikr hár of órom skála; miket bál es; gaukr Gauts mon gladdr af skíko en vargar sadder; reyndak fyrr stinn j&#x1EB;rn á fj&#x1EB;ndom of minne s&#x1EB;k styrjar efne stofnask af þraut þinne, faþer minn.
+Prose word order: Eldr leikr hár of órom skála; miket bál es; gaukr Gauts mon gladdr af slíko en vargar sadder; reyndak fyrr stinn j&#x1EB;rn á fj&#x1EB;ndom of minne s&#x1EB;k; styrjar efne stofnask af þraut þinne, faþer minn.
 
-"The flames are high above your house, it is a great fire, as a result the raven (cuckoo of Odin) will be glad, and the wolf will be satisfied, I have already tested the stiff sword blades on my enemies for lesser reasons; my father, because of your suffering a feud will burn. "
-[↩](#a5)
+>"Flame plays high on our house, it is a huge fire.
+>The cuckoo of Geat (Odin. A kenning for a raven.) will be glad just as the wolf will be satisfied.
+>I already tested unbending iron on my enemies for lesser offenses. 
+>Battles will begin from your struggle, my father."[↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
  _er--kvámu_, "who had come there."
