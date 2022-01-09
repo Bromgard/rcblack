@@ -79,7 +79,7 @@ This internal change is called _ablaut_ and as you can see, Icelandic is no diff
 
 It is interesting to note that all of these words share a common ancestor with Old French, _dancier_, a word that moved north with the spread of courtly culture in the High Middle ages. Verbs imported from other languages adopt the weak tense systems in Germanic languages. 
 
-The other tenses in Germanic languages do not have a natural system of inflections but make use of synthetic constructions that make use of auxiliary verbs. For example, the perfect tenses in English require the use of the auxiliary verb, _have_, followed by the past participle of the verb. (Hyperlink to PP)
+The other tenses in Germanic languages do not have a natural system of inflections but make use of auxiliary verbs. For example, the perfect tenses in English require the use of the auxiliary verb, _have_, followed by the past participle of the verb.
 
 >I __have seen__ better faces in my time.
 <!-- King Lear 2:2-->
@@ -95,7 +95,7 @@ The sentence here simply records a fact that occurred one particular time, and p
 |:-----|:--:|---:|
 |I have seen. | Jeg har set. | Ek hefi sét. |
 
-There are other perfect constructions that use synthetic auxiliary verbs that will be discussed in greater detail in a later lesson.
+There are other perfect constructions that use auxiliary verbs that will be discussed in greater detail in a later lesson.
 
 Like other Germanic languages the future tense is indicated also by the synthetic constructions that make use of auxiliary modal verbs.
 
