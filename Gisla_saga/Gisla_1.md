@@ -291,43 +291,43 @@ ok fær hvártveggi
 [↩](#a34)
 
 <a name="footnote35" id="f35">35</a>:
- [_hvártveggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16) is ntr. "each of them."
+ [_hvártveggja_](https://old-norse.net/html/h.php#hv%C3%A1rrtveggi) is ntr. "each of them."
 [↩](#a35)
 
 <a name="footnote36" id="f36">36</a>:
- _yrði at_ [_sk&oslash;mm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0565:31), to him through his cowardice, and to her as the berserker's prize.
+ _yrði at_ [_sk&oslash;mm_](https://old-norse.net/html/s.php#sk%C3%B6mm), to him through his cowardice, and to her as the berserker's prize.
 [↩](#a36)
 
 <a name="footnote37" id="f37">37</a>:
-  _á_ [_þriggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0745:44), gen., note that the first four cardinal numbers decline, the lexical form being, _þrir_. [_nátta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0457:59) [_fresti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0173:4), "A delay of three nights."
+  _á_ [_þriggja_](https://en.wiktionary.org/wiki/%C3%BEr%C3%ADr#Old_Norse), gen., note that the first four cardinal numbers decline, the lexical form being, _þrir_. [_nátta_](https://old-norse.net/html/n.php#n%C3%B3tt-B) [_fresti_](https://old-norse.net/html/f.php#frest), "A delay of three nights."
 [↩](#a37)
 
 <a name="footnote38" id="f38">38</a>:
- [_framan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0169:13), nearly the same as [_fram_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0169:11); _framan_ is the starting point of the agreed time.
+ [_framan_](https://old-norse.net/html/f.php#fram). The starting point of the agreed time.
 [↩](#a38)
 
 <a name="footnote39" id="f39">39</a>:
- _fellr_, inf. [_falla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0137:10), means the same as _láta líf_; this expression literally means, "to fall down," or, "to be struck down."
+ _fellr_, inf. [_falla_](https://old-norse.net/html/f.php#fella), means the same as _láta líf_; this expression literally means, "to fall down," or, "to be struck down."
 [↩](#a39)
 
 <a name="footnote40" id="f40">40</a>:
-  [_þykkisk_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0753:26), 3rd. sing. pres. mediopassive, "thought to himself," or considered it to be.
+  [_þykkisk_](https://old-norse.net/html/th.php#%C3%BEykkja-B), 3rd. sing. pres. mediopassive, "thought to himself," or considered it to be.
 [↩](#a40)
 
 <a name="footnote41" id="f41">41</a>:
 [↩](#a41)
-  [_vegit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0688:21), [(definition continued)](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0689:1), past participle, "won," through through battle.
+  [_vegit_](https://old-norse.net/html/v.php#vega), past participle, "won," through through battle.
 
 <a name="footnote42" id="f42">42</a>:
 [↩](#a42)
-  [_ĺáta_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0377:11), "give up," or, to let go.
+  [_ĺáta_](https://old-norse.net/html/l.php#láta), "give up," or, to let go.
 
 <a name="footnote43" id="f43">43</a>:
  _gangi fram_, "to pass," or, "to become reality."
 [↩](#a43)
 
 <a name="footnote44" id="f44">44</a>:
- [_sverð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0610:6), a spear is made from this sword later in the saga. The same spear is mentioned as still existing in the 13th century in _Sturlunga saga_.
+ [_sverð_](https://old-norse.net/html/s.php#sver%C3%B0), a spear is made from this sword later in the saga. The same spear is mentioned as still existing in the 13th century in _Sturlunga saga_.
 [↩](#a44)
 
 <a name="footnote45" id="f45">45</a>:
@@ -335,15 +335,15 @@ ok fær hvártveggi
 [↩](#a45)
 
 <a name="footnote46" id="f46">46</a>:
- [_ljái_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0394:4), 3rd. sing. pres. subj., "lend."
+ [_ljái_](https://old-norse.net/html/l.php#lj%C3%A1), 3rd. sing. pres. subj., "lend."
 [↩](#a46)
 
 <a name="footnote47" id="f47">47</a>:
-  [_fylgir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0179:11), 3rd. sing. pres., it "follows" that...
+  [_fylgir_](https://old-norse.net/html/f.php#fylgja2), 3rd. sing. pres., it "follows" that...
 [↩](#a47)
 
 <a name="footnote48" id="f48">48</a>:
- [_orrostu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0469:7), fem. sing. gen., "in battle."
+ [_orrostu_](https://old-norse.net/html/o.php#orrosta), fem. sing. gen., "in battle."
 [↩](#a48)
 
 <a name="footnote49" id="f49">49</a>:
@@ -351,11 +351,11 @@ ok fær hvártveggi
 [↩](#a49)
 
 <a name="footnote50" id="f50">50</a>:
-  [_bjósk_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0087:2), 3rd. sing. past. mediopassive, "prepared himself.
+  [_bjósk_](https://old-norse.net/html/b.php#b%C3%BAa-B), 3rd. sing. past. mediopassive, "prepared himself.
 [↩](#a50)
 
 <a name="footnote51" id="f51">51</a>:
- [_unnit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0708:45), past participle, "had won," or accomplished. 
+ [_unnit_](https://old-norse.net/html/v.php#vinna), past participle, "had won," or accomplished. 
 [↩](#a51)
 
 <a name="footnote52" id="f52">52</a>:
@@ -367,15 +367,15 @@ ok fær hvártveggi
 [↩](#a53)
 
 <a name="footnote54" id="f54">54</a>:
-  [_fjárhlut_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0148:1), m. acc. sing., "share of the wealth." See [_fé_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0147:36).
+  [_fjárhlut_](https://old-norse.net/html/f.php#fj%C3%A1rhlutr), m. acc. sing., "share of the wealth." See [_fé_](https://en.wiktionary.org/wiki/f%C3%A9#Old_Norse).
 [↩](#a54)
 
 <a name="footnote55" id="f55">55</a>:
-  [_andask_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0019:27), 3rd. sing. past. mediopassive., "died." This is an idiomatic mediopassive usage of the verb meaning, "to breathe." 
+  [_andask_](https://old-norse.net/html/a.php#anda), 3rd. sing. past. mediopassive., "died." This is an idiomatic mediopassive usage of the verb meaning, "to breathe." 
 [↩](#a55)
 
 <a name="footnote56" id="f56">56</a>:
-  [_lét_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0377:11)[_drepa_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0105:16), _lét_, 3rd. sing. past. Used here as a common auxiliary verb, "to let," or to have something done. "He had" it be done that they were killed.
+  [_lét_](https://old-norse.net/html/l.php#láta)[_drepa_](https://old-norse.net/html/d.php#drepa), _lét_, 3rd. sing. past. Used here as a common auxiliary verb, "to let," or to have something done. "He had" it be done that they were killed.
 [↩](#a56)
 
 <a name="footnote57" id="f57">57</a>:
@@ -383,23 +383,23 @@ ok fær hvártveggi
 [↩](#a57)
 
 <a name="footnote58" id="f58">58</a>:
- [_heimti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0251:21), "craved."
+ [_heimti_](https://old-norse.net/html/h.php#heimta), "craved."
 [↩](#a58)
 
 <a name="footnote59" id="f59">59</a>:
-  [_laust_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0375:51), [(definition continued).](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0376:1), adj., with auxiliary _láta_, he "didn't want to let it go."
+  [_laust_](https://old-norse.net/html/l.php#lauss), adj., with auxiliary _láta_, he "didn't want to let it go."
 [↩](#a59)
 
 <a name="footnote60" id="f60">60</a>:
-  [_býðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0065:48), 3rd. sing. pres., "offers." 
+  [_býðr_](https://old-norse.net/html/b.php#bj%C3%B3%C3%B0a), 3rd. sing. pres., "offers." 
 [↩](#a60)
 
 <a name="footnote61" id="f61">61</a>:
-  [_fær_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0145:30), 3rd. sing. pres., from _fá_, to receive. [_at heldr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0254:6), [(definition continued)](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0254:7), but rather, or "all the more." But rather it was not given back to him, or returned to him.
+  [_fær_](https://old-norse.net/html/f.php#f%C3%A1), 3rd. sing. pres., from _fá_, to receive. [_at heldr_](https://old-norse.net/html/h.php#heldr), but rather, or "all the more." But rather it was not given back to him, or returned to him.
 [↩](#a61)
 
 <a name="footnote62" id="f62">62</a>:
- [_tilr&oelig;ði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0632:5), "attack;" or, "try to kill someone," from _ráða til (manns)_ "to attack someone."
+ [_tilr&oelig;ði_](https://old-norse.net/html/r.php#r%C3%A1%C3%B0a-A-V), "attack;" or, "try to kill someone," from _ráða til (manns)_ "to attack someone."
 [↩](#a62)
 
 <a name="footnote63" id="f63">63</a>:
@@ -407,18 +407,18 @@ ok fær hvártveggi
 [↩](#a63)
 
 <a name="footnote64" id="f64">64</a>:
-  [_høggr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0309:11), 3rd. sing. pres., from hǫggva; "strikes" with his sword. [_í moti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0436:6), "against." "Strikes into...the head."
+  [_høggr_](https://old-norse.net/html/h.php#h%C3%B6ggva), 3rd. sing. pres., from hǫggva; "strikes" with his sword. _í moti_; "against." "Strikes into...the head."
 [↩](#a64)
 
 <a name="footnote65" id="f65">65</a>:
-  [_brotnaði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0081:26), 3rd. sing. past., "to be broken."
+  [_brotnaði_](https://old-norse.net/html/b.php#brotna), 3rd. sing. past., "to be broken."
 [↩](#a65)
 
 <a name="footnote66" id="f66">66</a>:
- [_lamðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0383:35), the reflexive usage appears in the next page [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0384:1). "fractured."
+ [_lamðiz_](https://old-norse.net/html/l.php#lemja). "fractured."
 [↩](#a66)
 
 <a name="footnote67" id="f67">67</a>:
- [_hvártveggi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16), that is, Gísli and the slave. 
+ [_hvártveggi_](https://old-norse.net/html/h.php#hv%C3%A1rrtveggi), that is, Gísli and the slave. 
  <!--Weinhold (Altn. leben s. 197) completely misunderstood the position.-->
 [↩](#a67)
