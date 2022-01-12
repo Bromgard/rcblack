@@ -1,8 +1,3 @@
----
-title: Gísla 2
-layout: default
----
-
 # Gísla saga Súrssonar 2
 
 ### Þorbjǫrn and his family. Battle for Þórdis
@@ -50,7 +45,7 @@ Gísli biðr hann mæla allra manna armastan<sup id="a23">[23](#myfootnote23)</s
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- [_br&oelig;ðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0271:23) _tveir_, "his two brothers."
+ [_br&oelig;ðr_](https://old-norse.net/html/b.php#br%C3%B3%C3%B0ir) _tveir_, "his two brothers."
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -70,12 +65,12 @@ _Stokkum_, the settlement was called _Stokkar_, not _Stakkar_ s. &sect; 15; the 
 [↩](#a5)
 
 <a name="myfootnote6" id="f6">6</a>:
- _fíflði_; [_fífla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0155:27), is actually an expression for, "to seduce a woman."   
+ _fíflði_; [_fífla_](https://old-norse.net/html/f.php#f%C3%ADfla2), is actually an expression for, "to seduce a woman."   
  &#42856; The related words before and after this entry is interesting. A similar modern English usage is, "to goof off," or, "to fool around."
  [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- [_v&oelig;n_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0719:32) _ok_ [_vitr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0713:24), an alliterative formula (see Fms. VI, 119 u. ö.).
+ [_v&oelig;n_](https://old-norse.net/html/v.php#v%C3%A6nn) _ok_ [_vitr_](https://old-norse.net/html/v.php#vitr), an alliterative formula (see Fms. VI, 119 u. ö.).
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -83,7 +78,7 @@ _Stokkum_, the settlement was called _Stokkar_, not _Stakkar_ s. &sect; 15; the 
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- [_óm&oelig;t_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:18) [_ómaga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0668:30) _orð_, an alliterative proverb, "worthless, meaningless words;" c.f. Laxd. 85, 6: _óm&oelig;t eru afglapa orð_.
+ [_óm&oelig;t_](https://old-norse.net/html/oo.php#%C3%B3m%C3%A1ligr) [_ómaga_](https://old-norse.net/html/uu.php#%C3%BAmagi2) _orð_, an alliterative proverb, "worthless, meaningless words;" c.f. Laxd. 85, 6: _óm&oelig;t eru afglapa orð_.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -93,7 +88,7 @@ _var--í bragði_, "was an advocate and supporter of the plan."
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- _Gísla var_ [_óþakkat_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=%FA-%FEokki&startrow=1), "Gísli was displeased."
+ _Gísla var_ [_óþakkat_](https://old-norse.net/html/uu.php#%C3%BA%C3%BEokka%C3%B0r), "Gísli was displeased."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -129,7 +124,7 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
-  [_ráðit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0485:14), "conjugal encounter."
+  [_ráðit_](https://old-norse.net/html/r.php#r%C3%A1%C3%B0a). In this case, "conjugal encounter."
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
@@ -145,9 +140,9 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a23)
 
 <a name="myfootnote24" id="f24">24</a>:
-  [_hólmgǫngulǫg_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=h%F3lmg%F6ngu-l%F6g&startrow=1), see Egilss. c. 64, 39-40.
+  [_hólmgǫngulǫg_](https://old-norse.net/html/h.php#h%C3%B3lmg%C3%B6ngul%C3%B6g), see Egils s. c. 64, 39-40.
 
- [_haslar vǫll_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0240:37), here simply "determines the limits of the battle zone," perhaps by erecting stones in a circle, as in Egilss. c. 64, 37, where the words _hólmhringr_ and _marksteinar_ are used.
+ [_haslar vǫll_](https://old-norse.net/html/h.php#hasla2), here simply "determines the limits of the battle zone," perhaps by erecting stones in a circle, as in Egilss. c. 64, 37, where the words _hólmhringr_ and _marksteinar_ are used.
 [↩](#a24)
 
 <a name="myfootnote25" id="f25">25</a>:
@@ -167,7 +162,7 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a28)
 
 <a name="myfootnote29" id="f29">29</a>:
-  [_gall_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0202:2), the sword.
+  [_gall_](https://old-norse.net/html/g.php#gjalla), the sword.
 [↩](#a29)
 
 <a name="myfootnote30" id="f30">30</a>:
@@ -176,11 +171,11 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 
 <a name="myfootnote31" id="f31">31</a>:
  __Str. 2.__  "The weapon moved quickly; I aimed a blow against Skegge." --
-* [_hr&oelig;_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:6)-[_frakke_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0169:6) is a kenning for a slash weapon; _hr&oelig;_ = "corpse;" _frakke_ (and also frakka, f.) originally meant a weapon of Frankish origin: the construction appears in the name of the sword in Sn. Edde II, 619.
+* [_hr&oelig;-frakke_](https://old-norse.net/html/f.php#frakka) is a kenning for a slash weapon; _hr&oelig;_ = "corpse;" _frakke_ (and also frakka, f.) originally meant a weapon of Frankish origin: the construction appears in the name of the sword in Sn. Edde II, 619.
 [↩](#a31)
 
 <a name="myfootnote32" id="f32">32</a>:
-30 [_tréfót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=tr%E9-f%F3tr%2C&startrow=1) "wooden leg", see Eyrb. c. 45, 27.
+30 [_tréfót_](https://old-norse.net/html/t.php#tr%C3%A9f%C3%B3tr) "wooden leg", see Eyrb. c. 45, 27.
 [↩](#a32)
 
 <a name="myfootnote33" id="f33">33</a>:
