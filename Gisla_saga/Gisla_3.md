@@ -1,8 +1,3 @@
----
-title: Gísla 3
-layout: default
----
-
 # Gísla saga Súrssonar 3
 
 ### The enemy attack on Þórbj&#x1EB;rn and his sons. Kolbj&#x1EB;rns killing.
@@ -22,15 +17,15 @@ layout: default
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- [_sýru_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0616:5)-[_ker_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0337:12), "barrels of sour whey."
+ [_sýru_](https://old-norse.net/html/s.php#s%C3%BDra)-[_ker_](https://old-norse.net/html/k.php#ker), "barrels of sour whey."
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
-[_sløkkva_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0570:23), "extinguish."
+[_sløkkva_](https://old-norse.net/html/s.php#sl%C3%B6kva), "extinguish."
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
-[_þrysvar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0747:45), "three times."
+[_þrysvar_](https://old-norse.net/html/th.php#%C3%BErysvar), "three times."
 [↩](#a4)
 
 <a name="myfootnote3" id="f3">3</a>:
@@ -38,7 +33,7 @@ layout: default
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
- [_hunda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0292:22)-[_hljóðum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0271:23), "barking;" they came so far away from the settlement that the dogs there could not catch their scent, so as to betray them.
+ [_hunda_](https://old-norse.net/html/h.php#hundr)-[_hljóðum_](https://old-norse.net/html/h.php#hlj%C3%B3%C3%B0), "barking;" they came so far away from the settlement that the dogs there could not catch their scent, so as to betray them.
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
