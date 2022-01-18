@@ -1,8 +1,3 @@
----
-title: Gísla 6
-layout: default
----
-
 # Gísla saga Súrssonar 6
 
 ### The thing on Valseyrr. The Súrssynir and their brothers-in-law pledge themselves to be blood-brothers
@@ -46,11 +41,11 @@ Fara nú menn heim af þinginu.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
- [_sóknarþing_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0579:1), the [vár-þing](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0686:1), according to Grágás (Konungsbók I, 96), had to be conducted between the fourth and the sixth week of summer, consisted of two sections; the first was the _sóknarþing_, in which court cases ([sóknir](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0578:34)) were conducted; the second was the [_skuldaþing_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0560:1), a thing in which financial transactions were deliberated (payments of debt, etc.)
+ [_sóknarþing_](https://old-norse.net/html/s.php#s%C3%B3knar%C3%BEing), the [vár-þing](https://old-norse.net/html/v.php#v%C3%A1r%C3%BEing), according to Grágás (Konungsbók I, 96), had to be conducted between the fourth and the sixth week of summer, consisted of two sections; the first was the _sóknarþing_, in which court cases ([sóknir](https://old-norse.net/html/s.php#s%C3%B3kn)) were conducted; the second was the [_skuldaþing_](https://old-norse.net/html/s.php#skulda%C3%BEingi), a thing in which financial transactions were deliberated (payments of debt, etc.)
 [↩](#a2)
 
 <a name="myfootnote3" id="f3">3</a>:
- [_gassi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0192:30), a careless and thoughtless person who blabbed about everything.
+ [_gassi_](https://old-norse.net/html/g.php#gassi), a careless and thoughtless person who blabbed about everything.
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
@@ -90,7 +85,7 @@ Fara nú menn heim af þinginu.
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:
- [_málsenda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0417:53), acc. pl. v. [_málsendir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0417:55), apparently composed with, _endir_, the word is common; nevertheless, it should not be considered a form related to _málsemð_, pl. _málsemðir_; see Fritzner<sup>2</sup> s.v. --The MS. S also reads in this position _málsemð_. The meaning is "quality of speech," or, "expression."
+ [_málsenda_](https://old-norse.net/html/m.php#m%C3%A1lsemd), acc. pl. v. _málsendir_, apparently composed with, _endir_, the word is common; nevertheless, it should not be considered a form related to _málsemð_, pl. _málsemðir_; see Fritzner<sup>2</sup> s.v. --The MS. S also reads in this position _málsemð_. The meaning is "quality of speech," or, "expression."
 [↩](#a13)
 
 <a name="myfootnote14" id="f14">14</a>:
@@ -107,7 +102,7 @@ Fara nú menn heim af þinginu.
 [↩](#a16)
 
 <a name="myfootnote17" id="f17">17</a>:
- [_fóstbr&oelig;ðralag_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0168:5), about the blood brother pact, see Grundr.<sup>2</sup> III, 417 and the literature cited there; see also K. Maurer, Bekehrung II, 170  ff; M. Pappenheim, Zs. f.d. phil. 24, 157 f. The following passage is regarded as a locus classicus for this particular custom.
+ [_fóstbr&oelig;ðralag_](https://old-norse.net/html/f.php#f%C3%B3stbr%C3%B3%C3%B0ir), about the blood brother pact, see Grundr.<sup>2</sup> III, 417 and the literature cited there; see also K. Maurer, Bekehrung II, 170  ff; M. Pappenheim, Zs. f.d. phil. 24, 157 f. The following passage is regarded as a locus classicus for this particular custom.
 [↩](#a17)
 
 <a name="myfootnote18" id="f18">18</a>:
@@ -115,7 +110,7 @@ Fara nú menn heim af þinginu.
 [↩](#a18)
 
 <a name="myfootnote19" id="f19">19</a>:
- [_Jarðarmen_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0327:39); _men_ means "neck ring," and so something circular or round is meant here; therefore semicircular; all of it looked like this:   
+ [_Jarðarmen_](https://old-norse.net/html/j.php#jar%C3%B0armen); _men_ means "neck ring," and so something circular or round is meant here; therefore semicircular; all of it looked like this:   
 
 ![jarðarmen](http://rcblack.net/assets/images/jar%C3%B0armen.png)
 
@@ -123,7 +118,7 @@ Fara nú menn heim af þinginu.
 [↩](#a19)
 
 <a name="myfootnote20" id="f20">20</a>:
- [_málaspjót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=m%E1la-spj%F3t&startrow=1)--[_geirnagla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0196:10) a spear marked with a magical stave, so long that when a man stood on the ground he could reach the nail fastener with his hand extended, through which the blade was fastened to the shaft.
+ [_málaspjót_](https://old-norse.net/html/m.php#m%C3%A1laspj%C3%B3t)--[_geirnagla_](https://old-norse.net/html/g.php#geirnagli) a spear marked with a magical stave, so long that when a man stood on the ground he could reach the nail fastener with his hand extended, through which the blade was fastened to the shaft.
 [↩](#a20)
 
 <a name="myfootnote21" id="f21">21</a>:
@@ -147,7 +142,7 @@ Fara nú menn heim af þinginu.
 [↩](#a25)
 
 <a name="myfootnote26" id="f26">26</a>:
- [_hnykkir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0277:35), "quickly retreat"
+ [_hnykkir_](https://old-norse.net/html/h.php#hnykkja), "quickly retreat"
 [↩](#a26)
 
 <a name="myfootnote27" id="f27">27</a>:
