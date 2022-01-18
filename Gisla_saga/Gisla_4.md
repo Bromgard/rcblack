@@ -1,8 +1,3 @@
----
-title: Gísla 4
-layout: default
----
-
 # Gísla saga Súrssonar 4
 
 ### Þorbj&#x1EB;rn goes to Iceland and acquires land in Haukadalr
@@ -18,7 +13,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- [_aukit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0034:1), "increased", meaning, "more than" (120 days).
+ [_aukit_](https://old-norse.net/html/a.php#auka-I), "increased", meaning, "more than" (120 days).
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -42,7 +37,7 @@ _Dýrafj&#x1EB;rð_, one of the western fjords in Isafarðarsýsla (see Ezrb. c.
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- [_varðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0697:22), "defended himself."
+ [_varðiz_](https://old-norse.net/html/v.php#verja2), "defended himself."
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
@@ -54,7 +49,7 @@ _Dýrafj&#x1EB;rð_, one of the western fjords in Isafarðarsýsla (see Ezrb. c.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
- _Bjartmarr_, [_marr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:12) is equivilant to _m&oelig;rr_ (Proto-Norse -_m&#257;riR_) "famous"; see Noreen<sup>2</sup> &sect; 121, 1.
+ _Bjartmarr_, [_marr_](https://old-norse.net/html/m.php#m%C3%A6rr2) is equivilant to _m&oelig;rr_ (Proto-Norse -_m&#257;riR_) "famous"; see Noreen<sup>2</sup> &sect; 121, 1.
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
@@ -62,7 +57,7 @@ _Dýrafj&#x1EB;rð_, one of the western fjords in Isafarðarsýsla (see Ezrb. c.
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
-[_botni_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0073:24), the head of the fjord.
+[_botni_](https://old-norse.net/html/b.php#botn), the head of the fjord.
 [↩](#a12)
 
 <a name="myfootnote13" id="f13">13</a>:

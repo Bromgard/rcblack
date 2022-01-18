@@ -1,8 +1,3 @@
----
-title: Gísla 5
-layout: default
----
-
 # Gísla saga Súrssonar 5
 
 ### The Marriage of the brothers Þorkell and Gisli. Þórdis, their sister, marries Þorgrimr
@@ -18,7 +13,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
- [_sela_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0521:12)-[_gnúpr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0207:17), perhaps "seal rock"; this man is otherwise unknown, perhaps he was the grandson of Þorbj&#x1EB;rn tálkni, see below.
+ [_sela_](https://old-norse.net/html/s.php#selr)-[_gnúpr_](https://old-norse.net/html/g.php#gn%C3%BApr), perhaps "seal rock"; this man is otherwise unknown, perhaps he was the grandson of Þorbj&#x1EB;rn tálkni, see below.
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -30,7 +25,7 @@ layout: default
 [↩](#a3)
 
 <a name="myfootnote4" id="f4">4</a>:
-[_Eitthvert_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_wordclick?cmd=wordclick&word=margar&entry_id=cv:b0122:13&index=166), "one time."
+[_Eitthvert_](https://old-norse.net/html/e.php#einn-B-I-1), "one time."
 [↩](#a4)
 
 <a name="myfootnote5" id="f5">5</a>:
@@ -50,7 +45,7 @@ layout: default
 [↩](#a8)
 
 <a name="myfootnote9" id="f9">9</a>:
- [_f&#x1EB;stnuð_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0144:73), the usual legal engagement continued. The wedding could follow soon after.
+ [_f&#x1EB;stnuð_](https://old-norse.net/html/f.php#fastna), the usual legal engagement continued. The wedding could follow soon after.
 [↩](#a9)
 
 <a name="myfootnote10" id="f10">10</a>:
@@ -58,7 +53,7 @@ layout: default
 [↩](#a10)
 
 <a name="myfootnote11" id="f11">11</a>:
- [_réz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0485:15) (see entry V. 3. B. reflexive)--þangat_, "decided to move there."
+ [_réz_](https://old-norse.net/html/r.php#r%C3%A1%C3%B0a-B) (see entry V. 3. B. reflexive)--þangat_, "decided to move there."
 [↩](#a11)
 
 <a name="myfootnote12" id="f12">12</a>:
@@ -74,9 +69,9 @@ layout: default
 [↩](#a14)
 
 <a name="myfootnote15" id="f15">15</a>:
- [_garðar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0191:39), "the fences surrounding the tún."
+ [_garðar_](https://old-norse.net/html/g.php#gar%C3%B0r-I), "the fences surrounding the tún."
 [↩](#a15)
 
 <a name="myfootnote16" id="f16">16</a>:
- _í_ [_litkl&oelig;ðum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0390:35), see Eyrb. c. 20, 14.
+ _í_ [_litkl&oelig;ðum_](https://old-norse.net/html/l.php#litkl%C3%A6%C3%B0i), see Eyrb. c. 20, 14.
 [↩](#a16)
