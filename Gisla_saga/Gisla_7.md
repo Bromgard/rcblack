@@ -1,8 +1,3 @@
----
-title: Gísla 7
-layout: default
----
-
 # Gísla saga Súrssonar 7
 
 ###  Þorgrímr kills Norwegian merchants. He, Gísli, Þorkell, and Vésteinn travel to Norway
@@ -18,7 +13,7 @@ layout: default
 ### Notes
 
 <a name="myfootnote1" id="f1">1</a>:
-1 [_víkverskir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0717:4) from Vík in Norway (the area around Christiana Fjord).
+ [_víkverskir_](https://old-norse.net/html/v.php#v%C3%ADkverjar2) from Vík in Norway (the area around Christiana Fjord).
 [↩](#a1)
 
 <a name="myfootnote2" id="f2">2</a>:
@@ -42,7 +37,7 @@ layout: default
 [↩](#a6)
 
 <a name="myfootnote7" id="f7">7</a>:
- [_stýrim&#x1EB;nnum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0602:6), the two owners of the ship (&sect; 1). _stýrimaðr_ does not mean, "helmsman," but "captain."
+ [_stýrim&#x1EB;nnum_](https://old-norse.net/html/s.php#st%C3%BDrima%C3%B0r), the two owners of the ship (&sect; 1). _stýrimaðr_ does not mean, "helmsman," but "captain."
 [↩](#a7)
 
 <a name="myfootnote8" id="f8">8</a>:
