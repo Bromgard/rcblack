@@ -3,7 +3,7 @@
 ### Vésteinn is buried in a mound
 
 
-&F1C8;&036C þv v&F153t m&F1EA; &F10Deþ&F20E; minv&F1C3;
+m&#F1EA;
 
 1\. Gísli býz nú til at heygja Véstein, með allt lið<sup id="a1">[1](#myfootnote1)</sup> sitt, í sandmel þeim, er á stenz ok seftj&#x1EB;rn<sup id="a2">[2](#myfootnote2)</sup> fyrir neðan Sæból. Ok er Gísli var á leið kominn, þá fara<sup id="a3">[3](#myfootnote3)</sup> þeir Þorgrímr með marga menn til haugsgerðarinnar. 2. En þá er þeir h&#x1EB;fðu veitt Vésteini umbúnað, sem siðr var til, gekk Þorgrímr at Gísla ok mælti: "Þat er tízka,"<sup id="a4">[4](#myfootnote4)</sup> segir hann, "at binda m&#x1EB;nnum helzkó<sup id="a5">[5](#myfootnote5)</sup> þá er þeir skulu ganga á til Valhallar,<sup id="a6">[6](#myfootnote6)</sup> ok mun ek þat gera við Véstein."
 
