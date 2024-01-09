@@ -161,7 +161,7 @@ layout: default
 * [þótti](https://en.wiktionary.org/wiki/%C3%BEykkja#Old_Norse) [þér](https://en.wiktionary.org/wiki/ek#Pronoun_4)
 * [til](https://en.wiktionary.org/wiki/ek#Pronoun_4) [liggja](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0388:23); "Speaks well." Befitting. 
 * [þar sem](http://www.germanic-lexicon-project.org/cgi-bin/gmc_search_v3?cmd=viewthis&id=cv:b0388:23); Scroll down and find _þar sem_ in Cleasby/Vigfusson. "Where," works, but it does not entirely capture the sense. I like, "while." 
-* [settak](https://en.wiktionary.org/wiki/setja#Old_Norse) þik
+* [settak](https://en.wiktionary.org/wiki/setja#Old_Norse) þik; "...I did set you up to be."
 * [at](https://en.wiktionary.org/wiki/at#Preposition_4) [hepta](https://en.wiktionary.org/wiki/hefta#Verb); "to hinder."
 * [tálma](https://en.wiktionary.org/wiki/t%C3%A1lma); "To hinder." When you see this happen just use another common usage in English, like, "to hold back."
 * [gjǫrðisk](https://en.wiktionary.org/wiki/gera#Verb_5); "Undertake for himself." "Plan," works too.
