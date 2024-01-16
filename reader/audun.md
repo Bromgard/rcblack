@@ -107,7 +107,7 @@ The first two words can be translated as, "and now," but a more comfortable and 
 * Again, _firir_=[fyriri](https://en.wiktionary.org/wiki/fyrir#Old_Norse); "before" in a temporal sense. "Already" works also.
 * [gengr](https://en.wiktionary.org/wiki/ganga#Old_Norse) hann [upp](https://en.wiktionary.org/wiki/upp#Old_Norse) af [skipi](https://en.wiktionary.org/wiki/skip#Declension_3); Note that the proposition _af_ activates the dative case.
 * [leiðir](https://en.wiktionary.org/wiki/lei%C3%B0a#Old_Norse) eptir sér dýrit; Note the reflexive pronoun, _sér_. He leads the animal behind himself.
-* [leigir](https://en.wiktionary.org/wiki/leiga#Old_Norse); "rented." He checks in at an inn.
+* [leigir](https://en.wiktionary.org/wiki/leiga#Old_Norse); "rents." He checks in at an inn.
 * [herbergi](https://en.wiktionary.org/wiki/herbergi#Old_Norse); lodging at an inn. A weak noun in the accusative case.
 
 >11\. Haraldi konungi var sagt brátt, at þar var komit bjarndýri, gørsimi mikil, ok á íslenzkr maðr.
