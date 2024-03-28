@@ -154,7 +154,7 @@ _Granaskeið_, like so, and not like _Granna-_, as is seen in the M recension; t
 [↩](#a26)
 
 <a name="myfootnote27" id="f27">27</a>:
-  _heldr--sik_, it was otherwise the custom that the shield be held by another (for example see Gunnl. saga c. 11).
+  _heldr--sik_, it was otherwise the custom that the shield be held up toward the opposing combatant to signal readiness. (for example see Gunnl. saga c. 11).
 [↩](#a27)
 
 <a name="myfootnote28" id="f28">28</a>:
