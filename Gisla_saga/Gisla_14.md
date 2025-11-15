@@ -1,14 +1,17 @@
 # Gísla saga Súrssonar 14
 
-### Vésteinn is buried in a mound
+## Vésteinn is buried in a mound
 
-1\. Gísli býz nú til at heygja Véstein, með allt lið<sup id="a1">[1](#myfootnote1)</sup> sitt, í sandmel þeim, er á stenz ok seftj&#x1EB;rn<sup id="a2">[2](#myfootnote2)</sup> fyrir neðan Sæból. Ok er Gísli var á leið kominn, þá fara<sup id="a3">[3](#myfootnote3)</sup> þeir Þorgrímr með marga menn til haugsgerðarinnar. 2. En þá er þeir h&#x1EB;fðu veitt Vésteini umbúnað, sem siðr var til, gekk Þorgrímr at Gísla ok mælti: "Þat er tízka,"<sup id="a4">[4](#myfootnote4)</sup> segir hann, "at binda m&#x1EB;nnum helzkó<sup id="a5">[5](#myfootnote5)</sup> þá er þeir skulu ganga á til Valhallar,<sup id="a6">[6](#myfootnote6)</sup> ok mun ek þat gera við Véstein."
+1\. Gísli býz nú til at heygja Véstein, með allt lið[^1]
+sitt, í sandmel þeim, er á stenz ok seftjǫrn[^2] fyrir neðan Sæból. Ok er Gísli var á leið kominn, þá fara[^3]
+þeir Þorgrímr með marga menn til haugsgerðarinnar. 2. En þá er þeir hǫfðu veitt Vésteini umbúnað, sem siðr var til, gekk Þorgrímr at Gísla ok mælti: "Þat er tízka,"[^4] segir hann, "at binda mǫnnum helzkó[^5] þá er þeir skulu ganga á til Valhallar,[^6] ok mun ek þat gera við Véstein."
 
-3\. Ok er hann hafði þat g&#x1EB;rt, þá mælti hann: "Eigi kann ek helskó at binda ef þessir losna."
+3\. Ok er hann hafði þat gǫrt, þá mælti hann: "Eigi kann ek helskó at binda ef þessir losna."
 
-4\. Eftir þetta setjaz þeir niðr fyrir útan hauginn ok talaz við ok láta allólíkliga,<sup id="a7">[7](#myfootnote7)</sup> at n&#x1EB;kkur viti, hverr þenna gl&oelig;p hefir g&#x1EB;rt. 5. Þorkell spurði Gísla: "Hversu berz Auðr af<sup id="a8">[8](#myfootnote8)</sup> um bróður dauðann? Hvárt grætur hón mj&#x1EB;k?"<sup id="a9">[9](#myfootnote9)</sup>
+4\. Eftir þetta setjaz þeir niðr fyrir útan hauginn ok talaz við ok láta allólíkliga,[^7] at nǫkkur viti, hverr þenna glœp hefir gǫrt. 5. Þorkell spurði Gísla: "Hversu berz Auðr af[^8] um bróður dauðann? Hvárt grætur hón mjǫk?"[^9]
 
-"Vita muntu þat þykjaz,"<sup id="a10">[10](#myfootnote10)</sup> segir Gísli; "hón berz af vel<sup id="a11">[11](#myfootnote11)</sup> ok þykkir mikit.<sup id="a12">[12](#myfootnote12)</sup> 6. Draum<sup id="a13">[13](#myfootnote13)</sup> dreymði mik," segir Gísli, "í fyrri nátt, ok svá í nótt; en þó vil ek eigi á kveða, hverr vígit hefr unnit; en á hitt horfir um draumana.<sup id="a14">[14](#myfootnote14)</sup> 7. þat dreymði mik ena fyrri nátt, at af einum b&oelig;<sup id="a15">[15](#myfootnote15)</sup> hr&#x1EB;kkðiz<sup id="a16">[16](#myfootnote16)</sup> h&#x1EB;ggormr ok hjoggi Véstein til bana, en ena síðarri nátt dreymði mik, at vargr rynni af sama b&oelig; ok biti Véstein til bana. Ok sagða<sup id="a17">[17](#myfootnote17)</sup> ek því hvárngan drauminn fyrr en nú, at ek vilda, at hvárgi réðiz."<sup id="a18">[18](#myfootnote18)</sup>
+"Vita muntu þat þykjaz,"[^10] segir Gísli; "hón berz af vel[^11] ok þykkir mikit.[^12] 6. Draum[^13] dreymði mik," segir Gísli, "í fyrri nátt, ok svá í nótt; en þó vil ek eigi á kveða, hverr vígit hefr unnit; en á hitt horfir um draumana.[^14] 7. þat dreymði mik ena fyrri nátt, at af einum bœ[^15] hrǫkkðiz[^16] hǫggormr ok hjoggi Véstein til bana, en ena síðarri nátt dreymði mik, at vargr rynni af sama bœ ok biti Véstein til bana. Ok sagða[^17] ek því hvárngan drauminn fyrr en nú, at ek vilda, at hvárgi réðiz."[^18]
+
 
 8\. Ok þá kvað hann vísu:
 
@@ -16,16 +19,16 @@
 >
 >Betr hugþak þá, brigþer   
 >(biþkat draums ens þriðja   
->slíks) af svefne v&#x1EB;kþom,   
+>slíks) af svefne vǫkþom,   
 >sárteina, Vésteine,   
 >þás vit í sal sǫ́tum   
->Sigrhadds viþ mj&#x1EB;þ gladder,   
+>Sigrhadds viþ mjǫþ gladder,   
 >komska maþr á miþli   
->mín né hans, at víni.<sup id="a19">[19](#myfootnote19)</sup>
+>mín né hans, at víni.[^19]
 
-9\. Þorkell spurði þá: "Hversu berz Auðr af um bróðurdauðann? Hvárt grætur hón mj&#x1EB;k?"
+9\. Þorkell spurði þá: "Hversu berz Auðr af um bróðurdauðann? Hvárt grætur hón mjǫk?"
 
-"Opt spyrr þú<sup id="a20">[20](#myfootnote20)</sup> þessa, frændi!" segir Gísli, "ok er þér mikil forvitni á at vita þetta."
+"Opt spyrr þú[^20] þessa, frændi!" segir Gísli, "ok er þér mikil forvitni á at vita þetta."
 
 Gísli kvað vísu:
 
@@ -37,8 +40,8 @@ gríþar (leggsk ór góþum)
 Gefn (él kerom svefna;   
 eik berr (angre) lauka   
 (eir reksk) bráa geira   
-(bróþor) d&#x1EB;gg á bæþe   
-blíþ &#x1EB;ndvege síþan.<sup id="a21">[21](#myfootnote21)</sup>   
+(bróþor) dǫgg á bæþe   
+blíþ ǫndvege síþan.[^21]   
 
 11\. Ok enn kvað hann:
 
@@ -48,157 +51,77 @@ blíþ &#x1EB;ndvege síþan.<sup id="a21">[21](#myfootnote21)</sup>
 hvarmskóge Gnǫ́ bógar   
 hraun fylvingar, hremmir   
 hlátrs bann, í kné, svanna;   
-hn&oslash;tr less, en þreyr þessom,   
-Þ&#x1EB;gn, at mærþar r&#x1EB;gne,   
+hnøtr less, en þreyr þessom,   
+Þǫgn, at mærþar rǫgne,   
 snáka túns af síno   
-sjónhesle b&#x1EB;lgróno.<sup id="a22">[22](#myfootnote22)</sup>   
+sjónhesle bǫlgróno.[^22] 
 
-12\. Nú ganga þeir bræðr heim eptir þetta báðir saman. Þá mælti Þorkell: "Mikil tíðindi hafa hér g&#x1EB;rz, ok munu þér verða n&#x1EB;kkuru meiri tíðindi með harmi en oss;<sup id="a23">[23](#myfootnote23)</sup> en eigi at síðr verðr hverr með sjálfum sér lengst at fara.<sup id="a24">[24](#myfootnote24)</sup> 13. Vilda ek, at þú létir þér eigi þetta svá mikils fá, at menn renni þar af því grunum í;<sup id="a25">[25](#myfootnote25)</sup> vilda ek, at vér t&oelig;kum upp leika, ok væri nú svá vel með oss, sem þá er bezt hefir verit."
+12\. Nú ganga þeir bræðr heim eptir þetta báðir saman. Þá mælti Þorkell: "Mikil tíðindi hafa hér gǫrz, ok munu þér verða nǫkkuru meiri tíðindi með harmi en oss;[^23] en eigi at síðr verðr hverr með sjálfum sér lengst at fara.[^24] 13. Vilda ek, at þú létir þér eigi þetta svá mikils fá, at menn renni þar af því grunum í;[^25] vilda ek, at vér tɶkum upp leika, ok væri nú svá vel með oss, sem þá er bezt hefir verit."
 
-14\. "Þetta er vel mælt," segir Gísli, "ok vil ek þat gjarna, ok þó með þeim hætti,<sup id="a26">[26](#myfootnote26)</sup> ef n&#x1EB;kkut kann þat til at bera á þinni æfi, at þér þykki jafnmikit sem mér þykkir þetta, þá skaltu mér því heita, at gera þá með sama hætti, sem þú beiðir mik nú."
+14\. "Þetta er vel mælt," segir Gísli, "ok vil ek þat gjarna, ok þó með þeim hætti,[^26] ef nǫkkut kann þat til at bera á þinni æfi, at þér þykki jafnmikit sem mér þykkir þetta, þá skaltu mér því heita, at gera þá með sama hætti, sem þú beiðir mik nú."
 
-15\. Þessu játar Þorkell. Síðan fara þeir heim, ok er þá drukkit erfi eptir Véstein. Ok er þat er g&#x1EB;rt, ferr hver heim til síns heimilis, ok var nú allt kyrt.
+15\. Þessu játar Þorkell. Síðan fara þeir heim, ok er þá drukkit erfi eptir Véstein. Ok er þat er gǫrt, ferr hver heim til síns heimilis, ok var nú allt kyrt.
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_13">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_15">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
 
----
+[^1]:[_lið_](https://old-norse.net/html/l.php#li%C3%B0), s. household, see _heimalið_ in S.
+[^2]:_í sandmel--seftjǫrn_, "in the sandy stretch that runs along the reed pond," that is, parallel to the fjord and the pond, see the map in Árbók s. 16-17.
+[^3]:[_fara_](https://old-norse.net/html/f.php#fara-A), "come."
+[^4]:[_tízka_](https://old-norse.net/html/t.php#t%C3%AD%C3%B0ska), f. "custom."
+[^5]:_at binda--helskó_. The only attestation in the literature of this custom. <!--Check this-->
+[^6]:_þá--Valhallar_, may be an interpolation. Even in S, Valhǫll is not mentioned.
+[^7]:_láta allóglíkliga_, "to express that it would be very unlikely."
+[^8]:_Hversu berz Auðr af_, (that is, _berr af sér_), "how does A. endure the misery?"
+[^9]:[_mjǫk_](https://old-norse.net/html/m.php#mj%C3%B6k), "very much." S expresses: _Auðr hafði ekki farit með líkinu_, perhaps an off-hand remark.
+[^10]:_Vita--þykkjaz_, "...you should know that yourself."
+[^11]:_hón berz af vel_, "she bears it well." M has _lítt_ instead of _vel_.
+[^12]:_ok þykkir mikit_, "and (yet) it appears (what she has to bear) is much" (she feels it deeply).
+[^13]:_Draum_ etc., with the following words Gísli indicates in a manner that his brother does not understand that he knows who killed Véstteinn.
+[^14]:_á hitt--draumana_, "it is the opposite of dreams" (they speak in clear language).
+[^15]:_auf einum bœ_, this indeterminacy is speech enough for Þorkell.
+[^16]:[_hrøkkðiz_](https://old-norse.net/html/h.php#hr%C3%B6kkva) (from _hrøkkva_), "coil, writhe."
+[^17]:_Ok sagða_ etc., see above XIII, 1.
+[^18]:[_réðiz_](), "would come true." ;<!--get back to this-->
+[^19]:__Str. 4.__ Prose word order: Betr hugþak þá, brigþer sárteina! Vésteine, vǫkþom af svefne (biþkat ens þriþja draums slíks), þás vit sǫ́tom at víne í sal Sigrhadds, gladder viþ mjǫþ; komska maþr á miþle mín né hans.
 
-### Notes
+    "I think it better, oh warrior, that we remember Vesteinn while we both sat by the wine in Sigrhadd's [hall], pleased by our company, no one sitting between us, than to wake a third time [from] such a [bad] dream."
+    
+    * _Betr, vesa_, is implied.
+    * _þá_ is repeated in the following _þás.
+    * _brigþer sárteina_, voc., "bringer of the banquet of wounds, the swords" (see the sword name, Mistilteinn); these word of Þorkell seems to be chosen with reference to chapters 13 and 15. The last sentence emphasizes the close relationship between Gísli and Vésteinn.
+[^20]:_Opt spyrr þú_, Þorkell's repeated questions and his interest in Auðr that is quietly alluded to with Þorgrímr in chapter 9, is substantiated here.
+[^21]:__Str. 5.__ Prose word order: Linnvenges Gefn hylr gríþar-skap und líne; leggsk á laun kinna él ór góþom svefna kerom; blíþ lauka eik berr síþan bráa dǫgg á bæþe ǫndvege geira; eir reksk angre bróþor.
 
-<a name="myfootnote1" id="f1">1</a>:
-1 [_lið_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0387:6), s. household, see. _heimalið_ in S.
-[↩](#a1)
+    "The woman hid her agony under her veil, she secretly collects cheek rain from the good barrels of sleep. The woman then wipes the dew of her eyes with her hands, the peace is broken by her mourning for her brother."
 
-<a name="myfootnote2" id="f2">2</a>:
- _í sandmel--seftj&#x1EB;rn_, "in the sandy stretch that runs along the reed pond," that is, parallel to the fjord and the pond, see the map in Árbók s. 16-17.
-[↩](#a2)
+    * [_linnvenge_](https://old-norse.net/html/l.php#linnvengi), "the bed of the dragon," gold; the vessels of the gold; woman (Auðr). see _linnvenges Bil_, Oddr.
+    * _gríþar_ v. [_gríþ_](https://old-norse.net/html/g.php#gr%C3%AD%C3%B0) (or _gríþr_) appears to mean, "passion," "sensory excitement" (in modern Icel. it is often used as a stress prefix, for example, _gríðarstór_).
+    * [_kinna_](https://old-norse.net/html/k.php#kinn)-[_él_](https://old-norse.net/html/e.php#%C3%A9l), "the snow or the hail of the cheeks," e.g. tears.
+    * [_svafna_](https://old-norse.net/html/s.php#svefn) [_ker_](https://old-norse.net/html/k.php#ker), "the barrels of sleep," meaning, the eyes.
+    * [_lauka_](https://old-norse.net/html/l.php#laukr) [_eik_](https://old-norse.net/html/e.php#eik), "the oak of the leek," the woman.
+    * _síþan_, soon (after); when she has cried a little, she wipes her tears from her eyes, _bráa dǫgg_, "the dew of her brows," the tears.
+    * [_ǫndvege_](https://old-norse.net/html/oe.php#%C3%B6ndvegi), "high seat," the highest ranking seat in a hall.
+    * _ǫndvege_ [_geira_](https://old-norse.net/html/g.php#geirr), "the spear's high seat," the hand.
+    * [_eir_](https://old-norse.net/html/e.php#eir2), f. "rest" (only poet.).
 
-<a name="myfootnote3" id="f3">3</a>:
- [_fara_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0141:27), "come."
-[↩](#a3)
+[^22]:__Str. 6.__ Prose word order: Bógar hraun-Gnǫ́ lætr fylvingar hrynja af hvítom hvarmskóge í kné; hlátrs bann hremmir svanna; Þǫgn snáke túns less hnøtr af síno bǫlgróno sjónhesle, en þreyr at þessum mærþar rǫgne.
 
-<a name="myfootnote4" id="f4">4</a>:
- [_tízka_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0633:18), f. "custom."
-[↩](#a4)
+    "The woman drops the tears from her brows, down upon her lap, the woman grasps grief, the woman gathers nuts from the sickness of the face, grown from her grief (as ground); but seeks to cure her pain through the love (or longing) of the poet (me)."
 
-<a name="myfootnote5" id="f5">5</a>:
- _at binda--helskó_, this interesting custom can only be found here; it is sufficient [to our reading] that is was commonplace.
-[↩](#a5)
+    *  [_Bógr_](https://old-norse.net/html/b.php#b%C3%B3gr), "arm," [_hraun_](https://old-norse.net/html/h.php#hraun)=_grót_, stones; "the stones of the arm," the arm-ring, the Gnǫ́ (asin, god) of a ring, a woman.
+    * [_fylvingar_](https://old-norse.net/html/f.php#fylvingar) (gender uncertain) = nuts (see Sn.E. II, 430,514).
+    * [_hvarm_](https://old-norse.net/html/h.php#hvarmr)-[_skógr_](https://old-norse.net/html/s.php#sk%C3%B3gr), "the forest of eyelids," the eyelashes.
+    * [_hlátrs_](https://old-norse.net/html/h.php#hl%C3%A1tr) [_bann_](https://old-norse.net/html/b.php#bann), "the prohobition of the laughter," "the sorrow, the misery"
+    * _hremmir_ is an approximation for [_hyljar_](https://old-norse.net/html/h.php#hyljan) in S, _hranna_ in M.
+    * _Þǫgn_, a Valkyrie.
+    * [_snáka_](https://old-norse.net/html/s.php#sn%C3%A1kr) [_tún_](https://old-norse.net/html/t.php#t%C3%BAn) = _linnvenge_, in str. 4; "the Valkyrie of gold" = woman.
+    * [_sjón_](https://old-norse.net/html/s.php#sj%C3%B3n)-_helsi_, an innovative description of the eye; _helsi_, (v. [_hasl_](https://old-norse.net/html/h.php#hasl) ntr. = nut tree.
+    * [_Þreyja_](https://old-norse.net/html/th.php#%C3%BEreyja) _at_, "to yearn for one."
+    * [_mǫrðar_](https://old-norse.net/html/m.php#mor%C3%B0) [_rǫgnir_](https://old-norse.net/html/r.php#r%C3%B6gn), "the god of slaughter (or, the creator) of the poem," the poet; by this, Gísli means himself; see K. Gíslason Njála II, 551-52.
 
-<a name="myfootnote6" id="f6">6</a>:
- _þá--Valhallar_, may be an interpolation, even in S, Valh&#x1EB;ll is not mentioned.
-[↩](#a6)
-
-<a name="myfootnote7" id="f7">7</a>:
- _láta allóglíkliga_, "to express that it would be very unlikely."
-[↩](#a7)
-
-<a name="myfootnote8" id="f8">8</a>:
- _Hversu berz Auðr af_, (that is, _berr af sér_), "how does A. endure the misery?"
-[↩](#a8)
-
-<a name="myfootnote9" id="f9">9</a>:
- [_mj&#x1EB;k_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0433:5), here S expresses: _Auðr hafði ekki farit með líkinu_, a write-off remark (explanatory conjecture).   
-  &#42856; "very much."
-[↩](#a9)
-
-<a name="myfootnote10" id="f10">10</a>:
- _Vita--þykkjaz_, "you should know that yourself."
-[↩](#a10)
-
-<a name="myfootnote11" id="f11">11</a>:
- _hón berz af vel_, "she bears it well;" so it is in S (M has _lítt_ instead of _vel_, which would be the opposite sense).
-[↩](#a11)
-
-<a name="myfootnote12" id="f12">12</a>:
- _ok þykkir mikit_, "and (yet) it appears (what she has to bear) is much" (she feels it deeply).
-[↩](#a12)
-
-<a name="myfootnote13" id="f13">13</a>:
- _Draum_ etc., with the following words Gísli indicates in a manner that his brother does not understand that he knows who killed Véstteinn.
-[↩](#a13)
-
-<a name="myfootnote14" id="f14">14</a>:
- _á hitt--draumana_, "it is the opposite of dreams" (they speak in clear language).
-[↩](#a14)
-
-<a name="myfootnote15" id="f15">15</a>:
- _auf einum b&oelig;_, this indeterminacy is speech enough for Þorkell.
-[↩](#a15)
-
-<a name="myfootnote16" id="f16">16</a>:
- [_hr&oslash;ðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:1) (from _hr&oslash;kkva_), "curled out."
-[↩](#a16)
-
-<a name="myfootnote17" id="f17">17</a>:
- _Ok sagða_ etc., see above XIII, 1.
-[↩](#a17)
-
-<a name="myfootnote18" id="f18">18</a>:
- [_réðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0485:15), "would come true."
-[↩](#a18)
-
-<a name="myfootnote19" id="f19">19</a>:
- __Str. 4.__ Prose word order: Betr hugþak þá, brigþer sárteina! Vésteine, v&#x1EB;kþom af svefne (biþkat ens þriþja draums slíks), þás vit sǫ́tom at víne í sal Sigrhadds, gladder viþ mj&#x1EB;þ; komska maþr á miþle mín né hans.
-
-"I think it better, oh warrior, that we remember Vesteinn while we both sat by the wine in Sigrhadd's [hall], pleased by our company, no one sitting between us, than to wake a third time [from] such a [bad] dream."
-
-* _Betr, vesa_, is implied.
-* _þá_ is repeated in the following _þás.
-* _brigþer sárteina_, voc., "bringer of the banquet of wounds, the swords" (see the sword name, Mistilteinn); these word of Þorkell seems to be chosen with reference to chapters 13 and 15. The last sentence emphasizes the close relationship between Gísli and Vésteinn.
-[↩](#a19)
-
-<a name="myfootnote20" id="f20">20</a>:
- _Opt spyrr þú_, Þorkell's repeated questions and his interest in Auðr that is quietly alluded to with Þorgrímr in chapter 9, is substantiated here.
-[↩](#a20)
-
-<a name="myfootnote21" id="f21">21</a>:
- __Str. 5.__ Prose word order: Linnvenges Gefn hylr gríþar-skap und líne; leggsk á laun kinna él ór góþom svefna kerom; blíþ lauka eik berr síþan bráa d&#x1EB;gg á bæþe &#x1EB;ndvege geira; eir reksk angre bróþor.
-
-"The woman hid her agony under her veil, she secretly collects cheek rain from the good barrels of sleep. The woman then wipes the dew of her eyes with her hands, the peace is broken by her mourning for her brother."
-
-* [_linnvenge_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0390:14), "the bed of the dragon," gold; the vessels of the gold; woman (Auðr). see _linnvenges Bil_, Oddr. 31<sup>2</sup>.
-* _gríþar_ v. [_gríþ_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0215:27) (Second half of entry [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0216:1)) (or _gríþr_) appears to mean, "passion," "sensory excitement" (in modern Icel. it is often used as a stress prefix, for example, _gríðarstór_).
-* [_kinna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0338:31)-[_él_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0125:7), "the rain or the hail of the cheeks," e.g. tears.
-* [_svafna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0606:64) [_ker_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0337:12), "the barrels of sleep," meaning, the eyes.
-* [_lauka_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0374:46) [_eik_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0119:31), "the oak of the leek," the woman.
-* _síþan_, soon (after); when she has cried a little, she wipes her tears from her eyes, _bráa d&#x1EB;gg_, "the dew of her brows," the tears.
-* [_&#x1EB;ndvege_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0764:41)(and [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0765:1).), "upright."
-* _&#x1EB;ndvege_ [_geira_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0196:12), "the spear's head," the hand.
-* [_eir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0123:63), f. "rest" (only poet.).
-[↩](#a21)
-
-<a name="myfootnote22" id="f22">22</a>:
- __Str. 6.__ Prose word order: Bógar hraun-Gnǫ́ lætr fylvingar hrynja af hvítom hvarmskóge í kné; hlátrs bann hremmir svanna; Þ&#x1EB;gn snáke túns less hn&oslash;tr af síno b&#x1EB;lgróno sjónhesle, en þreyr at þessum mærþar r&#x1EB;gne.
-
-"The woman drops the tears from her brows, down upon her lap, the woman grasps grief, the woman cos nuts from the sickness of the face, grown from her grief (as ground); but seeks to cure her pain through the love (or longing) of the poet (me)."
-
-*  [_Bógr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0073:30), "arm," [_hraun_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0282:22)=_grót_, stones; "the stones of the arm," the arm-ring, the Gnǫ́ (asin, god) of a ring, a woman.
-* [_fylvingar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0180:2) (gender uncertain) = nuts (see Sn.E. II, 430,514).
-* [_hvarm_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0296:17)-[_skógr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0555:37), "the forest of eyelids," the eyelashes.
-* [_hlátrs_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0270:7) [_bann_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0051:14), "the prohobition of the laughter," "the sorrow, the misery"
-* _hremmir_ is an approximation for [_hyljar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0304:13) in S, _hranna_ in M.
-* _Þ&#x1EB;gn_, a Valkyrie.
-* [_snáka_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0573:48) [_tún_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0644:28) = _linnvenge_, in str. 4; "the Valkyrie of gold" = woman.
-* [_sjón_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0535:7)-_helsi_, an innovative description of the eye; _helsi_, (v. [_hasl_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0240:35)) ntr. = nut tree.
-* [_Þreyja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0745:8) _at_, "to yearn for one."
-* [_m&oelig;rðar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:8) [_r&#x1EB;gnir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0488:45), "the god (or, the one who sets in motion) the poem," the poet; by this, Gísli means himself; see K. Gíslason Njála II, 551-52.
-[↩](#a22)
-
-<a name="myfootnote23" id="f23">23</a>:
- _munu þér_--oss_, "this will be a much greater grief for you than for us."
-[↩](#a23)
-
-<a name="myfootnote24" id="f24">24</a>:
- _verðr--fara_, a proverb, "everyone is most likely to deal with their own selves" (so must they take care of themselves first).
-[↩](#a24)
-
-<a name="myfootnote25" id="f25">25</a>:
- _renni-í_, "as a result, one becomes suspicious," and probably reveals the true facts. With these words Þorkell admits that Þorgrímr is the murderer.
-[↩](#a25)
-
-<a name="myfootnote26" id="f26">26</a>:
- _með þeim h&oelig;tti_, "under the condition."
-[↩](#a26)
+[^23]:_munu þér_--oss_, "this will be a much greater grief for you than for us."
+[^24]:_verðr--fara_, a proverb, "everyone is most likely to deal with their own selves" (so must they take care of themselves first).
+[^25]:_renni-í_, "as a result, one becomes suspicious," and probably reveals the true facts. With these words Þorkell admits that Þorgrímr is the murderer.
+[^26]:_með þeim hɶtti_, "under the condition."
