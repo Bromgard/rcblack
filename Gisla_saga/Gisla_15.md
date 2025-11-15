@@ -1,105 +1,55 @@
+
 ---
-title: Gísla 15
+title: Gísla 16
 layout: default
 ---
 
- # Gísla saga Súrssonar 15
+# Gísla saga Súrssonar 16
 
-# ## Games are held. Autumn festival with Þorgrímr and Gísli
+### Þorgrímr is killed
 
-1\. Tókuz nú upp leikar sem ekki hefði í orðit. Eiga þeir mágar optast leik saman, Gísli ok Þorgrímr, ok verða menn eigi á sáttir, hvárr sterkari er; en þó ætla flestir Gísla aflameira.[^1] 2. Þeir leika knattleika[^2] á (tjǫrn þeiri er Seftjǫrn heitir); þar var jafnan fjǫlmennt. 3. Þat var einn dag, þá er flesta lagi[^3] var komit, at Gísli bað jafnliga[^4] skipta til leiksins. 4. "Þat viljum vér víst," segir Þorkell, "enda viljum vér at þú sparir þá ekki af vit Þorgrím,[^5] því at þat orð flyz af,[^6] at þú spariz við; en ek ynni þér allvel, at þú fengir sem mesta virðing af, ef þú ert sterkari."
+1\. Bǫrkur ok Eyjólfur koma um kveldit með sex tøgu manna, ok var þar hundrað manna, en hálft at Gísla. Tóku menn til drykkju á Hóli um kveldit, ok fara menn í rekkjur eptir þat ok sofa.
 
-5\. "Ekki[^7] hǫfum vit þat reynt hér til," segir Gísli, "en þó má þat vera, at þar komi at vit reynim."
+2\. Gísli mælti við Auði konu sína: "Ek hefi ekki gefit[^1] hesti Þorkels ens auðga, ok gakk þú með mér ok lát loku fyrir hurð ok vaki, (á) meðan ek geng í brott, ok lát frá loku, er ek køm aptr."
 
-6\. Nú leika þeir, ok hefir Þorgrímr ekki við, feldi Gísli, hann ok bar út knǫttinn.[^8] Þá vill Gísli taka knǫttinn, en Þorgrímr heldr hánum, ok lætr hann eigi því ná. 7. Þá fellir Gísli svá hart Þorgrím, svá at hann hafði ekki við, ok af gekk skinnit af knúunum, en blóð stǫkk ór nǫsunum; (af gekk ok kjǫtið af knjánum). 8. Þorgrímr stóð seint upp; hann leit til haugsins Vésteins ok mælti:
+3\. Hann tekr spjótit Grásíðu úr ǫrkinni, ok er í kápu blári ok í skyrtu ok í línbrókum, ok gengr hann síðan til lɶkjar þess,[^2] er fellr á milli bɶjanna, ok tekit var neytingarvatn[^3] af hvárumtveggja bɶnum. 4. Hann gengr gǫtu[^4] til lɶkjarins, en veðr síðan lɶkinn til gǫtu þeirar, er lá til hins bɶjarins.[^6] 5. Gísla var kunnug húsaskipun á Sæbóli, því at hann hafði gǫrt þar bɶinn; þar var innangengt[^7] í fjós; þangat gengr hann; þar stóðu þrír tigir kúa hvárum megin, hann knýtir saman halana[^8] í nautunum, þrimr tøgum hvárum megin, ok lýkr aptr fjósinu ok býr svá um, at eigi má upp lúka, þó at innan sé til komit. 6. Síðan ferr hann til mannhúsanna, ok hafði Geirmundr geymt hlutverka sinna,[^9] því at loka var engi fyrir hurðum; gengr hann nú inn ok lýkr aptr hurðunni, sem um aptaninn hafði verit um búit. 7. Nú fer hann at ǫllu tómliga.[^10] Eptir þat stendr hann ok hlýðiz um, hvárt nǫkkurir vekði, ok verðr hann þess varr, at allir menn sofa. 8. Þrjú váru log í skálanum. Síðan tekr hann sefit af gólfinu ok vefr saman, kastar síðan í ljósit eitt, ok sloknar þat; eftir þat stendr hann ok hyggr at, hvárt nǫkkur vaknar við, ok finnr hann þat ekki. 9. Þá tekr hann aðra sefvisk ok kastar í þat ljós, er þar var næst, ok sløkkvir þat; Þá verðr hann þess varr, at eigi munu allir sofa, því at hann sér, at ungs manns[^11] hǫnd kømr á et (þriðja) ljósit ok kippir ofan kolunni[^12] ok kɶfir[^13] ljósit.
 
->7   
->   
-Geirr í gumna sǫ́rum   
-gnast -- kannkat þat lasta.[^9]
+![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e0/G%C3%ADsla_saga_Illustration_6_-_Gisli.jpg "Gisli in Saebol")
 
-Gísli tók knǫttinn á skeiði ok rekur á milli herða Þorgrími svá at hann steypist áfram ok mælti:
+10\. Nú gengr hann innar eptir húsinu ok at lokhvílunni þar er þau þorgrímr hvílðu ok systir hans, ok var hnigin hurð á gátt,[^14] ok eru þau bæði í rekkju. 11. Gengur hann þangat ok þreifaz fyrir[^15] ok tekr á brjósti henni ok hvílði hón nær stokki.
 
->8   
->   
-Bǫllr á byrþar stalli   
-brast -- kankat þat lasta.[^10]
+12\. Síðan mælti hón Þórdís: "Hví er svá kǫld hǫnd þín, Þorgrímr?" ok vekr hann.
 
-10\. Þorkell sprettr upp ok mælti: "Nú má þat sjá hverr sterkastr er eða mestr atgørfimaður; er ok hættum nú."
+Þorgrímur mælti: "Viltu at ek snúiz at þér?"
 
-Ok svá gerðu þeir. 11. Tókuz nú af leikarnir, ok líðr á sumarit, ok fætkaðiz nú heldr með þeim Þorgrími ok Gísla. 12. Þorgrímr ætlaði at hafa haustboð at vetrnóttum ok fagna vetri ok blóta Frey, ok býðr þangat Berki bróður sínum ok Eyjólfi Þórðarsyni[^11] ór Otradal[^12] ok mǫrgu ǫðru stórmenni. 13. Gísli býr ok til veizlu ok býður til sín mágum sínum[^13] ór Arnarfirði ok Þorkǫtlum tveimr, ok skorti eigi hálft hundrað[^14] manna at Gísla. Drykkja skyldi vera at hvárratveggja, ok var strát gólf á Sæbóli af sefinu[^15] af (Seftǫrn). 14. Þá er þeir Þorgrímur bjogguz um ok skyldu tjalda húsin, en boðsmanna var þangat ván um kveldit, þá mælti Þorgrímur við Þorkel: "Vel kœmi oss nú reflarnir þeir enir góðu, er Vésteinn vildi gefa þér; þœtti mér sem þar væri langt í milli,[^16] hvárt þú hefðir þá með ǫllu,[^17] eða hefðir þú þá aldri; ok vilda ek nú, at þú létir sœkja þá."
+Hón hugði, at hann legði[^16] hǫndina yfir hana. Gísli bíðr þá enn um stund ok vermir hǫndina í serk sér, en þau sofna bæði; nú tekr hann á Þorgrími kyrt, svá at hann vaknaði; hann hugði at hón Þórdís vekði hann, ok snøriz þá at henni. 14. Gísli tekr þá klæðin[^17] af þeim annarri hendi, en með annarri leggur hann í gegnum Þorgrím með Grásíðu, svá at í beðinum nam stað. Nú kallar hón Þórdís ok mælti: "Vaki menn í skálanum! Þorgrímr er veginn, bóndi minn."
 
-15\. Þorkell svarar: "Allt kann[^18] sá, er hófit kann, ok mun ek eigi eptir þeim senda."
+15\. Gísli snýr í brott skyndiliga til fjóssins, gengr þar út sem hann hafði ætlat, ok lýkr aptr eptir sér rammliga, snýrr heim síðan ena sǫmu leið, ok má hvergi sjá spor hans. 16. Auðr lætur lok frá hurðu, er hann kom heim, ok ferr hann í sæing sína, ok lætur sem ekki[^18] sé í orðit, eða hann eigi um ekki at vera.[^19] 17. En menn allir váru ǫlɶrir á Sæbóli ok vissu ekki, hvat af skyldi ráða,[^20] kom þetta á þá óvara, ok urðu því eigi tekin þau ráð sem dygði (eða þǫrf var á).
 
-"Ek skal þat gera þá," sagði Þorgrímr ok bað Geirmund fara.
+![alt text](https://upload.wikimedia.org/wikipedia/commons/3/33/G%C3%ADsla_saga_Illustration_3_-_Thorgrim%27s_Slaying.jpg "Thorgrim's Slaying")
 
-16\. Geirmundr svarar: "Vinna mun ek nǫkkut;[^19] en ekki er mér[^20] um at fara."
-
-Þá gengr Þorgrímr at hánum, ok slær hann (buffeitt mikit) ok mælti: "Far nú þá ef þér þykir nú betra."
-
-17\. "Nú skal fara," sagði hann, "þó at nú sé verra, en vit þat fyrir víst, at hafa skal ek vilja til at fá þér þar fylju,[^21] er þú (fær) mér fola, ok er þó eigi varlaunat."[^22]
-
-18\. Síðan ferr hann ok er hann kømr á Hól, þá eru þau Gísli ok Auðr búin at láta upp tjǫldin. Geirmundr ber upp ǫrindit ok sagði allt sem farit hafði.
-
-19\. "Hvárt viltu, Auður, ljá tjǫldin?" sagði Gísli.
-
-"Eigi spyrr þú þessa af því, at þú vitir eigi, at ek vilda, at þeim væri hvárki þetta gott gǫrt, né annat þat er þeim væri til sœmdarauka."[^23]
-
-20\. "Hvárt vildi Þorkell bróðir minn?" sagði Gísli.
-
-"Vel þótti hánum, at ek fœri eptir."
-
-"Þat skal œrit eitt til,"[^24] sagði Gísli ok fylgir hánum, á leið ok fær hánum gripina. 21. Gísli gengr með hánum, ok allt at garði ok mælti: "Nú er þann veg, at ek þykkjumz góða hafa gørt ferð þína, ok vilda ek, at þú værir mér nú leiðitamr[^25] um þat, sem mik varðar, ok sér æ gjǫf til gjalda,[^26] ok vilda ek, at þú létir lokur frá hurðum þrimr í kveld; ok mættir þú muna, hversu þú vart beiddr til fararinnar."
-
-22\. Geirmundr svarar: "Mun Þorkeli, bróður þínum, við engu hætt?"
-
-"Við alls engu," sagði Gísli.
-
-"Þá mun þetta áleiðis snúaz,"[^27] sagði Geirmundr.
-
-23\. Ok nú er hann kømr heim, kastar hann niðr[^28] gripunum. Þá mælti Þorkell: "Ólíkr er Gísli ǫðrum mǫnnum í þolinmœði,[^29] ok hefur hann betr[^30] en vér."
-
-"Þessa[^31] þurfum vér nú," segir Þorgrímur.  
-
-Ok láta upp refilinn. 24\. Síðan koma boðsmenn um kveldit. Ok þyknar veðrit, gerir þá logndrífu[^32] um kveldit, ok hylr[^33] stígu alla.
-
-
-<div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_11">⇦</a></div>
-<div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_11">⇨</a></div>
+<div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_15">⇦</a></div>
+<div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_17">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
 
-[^1]:[_aflameira_](https://old-norse.net/html/a.php#aflamikill), _afla-_ gen. pl. v. _afl_, not gen. sg. v. _afli_; see. [_kraptamikill_](https://old-norse.net/html/k.php#kraptr).
-[^2]:[_knattleika_](https://old-norse.net/html/k.php#knattleikr), c.f. Egilss. XL, 1.
-[^3]: _flesta lagi_ (frequently _í fl. lagi_), "in very large amounts."
-[^4]:_jafnliga_, "in two equal parts."
-[^5]:_at þú sparir--Þorgrím_, "that you lack nothing (in the battle) against Þ." (do not pull punches).
-[^6]:s. 35. 23. _þat orð flyz af_, "talk moves about."
-[^7]:_ekki_, _afl_ is implied; _hafa við_, "have enough strength to hold onto someone.
-[^8]:_bar út knǫttinn_, impersonal: "the ball flew out" (of bounds of the designated field).
-[^9]:__Str. 7__ "The spear cried out loudly into a man's (that is, Véstein's) wound -- I cannot be sorry." -- about the plural (_gumma_) see K. Gíslason, Njála II, 562 f.
-[^10]:__Str. 8__, "The ball cried out loudly onto the shoulder; I cannot be sorry.
-	* [_burðar_](https://old-norse.net/html/b.php#bur%C3%B0r2)-[_stallr_](https://old-norse.net/html/s.php#stallr), the "supporting pedestal," the shoulder. See _burðar-maðr_.
-[^11]:_Eyjólfi Þórðarsyni_, Eyjólfr was a son of Þórðr gellir; he had the nickname _enn grái_, s. Eyrb. c. XIII.
-[^12]:_Otradal_, (today is a parsonage) lies on the south coast of Arnarfjǫrðr.
-[^13]:_mágum sínum_, that is, Bjartmarr and his sons, see c.4.
-[^14]:_hálft hundrað_, one half of a "large-hundred," 60.
-[^15]:[_sef_](https://old-norse.net/html/s.php#sef), n. "rush."
-[^16]:_langt í milli_, "a large difference."
-[^17]:_með ǫllu_, "as full possession."
-[^18]:_Allt--kann_<sup>2</sup>, a proverb.
-[^19]:_nǫkkut_, "something," that is, anything (just not this).
-[^20]:_ekki er mér_, "I have no desire."
-[^21]:[_fylju_](https://old-norse.net/html/f.php#fyl), "a yong mare," a pun with reference to the word, [_kinnhestr_](https://old-norse.net/html/h.php#hestr-II); see aslo [_foli_](https://old-norse.net/html/f.php#foli), "young stallion."
-[^22]:[_varlaunat_](https://old-norse.net/html/v.php#varlauna%C3%B0r), "badly or insufficiently compensated."
-[^23]:[_sæmðarauki_](https://old-norse.net/html/s.php#s%C3%A6mdarauki), m. "increase of appearance."
-[^24]:_Þat skal œrit eitt til_, "that should be considered a sufficient reason."
-[^25]:[_leiðitamr_](https://old-norse.net/html/l.php#lei%C3%B0itamr), "easy to guide," willing to follow someone.
-[^26]:_sér -- gjalda_, a proverb, also in, FMS. I, 296, 18; see Hǫ́v. 145: _ey sér til gildes gjǫ_ and 46: _glík skolo gjǫld gjǫfom_.
-[^27]:_áleiðis snúaz_, "to be routed, executed."
-[^28]:_kastar hann niðr_, "he throws down [the tapestry];" therefore this means that the burden was heavy; Gísli himself carries the tapestry to the wall (§ 20).
-[^29]:[_þolinmœði_](https://old-norse.net/html/th.php#%C3%BEolinm%C3%A6%C3%B0i), f. "patience, indulgence."
-[^30]:_hefir--betr_, "he behaves better."
-[^31]:_Þessa_, "this," that is, the tapestries; with this Þorgrímr interrupts Þorkell and at the same time expresses that his thoughts and long-winded speech is out of place.
-[^32]:[_logndrífu_](https://old-norse.net/html/l.php#logndr%C3%ADfa), f. "snowfall in still air."
-[^33]:[_hylr_](https://old-norse.net/html/h.php#hylja), "covers."
+[^1]:[_gefit_](https://old-norse.net/html/g.php#gefa-A), namely [_fóðr_](https://old-norse.net/html/f.php#f%C3%A6%C3%B0a), "I have not fed Þ's' horse."
+[^2]:_lɶkjar þess_, this creek runs west of the settlements Hóll and Sæból; see the map in Árbók 1883; the description here is quite accurate.
+[^3]:[_neytingarvatn_](https://old-norse.net/html/n.php#neytingarvatn), "water for household use."
+[^4]:[_gǫtu_](https://old-norse.net/html/g.php#gata), the short path from Hóll to the creek.
+[^5]:_til hins bɶjarins_, "to the other settlement," meaning, Sæból; perhaps _ens neðra_ from S and frgmt. should be included; the overall meaning is the same.
+[^6]:[_húsaskipun_](https://old-norse.net/html/h.php#h%C3%BAsaskipan), f. "the layout of the house."
+[^7]:_var innangengt_, "one can go directly into the cowshed from inside the yard."
+[^8]:_hann knýtir saman halana_, thereby blocking the way that led through the two rows of cattle, and made the possible encounter more difficult (Árbók 1883, s. 24.) The same remedy seems to have been used often, see  Droplaugarsona saga (Kbh. 1847), s. 29, 27.
+[^9]:_hluverka sinna_, "the business that came to him."
+[^10]:[_tómliga_](https://old-norse.net/html/t.php#t%C3%B3mliga), "causually," "leisurely."
+[^11]:_ungs manns_, namely Geirmund's (which is explicitely stated in S).
+[^12]:_kolunni_, v. [_kola_](https://old-norse.net/html/k.php#kola), "lamp (with oil)."
+[^13]:[_kɶfir_](https://old-norse.net/html/k.php#k%C3%A6fa), "extinquished."
+[^14]:_á gátt = aptr_ (S and frgmt.), "closed."
+[^15]:[_þreifaz fyrir_](https://old-norse.net/html/th.php#%C3%BEreifa), "fumbles ahead."
+[^16]:[_legði_](https://old-norse.net/html/l.php#leggja), "had laid."
+[^17]:_klɶðin_, c.f. c. 9, 16.
+[^18]:_ekki_, "nothing."
+[^19]:_eiga--vera_, "was busy with nothing."
+[^20]:_hvat af skyldi ráða_, "which decision should be taken."
 
