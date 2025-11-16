@@ -1,15 +1,11 @@
----
-title: Gísla 18
-layout: default
----
 
 # Gísla saga Súrssonar 18
 
-### The wake for Þorgrímr. The magic of Þorgrímr nef. B&#x1EB;rkr marries Þórdis. Games at the pond. Gísli betrays himself by a stanza.
+### The wake for Þorgrímr. The magic of Þorgrímr nef. Bǫrkr marries Þórdis. Games at the pond. Gísli betrays himself by a stanza.
 
-1\. Nú er erfi drukkit eptir Þorgrím, ok gefr B&#x1EB;rkr góðar vingjafir m&#x1EB;rgum m&#x1EB;nnum. 2. Þat er næst til tíðenda, at B&#x1EB;rkur kaupir at Þorgrími nef, at hann seiddi seið, at þeim manni yrði ekki at bj&#x1EB;rg, er Þorgrím hefði vegit, þó at menn vildi duga hánum ok hann megi sér hvergi ró eiga á landi; oxi níu vetra gamall var hánum gefinn til þess. 3. Nú flytur Þorgrímr fram seiðinn,<sup id="a1">[1](#myfootnote1)</sup> ok veitir sér umbúð eptir venju sinni ok gerir sér hjall,<sup id="a2">[2](#myfootnote2)</sup> ok fremr hann þetta fj&#x1EB;lkynngiliga með allri ergi<sup id="a3">[3](#myfootnote3)</sup> ok skelmiskap. 4. Varð ok sá hlutr einn, er nýnæmum þótti gegna,<sup id="a4">[4](#myfootnote4)</sup> at aldrei festi snæ útan (ok) sunnan á haugi Þorgríms ok ekki fraus; ok gátu menn þess til, at hann myndi Frey svá ávarðr<sup id="a5">[5](#myfootnote5)</sup> fyrir blótin, at hann myndi eigi vilja, at fr&oslash;ri á milli þeira. 5. Því fór fram um veturinn, ok eiga þeir br&oelig;ður leika saman.<sup id="a6">[6](#myfootnote6)</sup> B&#x1EB;rkur gengr þar í bú með Þórdísi ok fær hennar. Hón fór eigi ein saman,<sup id="a7">[7](#myfootnote7)</sup> þá er þetta var, ok f&oelig;ðir hón svein, ok er hann vatni ausinn, ok er fyrst nefndr Þorgrímr eptir f&#x1EB;ður sínum. 6. Ok er hann vex upp, þótti þeim hann þungr í skaplyndi<sup id="a8">[8](#myfootnote8)</sup> ok óeirinn, ok var snúit<sup id="a9">[9](#myfootnote9)</sup> nafninu, ok kallaður Snorri.<sup id="a10">[10](#myfootnote10)</sup> 7. B&#x1EB;rkr bjó þar þau misseri,<sup id="a11">[11](#myfootnote11)</sup> ok eiga þeir leika saman. 8. Kona er nefnd Auðbj&#x1EB;rg, er bjó í ofanverðum dalnum á Annmarkast&#x1EB;ðum;<sup id="a12">[12](#myfootnote12)</sup> hón var systir Þorgríms nefs. Hón hafði átt sér bónda, er Þorkell hét ok var kallaðr annmarki.<sup id="a13">[13](#myfootnote13)</sup> 9. Sonr hennar hét Þorsteinn; hann var einnhverr sterkastr at leikunum annarr en Gísli. Þeir eru jafnan<sup id="a14">[14](#myfootnote14)</sup> sér í leik Gísli ok Þorsteinn, en þeir til móts, B&#x1EB;rkr ok Þorkell. 10. Einnhvern dag kom þar fj&#x1EB;lði manna at sjá leikinn, því at m&#x1EB;rgum var mikil forvitni á at sjá leikinn ok vita, hverr sterkastr væri eða leikmaðr beztr; en þar var sem víða annars staðar, at m&#x1EB;nnum<sup id="a15">[15](#myfootnote15)</sup> er þess meira kapp á, er fleiri koma til leikanna. 11. Þess er getit, at B&#x1EB;rkr hefði ekki<sup id="a16">[16](#myfootnote16)</sup> við Þorsteini<sup id="a17">[17](#myfootnote17)</sup> um daginn; ok at lykðum reiddiz B&#x1EB;rkr, ok braut í sundr knatttré<sup id="a18">[18](#myfootnote18)</sup> Þorsteins, en Þorsteinn feldi hann ok rak við svellinu niðr. 12. En er Gísli sér þat, þá mælti hann, at hann skyldi leika sem hann hefði mátt til við B&#x1EB;rk -- "ok mun ek skipta trjám við þik."
+1\. Nú er erfi drukkit eptir Þorgrím, ok gefr Bǫrkr góðar vingjafir mǫrgum mǫnnum. 2. Þat er næst til tíðenda, at Bǫrkur kaupir at Þorgrími nef, at hann seiddi seið, at þeim manni yrði ekki at bjǫrg, er Þorgrím hefði vegit, þó at menn vildi duga hánum ok hann megi sér hvergi ró eiga á landi; oxi níu vetra gamall var hánum gefinn til þess. 3. Nú flytur Þorgrímr fram seiðinn,[^1] ok veitir sér umbúð eptir venju sinni ok gerir sér hjall,[^2] ok fremr hann þetta fjǫlkynngiliga með allri ergi[^3] ok skelmiskap. 4. Varð ok sá hlutr einn, er nýnæmum þótti gegna,[^4] at aldrei festi snæ útan (ok) sunnan á haugi Þorgríms ok ekki fraus; ok gátu menn þess til, at hann myndi Frey svá ávarðr[^5] fyrir blótin, at hann myndi eigi vilja, at frøri á milli þeira. 5. Því fór fram um veturinn, ok eiga þeir brœður leika saman.[^6] Bǫrkur gengr þar í bú með Þórdísi ok fær hennar. Hón fór eigi ein saman,[^7] þá er þetta var, ok fœðir hón svein, ok er hann vatni ausinn, ok er fyrst nefndr Þorgrímr eptir fǫður sínum. 6. Ok er hann vex upp, þótti þeim hann þungr í skaplyndi[^8] ok óeirinn, ok var snúit[^9] nafninu, ok kallaður Snorri.[^10] 7. Bǫrkr bjó þar þau misseri,[^11] ok eiga þeir leika saman. 8. Kona er nefnd Auðbjǫrg, er bjó í ofanverðum dalnum á Annmarkastǫðum;[^12] hón var systir Þorgríms nefs. Hón hafði átt sér bónda, er Þorkell hét ok var kallaðr annmarki.[^13] 9. Sonr hennar hét Þorsteinn; hann var einnhverr sterkastr at leikunum annarr en Gísli. Þeir eru jafnan[^14] sér í leik Gísli ok Þorsteinn, en þeir til móts, Bǫrkr ok Þorkell. 10. Einnhvern dag kom þar fjǫlði manna at sjá leikinn, því at mǫrgum var mikil forvitni á at sjá leikinn ok vita, hverr sterkastr væri eða leikmaðr beztr; en þar var sem víða annars staðar, at mǫnnum[^15] er þess meira kapp á, er fleiri koma til leikanna. 11. Þess er getit, at Bǫrkr hefði ekki[^16] við Þorsteini[^17] um daginn; ok at lykðum reiddiz Bǫrkr, ok braut í sundr knatttré[^18] Þorsteins, en Þorsteinn feldi hann ok rak við svellinu niðr. 12. En er Gísli sér þat, þá mælti hann, at hann skyldi leika sem hann hefði mátt til við Bǫrk -- "ok mun ek skipta trjám við þik."
 
-Svá gera þeir. 13. Gísli sez niðr ok gerir at<sup id="a19">[19](#myfootnote19)</sup> trénu, horfir á hauginn Þorgríms; snær var á j&#x1EB;rðu; en konur sátu upp í brekkuna, Þórdís systir hans, ok margar aðrar. 14. Gísli kvað þá vísu, (er æva skyldi):
+Svá gera þeir. 13. Gísli sez niðr ok gerir at[^19] trénu, horfir á hauginn Þorgríms; snær var á jǫrðu; en konur sátu upp í brekkuna, Þórdís systir hans, ok margar aðrar. 14. Gísli kvað þá vísu, (er æva skyldi):
 
 >10   
 >    
@@ -17,159 +13,61 @@ Teina sék í túne
 tál-gríms vinar fǫ́lo,   
 Gauts þess's geig of veittak   
 gunnbliks, þáar miklo;   
-nú hefr gnýst&oelig;rer geira   
+nú hefr gnýstœrer geira   
 (grímo Þrótt) of sóttan   
 (þann lét lundr of lendan)   
-landkost (áar branda).<sup id="a20">[20](#myfootnote20)</sup>   
+landkost (áar branda).[^20]   
 
-15\. Þórdís nam þegar vísuna,<sup id="a21">[21](#myfootnote21)</sup> gengr heim ok hefir ráðit vísuna. Þeir skilja<sup id="a22">[22](#myfootnote22)</sup> nú leikinn; ferr Þorsteinn heim. 16. Maðr hét Þorgeirr, ok var kallaðr orri;<sup id="a23">[23](#myfootnote23)</sup> hann bjó á Orrast&#x1EB;ðum.<sup id="a24">[24](#myfootnote24)</sup> Bergr hét maðr, ok var kallaðr skammfótr;<sup id="a25">[25](#myfootnote25)</sup> hann bjó á Skammfótarmýri<sup id="a26">[26](#myfootnote26)</sup> fyrir austan<sup id="a27">[27](#myfootnote27)</sup> ána. 17. Ok nú er menn fara heim, r&oelig;ða þeir um leikinn Þorsteinn ok Bergr ok deila at lykðum; er Bergr með Berki,<sup id="a28">[28](#myfootnote28)</sup> en Þorsteinn mælir í móti, ok lýstr Bergr Þorstein &oslash;xarhamarsh&#x1EB;gg; en Þorgeir stendr á milli,<sup id="a29">[29](#myfootnote29)</sup> ok fær Þorsteinn eigi hefnt sín, ferr heim til móður sinnar Auðbjargar; bindr hón um sár hans ok lætr eigi vel yfir hans ferð. 18. Kerling fær ekki sofnat um nóttina; (svá var henni bimbult). Veðr var kalt úti, ok logn ok heiðríkt. Hón gengr n&#x1EB;kkurum sinnum ands&oelig;lis<sup id="a31">[31](#myfootnote31)</sup> um húsin (ok viðrar í allar ættir ok setr upp nasirnar; en við þessa hennar meðferð) 19. þá tók veðrit at skipask, ok g&oslash;rir á fjúk mikit ok eptir þat þey, ok brestr flóð í hlíðinni<sup id="a32">[32](#myfootnote32)</sup> ok hleypur snæskriða á b&oelig; Bergs, ok fá þar .xij. menn bana, ok sér enn merki jarðfallsins<sup id="a33">[33](#myfootnote33)</sup> í dag.
+15\. Þórdís nam þegar vísuna,[^21] gengr heim ok hefir ráðit vísuna. Þeir skilja[^22] nú leikinn; ferr Þorsteinn heim. 16. Maðr hét Þorgeirr, ok var kallaðr orri;[^23] hann bjó á Orrastǫðum.[^24] Bergr hét maðr, ok var kallaðr skammfótr;[^25] hann bjó á Skammfótarmýri[^26] fyrir austan[^27] ána. 17. Ok nú er menn fara heim, rœða þeir um leikinn Þorsteinn ok Bergr ok deila at lykðum; er Bergr með Berki,[^28] en Þorsteinn mælir í móti, ok lýstr Bergr Þorstein øxarhamarshǫgg; en Þorgeir stendr á milli,[^29] ok fær Þorsteinn eigi hefnt sín, ferr heim til móður sinnar Auðbjargar; bindr hón um sár hans ok lætr eigi vel yfir hans ferð. 18. Kerling fær ekki sofnat um nóttina; (svá var henni bimbult). Veðr var kalt úti, ok logn ok heiðríkt. Hón gengr nǫkkurum sinnum andsœlis[^31] um húsin (ok viðrar í allar ættir ok setr upp nasirnar; en við þessa hennar meðferð) 19. þá tók veðrit at skipask, ok gørir á fjúk mikit ok eptir þat þey, ok brestr flóð í hlíðinni[^32] ok hleypur snæskriða á bœ Bergs, ok fá þar .xij. menn bana, ok sér enn merki jarðfallsins[^33] í dag.
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_17">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_19">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
 
----
+[^1]:_flytr--seiðinn_, regarding [seiðr](https://old-norse.net/html/s.php#sei%C3%B0r), see also Ǫrvar-Oddss. c. 2, 1.
+[^2]:[_hjallr_](https://old-norse.net/html/h.php#hjallr) (häufiger _seiðhjallr_), see Laxd. c. 35, 38.
+[^3]:[_ergi_](https://old-norse.net/html/e.php#ergi), c.f. Heimskr. I, 19: _En þessi fjǫlkyngi, er framið er, fylgir svá mikil ergi, at eigi þótti karlmǫnnum kammlaust við at fara, ok var gyðjunum kend sú íþrótt_. What exactly this "ergi" is, no one knows, but something obscene or lewd appears to be meant. 
+[^4]:_er_ [_nýnœmum_](https://old-norse.net/html/n.php#n%C3%BDn%C3%A6mligr) _þótti gegna_,"which appeared to be something new (unprecedented)."
+[^5]:[_ávarðr_](https://old-norse.net/html/aa.php#%C3%A1var%C3%B0r), "popular;" "that he was such a favorite of Freyr's, that etc."
+[^6]:_Því--saman_, this sentence is somewhat illogical since _Því_ cannot refer to anything that precedes it; this also appears in S in the same form. The meaning is, "It so happened in the winter that the brothers, as was agreed to earlier, held games." This sentence is perhaps based on an earlier intopolation.
+[^7]:_Hón fór ekki ein saman_, "she was pregnant."
+[^8]:[_þungr_](https://old-norse.net/html/th.php#%C3%BEungr) _í_ [_skaplyndi_](https://old-norse.net/html/s.php#skaplyndi), "mean tempered."
+[^9]:[_snúit_](https://old-norse.net/html/s.php#sn%C3%BAa-A), "changed."
+[^10]:_kallaðr_ [_Snorri_](https://en.wikipedia.org/wiki/Snorri_Go%C3%B0i), this is the famous Snorri goði, the primary figure in Eyrb. C.f. the same c. 12,5.
+[^11]:_þau_ [_misseri_](https://old-norse.net/html/m.php#misseri-B), "this winter."
+[^12]:_Annmarkastǫðum_, this settlement is long gone, but the remains are still there, see Árbók 1883, s. 28.
+[^13]:[_annmarki_](https://old-norse.net/html/a.php#andmarki), "mistake," primarily in the moral sense.
+[^14]:[_jafnan_](https://old-norse.net/html/j.php#jafnan), "as a rule."
+[^15]:_... mǫnnum_, meaning, the games; "the harder the players play, the more spectators will be there."
+[^16]:_Bǫrkr--Þorsteini_: if the preceding is correct, Bǫrkr and Þorsteinn will compete exceptionally.
+[^17]:[_knattré_](https://old-norse.net/html/k.php#knatttr%C3%A9), n. "ball-stick" (the stick with which the ball is hit, something like a hurling stick).
+[^18]:_hefði ekki, afl_ is implied.
+[^19]:_gerir at_, "repaired."
+[^20]:__Str. 10__ Prose word order: Sék (also in frgmr.) teina í þáar miklo túne fǫ́lo vinar tál-gríms, þess gunnbliks Gauts, es of veittak geig; nú hefr geira gnýstœrer of sóttan landkost; þann grímo Þrótt lét áar branda lundr of lendan.
 
-### Notes
+	"I see strips in the thawed field of Þorgrím, the warrior to whom I inflicted harm, and now the fighter has taken possession of a plot of land, and given another plot of land to his opponent."
 
-<a name="myfootnote1" id="f1">1</a>:
- _flytr--seiðinn_, regarding [seiðr](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0519:12), see also Ǫrvar-Oddss. c. 2, 1.
-[↩](#a1)
+	* [_teinar_](https://old-norse.net/html/t.php#teinn), the thawed or ice-free parts (actually "stripes") of the mound. Z. 1 appears to be a reminiscence of Guþr. II, 41, 1.
+	* [_þáar_](https://old-norse.net/html/th.php#%C3%BE%C3%A12) _þá_ f. thawed ground.
+	* [_tún_](https://old-norse.net/html/t.php#t%C3%BAn), "a farm," here from the grave mound, the present and permanent dwelling of Þorgrím.
+	* [_fála_](https://old-norse.net/html/f.php#f%C3%A1la, "a giant," "the friend of a giant."
+	* [_tál_](https://old-norse.net/html/t.php#t%C3%A1l), "infatuation, deception," just like, [_tœlir_](https://old-norse.net/html/t.php#t%C3%A6la), "one who beguiles," enemy, "the enemy of the giant," _Þórr_; altogether = _Þór + gríms_ = _Þórgríms_; see _hvals búþar húþ-lendingar_ = _Ís-lendingar_ by Haukr Valdísarson (Íslendinga drápa 2).
+	* [_gunn_](https://old-norse.net/html/g.php#gunnr)-[_blik_](https://old-norse.net/html/b.php#blik), "the luster of the fight," "sword," of whom _Gautr_, Odin, a warrior (the poet therefore is thinking of the death of Véstein).
+	* [_geira_](https://old-norse.net/html/g.php#geirr) [_gný_](https://old-norse.net/html/g.php#gn%C3%BDr)-[_stœrer_](https://old-norse.net/html/s.php#st%C3%B3rr), "the one who increases the noise of the spears," the same as above.
+	* [_landkostr_](https://old-norse.net/html/l.php#landkostir), a plot of land where you choose to start your household.
+	* [_gríma_](https://old-norse.net/html/g.php#gr%C3%ADma) = "helm," "of the helm _Þróttr_, Odin,'the warrior, Þorgrímr.
+	* _lét...lendan_, actually "let him get a land hold," allusion to the [_lendir menn_](https://old-norse.net/html/l.php#lenda); a humorous twist.
+	* [_áar_](https://old-norse.net/html/aa.php#%C3%A13) [_brandar_](https://old-norse.net/html/b.php#brandr-I), "the flames of the river," "the gold;" "the tree of gold," a generous man, Gísli himself.
+[^21]:_ráðit vísuna_, "understood the meaning of the stanza."
+[^22]:[_skilja_](https://old-norse.net/html/s.php#skilja-A), "they break off, quit."
+[^23]:[_orri_](https://old-norse.net/html/o.php#orri), "black cock" (tetrao tetrix L.).
+[^24]:_Orrastǫðum_, a small courtyard, perhaps in the small Labadalr, a side valley of the Haukadalr on the west side, see Árbók 1883, s. 28 to 29.
+[^25]:_skammfótr_, "the short-legged."
+[^26]:_Skammfótarmýri_; the name is undoubtedly identical to modern Skammfótarengi, a marshy stretch of Haukadalr on the east side; here there was also the small settlement, see Árbók 1883, s. 29-30; vgl. Kålund I, 572.
+[^27]:_austan_, a correction for _vestan_ in the manuscript, which is hardly correct.
+[^28]:_er Bergr með Berki_, "Bergr counts the party of Bǫrkr."
+[^29]:_stendr í milli_, "intervene" (bring the fighting men away from one another).
+[^31]:[_andsœlis_](https://old-norse.net/html/a.php#ands%C3%A6lis), or else, _ǫfugt_ "wrong," meaning, backward. This type of movement seemed to be part of weather magic, see Landnáma III, c. 4, about whichis told about the wizard Ljót.
+[^32]:_brestr--hlíðinni_, "snow masses set in motion on the slope, tumbling down the slope.
+[^33]:[_jarðfallsins_](https://old-norse.net/html/j.php#jar%C3%B0fall), "the rockfall;" such a one is visible near Skammfäotarengi; such rock falls are not at all uncommon in Haukadalr.
 
-<a name="myfootnote2" id="f2">2</a>:
- [_hjallr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0265:22) (häufiger _seiðhjallr_), see Laxd. c. 35, 38.
-[↩](#a2)
-
-<a name="myfootnote3" id="f3">3</a>:
- [_ergi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0133:20), c.f. Heimskr. I, 19: _En þessi fj&#x1EB;lkyngi, er framið er, fylgir svá mikil ergi, at eigi þótti karlm&#x1EB;nnum kammlaust við at fara, ok var gyðjunum kend sú íþrótt_. What exactly this "ergi" is, no one knows, but something obscene or lewd appears to be meant.  
-[↩](#a3)
-
-<a name="myfootnote4" id="f4">4</a>:
- _er_ [_nýn&oelig;mum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0459:39) _þótti gegna_,"which appeared to be something new (unprecedented)."
-[↩](#a4)
-
-<a name="myfootnote5" id="f5">5</a>:
- [_ávarðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0047:49), "popular;" "that he was such a favorite of Freyr's, that etc."
-[↩](#a5)
-
-<a name="myfootnote6" id="f6">6</a>:
- _Því--saman_, this sentence is somewhat illogical since _Því_ cannot refer to anything that precedes it; this also appears in S in the same form. The meaning is, "It so happened in the winter that the brothers, as was agreed to earlier, held games." This sentence is perhaps based on an earlier intopolation.
-[↩](#a6)
-
-<a name="myfootnote7" id="f7">7</a>:
- _Hón fór ekki ein saman_, "she was pregnant."
-[↩](#a7)
-
-<a name="myfootnote8" id="f8">8</a>:
- [_þungr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0749:18) _í_ [_skaplyndi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0538:37), "mean tempered."
-[↩](#a8)
-
-<a name="myfootnote9" id="f9">9</a>:
- [_snúit_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0576:20), "changed."
-[↩](#a9)
-
-<a name="myfootnote10" id="f10">10</a>:
- _kallaðr_ [_Snorri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0576:2), this is the famous Snorri goði, the primary figure in Eyrb. C.f. the same c. 12,5.
-[↩](#a10)
-
-<a name="myfootnote11" id="f11">11</a>:
- _þau_ [_misseri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0431:44), "this winter."
-[↩](#a11)
-
-<a name="myfootnote12" id="f12">12</a>:
- _Annmarkast&#x1EB;ðum_, this settlement is long gone, but the remains are still there, see Árbók 1883, s. 28.
-[↩](#a12)
-
-<a name="myfootnote13" id="f13">13</a>:
- [_annmarki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0021:39), means "mistake," primarily in the moral sense.
-[↩](#a13)
-
-<a name="myfootnote14" id="f14">14</a>:
- [_jafnan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0322:5), "as a rule."
-[↩](#a14)
-
-<a name="myfootnote15" id="f15">15</a>:
- _... m&#x1EB;nnum_, meaning, the games; "the harder the players play, the more spectators will be there."
-[↩](#a15)
-
-<a name="myfootnote16" id="f16">16</a>:
- _B&#x1EB;rkr--Þorsteini_: if the preceding is correct, B&#x1EB;rkr and Þorsteinn will compete exceptionally.
-[↩](#a16)
-
-<a name="myfootnote17" id="f17">17</a>:
- [_knattré_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0345:34), n. "ball-stick" (the stick with which the ball is hit).
-[↩](#a17)
-
-<a name="myfootnote18" id="f18">18</a>:
- _hefði ekki, afl_ is implied.
-[↩](#a18)
-
-<a name="myfootnote19" id="f19">19</a>:
- _gerir at_, "repaired."
-[↩](#a19)
-
-<a name="myfootnote20" id="f20">20</a>:
- __Str. 10__ Prose word order: Sék (also in frgmr.) teina í þáar miklo túne fǫ́lo vinar tál-gríms, þess gunnbliks Gauts, es of veittak geig; nú hefr geira gnýst&oelig;rer of sóttan landkost; þann grímo Þrótt lét áar branda lundr of lendan.
-
-"I see strips in the thawed field of Þorgrím, the warrior to whom I inflicted harm, and now the fighter has taken possession of a plot of land, and given another plot of land to his opponent."
-
-* [_teinar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0627:24), the thawed or ice-free parts (actually "stripes") of the mound. Z. 1 appears to be a reminiscence of Guþr. II, 41, 1.
-* [_þáar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0732:2) _þá_ f. thawed ground.
-* [_tún_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0644:28), "a farm," here from the grave mound, the present and permanent dwelling of Þorgrím.
-* [_fála_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0146:35), "a giant," "the friend of a giant."
-* [_tál_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0626:27), "infatuation, deception," just like, [_t&oelig;lir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0647:23), "one who beguiles," enemy, "the enemy of the giant," _Þórr_; altogether = _Þór + gríms_ = _Þórgríms_; see _hvals búþar húþ-lendingar_ = _Ís-lendingar_ by Haukr Valdísarson (Íslendinga drápa 2).
-* [_gunn_-_blik_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=gunn-blik&startrow=1), "the luster of the fight," "sword," of whom _Gautr_, Odin, a warrior (the poet therefore is thinking of the death of Véstein).
-* [_geira_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0196:12) [_gný_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0207:24)-[_st&oelig;rer_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0602:17), "the one who increases the noise of the spears," the same as above.
-* [_landkostr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0372:3), a plot of land where you choose to start your household.
-* [_gríma_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=bt:b0489:7) = "helm," "of the helm _Þróttr_, Odin,'the warrior, Þorgrímr.
-* _lét...lendan_, actually "let him get a land hold," allusion to the [_lendir menn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0384:16); a humorous twist.
-* [_áar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0038:5) [_brandar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0076:13), "the flames of the river," "the gold;" "the tree of gold," a generous man, Gísli himself.
-[↩](#a20)
-
-<a name="myfootnote21" id="f21">21</a>:
- _ráðit vísuna_, "understood the meaning of the stanza."
-[↩](#a21)
-
-<a name="myfootnote22" id="f22">22</a>:
- [_skilja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0546:14), "they break off, quit."
-[↩](#a22)
-
-<a name="myfootnote23" id="f23">23</a>:
- [_orri_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0469:6), "black cock" (tetrao tetrix L.).
-[↩](#a23)
-
-<a name="myfootnote24" id="f24">24</a>:
- _Orrast&#x1EB;ðum_, a small courtyard, perhaps in the small Labadalr, a side valley of the Haukadalr on the west side, see Árbók 1883, s. 28 to 29.
-[↩](#a24)
-
-<a name="myfootnote25" id="f25">25</a>:
- _skammfótr_, "the short-legged."
-[↩](#a25)
-
-<a name="myfootnote26" id="f26">26</a>:
- _Skammfótarmýri_; the name is undoubtedly identical to modern Skammfótarengi, a marshy stretch of Haukadalr on the east side; here there was also the small settlement, see Árbók 1883, s. 29-30; vgl. Kålund I, 572.
-[↩](#a26)
-
-<a name="myfootnote27" id="f27">27</a>:
- _austan_, a correction for _vestan_ in the manuscript, which is hardly correct.
-[↩](#a27)
-
-<a name="myfootnote28" id="f28">28</a>:
- _er Bergr með Berki_, "Bergr counts the party of B&#x1EB;rkr."
-[↩](#a28)
-
-<a name="myfootnote29" id="f29">29</a>:
- _stendr í milli_, "intervene" (bring the fighting men away from one another).
-[↩](#a29)
-
-<a name="myfootnote31" id="f31">31</a>:
- [_ands&oelig;lis_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0020:39), or else, _&#x1EB;fugt_ "wrong," meaning, backward. This type of movement seemed to be part of weather magic, see Landnáma III, c. 4, about whichis told about the wizard Ljót.
-[↩](#a31)
-
-<a name="myfootnote32" id="f32">32</a>:
- _brestr--hlíðinni_, "snow masses set in motion on the slope, tumbling down the slope.
-[↩](#a32)
-
-<a name="myfootnote33" id="f33">33</a>:
- [_jarðfallsins_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0323:27), "the rockfall;" such a one is visible near Skammfäotarengi; such rock falls are not at all uncommon in Haukadalr.
-[↩](#a33)
