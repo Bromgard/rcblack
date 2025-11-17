@@ -58,6 +58,7 @@ landkost (áar branda).[^20]
 	* [_gríma_](https://old-norse.net/html/g.php#gr%C3%ADma) = "helm," "of the helm _Þróttr_, Odin,'the warrior, Þorgrímr.
 	* _lét...lendan_, actually "let him get a land hold," allusion to the [_lendir menn_](https://old-norse.net/html/l.php#lenda); a humorous twist.
 	* [_áar_](https://old-norse.net/html/aa.php#%C3%A13) [_brandar_](https://old-norse.net/html/b.php#brandr-I), "the flames of the river," "the gold;" "the tree of gold," a generous man, Gísli himself.
+
 [^21]:_ráðit vísuna_, "understood the meaning of the stanza."
 [^22]:[_skilja_](https://old-norse.net/html/s.php#skilja-A), "they break off, quit."
 [^23]:[_orri_](https://old-norse.net/html/o.php#orri), "black cock" (tetrao tetrix L.).
