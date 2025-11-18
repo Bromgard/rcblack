@@ -1,7 +1,3 @@
----
-title: Gísla 21
-layout: default
----
 
 # Gísla saga Súrssonar 21
 
