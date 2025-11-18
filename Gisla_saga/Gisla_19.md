@@ -1,23 +1,19 @@
----
-title: Gísla 19
-layout: default
----
 
 # Gísla saga Súrssonar 19
 
-### Auðbj&#x1EB;rg and Þorgrímr nef are killed. Þórdis reveals to B&#x1EB;rkr, that Gísli is Þorgríms murderer. B&#x1EB;rkr invites Gísli to the Þórsnesþing. Gíslis futile pursuit. This continues to Geirþjófsfj&#x1EB;rðr.
+### Auðbjǫrg and Þorgrímr nef are killed. Þórdis reveals to Bǫrkr, that Gísli is Þorgríms murderer. Bǫrkr invites Gísli to the Þórsnesþing. Gíslis futile pursuit. This continues to Geirþjófsfjǫrðr.
 
-1\. Nú ferr Þorsteinn á fund Gísla ok skýtr hann skjóli yfir hann, ok ferr hann suðr í Borgarfj&#x1EB;rð<sup id="a1">[1](#myfootnote1)</sup> ok þar utan. 2. En er B&#x1EB;rkr (fréttir þessi fákynstr, þá) ferr (hann) upp á Annmarkastaði, ok lætr taka Auðbj&#x1EB;rgu ok ferr með hana út á Saltnes<sup id="a2">[2](#myfootnote2)</sup> ok berr hana grjóti í hel.<sup id="a3">[3](#myfootnote3)</sup> 3. ok er þetta er liðit, ferr Gísli heiman ok k&oslash;mr á Nefstaði ok tekr Þorgrím nef h&#x1EB;ndum ok f&oslash;rir á Saltnes, ok er dreginn kálfsbelgr<sup id="a4">[4](#myfootnote4)</sup> á h&#x1EB;fuð hánum ok er barðr grjóti til bana ok er kasaðr<sup id="a5">[5](#myfootnote5)</sup> hjá systur sinni, á hryggnum milli Haukadals ok Meðaldals. 4. Er nú kyrt ok líðr á várit. Ferr B&#x1EB;rkr suðr á Þórsnes ok ætlar at ráðaz<sup id="a6">[6](#myfootnote6)</sup> þangat ok þykkiz enga virðingaf&#x1EB;r farit hafa vestr þangat,<sup id="a7">[7](#myfootnote7)</sup> látit þvílíkan mann, sem Þorgrímr (var), en fengit enga leiðréttu. 5. Hann býr nú ferð sína ok skipar til bús síns,<sup id="a8">[8](#myfootnote8)</sup> ok at setja<sup id="a9">[9](#myfootnote9)</sup> ráð<sup id="a10">[10](#myfootnote10)</sup> sitt, en ætlaði at gera aðra f&#x1EB;r eptir fé<sup id="a11">[11](#myfootnote11)</sup> sínu ok konu. Þorkell ætlaði ok þangat at ráðaz, Súrsson, ok bjóz í f&#x1EB;r með Berki, mági sínum. 6. Frá því er sagt, at Þórdís Súrsdóttir hefir leiddan B&#x1EB;rk á g&#x1EB;tu, (kona hans, en systir Gísla).
+1\. Nú ferr Þorsteinn á fund Gísla ok skýtr hann skjóli yfir hann, ok ferr hann suðr í Borgarfjǫrð[^1] ok þar utan. 2. En er Bǫrkr (fréttir þessi fákynstr, þá) ferr (hann) upp á Annmarkastaði, ok lætr taka Auðbjǫrgu ok ferr með hana út á Saltnes[^2] ok berr hana grjóti í hel.[^3] 3. ok er þetta er liðit, ferr Gísli heiman ok kømr á Nefstaði ok tekr Þorgrím nef hǫndum ok førir á Saltnes, ok er dreginn kálfsbelgr[^4] á hǫfuð hánum ok er barðr grjóti til bana ok er kasaðr[^5] hjá systur sinni, á hryggnum milli Haukadals ok Meðaldals. 4. Er nú kyrt ok líðr á várit. Ferr Bǫrkr suðr á Þórsnes ok ætlar at ráðaz[^6] þangat ok þykkiz enga virðingafǫr farit hafa vestr þangat,[^7] látit þvílíkan mann, sem Þorgrímr (var), en fengit enga leiðréttu. 5. Hann býr nú ferð sína ok skipar til bús síns,[^8] ok at setja[^9] ráð[^10] sitt, en ætlaði at gera aðra fǫr eptir fé[^11] sínu ok konu. Þorkell ætlaði ok þangat at ráðaz, Súrsson, ok bjóz í fǫr með Berki, mági sínum. 6. Frá því er sagt, at Þórdís Súrsdóttir hefir leiddan Bǫrk á gǫtu, (kona hans, en systir Gísla).
 
-7\. Þá mælti B&#x1EB;rkur: "Nú vil ek, at þú segir mér, hví þú vart svá ógl&#x1EB;ð fyrst á hausti, þá er vér slitum leiknum, ok þú hefir því heitit, at segja mér, áðr en ek f&oelig;ra heiman."
+7\. Þá mælti Bǫrkur: "Nú vil ek, at þú segir mér, hví þú vart svá óglǫð fyrst á hausti, þá er vér slitum leiknum, ok þú hefir því heitit, at segja mér, áðr en ek fœra heiman."
 
-8\. Þau eru nú ok komin at hauginum Þorgríms, er þau r&oelig;ða þetta; þá stingr hón við fótum<sup id="a12">[12](#myfootnote12)</sup> ok kvez eigi fara lengra; segir hón nú ok, hvat Gísli hafði kveðit, þá er hann leit hauginn Þorgríms, ok kveðr fyrir hánum vísuna -- 9. "Ok ætla ek," segir hón, "at þú þurfir eigi annan veg eptir at leita um víg Þorgríms, ok munu rétt búin málin hánum á hendr."<sup id="a13">[13](#myfootnote13)</sup>
+8\. Þau eru nú ok komin at hauginum Þorgríms, er þau rœða þetta; þá stingr hón við fótum[^12] ok kvez eigi fara lengra; segir hón nú ok, hvat Gísli hafði kveðit, þá er hann leit hauginn Þorgríms, ok kveðr fyrir hánum vísuna -- 9. "Ok ætla ek," segir hón, "at þú þurfir eigi annan veg eptir at leita um víg Þorgríms, ok munu rétt búin málin hánum á hendr."[^13]
 
-10\. B&#x1EB;rkr verðr við þetta ákafliga reiðr ok mælti: "Nú vil ek þegar aptr snúa ok drepa Gísla, [[ok er nú ráð at dvala eigi við."]]<sup id="a14">[14](#myfootnote14)</sup>
+10\. Bǫrkr verðr við þetta ákafliga reiðr ok mælti: "Nú vil ek þegar aptr snúa ok drepa Gísla, [[ok er nú ráð at dvala eigi við."]][^14]
 
-En Þorkell segir, at hann mun eigi við þat samþykkjaz, "ok]] (en þó) veit ek eigi," sagði hann, "hvat satt er í þessu, er Þórdís segir, ok þykki mér hitt eigi ólíkara,<sup id="a15">[15](#myfootnote15)</sup> at engu gegni ok eru opt k&#x1EB;ld kvenna ráð."<sup id="a16">[16](#myfootnote16)</sup>
+En Þorkell segir, at hann mun eigi við þat samþykkjaz, "ok]] (en þó) veit ek eigi," sagði hann, "hvat satt er í þessu, er Þórdís segir, ok þykki mér hitt eigi ólíkara,[^15] at engu gegni ok eru opt kǫld kvenna ráð."[^16]
 
-11\. Ok ríða þeir Sandaleið,<sup id="a17">[17](#myfootnote17)</sup> -- svá getr Þorkell um talit,<sup id="a18">[18](#myfootnote18)</sup> þar til er þeir koma yfir Sandaós;<sup id="a19">[19](#myfootnote19)</sup> þá stíga þeir af baki ok æja. 12. B&#x1EB;rkr var fámálugur, en Þorkell sagði, at hann vildi hitta Ǫnund, vin sinn; hann ríðr þegar svá hart, at brátt felr sýn.<sup id="a20">[20](#myfootnote20)</sup> 13. Hann snýr þá leið sinni út á Hól<sup id="a21">[21](#myfootnote21)</sup> ok segir nú Gísla, hvat títt er, at Þórdís hefir nú upp rofit málit<sup id="a22">[22](#myfootnote22)</sup> ok rannsakat vísuna,<sup id="a23">[23](#myfootnote23)</sup> -- "máttu nú ok svá við búaz at upp er komit málit."<sup id="a24">[24](#myfootnote24)</sup>
+11\. Ok ríða þeir Sandaleið,[^17] -- svá getr Þorkell um talit,[^18] þar til er þeir koma yfir Sandaós;[^19] þá stíga þeir af baki ok æja. 12. Bǫrkr var fámálugur, en Þorkell sagði, at hann vildi hitta Ǫnund, vin sinn; hann ríðr þegar svá hart, at brátt felr sýn.[^20] 13. Hann snýr þá leið sinni út á Hól[^21] ok segir nú Gísla, hvat títt er, at Þórdís hefir nú upp rofit málit[^22] ok rannsakat vísuna,[^23] -- "máttu nú ok svá við búaz at upp er komit málit."[^24]
 
 14\. Gísli þagnar ok kvað vísu:
 
@@ -27,203 +23,79 @@ Gatat sǫ́l fastrar syster,
 sveigar, mín at eiga   
 gætin Gjúka dóttor   
 Goþrúnar hugtúne;   
-þás log-Sága l&oelig;ges   
+þás log-Sága lœges   
 lét sinn (af hug stinnom   
-svá rak snjallra br&oelig;þra   
-s&oslash;r-Freyja), ver deyja.<sup id="a25">[25](#myfootnote25)</sup>   
+svá rak snjallra brœþra   
+sør-Freyja), ver deyja.[^25]   
 
-15\. "Ok þóttumz ek eigi þess verðr frá henni; (því at ek þykkiumk þat lýst hafa n&#x1EB;kkurum sinnum, at mér hefir eigi hennar óvirðing betri þótt en siálfs míns; hefi ek stundum lagt líf mitt í háska fyrir hennar sakir, en hón hefir nú gefit mér dauðaráð). En þat vil ek nú vita, bróðir! hvat ek skal þar eiga, sem þú ert, slíkt sem nú hefi ek at g&#x1EB;rt."<sup id="a26">[26](#myfootnote26)</sup>
+15\. "Ok þóttumz ek eigi þess verðr frá henni; (því at ek þykkiumk þat lýst hafa nǫkkurum sinnum, at mér hefir eigi hennar óvirðing betri þótt en siálfs míns; hefi ek stundum lagt líf mitt í háska fyrir hennar sakir, en hón hefir nú gefit mér dauðaráð). En þat vil ek nú vita, bróðir! hvat ek skal þar eiga, sem þú ert, slíkt sem nú hefi ek at gǫrt."[^26]
 
-16\. "At gera þik varan við, ef menn vilja drepa þik; en bjargir<sup id="a27">[27](#myfootnote27)</sup> veiti ek þér engar, þær er mér megi sakir á gefa.<sup id="a28">[28](#myfootnote28)</sup> Þykki mér mikit af g&#x1EB;rt við mik,<sup id="a29">[29](#myfootnote29)</sup> at drepinn er Þorgrímr, mágr minn ok félagi<sup id="a30">[30](#myfootnote30)</sup> ok virkðavinr."
+16\. "At gera þik varan við, ef menn vilja drepa þik; en bjargir[^27] veiti ek þér engar, þær er mér megi sakir á gefa.[^28] Þykki mér mikit af gǫrt við mik,[^29] at drepinn er Þorgrímr, mágr minn ok félagi[^30] ok virkðavinr."
 
 17\. Gísli svarar: "Var eigi þess ván um slíkan mann, sem Vésteinn var, at eiga myndi mannhefndalaust vera? Ok mynda ek eigi þér svá svara, sem þú svarar mér nú, ok eigi heldr gera."
 
-18\. Nú skilja þeir. Ferr Þorkell til móts við B&#x1EB;rk, ok fara þeir suðr til Þórsness,<sup id="a31">[31](#myfootnote31)</sup> ok skipar B&#x1EB;rkr til bús síns; en Þorkell kaupir land á Barðastr&#x1EB;nd,<sup id="a32">[32](#myfootnote32)</sup> þat er í Hvammi<sup id="a33">[33](#myfootnote33)</sup> hét. 19. Nú k&oslash;mr at stefnud&#x1EB;gum,<sup id="a34">[34](#myfootnote34)</sup> ok ferr B&#x1EB;rkr vestr með fjóra t&oslash;gu manna ok ætlar at stefna Gísla til Þórsnessþings,<sup id="a35">[35](#myfootnote35)</sup> ok er Þorkell Súrsson þar í f&#x1EB;r ok systursynir Barkar, Þóroddr ok Saka-Steinn; þar var ok í f&#x1EB;r Austmaðr einn, er Þorgrímr hét. Þeir ríða nú til Sandaóss.
+18\. Nú skilja þeir. Ferr Þorkell til móts við Bǫrk, ok fara þeir suðr til Þórsness,[^31] ok skipar Bǫrkr til bús síns; en Þorkell kaupir land á Barðastrǫnd,[^32] þat er í Hvammi[^33] hét. 19. Nú kømr at stefnudǫgum,[^34] ok ferr Bǫrkr vestr með fjóra tøgu manna ok ætlar at stefna Gísla til Þórsnessþings,[^35] ok er Þorkell Súrsson þar í fǫr ok systursynir Barkar, Þóroddr ok Saka-Steinn; þar var ok í fǫr Austmaðr einn, er Þorgrímr hét. Þeir ríða nú til Sandaóss.
 
-20\. Þá mælti Þorkell: "Ek á skuld at heimta hér á einum b&oelig; litlum,"<sup id="a36">[36](#myfootnote36)</sup> -- ok nefndi b&oelig;inn -- , "ok vil ek þangat ríða ok heimta skuldina; en þér ríðið eptir tómliga."
+20\. Þá mælti Þorkell: "Ek á skuld at heimta hér á einum bœ litlum,"[^36] -- ok nefndi bœinn -- , "ok vil ek þangat ríða ok heimta skuldina; en þér ríðið eptir tómliga."
 
-21\. Nú ríðr Þorkell fyrir, ok er hann kom þar, sem hann hafði ákveðit, þá biðr hann húsfreyju, at hón skipti hestum við sik, ok láti þenna sama<sup id="a37">[37](#myfootnote37)</sup> standa fyrir dyrum -- "ok kasta vaðmáli<sup id="a38">[38](#myfootnote38)</sup> yfir s&#x1EB;ðulinn; ok er f&#x1EB;runautar mínir koma eptir, þá seg þú, at ek sitja inni í stofu, ok telja ek silfr."
+21\. Nú ríðr Þorkell fyrir, ok er hann kom þar, sem hann hafði ákveðit, þá biðr hann húsfreyju, at hón skipti hestum við sik, ok láti þenna sama[^37] standa fyrir dyrum -- "ok kasta vaðmáli[^38] yfir sǫðulinn; ok er fǫrunautar mínir koma eptir, þá seg þú, at ek sitja inni í stofu, ok telja ek silfr."
 
-22\. Nú fær hón hánum hest annan, ok ríðr hann nú skyndiliga, ok k&oslash;mr í skóga<sup id="a39">[39](#myfootnote39)</sup> ok hittir Gísla ok segir hánum, hvat vera er,<sup id="a40">[40](#myfootnote40)</sup> at B&#x1EB;rkr er vestan<sup id="a41">[41](#myfootnote41)</sup> kominn.
+22\. Nú fær hón hánum hest annan, ok ríðr hann nú skyndiliga, ok kømr í skóga[^39] ok hittir Gísla ok segir hánum, hvat vera er,[^40] at Bǫrkr er vestan[^41] kominn.
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_18">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_20">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
 
----
+[^1]:_suðr í Borgarfjǫrð_, there used to be (in Hvítá) ships that departed for Norway every summer.
+[^2]:_Saltnes_, a small penninsula between Hakadalr and Meðaldalr.
+[^3]:_berr--í hel_, see Eyrb. c. 20, 20 and Laxd. c. 37, 35; 38, 10.
+[^4]:[_kálfsbelgr_](https://old-norse.net/html/k.php#k%C3%A1lfsbelgr), "a calf skin;" see Eyrb. c. 20, 16.
+[^5]:[_kasaðr_](https://old-norse.net/html/k.php#kasa), see Eyrb. C. 28, 25.
+[^6]:[_ráðaz_](https://old-norse.net/search.php#search), "to move," as in part 7.
+[^7]:_vestr þangat_, meaning, in Dýrafjǫrðr.
+[^8]:_skipar til bús síns_, "is preparing for the establishment of the new settlement.
+[^9]:_ok at setja_, loosely connected to the preceding one.
+[^10]:_setja ráð_, "to establish the household."
+[^11]:[_fé_](https://old-norse.net/html/f.php#f%C3%A9), "movable stock."
+[^12]:_stingr-fótum_, "stops."
+[^13]:_búa mál á hendr ehm_, "to initiate a legal proceeding with someone."
+[^14]:[_dvala_](https://old-norse.net/html/d.php#dvala2) _við_, "hesitating" (see Laxd. c. 40, 75).
+[^15]:[_ólíkara_](https://old-norse.net/html/uu.php#%C3%BAl%C3%ADkr2), "unlikely."
+[^16]:_eru ept kǫld kvenna ráð_, the same proverb appears in Njála c. 116, 16.
+[^17]:_Sandaleið_, going across Sandar, see c. 7, 3.
+[^18]:_svá--talit_, "succeeded to persuade Þ. (him)."
+[^19]:_Sandaós_, see c. 7, 3.
+[^20]:_felr sýn_, see Egils saga c. 71, 5.
+[^21]:_snýr--Hól_, he took another, slightly higher way (there are now two possibilities).
+[^22]:_hefir--málit_, "has recognized the facts."
+[^23]:[_rannsakat_](https://old-norse.net/html/r.php#rannsaka) [_vísuna_](https://old-norse.net/html/v.php#v%C3%ADsa2), "thoroughly understanding the verse" (and as a result, understanding its meaning). This should have been said first (hysteron proteron).
+[^24]:_at--málit_, "that the facts have been discovered."
+[^25]:__Str. 11__ Prose word order: Syster mín, gæten sveigar, gatat at eiga sǫ́l Goþrúnar Gjúka dóttor, fastrar hugtúne, þás lœges log-Sága lét ver sinn dyja; svá rak sør-Freyja snjallra brœþra af stinnom hug.
 
-### Notes
+	"The soul of Goþrún, the indomitable daughter of Gjúke, was not bestowed upon my vain sister, (this soul, she revealed) when the wife struck her husband; so the woman avenged her brave brothers with unflinching courage."
 
-<a name="myfootnote1" id="f1">1</a>:
- _suðr í Borgarfj&#x1EB;rð_, there used to be (in Hvítá) ships that departed for Norway every summer.
-[↩](#a1)
+	* [_gœten_](https://old-norse.net/html/g.php#g%C3%A6ta) [_sveigar_](https://old-norse.net/html/s.php#sveigr); _gœtenn_ adj. "carefully;" _sveigr_ is a kind of headdress; the term is pejorative and highlights the contrast between Þórdis and Goþrún; "thoughtful for (and only for) her headdress" is contrary to "the indomitable."
+	* [_fastrar_](https://old-norse.net/html/f.php#fastr) [_hug_](https://old-norse.net/html/h.php#hugr)-[_túni_](https://old-norse.net/html/t.php#t%C3%BAn-III), "firm, unshakeable, in the court of the soul, "the court of the soul" is "the breast."
+	* [_lœges_](https://old-norse.net/html/l.php#l%C3%A6gir) [_log_](https://old-norse.net/html/l.php#log)-_Sága_, _lœger_ "the sea;" of which _log_, flamme=gold; the [_Sága_](https://old-norse.net/html/s.php#s%C3%A1ga) (asin) of gold, the woman, Goþrún.
+	* [_ver_](https://old-norse.net/html/v.php#ver2) _sinn_, Atli Buþlason.
+	* _ser-Freyja_: _ser-_ is a shortening of the noun, [_sørve_](https://old-norse.net/html/s.php#s%C3%B6rvi)_=steina-sørve_ necklace of amber; of whom _Freyja_ is the woman.
 
-<a name="myfootnote2" id="f2">2</a>:
- _Saltnes_, a small penninsula between Hakadalr and Meðaldalr.
-[↩](#a2)
+	The verse is very interesting by its comparison with Goþrún; Gísli was a native Norwegian; in the Icelandic skaldic poetry, one misses such allusions.
 
-<a name="myfootnote3" id="f3">3</a>:
- _berr--í hel_, see Eyrb. c. 20, 20 and Laxd. c. 37, 35; 38, 10.
-[↩](#a3)
+[^26]:_slíkt--gørt_, "after I did such a thing."
+[^27]:[_bjargir_](https://old-norse.net/html/b.php#bj%C3%B6rg), in the event that he is tried in court; because helping an outlaw was punishable.
+[^28]:_þœr--gefa_, "that might issue me a prosecution (that will bring a court case against me)."
+[^29]:_Þykki--mik_, "I think they have suffered great injury."
+[^30]:[_félagi_](https://old-norse.net/html/f.php#f%C3%A9lagi2), they had lived together in a legal partnership.
+[^31]:_Þórsness_, see Ezrb. c. 4, 10.
+[^32]:_Barðastrǫnd_, the long coastal stretch on the north side of Breiðifjǫrðr, west of Vatsfjǫrðr.
+[^33]:_i Hvammi_, the settlement is located on the west of the peninsula between Vatsfjǫrðr and Hagavaðall.
+[^34]:[_stefnudǫgum_](https://old-norse.net/html/s.php#stefnudagr), "the days of summoning;" at the beginning of the spring, the term of the summons was two weeks, c.f. _eigi skal nœr stefna várþingi en 2 vikur sé til þess várþings, er sǫkinni er til stefnt_ (Grágás, Konungsbók I, 96); the þing was held in May.
+[^35]:_Þórsnessþings_, see Eyrb. c. 4, 11; 9, 4 ff.
+[^36]:_einum bœ lítlum_, in S the settlement is called _Hólar_, perhaps correctly, but probably scribal conjecture; the settlement is located in Meðaldalr and still exists; see Árbók 1883, s. 38; the frgmt. agrees with M.
+[^37]:_þenna sama_, meaning, his own.
+[^38]:[_vaðmáli_](https://old-norse.net/html/v.php#va%C3%B0m%C3%A1l), this cloth should be draped over the saddle to make it unrecognizable to Bǫrkr.
+[^39]:_í_ [_skóga_](https://old-norse.net/html/s.php#sk%C3%B3gr), meaning, in the wooded part of the lower Haukadalr near the settlement. S has here _út á Hól_ (which is to be considered an interpolation), while the frgmt. agrees with M.
+[^40]:_um hvat vera er_, "how things stand."
+[^41]:[_vestan_](https://old-norse.net/html/v.php#vestan), namely of Þórsnes; actually it should be _sunnan_, but the directions would be entirely inaccurate in the local setting, see Kålund I, 569 anm.
 
-<a name="myfootnote4" id="f4">4</a>:
- [_kálfsbelger_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=k%E1lfs-belgr&startrow=1), "a calf skin;" see Eyrb. c. 20, 16.
-[↩](#a4)
-
-<a name="myfootnote5" id="f5">5</a>:
- [_kasaðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0332:50), see Eyrb. C. 28, 25.
-[↩](#a5)
-
-<a name="myfootnote6" id="f6">6</a>:
- [_ráðaz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0486:1), "to move," as in part 7.
-[↩](#a6)
-
-<a name="myfootnote7" id="f7">7</a>:
- _vestr þangat_, meaning, in Dýrafj&#x1EB;rðr.
-[↩](#a7)
-
-<a name="myfootnote8" id="f8">8</a>:
- _skipar til bús síns_, "is preparing for the establishment of the new settlement.
-[↩](#a8)
-
-<a name="myfootnote9" id="f9">9</a>:
- _ok at setja_, loosely connected to the preceding one.
-[↩](#a9)
-
-<a name="myfootnote10" id="f10">10</a>:
- _setja ráð_, "to establish the household."
-[↩](#a10)
-
-<a name="myfootnote11" id="f11">11</a>:
- [_fé_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0147:36_, "movable stock."
-[↩](#a11)
-
-<a name="myfootnote12" id="f12">12</a>:
- _stingr-fótum_, "stops."
-[↩](#a12)
-
-<a name="myfootnote13" id="f13">13</a>:
- _búa mál á hendr ehm_, "to initiate a legal proceeding with someone."
-[↩](#a13)
-
-<a name="myfootnote14" id="f14">14</a>:
- [_dvala_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0109:60) _við_, "hesitating" (see Laxd. c. 40, 75).
-[↩](#a14)
-
-<a name="myfootnote15" id="f15">15</a>:
- [_ólíkara_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0662:1), "unlikely."
-[↩](#a15)
-
-<a name="myfootnote16" id="f16">16</a>:
- _eru ept k&#x1EB;ld kvenna ráð_, the same proverb appears in Njála c. 116, 16.
-[↩](#a16)
-
-<a name="myfootnote17" id="f17">17</a>:
- _Sandaleið_, going across Sandar, see c. 7, 3.
-[↩](#a17)
-
-<a name="myfootnote18" id="f18">18</a>:
- _svá--talit_, "succeeded to persuade Þ. (him)."
-[↩](#a18)
-
-<a name="myfootnote19" id="f19">19</a>:
- _Sandaós_, see c. 7, 3.
-[↩](#a19)
-
-<a name="myfootnote20" id="f20">20</a>:
- _felr sýn_, see Egils saga c. 71, 5.
-[↩](#a20)
-
-<a name="myfootnote21" id="f21">21</a>:
- _snýr--Hól_, he took another, slightly higher way (there are now two possibilities).
-[↩](#a21)
-
-<a name="myfootnote22" id="f22">22</a>:
- _hefir--málit_, "has recognized the facts."
-[↩](#a22)
-
-<a name="myfootnote23" id="f23">23</a>:
- [_rannsakat_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0483:6) [_vísuna_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0717:16), "thoroughly understanding the verse" (and as a result, understanding its meaning). This should have been said first (hysteron proteron).
-[↩](#a23)
-
-<a name="myfootnote24" id="f24">24</a>:
- _at--málit_, "that the facts have been discovered."
-[↩](#a24)
-
-<a name="myfootnote25" id="f25">25</a>:
- __Str. 11__ Prose word order: Syster mín, gæten sveigar, gatat at eiga sǫ́l Goþrúnar Gjúka dóttor, fastrar hugtúne, þás l&oelig;ges log-Sága lét ver sinn dyja; svá rak s&oslash;r-Freyja snjallra br&oelig;þra af stinnom hug.
-
-"The soul of Goþrún, the indomitable daughter of Gjúke, was not bestowed upon my vain sister, (this soul, she revealed) when the wife struck her husband; so the woman avenged her brave brothers with unflinching courage."
-
-* [_g&oelig;ten_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0223:11) [_sveigar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0608:19); _g&oelig;tenn_ adj. "carefully;" _sveigr_ is a kind of headdress; the term is pejorative and highlights the contrast between Þórdis and Goþrún; "thoughtful for (and only for) her headdress" is contrary to "the indomitable."
-* [_fastrar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0145:1) [_hug_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0290:31)-[_túni_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0644:28), "firm, unshakeable, in the court of the soul, "the court of the soul" is "the breast."
-* [_l&oelig;ges_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0403:19) [_log_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0397:33)-_Sága_, _l&oelig;ger_ "the sea;" of which _log_, flamme=gold; the [_Sága_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=S%E1ga&startrow=1) (asin) of gold, the woman, Goþrún.
-* [_ver_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0698:27) _sinn_, Atli Buþlason.
-* _ser-Freyja_: _ser-_ is a shortening of the noun, [_s&oslash;rve_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0621:17)_=steina-s&oslash;rve_ necklace of amber; of whom _Freyja_ is the woman.
-
-The verse is very interesting by its comparison with Goþrún; Gísli was a native Norwegian; in the Icelandic skaldic poetry, one misses such allusions.
-[↩](#a25)
-
-<a name="myfootnote26" id="f26">26</a>:
- _slíkt--g&oslash;rt_, "after I did such a thing."
-[↩](#a26)
-
-<a name="myfootnote27" id="f27">27</a>:
- [_bjargir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0066:22), in the event that he is tried in court; because helping an outlaw was punishable.
-[↩](#a27)
-
-<a name="myfootnote28" id="f28">28</a>:
- _þ&oelig;r--gefa_, "that might issue me a prosecution (that will bring a court case against me)."
-[↩](#a28)
-
-<a name="myfootnote29" id="f29">29</a>:
- _Þykki--mik_, "I think they have suffered great injury."
-[↩](#a29)
-
-<a name="myfootnote30" id="f30">30</a>:
- [_félagi_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0150:16), they had lived together in a legal partnership.
-[↩](#a30)
-
-<a name="myfootnote31" id="f31">31</a>:
- _Þórsness_, see Ezrb. c. 4, 10.
-[↩](#a31)
-
-<a name="myfootnote32" id="f32">32</a>:
- _Barðastr&#x1EB;nd_, the long coastal stretch on the north side of Breiðifj&#x1EB;rðr, west of Vatsfj&#x1EB;rðr.
-[↩](#a32)
-
-<a name="myfootnote33" id="f33">33</a>:
- _i Hvammi_, the settlement is located on the west of the peninsula between Vatsfj&#x1EB;rðr and Hagavaðall.
-[↩](#a33)
-
-<a name="myfootnote34" id="f34">34</a>:
- [_stefnud&#x1EB;gum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=stefnu-dagr&startrow=1), "the days of summoning;" at the beginning of the spring, the term of the summons was two weeks, c.f. _eigi skal n&oelig;r stefna várþingi en 2 vikur sé til þess várþings, er s&#x1EB;kinni er til stefnt_ (Grágás, Konungsbók I, 96); the þing was held in May.
-[↩](#a34)
-
-<a name="myfootnote35" id="f35">35</a>:
- _Þórsnessþings_, see Eyrb. c. 4, 11; 9, 4 ff.
-[↩](#a35)
-
-<a name="myfootnote36" id="f36">36</a>:
- _einum b&oelig; lítlum_, in S the settlement is called _Hólar_, perhaps correctly, but probably scribal conjecture; the settlement is located in Meðaldalr and still exists; see Árbók 1883, s. 38; the frgmt. agrees with M.
-[↩](#a36)
-
-<a name="myfootnote37" id="f37">37</a>:
- _þenna sama_, meaning, his own.
-[↩](#a37)
-
-<a name="myfootnote38" id="f38">38</a>:
- [_vaðmáli_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=va%F0m%E1li&startrow=1), this cloth should be draped over the saddle to make it unrecognizable to B&#x1EB;rkr.
-[↩](#a38)
-
-<a name="myfootnote39" id="f39">39</a>:
- _í_ [_skóga_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0555:37), meaning, in the wooded part of the lower Haukadalr near the settlement. S has here _út á Hól_ (which is to be considered an interpolation), while the frgmt. agrees with M.
-[↩](#a39)
-
-<a name="myfootnote40" id="f40">40</a>:
- _um hvat vera er_, "how things stand."
-[↩](#a40)
-
-<a name="myfootnote41" id="f41">41</a>:
- [_vestan_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0700:9), namely of Þórsnes; actually it should be _sunnan_, but the directions would be entirely inaccurate in the local setting, see Kålund I, 569 anm.
-[↩](#a41)
