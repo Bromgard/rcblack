@@ -46,6 +46,8 @@ sør-Freyja), ver deyja.[^25]
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_20">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
 
+***
+
 [^1]:_suðr í Borgarfjǫrð_, there used to be (in Hvítá) ships that departed for Norway every summer.
 [^2]:_Saltnes_, a small penninsula between Hakadalr and Meðaldalr.
 [^3]:_berr--í hel_, see Eyrb. c. 20, 20 and Laxd. c. 37, 35; 38, 10.
