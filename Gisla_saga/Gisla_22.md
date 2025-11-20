@@ -1,19 +1,15 @@
----
-title: Gísla 22
-layout: default
----
 
 # Gísla saga Súrssonar 22
 
-### B&#x1EB;rkr conscripts Eyólfr for the hunt for Gísli. He sends a scout. Gísli's dreams.
+### Bǫrkr conscripts Eyólfr for the hunt for Gísli. He sends a scout. Gísli's dreams.
 
-1\. Nú er B&#x1EB;rkur spyrr þetta, þá býr hann heiman f&#x1EB;r sína ok hittir Eyjólf<sup id="a1">[1](#myfootnote1)</sup> enn grá, er þá bjó í Arnarfirði í Otradal, ok beiðir, at hann leiti eptir Gísla ok drepi hann sekðinni, ok kvez mundu gefa hánum til þrjú hundruð silfrs, þess at allgott sé,<sup id="a2">[2](#myfootnote2)</sup> at hann leggi á alla stund<sup id="a3">[3](#myfootnote3)</sup> at leita eptir hánum. Hann tekr við fénu ok heitr sinni umsýslu. 2. Sá maðr var með Eyjólfi, er Helgi hét, ok var kallaðr Njósnar-Helgi, hann var bæði frár ok skygn, ok var hánum um alla fj&#x1EB;rðu kunnigt. 3. Hann er sendr í Geirþjófsfj&#x1EB;rð at vita, hvárt Gísli væri þar. Hann verðr varr við manninn<sup id="a4">[4](#myfootnote4)</sup> ok veit eigi, hvárt Gísli er, eða annarr maðr. Hann ferr heim ok segir Eyjólfi til svá búins. 4. Hann kvez víst vita, at þat mun Gísli verit hafa, ok bregðr við skjótt, ok ferr heiman við sjaunda mann í Geirþjófsfj&#x1EB;rð, ok verðr ekki varr við Gísla, ok ferr við svá búit aptr heim. Gísli var vitr maðr ok draumamaðr mikill ok berdreymur.<sup id="a5">[5](#myfootnote5)</sup> 5. Þat k&oslash;mr saman<sup id="a6">[6](#myfootnote6)</sup> með &#x1EB;llum vitrum<sup id="a7">[7](#myfootnote7)</sup> m&#x1EB;nnum, at Gísli hafi lengst allra manna í sekð gengit, annarr en Grettir Ásmundarson.<sup id="a8">[8](#myfootnote8)</sup> 6. Frá því er sagt eitt haust, at Gísli lét illa í svefni nátt eina, þá er hann var á b&oelig; Auðar; ok er hann vaknar spurði hón hvat hann dreymði.
+1\. Nú er Bǫrkur spyrr þetta, þá býr hann heiman fǫr sína ok hittir Eyjólf[^1] enn grá, er þá bjó í Arnarfirði í Otradal, ok beiðir, at hann leiti eptir Gísla ok drepi hann sekðinni, ok kvez mundu gefa hánum til þrjú hundruð silfrs, þess at allgott sé,[^2] at hann leggi á alla stund[^3] at leita eptir hánum. Hann tekr við fénu ok heitr sinni umsýslu. 2. Sá maðr var með Eyjólfi, er Helgi hét, ok var kallaðr Njósnar-Helgi, hann var bæði frár ok skygn, ok var hánum um alla fjǫrðu kunnigt. 3. Hann er sendr í Geirþjófsfjǫrð at vita, hvárt Gísli væri þar. Hann verðr varr við manninn[^4] ok veit eigi, hvárt Gísli er, eða annarr maðr. Hann ferr heim ok segir Eyjólfi til svá búins. 4. Hann kvez víst vita, at þat mun Gísli verit hafa, ok bregðr við skjótt, ok ferr heiman við sjaunda mann í Geirþjófsfjǫrð, ok verðr ekki varr við Gísla, ok ferr við svá búit aptr heim. Gísli var vitr maðr ok draumamaðr mikill ok berdreymur.[^5] 5. Þat kømr saman[^6] með ǫllum vitrum[^7] mǫnnum, at Gísli hafi lengst allra manna í sekð gengit, annarr en Grettir Ásmundarson.[^8] 6. Frá því er sagt eitt haust, at Gísli lét illa í svefni nátt eina, þá er hann var á bœ Auðar; ok er hann vaknar spurði hón hvat hann dreymði.
 
-7\. Hann svarar: "Ek á draumkonur ij," sagði hann, "ok er &#x1EB;nnur vel við mik en &#x1EB;nnur segir mér þat n&#x1EB;kkut jafnan, er mér þykkir verr en áðr, ok spár mér illt eina. 8. En þat dreymði mik nú, at ek þóttumz ganga at húsi einu eða skála, ok inn þóttumz ek ganga í húsit, ok þar kenda ek marga inni frændr mína ok vini; þeir sátu við elda ok drukku, ok váru vij eldarnir;<sup id="a9">[9](#myfootnote9)</sup> sumir váru mj&#x1EB;k brunnir,<sup id="a10">[10](#myfootnote10)</sup> en sumir sem bjartastir. 9. Þá kom inn draumkona mín en betri ok sagði, at þat merkði aldr minn, hvat ek ætta eptir ólifat; ok hón réð mér þat, meðan ek lifða, at láta leiðaz<sup id="a11">[11](#myfootnote11)</sup> fornan sið ok nema enga galdra né forneskju ok vera vel við (daufan) ok haltan ok (fátæka ok fáráða). Eigi var draumurinn lengri."
+7\. Hann svarar: "Ek á draumkonur ij," sagði hann, "ok er ǫnnur vel við mik en ǫnnur segir mér þat nǫkkut jafnan, er mér þykkir verr en áðr, ok spár mér illt eina. 8. En þat dreymði mik nú, at ek þóttumz ganga at húsi einu eða skála, ok inn þóttumz ek ganga í húsit, ok þar kenda ek marga inni frændr mína ok vini; þeir sátu við elda ok drukku, ok váru vij eldarnir;[^9] sumir váru mjǫk brunnir,[^10] en sumir sem bjartastir. 9. Þá kom inn draumkona mín en betri ok sagði, at þat merkði aldr minn, hvat ek ætta eptir ólifat; ok hón réð mér þat, meðan ek lifða, at láta leiðaz[^11] fornan sið ok nema enga galdra né forneskju ok vera vel við (daufan) ok haltan ok (fátæka ok fáráða). Eigi var draumurinn lengri."
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/b/b6/G%C3%ADsla_saga_Illustration_4_-_The_Dream_Wife.jpg "The Dream Wife")
 
-Þá kvað Gísli vísur n&#x1EB;kkurar:
+Þá kvað Gísli vísur nǫkkurar:
 
    >15   
    >    
@@ -24,40 +20,40 @@ layout: default
    sák blíðliga báþar   
    bekksagner mér fagna;   
    hróþrdeiler baþ heilan   
-   hvern mann í því ranne.<sup id="a12">[12](#myfootnote12)</sup>   
+   hvern mann í því ranne.[^12]   
 
    >16   
    >    
    Hygget at, kvaþ Egþa   
-   andspille V&#x1EB;r banda,   
+   andspille Vǫr banda,   
    mildr, hvé marger eldar,   
    malmrunnr, í sal brunnu;   
    svá átt, kvaþ Bil blæjo,   
    bjargs ólifat marga,   
-   veig-Skj&#x1EB;ldunga valde,   
-   vetr, nú's skammt til betra.<sup id="a13">[13](#myfootnote13)</sup>   
+   veig-Skjǫldunga valde,   
+   vetr, nú's skammt til betra.[^13]   
 
    >17   
    >    
    Gerskat næmr, kvaþ Nauma   
    niþleiks, ara steikar   
    ǫ́rr! nema allgótt heyrer,   
-   Iþja galdrs, at sk&#x1EB;ldum;   
+   Iþja galdrs, at skǫldum;   
    fátt kveþa fleyja brautar   
    fúrþverranda verra,   
    randar logs ens reynda   
-   runnr! an illt at kunna.<sup id="a14">[14](#myfootnote14)</sup>   
+   runnr! an illt at kunna.[^14]   
 
    >18   
    >    
    Vald eige þú vígi,   
    ves þú ótyrrenn, fyrre,   
-   morþs viþ m&oelig;ti-Nj&#x1EB;rðo,   
+   morþs viþ mœti-Njǫrðo,   
    (mér heiteþ því) sleitenn;   
    blakkskyndir, hjalp blindom,   
    (Baldr hygg at því, skjaldar)   
-   illt kveþa háþ ok h&#x1EB;ltom   
-   handlausom díks, grandat.<sup id="a15">[15](#myfootnote15)</sup>   
+   illt kveþa háþ ok hǫltom   
+   handlausom díks, grandat.[^15]   
 
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_21">⇦</a></div>
@@ -68,96 +64,55 @@ layout: default
 
 ### Notes
 
-<a name="myfootnote1" id="f1">1</a>:
- _Eyjólf_, see c. 15, 12.
-[↩](#a1)
+[^1]:_Eyjólf_, see c. 15, 12.
+[^2]:_þess at allgott sé_, i.e. pure silver (assayed silver).
+[^3]:_at hann--stund_, "that he may be mindful of it." --_stund_ obj. to _leggi_.
+[^4]:_manninn_, "such a man."
+[^5]:[_berdreymr_](https://old-norse.net/html/b.php#berdreymr), "who has dreams that are easy to interpret and fulfill." see Flatezjarbók II, 100, 10: _ek em manna berdreymastr ok hefir mik einkar úrýrliga til mín dreymt, en allrýrliga um þik_.
+[^6]:_Þat kømr saman_, "There is a consensus..."
+[^7]:[_vitrum_](https://old-norse.net/html/v.php#vitr), here approximately = [_fróðum_](https://old-norse.net/html/f.php#fr%C3%B3%C3%B0r).
+[^8]:_Grettir Asmundarson_, see Grettissaga (Kbh. 1863), s. 186, 25, [Sagabibl. VIII, s. XI anm.]; he was peaceful for nineteen years. S and frgmt. add here: XVIII (XVII frgmt.) _vetr segja_ (_kalla_ frgmt.) _flestir_ (_fróðir_ frgmt.) _menn, at Gísli_ (_hann_ frgmt.) _hafi verit í sekð sinni_ (_í sekð verit_ frgm.).
+[^9]:_sjau eldarnir_, see Eyrb. c. 54, 9.
+[^10]:[_brunnir_](https://old-norse.net/html/b.php#brenna), "burned down."
+[^11]:_láta_ [_leiðaz_](https://old-norse.net/search.php#search), "to avoid," "to reject something."
+[^12]:__Str. 15__. Prose word order: Unnfúrs Fold!, komk inn í sal, þars eldar sex ok einn brunno; vǫ́rum þar at meine, aura Eir!; sák báþar bekksagner fagna mér blíþliga; hróþrdeiler baþ hvern mann í því ranne heilan.
 
-<a name="myfootnote2" id="f2">2</a>:
- _þess at allgott sé_, i.e. pure silver (assayed silver).
-[↩](#a2)
+	"Woman! I came to a house where seven fires burned, they worried me, woman! I saw the people on both benches greeting me kindly, and the skald (me) wished every man in that house happiness."
 
-<a name="myfootnote3" id="f3">3</a>:
- _at hann--stund_, "that he may be mindful of it." --_stund_ obj. to _leggi_.
-[↩](#a3)
+	* [_unn_](https://old-norse.net/html/u.php#unnr)-[_fúr_](https://old-norse.net/html/f.php#f%C3%BArr), "the fire of the wave," gold; [_fold_](https://old-norse.net/html/f.php#fold), "earth," of gold, the woman.
+	* _vǫ́rum_: _vǫ́ru-mR_ (_vǫ́ru mér_), "were to me;" subj. is _eldar_.
+	* [_aura_](https://old-norse.net/html/e.php#eir2) _Eir, Eir_, a goddess, (the goddess of the art of healing; this name is chosen intentionally), of money, meaning gold, Auþr.
+	* [_hróþr_](https://old-norse.net/html/h.php#hr%C3%B3%C3%B0r)-[_deiler_](https://old-norse.net/html/d.php#deila-I), "the giver of the song," a poet.
 
-<a name="myfootnote4" id="f4">4</a>:
- _manninn_, "such a man."
-[↩](#a4)
+[^13]:__Str. 16__. Prose word order: Hygget at, mildr malmrunnr! kvaþ banda Vǫr andspille Egþa, hvé marger eldar brunno í sal; svá átt, kvaþ Bil blæjo, marga etr ólifat, nú 's skamt til betra valde veig-Skjǫldunga bjargs.
 
-<a name="myfootnote5" id="f5">5</a>:
- [_berdreymr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0060:6), "who has dreams that are easy to interpret and fulfill." see Flatezjarbók II, 100, 10: _ek em manna berdreymastr ok hefir mik einkar úrýrliga til mín dreymt, en allrýrliga um þik_.
-[↩](#a5)
+	"Remember the generous warrior said the woman to the friends of Egder, how many fires burned in the house, so many years, said the woman, you still have to live, how there is only for the poet a short time for the good (better, i.e. otherworldly) life left."
 
-<a name="myfootnote6" id="f6">6</a>:
- _Þat k&oslash;mr saman_, "There is a consensus..."
-[↩](#a6)
+	* [_malmr_](https://old-norse.net/html/m.php#m%C3%A1lmr)-[_unnr_](https://old-norse.net/html/u.php#unnr), see gloss in CV, _málmr_,  a warrior.
+	* [_banda_](https://old-norse.net/html/b.php#band-I) _vǫr_, "the goddess of the rings," the woman.
+	* [_andspilli_](https://old-norse.net/html/a.php#andspilli) v. _andspillir_, "one who (gladly) talks, leads conversations;" _Egðir_, are the inhabitants of Agðir or Agðafylki in southern Norway; this is how Gísli calls himself a native Norwegian. _Egða_ is in frgmt.
+	* [_Bil_](https://old-norse.net/html/b.php#bil) [_blœjo_](https://old-norse.net/html/b.php#bl%C3%A6ja), "Bil (goddess) of tapestries," the woman.
+	* [_valde_](https://old-norse.net/html/v.php#valda-B) [_veig_](https://old-norse.net/html/v.php#veig)-_Skjǫldunga_ [_bjargs_](https://old-norse.net/html/b.php#bjarg) = _v. bj. Skj. veigar_ (_veig_ conj. from Jón Þorkelsson); _bjargs Skj._, "the Sheildings, the princes of the rocks," a giant; "the _veig_, drink of the giant," "poesy, the poem."
+	* _valdr_ = lord; _valde_ is dative (not nom.).
 
-<a name="myfootnote7" id="f7">7</a>:
- [_vitrum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0713:24), here approximately = [_fróðum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0175:18).
-[↩](#a7)
+[^14]:__Str. 17__. Prose word order: Gerskat næmr galdrs, ara steikar ǫ́rr! kvaþ Iþja niþleiks Nauma, nema heyrer allgótt at skǫldum, kveþa fátt verra fleyja brautar fúrþverranda, runnr ens reynda randar logs! an at kunna illt.
 
-<a name="myfootnote8" id="f8">8</a>:
- _Grettir Asmundarson_, see Grettissaga (Kbh. 1863), s. 186, 25, [SAgabibl. VIII, s. XI anm.]; he was peaceful for nineteen years. S and frgmt. add here: XVIII (XVII frgmt.) _vetr segja_ (_kalla_ frgmt.) _flestir_ (_fróðir_ frgmt.) _menn, at Gísli_ (_hann_ frgmt.) _hafi verit í sekð sinni_ (_í sekð verit_ frgm.).
-[↩](#a8)
+	"Do not learn spells, warriors! said Nauma of the Gold, learning only what is good of the poets, saying that there is nothing worse for a gold-baited one to understand the bad (the bad art, magic)"
 
-<a name="myfootnote9" id="f9">9</a>:
- _sjau eldarnir_, see Eyrb. c. 54, 9.
-[↩](#a9)
+	* [_ara_](https://old-norse.net/html/a.php#ari) _steik_<!--There's something up here. Figure this out-->, "the adoration of the eagle," "the fallen," [_ǫ́rr_](https://old-norse.net/html/oe.php#%C3%B6r), "servant, messenger;" "one who honors the care of eagles," a warrior.
+	* _Iþja_ [_niþr_](https://old-norse.net/html/n.php#ni%C3%B0r2), Iþes relatives, brothers (Þjaze or Gangr); "the game of the brothers" is gold, see the myth Sn. E. I, 214, 350; the division of gold was the game of these brothers.
+	* [_Nauma_](https://old-norse.net/html/n.php#nauma), is often found in a kenning for "woman." the reference to the wisdom of the scales is lovely.
+	* [_Fleyja_](https://old-norse.net/html/f.php#fley)(so AM) _braut_ = the sea; "of gold [_þverrande_](https://old-norse.net/html/th.php#%C3%BEverra), one who wastes," a (liberal) man.
+	* [_Randar_](https://old-norse.net/html/r.php#randar-) [_log_](https://old-norse.net/html/l.php#log), "the flame of the shield" = the sword; of whom _runnr_ "tree" = warrior.
 
-<a name="myfootnote10" id="f10">10</a>:
- [_brunnir_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0079:9), "burned down."
-[↩](#a10)
+[^15]:__Str. 18__. Prose word order: Vald eige þú sleitenn víge; ves þú fyrre ótyrrenn viþ morþs mœte-Njǫrþo; heiteþ mér því; kíks blakkskynder! hjalp blindom, gradat handlausom ok hǫltom; kveþa háþ illt; hygg at því, skjaldar Baldr.
 
-<a name="myfootnote11" id="f11">11</a>:
- _láta_ [_leiðaz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0380:17), "to avoid," "to reject something."
-[↩](#a11)
+	"Do not kill as a disturber o the peace, do not be the first to engage warriors (the men you meet can be valiant), promise me this: help the blind man, do not mock the handless and the lame, they say that mockery is bad, remember that O warrior."
 
-<a name="myfootnote12" id="f12">12</a>:
- __Str. 15__. Prose word order: Unnfúrs Fold!, komk inn í sal, þars eldar sex ok einn brunno; vǫ́rum þar at meine, aura Eir!; sák báþar bekksagner fagna mér blíþliga; hróþrdeiler baþ hvern mann í því ranne heilan.
+	* _sleitenn_ (v. [_sleita_](https://old-norse.net/html/s.php#sleita), to end an argument) "disputes;" "be not so confrontational that you, etc." _fyrre_, "as the former," _prior_ (not _prius_).
+	* [_morþs_](https://old-norse.net/html/m.php#mor%C3%B0) [_mœte_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:17)-_Njǫrþr_, "the N., who goes to the battle," a warrior.
+	* [_mœte_](https://old-norse.net/html/m.php#meta-B) to _mœta_, "L. obeo."
+	* [_díks_](https://old-norse.net/html/d.php#d%C3%ADki) (conj. for _ty_) [_blakkr_](https://old-norse.net/html/b.php#blakkr3) (so fragment.), "dike wolf" = "the horse of the sea" = ship, of this, [_skynder_](https://old-norse.net/html/s.php#skynda) "steersman," a seafarer; and so how Gísli might be named.
+	* [_skjaldar_](https://old-norse.net/html/s.php#skjald-) _Baldr_, "Baldr of the shield" = warrior.
 
-"Woman! I came to a house where seven fires burned, they worried me, woman! I saw the people on both benches greeting me kindly, and the skald (me) wished every man in that house happiness."
-
-* [_unn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0655:6)-[_fúr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0178:42), "the fire of the wave," gold; [_fold_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:36), "earth," of gold, the woman.
-* _vǫ́rum_: _vǫ́ru-mR_ (_vǫ́ru mér_), "were to me;" subj. is _eldar_.
-* [_aura_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0034:24) _Eir, Eir_, a goddess, (the goddess of the art of healing; this name is chosen intentionally), of money, meaning gold, Auþr.
-* [_hróþr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0287:14)-[_deiler_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0098:21), "the giver of the song," a poet.
-[↩](#a12)
-
-<a name="myfootnote13" id="f13">13</a>:
- __Str. 16__. Prose word order: Hygget at, mildr malmrunnr! kvaþ banda V&#x1EB;r andspille Egþa, hvé marger eldar brunno í sal; svá átt, kvaþ Bil blæjo, marga etr ólifat, nú 's skamt til betra valde veig-Skj&#x1EB;ldunga bjargs.
-
-"Remember the generous warrior said the woman to the friends of Egder, how many fires burned in the house, so many years, said the woman, you still have to live, how there is only for the poet a short time for the good (better, i.e. otherworldly) life left."
-
-* [_malmr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=malmr&startrow=1)-[_unnr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0655:6), see gloss in CV, _málmr_,  a warrior.
-* [_banda_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0051:7) _v&#x1EB;r_, "the goddess of the rings," the woman.
-* [_andspilli_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0020:28) v. _andspillir_, "one who (gladly) talks, leads conversations;" _Egðir_, are the inhabitants of Agðir or Agðafylki in southern Norway; this is how Gísli calls himself a native Norwegian. _Egða_ is in frgmt.
-* _Bil_ [_bl&oelig;jo_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0071:25), "the Bil (god) of tapestries," the woman.
-* [_valde_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0675:16) [_veig_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0690:21)-_Skj&#x1EB;ldunga_ [_bjargs_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0064:24) = _v. bj. Skj. veigar_ (_veig_ conj. from Jón Þorkelsson); _bjargs Skj._, "the Sheildings, the princes of the rocks," a giant; "the _veig_, drink of the giant," "poesy, the poem."
-* _valdr_ = lord; _valde_ is dative (not nom.).
-[↩](#a13)
-
-<a name="myfootnote14" id="f14">14</a>:
- __Str. 17__. Prose word order: Gerskat næmr galdrs, ara steikar ǫ́rr! kvaþ Iþja niþleiks Nauma, nema heyrer allgótt at sk&#x1EB;ldum, kveþa fátt verra fleyja brautar fúrþverranda, runnr ens reynda randar logs! an at kunna illt.
-
-"Do not learn spells, warriors! said Nauma of the Gold, learning only what is good of the poets, saying that there is nothing worse for a gold-baited one to understand the bad (the bad art, magic)"
-
-* [_ara_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0767:33) _steik_, "the adoration of the eagle," "the fallen," [_ǫ́rr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0045:7), "servant, messenger;" "one who honors the care of eagles," a warrior.
-* _Iþja_ [_niþr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0454:34), Iþes relatives, brothers (Þjaze or Gangr); "the game of the brothers" is gold, see the myth Sn. E. I, 214, 350; the division of gold was the game of these brothers.
-* [_Nauma_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0446:50), is often found in a kenning for "woman." the reference to the wisdom of the scales is lovely.
-* [_Fleyja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0160:34)(so AM) _braut_ = the sea; "of gold [_þverrande_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0753:2), one who wastes," a (liberal) man.
-* [_Randar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0507:23) [_log_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0397:29), "the flame of the shield" = the sword; of whom _runnr_ "tree" = warrior.
-[↩](#a14)
-
-<a name="myfootnote15" id="f15">15</a>:
- __Str. 18__. Prose word order: Vald eige þú sleitenn víge; ves þú fyrre ótyrrenn viþ morþs m&oelig;te-Nj&#x1EB;rþo; heiteþ mér því; kíks blakkskynder! hjalp blindom, gradat handlausom ok h&#x1EB;ltom; kveþa háþ illt; hygg at því, skjaldar Baldr.
-
-"Do not kill as a disturber o the peace, do not be the first to engage warriors (the men you meet can be valiant), promise me this: help the blind man, do not mock the handless and the lame, they say that mockery is bad, remember that O warrior."
-
-* _sleitenn_ (v. [_sleita_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0568:26), to end an argument) "disputes;" "be not so confrontational that you, etc." _fyrre_, "as the former," _prior_ (not _prius_).
-* [_morþs_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0434:30) [_m&oelig;te_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:17)-_Nj&#x1EB;rþr_, "the N., who goes to the battle," a warrior.
-* [_m&oelig;te_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:13) to _m&oelig;ta_, "L. obeo."
-* _díks_ (conj. for _ty_) [_blakkr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0067:2) (so fragment.), "the horse of the sea" = ship, of this, [_skynder_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0563:15) "steersman," a seafarer; and so how Gísli might be named.
-* [_skjaldar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0553:17) _Baldr_, "Baldr of the shield" = warrior.
-
-There are allusions to Hávamál in this beautiful verse; it is an expression of the kindly demeanor of Gísli and his moral outlook of life.
-[↩](#a15)
+	There are allusions to Hávamál in this beautiful verse; it is an expression of the kindly demeanor of Gísli and his moral outlook of life.
