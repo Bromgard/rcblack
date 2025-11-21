@@ -80,12 +80,15 @@ Please send any corrections and suggestions to [rcblack@rcblack.net](mailto:rcbl
 
 ---
 
-## Roadmap for the future
+## Roadmap
 
-* Check the text to the manuscript and normalize the orthography to the conventions familiar to the students (particularly the mediopassive endings).
-* Add additional glosses and notes. The frequency of glosses will be weighted to the beginning of the saga (the first ten chapters will be heavily glossed, the second ten chapters will be glossed less, etc.).
-* Remove obsolete notes from Finnur's edition, and update and correct the original glosses.
-* Update the apparatus to include modern scholarship, and update the bibliography.
+* [ ] Update dictionary links to [old-norse.net](old-norse.net)
+* [ ] Update citation apparatus to Markdown extended syntax
+* [ ] Check the text to the manuscript and normalize the orthography to the conventions familiar to the students (particularly the mediopassive endings).
+* [ ] Thoroughly improve the edition, translation, and apparatus of the verse.
+* [ ] Add additional glosses and notes. The frequency of glosses will be weighted to the beginning of the saga (the first ten chapters will be heavily glossed, the second ten chapters will be glossed less, etc.).
+* [ ] Remove obsolete notes from Finnur's edition, and update and correct the original glosses.
+* [ ] Update the apparatus to include modern scholarship, and update the bibliography.
 
 ---
 
