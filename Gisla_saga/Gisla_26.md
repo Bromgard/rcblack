@@ -1,19 +1,15 @@
----
-title: Gísla 26
-layout: default
----
 
 # Gísla saga Súrssonar 26
 
-### B&#x1EB;rkr goes to Hergilsey. Gísli escapes from him.
+### Bǫrkr goes to Hergilsey. Gísli escapes from him.
 
-1\. Nú sér Ingjaldr, at skipit siglir sunnan ok mælti: "Skip siglir þarna, ok hygg ek, at þar myni vera B&#x1EB;rkr enn digri."
+1\. Nú sér Ingjaldr, at skipit siglir sunnan ok mælti: "Skip siglir þarna, ok hygg ek, at þar myni vera Bǫrkr enn digri."
 
-"Hvat er þá til ráðs takanda?" sagði Gísli; "ek vil vita, hvárt þú ert svá hygginn, sem þú ert drengrinn góðr."<sup id="a1">[1](#myfootnote1)</sup>
+"Hvat er þá til ráðs takanda?" sagði Gísli; "ek vil vita, hvárt þú ert svá hygginn, sem þú ert drengrinn góðr."[^1]
 
-2\. "Skjótt er til ráða at taka," sagði Ingjaldur, "þó at ek {sé} engi vitrleiksmaðr; róum sem ákafast at eynni, ok g&#x1EB;ngum síðan upp á Vaðsteinaberg<sup id="a2">[2](#myfootnote2)</sup> ok verjumz meðan vér megum upp standa."
+2\. "Skjótt er til ráða at taka," sagði Ingjaldur, "þó at ek {sé} engi vitrleiksmaðr; róum sem ákafast at eynni, ok gǫngum síðan upp á Vaðsteinaberg[^2] ok verjumz meðan vér megum upp standa."
 
-3\. "Nú fór sem mik varði," sagði Gísli, "at þú myndir hitta þat ráðit, at þú mættir drengrinn af verða sem beztr,<sup id="a3">[3](#myfootnote3)</sup> en verri laun sel ek þér þá fyrir liðveizluna, en ek hafða ætlat, ef þú skalt fyrir mínar sakir lífit láta. 4. Nú skal þat vera aldri, ok skal annat ráð taka. Þú skalt róa at eyinni, ok þrællinn, ok ganga upp á bergit, ok búiz at verjaz, ok munu þeir ætla mik annan manninn,<sup id="a4">[4](#myfootnote4)</sup> er sigla<sup id="a5">[5](#myfootnote5)</sup> sunnan fyrir nesit. En ek mun skipta klæðum við þrælinn, sem eitt sinn fyrr,<sup id="a6">[6](#myfootnote6)</sup> ok mun ek fara á bátinn með Bóthildi."
+3\. "Nú fór sem mik varði," sagði Gísli, "at þú myndir hitta þat ráðit, at þú mættir drengrinn af verða sem beztr,[^3] en verri laun sel ek þér þá fyrir liðveizluna, en ek hafða ætlat, ef þú skalt fyrir mínar sakir lífit láta. 4. Nú skal þat vera aldri, ok skal annat ráð taka. Þú skalt róa at eyinni, ok þrællinn, ok ganga upp á bergit, ok búiz at verjaz, ok munu þeir ætla mik annan manninn,[^4] er sigla[^5] sunnan fyrir nesit. En ek mun skipta klæðum við þrælinn, sem eitt sinn fyrr,[^6] ok mun ek fara á bátinn með Bóthildi."
 
 5\. Ingjaldr gerði sem Gísli ráðlagði; {fansk þat eitt á, at hann var hinn reiðasti.} Ok er þeir skilja, þá mælti Bóthildr: "Hvat er nú til ráðs?"
 
@@ -22,147 +18,80 @@ layout: default
    >22   
    >    
    Ráþs leitar nú rítar   
-   ruþr, (vekjom mj&#x1EB;þ Suþra)   
+   ruþr, (vekjom mjǫþ Suþra)   
    skorþ, þvít skiljask verþom,   
    skjaldsteins, frá Ingjalde;   
    þó monk, hyrs, at hvǫ́ru   
    hafa, bláfoldar skafla   
    snyrtegǫ́tt, né sýt{ik},   
-   snauþ, þats mér verþr auþet.<sup id="a7">[7](#myfootnote7)</sup>   
+   snauþ, þats mér verþr auþet.[^7]   
 
-7\. Nú róa þau suðr í móti þeim Berki, ok láta sem ekki væri til vandræða. Þá segir Gísli fyrir, hversu hátta skal: "þú skalt segja," segir hann, "at hér sé fíflit innanborðs; 8. en ek mun sitja í stafni ok herma eptir því,<sup id="a8">[8](#myfootnote8)</sup> ok vefja mik vaðnum,<sup id="a9">[9](#myfootnote9)</sup> ok vera stundum útanborðs ok láta sem ek má &oelig;riligast; ok ef n&#x1EB;kkur<sup id="a10">[10](#myfootnote10)</sup> berr þá um fram, mun ek róa sem ek má ok leita þess á,<sup id="a11">[11](#myfootnote11)</sup> at sem skjótast skili með oss."
+7\. Nú róa þau suðr í móti þeim Berki, ok láta sem ekki væri til vandræða. Þá segir Gísli fyrir, hversu hátta skal: "þú skalt segja," segir hann, "at hér sé fíflit innanborðs; 8. en ek mun sitja í stafni ok herma eptir því,[^8] ok vefja mik vaðnum,[^9] ok vera stundum útanborðs ok láta sem ek má œriligast; ok ef nǫkkur[^10] berr þá um fram, mun ek róa sem ek má ok leita þess á,[^11] at sem skjótast skili með oss."
 
-9\. Ok nú r&oelig;r hón í móti þeim, ok þó eigi allnærri þeim Berki, ok lætr sem hón bregði til miða.<sup id="a12">[12](#myfootnote12)</sup> Nú kallar B&#x1EB;rkr á hana ok spyrr, ef Gísli væri í eynni.
+9\. Ok nú rœr hón í móti þeim, ok þó eigi allnærri þeim Berki, ok lætr sem hón bregði til miða.[^12] Nú kallar Bǫrkr á hana ok spyrr, ef Gísli væri í eynni.
 
-10\. "Eigi veit ek þat," segir hón, "en hitt veit ek, at er þar sá maðr, er mj&#x1EB;k berr af &#x1EB;ðrum m&#x1EB;nnum, þeim sem í eynni eru, bæði at vexti ok hagleik."
+10\. "Eigi veit ek þat," segir hón, "en hitt veit ek, at er þar sá maðr, er mjǫk berr af ǫðrum mǫnnum, þeim sem í eynni eru, bæði at vexti ok hagleik."
 
-"Já," segir B&#x1EB;rkr, "en hvárt er Ingjaldr bóndi heima?"
+"Já," segir Bǫrkr, "en hvárt er Ingjaldr bóndi heima?"
 
-11\. "L&#x1EB;ngu áðan r&oslash;ri hann til eyjarinnar," sagði hón, "ok þræll hans með hánum, at því er ek hugða."
+11\. "Lǫngu áðan røri hann til eyjarinnar," sagði hón, "ok þræll hans með hánum, at því er ek hugða."
 
-"Þat mun þó eigi verit hafa," sagði B&#x1EB;rkr, "ok mun Gísli þat verit hafa, ok róum eptir þeim sem ákafast <<ok bíta myndi nú beinfiskr, ef at borði mætti dragaz.>>"<sup id="a13">[13](#myfootnote13)</sup>
+"Þat mun þó eigi verit hafa," sagði Bǫrkr, "ok mun Gísli þat verit hafa, ok róum eptir þeim sem ákafast <<ok bíta myndi nú beinfiskr, ef at borði mætti dragaz.>>"[^13]
 
-12\. Þeir sv&#x1EB;ruðu: "Gaman þykkir oss at fíflinu," ok horfa á þat, "svá sem þat getr &oelig;rilega látit."
+12\. Þeir svǫruðu: "Gaman þykkir oss at fíflinu," ok horfa á þat, "svá sem þat getr œrilega látit."
 
-Þeir s&#x1EB;gðu, at hón var h&#x1EB;rmuliga st&#x1EB;dd, er hón skyldi fylgja<sup id="a14">[14](#myfootnote14)</sup> fóla þessum.
+Þeir sǫgðu, at hón var hǫrmuliga stǫdd, er hón skyldi fylgja[^14] fóla þessum.
 
-13\. "Svá þykki mér ok," segir hón, "en hitt finn ek á,<sup id="a15">[15](#myfootnote15)</sup> at yðr þykkir hl&oelig;gligt, ok harmið mik alllítt."
+13\. "Svá þykki mér ok," segir hón, "en hitt finn ek á,[^15] at yðr þykkir hlœgligt, ok harmið mik alllítt."
 
-"F&#x1EB;rum ekki at<sup id="a16">[16](#myfootnote16)</sup> heimsku þessi," sagði B&#x1EB;rkr, "ok víkjum áleiðis."<sup id="a17">[17](#myfootnote17)</sup>
+"Fǫrum ekki at[^16] heimsku þessi," sagði Bǫrkr, "ok víkjum áleiðis."[^17]
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/f/ff/G%C3%ADsla_saga_Illustration_5_-_Gisli_slips_through_Bork%27s_fingers.jpg "Gisli slips through Bork's fingers")
 
-14\. Skiljaz þau nú, ok róa þeir til eyjarinnar ok ganga á land, ok sjá nú mennina á Vaðsteinabergi, ok snúa þangat ok hyggja allgott til sín;<sup id="a18">[18](#myfootnote18)</sup> en þeir eru uppi á berginu, Ingjaldr ok þrællinn.
+14\. Skiljaz þau nú, ok róa þeir til eyjarinnar ok ganga á land, ok sjá nú mennina á Vaðsteinabergi, ok snúa þangat ok hyggja allgott til sín;[^18] en þeir eru uppi á berginu, Ingjaldr ok þrællinn.
 
-15\. B&#x1EB;rkr kennir brátt mennina ok mælti til Ingjalds: "Hitt er nú ráð, at selja fram Gísla eða segja til hans<sup id="a19">[19](#myfootnote19)</sup> ella; ok ertu mannhundr mikill, er þú hefir leynt bróðurbana mínum, ok ert þó minn landseti,<sup id="a20">[20](#myfootnote20)</sup> ok værir þú ills verðr frá mér, ok væri þat sannara, at þú værir drepinn."
+15\. Bǫrkr kennir brátt mennina ok mælti til Ingjalds: "Hitt er nú ráð, at selja fram Gísla eða segja til hans[^19] ella; ok ertu mannhundr mikill, er þú hefir leynt bróðurbana mínum, ok ert þó minn landseti,[^20] ok værir þú ills verðr frá mér, ok væri þat sannara, at þú værir drepinn."
 
-16\. Ingjaldr svarar: "Ek hef vánd klæði, ok hryggir mik ekki, þó at ek slíta þeim eigi g&#x1EB;rr,<sup id="a21">[21](#myfootnote21)</sup> ok fyrr mun ek láta lífit, en ek gera eigi Gísla þat gott, sem ek má, ok firra hann vandræðum."
+16\. Ingjaldr svarar: "Ek hef vánd klæði, ok hryggir mik ekki, þó at ek slíta þeim eigi gǫrr,[^21] ok fyrr mun ek láta lífit, en ek gera eigi Gísla þat gott, sem ek má, ok firra hann vandræðum."
 
-17\. Ok þat hafa menn mælt, at Ingjaldr hafi Gísla mest veitt, ok þat at mestu gagni orðit; ok þat er sagt, at þá er Þorgrímr nef gerði seiðinn, at hann mælti svá fyrir, at Gísla skyldi ekki at gagni verða, þó at menn byrgi hánum hér á landi.<sup id="a22">[22](#myfootnote22)</sup> 18\. En þat kom hánum eigi í hug, at skilja til um úteyjar, ok endiz því þetta hóti lengst, þótt eigi yrði þess álengðar<sup id="a1">[23](#myfootnote23)</sup> auðit.
+17\. Ok þat hafa menn mælt, at Ingjaldr hafi Gísla mest veitt, ok þat at mestu gagni orðit; ok þat er sagt, at þá er Þorgrímr nef gerði seiðinn, at hann mælti svá fyrir, at Gísla skyldi ekki at gagni verða, þó at menn byrgi hánum hér á landi.[^22] 18\. En þat kom hánum eigi í hug, at skilja til um úteyjar, ok endiz því þetta hóti lengst, þótt eigi yrði þess álengðar[^23] auðit.
 
 <div style="float: left"><a href="http://rcblack.net/Gisla_saga/Gisla_25">⇦</a></div>
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_27">⇨</a></div>
-<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
+<div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">8962;</a></div>
 
 ---
 
 ### Notes
 
-<a name="myfootnote1" id="f1">1</a>:
- [_drengrinn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0105:13) [_góðr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0209:63) and the rest of the entry can be found [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0210:1), "a good (hearty) man;" here the weak form of the adj. would be impossible.
-[↩](#a1)
+[^1]:[_drengrinn_](https://old-norse.net/html/d.php#drengr-1) [_góðr_](https://old-norse.net/html/g.php#g%C3%B3%C3%B0r-1), "a good (hearty) man;" here the weak form of the adj. would be impossible.
+[^2]:_Vaðsteinaberg_, a basalt rock on the western side of the island; Kålund I, 542, Árbók fornleifafjel. 1893, s. 3.
+[^3]:_þat ráðit--beztr_, "the plan by which you could best prove yourself to be a good man."
+[^4]:_mik--manninn_, "that I am one of the two."
+[^5]:_er_ [_sigla_](https://old-norse.net/html/s.php#sigla), "when they come over."
+[^6]:[_fyrr_](https://old-norse.net/html/f.php#fyrr), s. c. 19, 27.
+[^7]:__Str. 22__. Prose word order: Rítar rþr leitar nú ráþs skjaldsteins skorþ, þvít verþom skiljastk frá Ingjalde; vekjom mjǫþ Suþra: þá at hvǫ́ro monk hafa, þats mér verþr auþet, snauþ snyrtegǫ́tt bláfoldar skafla hyrs; né ek sýtom.
 
-<a name="myfootnote2" id="f2">2</a>:
- _Vaðsteinaberg_, a basalt rock on the western side of the island; Kålund I, 542, Árbók fornleifafjel. 1893, s. 3.
-[↩](#a2)
+	"The warrior seeks advice, woman, for now I have to separate from Ingjaldr, I write a song, and I will be satisfied with slack that fate has dealt me, poor woman, I do not care."
 
-<a name="myfootnote3" id="f3">3</a>:
- _þat ráðit--beztr_, "the plan by which you could best prove yourself to be a good man."
-[↩](#a3)
+	* [_Rít_](https://old-norse.net/html/r.php#r%C3%ADt). "a shield," "the tree (_ruþr = runnr_) of the shield" Gísli himself.
+	* [_skaldsteinn_](https://old-norse.net/html/s.php#skjaldsteinn), uncertain, possibly a stone, that is, a glass or amber pebble in the shape of a shield; also a article of woman's jewelry, so _skorþ_ "wearer," a woman.
+	* [_mjǫþr_](https://old-norse.net/html/m.php#mj%C3%B6%C3%B0r) _Suþra_, "the mead, drink, of Suþres (the dwarf)," "poet-drink," song, verse.
+	* [_Blá_](https://old-norse.net/html/b.php#bl%C3%A1r)-[_fold_](https://old-norse.net/html/f.php#fold) = _blá_-[_mœrr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:36), "the blue earth," the sea; [_skafl_](https://old-norse.net/html/s.php#skafl) is an elongated snowdrift, "the _skafl_ of the sea" is "the long, foaming wave;" of the [_hyrr_](https://old-norse.net/html/h.php#hyrr) "fire" = gold; _gǫ́tt_, actually, "doorpost," here "rod;" altogether "a woman;" [_snyrte-_](https://old-norse.net/html/s.php#snyrta), "cute."
 
-<a name="myfootnote4" id="f4">4</a>:
- _mik--manninn_, "that I am one of the two."
-[↩](#a4)
-
-<a name="myfootnote5" id="f5">5</a>:
- _er_ [_sigla_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0527:13), "when they come over."
-[↩](#a5)
-
-<a name="myfootnote6" id="f6">6</a>:
- [_fyrr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0183:69), s. c. 19, 27.
-[↩](#a6)
-
-<a name="myfootnote7" id="f7">7</a>:
- __Str. 22__. Prose word order: Rítar rþr leitar nú ráþs skjaldsteins skorþ, þvít verþom skiljastk frá Ingjalde; vekjom mj&#x1EB;þ Suþra: þá at hvǫ́ro monk hafa, þats mér verþr auþet, snauþ snyrtegǫ́tt bláfoldar skafla hyrs; né ek sýtom.
-
-"The warrior seeks advice, woman, for now I have to separate from Ingjaldr, I write a song, and I will be satisfied with slack that fate has dealt me, poor woman, I do not care."
-
-* [_Rít_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0500:12). "a shield," "the tree (_ruþr = runnr_) of the shield" Gísli himself.
-* [_skaldsteinn_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=formquery2&query=skjald-steinn&startrow=1), uncertain, possibly a stone, that is, a glass or amber pebble in the shape of a shield; also a article of woman's jewelry, so _skorþ_ "wearer," a woman.
-* [_mj&#x1EB;þr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0433:4) _Suþra_, "the mead, drink, of Suþres (the dwarf)," "poet-drink," song, verse.
-* [_Blá_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0068:2)-[_fold_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0163:36) = _blá_-[_m&oelig;rr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0443:11), "the blue earth," the sea; [_skafl_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0536:23) is an elongated snowdrift, "the _skafl_ of the sea" is "the long, foaming wave;" of the [_hyrr_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0304:26) "fire" = gold; _gǫ́tt_, actually, "doorpost," here "rod;" altogether "a woman;" [_snyrte-_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0577:4), "cute."
-[↩](#a7)
-
-<a name="myfootnote8" id="f8">8</a>:
- _herma--því_, "parrot him."
-[↩](#a8)
-
-<a name="myfootnote9" id="f9">9</a>:
- [_vaðnum_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0673:17) "fishing lines."
-[↩](#a9)
-
-<a name="myfootnote10" id="f10">10</a>:
- _n&#x1EB;kkur_, adv. (>_ne-veitk-hvar_) "at a distance;" _ef n&#x1EB;kkur berr þá um fram_, "when they are a fair distance from us."
-[↩](#a10)
-
-<a name="myfootnote11" id="f11">11</a>:
- _leita þess á_ "strive for it."
-[↩](#a11)
-
-<a name="myfootnote12" id="f12">12</a>:
- _bregði--miða_, "seek out the fishing grounds."
-[↩](#a12)
-
-<a name="myfootnote13" id="f13">13</a>:
- _ok bíta--dragaz_, a proverb, "now we would make a good start if we were lucky." _bíta_, "anbeissen." _beinfiskr_, is possibly much like _beinhákall_, a kind of shark. ("squal. maximus," Bj&#x1EB;rn Halldórsson.) _ef_, "if (we) only."
-[↩](#a13)
-
-<a name="myfootnote14" id="f14">14</a>:
- [_fylgja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0179:11), "accompany," have him as a companion.
-[↩](#a14)
-
-<a name="myfootnote15" id="f15">15</a>:
- _hitt finn ek á_, "I notice that (your words)."
-[↩](#a15)
-
-<a name="myfootnote16" id="f16">16</a>:
- _F&#x1EB;rum--at_, "let us not worry about it."
-[↩](#a16)
-
-<a name="myfootnote17" id="f17">17</a>:
- [_áleiðis_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0041:62), "forward."
-[↩](#a17)
-
-<a name="myfootnote18" id="f18">18</a>:
- _hyggja allgott til sín_, "are very hopeful" (considering the expected success).
-[↩](#a18)
-
-<a name="myfootnote19" id="f19">19</a>:
- _segja til hans_, s. c. 22, 4.
-[↩](#a19)
-
-<a name="myfootnote20" id="f20">20</a>:
- _minn landseti_, how B&#x1EB;rkr came to occupy, Hergilsey, we do not know; there is certainly an error here.
-[↩](#a20)
-
-<a name="myfootnote21" id="f21">21</a>:
- _g&#x1EB;rr_, comparative of [_g&#x1EB;orva_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0226:17), "more."
-[↩](#a21)
-
-<a name="myfootnote22" id="f22">22</a>:
- _hér á landi_, "here in the country," meaning, on the actual mainland in cotrast to the islands.
-[↩](#a22)
-
-<a name="myfootnote23" id="f23">23</a>:
-[_álengðar_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0041:72), "for his whole life" (assuming he could have grown old).
-[↩](#a23)
+[^8]:_herma--því_, "parrot him."
+[^9]:[_vaðnum_](https://old-norse.net/html/v.php#va%C3%B0r) "fishing lines."
+[^10]:_nǫkkur_, adv. (>_ne-veitk-hvar_) "at a distance;" _ef nǫkkur berr þá um fram_, "when they are a fair distance from us."
+[^11]:_leita þess á_ "strive for it."
+[^12]:_bregði--miða_, "seek out the fishing grounds."
+[^13]:_ok bíta--dragaz_, a proverb, "now we would make a good start if we were lucky." _bíta_, "anbeissen." _beinfiskr_, is possibly much like _beinhákall_, a kind of shark. ("squal. maximus," Bjǫrn Halldórsson.) _ef_, "if (we) only."
+[^14]:[_fylgja_](https://old-norse.net/html/f.php#fylgja2), "accompany," have him as a companion.
+[^15]:_hitt finn ek á_, "I notice that (your words)."
+[^16]:_Fǫrum--at_, "let us not worry about it."
+[^17]:[_áleiðis_](https://old-norse.net/html/aa.php#%C3%A1lei%C3%B0is), "forward."
+[^18]:_hyggja allgott til sín_, "are very hopeful" (considering the expected success).
+[^19]:_segja til hans_, s. c. 22, 4.
+[^20]:_minn landseti_, how Bǫrkr came to occupy, Hergilsey, we do not know; there is certainly an error here.
+[^21]:_gǫrr_, comparative of [_gǫorva_](https://old-norse.net/html/g.php#g%C3%B6rva2), "more."
+[^22]:_hér á landi_, "here in the country," meaning, on the actual mainland in cotrast to the islands.
+[^23]:[_álengðar_](https://old-norse.net/html/aa.php#%C3%A1lengdar), "for his whole life" (assuming he could have grown old).
