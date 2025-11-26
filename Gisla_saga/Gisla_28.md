@@ -52,8 +52,7 @@ Sveinninn mælti: "Allgóðr gripr mun sverðit þat vera, sem þú hefir í hen
 [^7]:_sem = svá sem_, "how" (they gradually came).
 [^8]:_segja--til_, "show, declare" (who owned the boad).
 [^9]:[_létt-lœti_](https://old-norse.net/html/l.php#l%C3%A9ttl%C3%A6ti), n. "kindness, courtesy."
-[^10]:_fjarðar-hornit_, "the point of the fjord," the innermost point of the fjord.   
-&#42856; See Zoëga.
+[^10]:_fjarðar-hornit_, "the point of the fjord," the innermost point of the fjord.
 [^11]:_svá at ekki felli sjór undir_, "so far (away from the shore) that he water could not reach the goods" (actually underneath -- _hann_, meaning _varnaðinn_, is implied -- could flow in the flood-time).
 [^12]:[_girzkan_](https://old-norse.net/html/g.php#girskr), meaning, _gerzkan_, from [Garðar](https://old-norse.net/html/g.php#gar%C3%B0r-I), that is, "Constantinople."
 [^13]:[_tíguligr_](https://old-norse.net/html/t.php#tiguliga), "handsome."
