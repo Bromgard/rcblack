@@ -9,7 +9,7 @@ layout: default
 
 1\. Nú er at segja frá Auði, at hón gengr inn til Gísla ok mælti: "Nú skiptir mik miklu {hversu} þú villt til <<þín>> snúa,[^1] at gera minn sóma meira en ek em verð."
 
-2\. Hann tók þegar undir ok mælti: "Veit ek, [^2]at þú munt segja mér víg Þorkels bróður míns."
+2\. Hann tók þegar undir ok mælti: "Veit ek,[^2] at þú munt segja mér víg Þorkels bróður míns."
 
 "Svá er sem þú getr," sagði Auður, "ok eru hér komnir sveinarnir, ok vildu, at þér byrgiz[^3] at allir saman, ok þykkjaz nú ekki traust eiga nema þetta."
 
