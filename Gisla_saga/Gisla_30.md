@@ -13,9 +13,7 @@ layout: default
 
 "Svá er sem þú getr," sagði Auður, "ok eru hér komnir sveinarnir, ok vildu, at þér byrgiz[^3] at allir saman, ok þykkjaz nú ekki traust eiga nema þetta."
 
-3\. Hann svarar: "Ekki má ek þat standaz at sjá bróðurbana mína ok vera ásamt við þá,"
-
-ok hleypr upp ok vill bregða sverði, 4. ok kvað vísu:
+3\. Hann svarar: "Ekki má ek þat standaz at sjá bróðurbana mína ok vera ásamt við þá," ok hleypr upp ok vill bregða sverði, 4. ok kvað vísu:
 
    >23   
    Hverr of veit nema hvassan   
