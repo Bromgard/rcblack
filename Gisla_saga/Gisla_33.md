@@ -168,7 +168,7 @@ layout: default
 
 	"I dreamed that the woman washed my red head with the blood from the well of the sword; and that the hand of the woman in would be (bloody) in the gore; the blood colored my head."
 
-  	* [_auþs_](https://old-norse.net/html/a.php#au%C3%B0r) [_Þrúþr_](https://old-norse.net/html/th.php#%C3%BEr%C3%BA%C3%B0r), "the Þrúðr, goddess, of power, fate" the woman.
+	* [_auþs_](https://old-norse.net/html/a.php#au%C3%B0r) [_Þrúþr_](https://old-norse.net/html/th.php#%C3%BEr%C3%BA%C3%B0r), "the Þrúðr, goddess, of power, fate" the woman.
   	* _Óþins_ [_eldar_](https://old-norse.net/html/e.php#eldr2), "the flames of Odin," the swords, whose [_lauþr_](https://old-norse.net/html/l.php#lau%C3%B0r), sea-foam, is blood; [_þremja_](https://old-norse.net/html/th.php#%C3%BEremjar) [_hlunnr_](https://old-norse.net/html/h.php#hlunnr), "the stock of _þremjar_ (a certain part of the sword) "sword;" of which [_brunnr_](https://old-norse.net/html/b.php#brunnr) is also blood; only when the sentence is reduced to its literal meaning do the redundancies appear.
   	* [_Vala_](https://old-norse.net/html/v.php#vala) [_hreifi-_](https://old-norse.net/html/h.php#hreifi) (subj. for _hrœfa, hreifa_) _slóðar báls band: valaslóþ_, "the way, the seat of the falcon," the arm, _hreifi-_ "agile;" "of the arm [_bál_](https://old-norse.net/html/b.php#b%C3%A1l-I), flame" = gold, whose _band_, "divinity, goddess" = the woman; the last word is only otherwise known in plur. before ([_bǫnd_](https://old-norse.net/html/b.php#band-I), the gods).
   	* [_benja_](https://old-norse.net/html/b.php#benja) [_él_](https://old-norse.net/html/e.php#%C3%A9l), _él_, is here identical with "rain;" "the rain of wounds" is blood.
