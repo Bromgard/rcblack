@@ -154,7 +154,7 @@ layout: default
 
 [^1]:[_fokit_](https://old-norse.net/html/f.php#fj%C3%BAka), "covered in snow."
 [^2]:_þess ekki_, "none of that."
-[^3]:__Str. 28__. Prose word order: It skoloþa [AM: skulu þo it kvaþ] verþa saman, kvaþ skapkers skorþa; svá hefr goþ leitat ykkr munar eitrs viþ ekka; allvaldr aldar hefr of sendan þik einn ór yþro ranne erlendes at kanna annan heim.
+[^3]:__Str. 28__. Prose word order: It skoloþa (AM: skulu þo it kvaþ) verþa saman, kvaþ skapkers skorþa; svá hefr goþ leitat ykkr munar eitrs viþ ekka; allvaldr aldar hefr of sendan þik einn ór yþro ranne erlendes at kanna annan heim.
 
 	"You shall not live together, said the woman; the god has afflicted you with the poison of the joy of love; the lord of humanity has sent you alone (without her) out of the home to seek another world."
 
