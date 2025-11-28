@@ -161,8 +161,8 @@ layout: default
 	* _It_, Gísli and Auðr.
 	* _skapkers_ _skorþa_, [_skapker_](https://old-norse.net/html/k.php#skapker), "mixed keg," or a big beer keg; one that is [_skorþa_](https://old-norse.net/html/s.php#skor%C3%B0a) (see str. 23), a woman.
   	* [_munar_](https://old-norse.net/html/m.php#muna%C3%B0r-II) [_eitr_](https://old-norse.net/html/e.php#eitr), "the poison of (love's) pleasure" is "the sorrow, misery, woe."
-  	* [_allvaldr_](https://old-norse.net/html/a.php#allvaldr) [_aldar_](https://old-norse.net/html/a.php#alda-) = [_goþ_](https://old-norse.net/html/g.php#go%C3%B0-A-IV-2) in chapter 4 Gísli was half Christian.
-  	* _hefr of sendan_ must mean "he intended to send you, to let you come."
+	* [_allvaldr_](https://old-norse.net/html/a.php#allvaldr) [_aldar_](https://old-norse.net/html/a.php#alda-) = [_goþ_](https://old-norse.net/html/g.php#go%C3%B0-A-IV-2) in chapter 4 Gísli was half Christian.
+	* _hefr of sendan_ must mean "he intended to send you, to let you come."
 
 [^4]:__Str. 29__. Prose word order: Hugþak auþs þrúþe þvá mér mína skǫr rauþa Óþens elda lauþre ór þremja hlunns brunne, ok hǫnd væri því vala hreifi-slóþar báls band í benja éle; blóþ rauþ kveifar hraun.
 
