@@ -154,12 +154,12 @@ layout: default
 
 [^1]:[_fokit_](https://old-norse.net/html/f.php#fj%C3%BAka), "covered in snow."
 [^2]:_þess ekki_, "none of that."
-[^3]:__Str. 28__. Prose word order: It skoloþa (AM: skulu þo it kvaþ) verþa saman, kvaþ skapkers skorþa; svá hefr goþ leitat ykkr munar eitrs viþ ekka; allvaldr aldar hefr of sendan þik einn ór yþro ranne erlendes at kanna annan heim.
+[^3]:__Str. 28__. Prose word order: It skoloþa (AM: skulu þo it kvaþr verþa saman, kvaþ skapkers skorþa; svá hefr goþ leitat ykkr munar eitrs viþ ekka; allvaldr aldar hefr of sendan þik einn ór yþro ranne erlendes at kanna annan heim.
 
 	"You shall not live together, said the woman; the god has afflicted you with the poison of the joy of love; the lord of humanity has sent you alone (without her) out of the home to seek another world."
-
-  	* _It_, Gísli and Auðr.
-  	* _skapkers_ _skorþa_, [_skapker_](https://old-norse.net/html/k.php#skapker), "mixed keg," or a big beer keg; one that is [_skorþa_](https://old-norse.net/html/s.php#skor%C3%B0a) (see str. 23), a woman.
+	
+	* _It_, Gísli and Auðr.
+	* _skapkers_ _skorþa_, [_skapker_](https://old-norse.net/html/k.php#skapker), "mixed keg," or a big beer keg; one that is [_skorþa_](https://old-norse.net/html/s.php#skor%C3%B0a) (see str. 23), a woman.
   	* [_munar_](https://old-norse.net/html/m.php#muna%C3%B0r-II) [_eitr_](https://old-norse.net/html/e.php#eitr), "the poison of (love's) pleasure" is "the sorrow, misery, woe."
   	* [_allvaldr_](https://old-norse.net/html/a.php#allvaldr) [_aldar_](https://old-norse.net/html/a.php#alda-) = [_goþ_](https://old-norse.net/html/g.php#go%C3%B0-A-IV-2) in chapter 4 Gísli was half Christian.
   	* _hefr of sendan_ must mean "he intended to send you, to let you come."
