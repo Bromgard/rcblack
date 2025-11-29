@@ -74,4 +74,4 @@ layout: default
 [^14]:[_vœnst_](https://old-norse.net/html/v.php#v%C3%A6nn), "offering the greatest chance of success."
 [^15]:_skopar Helgi skeið_, "Helgi gave it a try."
 [^16]:_lurki_, [_lurkr_](https://old-norse.net/html/l.php#lurkr) = _þust_ in &sect; 8.
-[^i7]:_Þá--báðir_, probably a later addition; missing in S.
+[^17]:_Þá--báðir_, probably a later addition; missing in S.
