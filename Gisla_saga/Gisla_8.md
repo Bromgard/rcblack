@@ -25,7 +25,7 @@ Nú játar Vésteinn því. 6. Ok einn morgin ríss Gísli upp ok gengr til smi�
 [^2]:_Vébjǫrgum_, Viborg in Jutland.
 [^3]:_Sigraddr_, that is, _Sigrhaddr_, probably [_haddr_](https://old-norse.net/html/h.php#haddr) (got. hazds), hair.
 [^4]:[_gjafaskipti_](https://old-norse.net/html/g.php#gjafaskipti), n. "an exchange of gifts." 
-[^5]:[_félagi_](https://old-norse.net/html/f.php#f%C3%A9lagi2), m. here, "business associate." (comrade).   
+[^5]:[_félagi_](https://old-norse.net/html/f.php#f%C3%A9lagi2), m. here, "business associate." (comrade).
  Engl. "fellow."
 [^6]:[_slíta_](https://old-norse.net/html/s.php#sl%C3%ADta) _félag_, "dissolve a trading agreement."
 [^7]:_Því skaltu heita mér_..., Gísli's words.
