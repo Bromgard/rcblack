@@ -59,9 +59,7 @@ Fara nú menn heim af þinginu.
 [^16]:_með meirum fastmœlum_, "with stronger (more serious) insurance."
 [^17]:[_fóstbrœðralag_](https://old-norse.net/html/f.php#f%C3%B3stbr%C3%B3%C3%B0ir), about the blood brother pact, see Grundr.<sup>2</sup> III, 417 and the literature cited there; see also K. Maurer, Bekehrung II, 170  ff; M. Pappenheim, Zs. f.d. phil. 24, 157 f. The following passage is regarded as a locus classicus for this particular custom.
 [^18]:_eyrarodda_, the most prominent part (the top) of Valseyrr.
-[^19]:[_Jarðarmen_](https://old-norse.net/html/j.php#jar%C3%B0armen); _men_ means "neck ring," and so something circular or round is meant here; therefore semicircular; all of it looked like this:
-![jarðarmen](http://rcblack.net/assets/images/jar%C3%B0armen.png)
-(a is the _málaspjót_).
+[^19]:[_Jarðarmen_](https://old-norse.net/html/j.php#jar%C3%B0armen); _men_ means "neck ring," and so something circular or round is meant here; therefore semicircular; all of it looked like this: ![jarðarmen](http://rcblack.net/assets/images/jar%C3%B0armen.png) (a is the _málaspjót_).
 [^20]:[_málaspjót_](https://old-norse.net/html/m.php#m%C3%A1laspj%C3%B3t)--[_geirnagla_](https://old-norse.net/html/g.php#geirnagli) a spear marked with a magical stave, so long that when a man stood on the ground he could reach the nail fastener with his hand extended, through which the blade was fastened to the shaft.
 [^21]:_láta renna saman dreyra_, this is the important part of the ritual: the blood mixture was supposed to signify that the fóstbrœðr from then on considered themselves physical brothers who shared the same blood.
 [^22]:_&OElig;rinn vanda hefi ek_, "I enter into enough agreements"
