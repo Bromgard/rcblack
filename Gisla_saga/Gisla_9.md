@@ -78,7 +78,7 @@ Hón lýsti brátt yfir því, hvárr[^41] henni þótti betri, ok ferr þegar �
 ### Notes
 
 [^1]:_Haukadalsáros_, see IV, 1.
-[^2]:[_ofláti_](https://old-norse.net/html/o.php#ofl%C3%A1ti), c.f. _láta mikinn_, "behave arrogantly and somewhat demeaning;" such a person can also hate the daily hard work, such is clearly the case here.   
+[^2]:[_ofláti_](https://old-norse.net/html/o.php#ofl%C3%A1ti), c.f. _láta mikinn_, "behave arrogantly and somewhat demeaning;" such a person can also hate the daily hard work, such is clearly the case here.
 [^3]:_nótt með degi_ (also _nótt ok dag, nótt ok nýtan dag_); an idiomatic exaggeration.
 [^4]:_nema Þorkell_, note the nom. (nicht acc.) "only Þorkell was inactive."
 [^5]:[_eldhús_](https://old-norse.net/html/e.php#eldh%C3%BAs), here, of course, not "kitchen," but the primary building of the farm and the common living area for the residents; S has here _eldskáli_.
@@ -95,7 +95,7 @@ Hón lýsti brátt yfir því, hvárr[^41] henni þótti betri, ok ferr þegar �
 [^16]:_ek tók engan mann undir Gísla_, "I did not entertain any another man behind Gísli's back, so I have not done anything shameful;" see Ældre Borgarth. christenret I, 17 (NgL I, 351): _ef kona ekr mann undir bónda sinn, hon er sek þrim mǫrkum við biskup_. s. 19. 19. _at_, "so that."
 [^17]: This verse is formatted as prose in the Jónsson edition, neither is it numbered. For this reason the numeration of the verses from this point on is one count off in Jónsson.
 
- 	"Hear a great wonder, hear a violent killing, hear about a big deal, hear a man's killing, one or more."
+	"Hear a great wonder, hear a violent killing, hear about a big deal, hear a man's killing, one or more."
 
  	* _Heyr undr mikit!_ "significant things are heard here."
  	* [_ørlygi_](https://old-norse.net/html/oe.php#%C3%B6rlygi) (also see [_ör-lög_](https://old-norse.net/html/oe.php#%C3%B6rl%C3%B6g)), this word cannot mean "monstrous lie," in this connection but certainly means the same as _ølygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
