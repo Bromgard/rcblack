@@ -97,9 +97,9 @@ Hón lýsti brátt yfir því, hvárr[^41] henni þótti betri, ok ferr þegar �
 
 	"Hear a great wonder, hear a violent killing, hear about a big deal, hear a man's killing, one or more."
 
- 	* _Heyr undr mikit!_ "significant things are heard here."
- 	* [_ørlygi_](https://old-norse.net/html/oe.php#%C3%B6rlygi) (also see [_ör-lög_](https://old-norse.net/html/oe.php#%C3%B6rl%C3%B6g)), this word cannot mean "monstrous lie," in this connection but certainly means the same as _ølygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
- 	* _mikit_, "significant."
+	* _Heyr undr mikit!_ "significant things are heard here."
+	* [_ørlygi_](https://old-norse.net/html/oe.php#%C3%B6rlygi) (also see [_ör-lög_](https://old-norse.net/html/oe.php#%C3%B6rl%C3%B6g)), this word cannot mean "monstrous lie," in this connection but certainly means the same as _ølygi_, ntr., in the account of Bragi in (Sn. E. I, 436) = "battle, combat, or, violent killing;" also see Sn. E. I, 563; OHG. _urliugi_, MHG. _urliuge_. Þorkell implies that the conversation between the women will cause murder and homicide. (See the following.)
+	* _mikit_, "significant."
 
 [^18]:_Þá tekr_ etc., one must assume that Auðr heard Þorkell's words.
 [^19]:_at hér--lagi_, "something very bad will happen from this."
