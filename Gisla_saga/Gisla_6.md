@@ -55,8 +55,7 @@ Fara nú menn heim af þinginu.
 [^12]:_eða_, "and also."
 [^13]:[_málsenda_](https://old-norse.net/html/m.php#m%C3%A1lsemd), acc. pl. v. _málsendir_, apparently composed with, _endir_, the word is common; nevertheless, it should not be considered a form related to _málsemð_, pl. _málsemðir_; see Fritzner<sup>2</sup> s.v. --The MS. S also reads in this position _málsemð_. The meaning is "quality of speech," or, "expression."
 [^14]:_svá_, meaning, right now.
-[^15]:_mœlt mál_, "something -- not he alone -- what everyone says, or knows."   
- An idiom. To say what the world already says or knows. See the Cleasby Vigfusson entry for _mæla_.
+[^15]:_mœlt mál_, "something -- not he alone -- what everyone says, or knows." An idiom. To say what the world already says or knows. See the Cleasby Vigfusson entry for _mæla_.
 [^16]:_með meirum fastmœlum_, "with stronger (more serious) insurance."
 [^17]:[_fóstbrœðralag_](https://old-norse.net/html/f.php#f%C3%B3stbr%C3%B3%C3%B0ir), about the blood brother pact, see Grundr.<sup>2</sup> III, 417 and the literature cited there; see also K. Maurer, Bekehrung II, 170  ff; M. Pappenheim, Zs. f.d. phil. 24, 157 f. The following passage is regarded as a locus classicus for this particular custom.
 [^18]:_eyrarodda_, the most prominent part (the top) of Valseyrr.
