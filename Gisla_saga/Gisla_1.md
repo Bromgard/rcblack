@@ -7,19 +7,17 @@ layout: default
 
 ### Þorkell Skerauki and his family
 
-1\. Þat er upphaf á s&#x1EB;gu þessi, at Hákon konungr Aðalsteinsfóstri<sup id="a1">[1](#myfootnote1)</sup> réð fyrir Nóregi; ok var þetta á ofanverðum hans d&#x1EB;gum. 2. Þorkell<sup id="a2">[2](#myfootnote2)</sup> hét maðr; hann var kallaðr skerauki;<sup id="a3">[3](#myfootnote3)</sup> hann bjó í Súrnadal<sup id="a4">[4](#myfootnote4)</sup> ok var hersir að nafnbót.<sup id="a5">[5](#myfootnote5)</sup> 3. Hann átti sér konu, er Ísgerðr hét, ok sonu iij. barna;<sup id="a6">[6](#myfootnote6)</sup> hét einn<sup id="a7">[7](#myfootnote7)</sup> Ari, annarr Gísli, þriði Þorbj&#x1EB;rn; hann var þeira yngstr, ok óxu allir upp heima þar. 4. Maðr er nefndr Ísi; hann bjó í firði þeim er Fibuli<sup id="a8">[8](#myfootnote8)</sup> heitir, á Norðm&oelig;ri; kona hans hét Ingigerðr, en Ingibj&#x1EB;rg dóttir. Ari, sonr Þorkels súrd&oelig;ls, biðr hennar, ok var hón hánum gefin með miklu fé. 5. Kolr hét þræll, er í brott fór með henni.<sup id="a9">[9](#myfootnote9)</sup>
+1\. Þat er upphaf[^1] á sǫgu[^2] þessi, at Hákon konungr Aðalsteinsfóstri[^3] réð[^4] fyrir Nóregi; ok var þetta á ofanverðum[^5] hans dǫgum. 2. Þorkell[^6] hét maðr; hann var kallaðr skerauki;[^7] hann bjó[^8] í Súrnadal[^9] ok var hersir[^10] at nafnbót.[^11] 3\. Hann átti sér konu, er Ísgerðr hét, ok sonu iij. barna;[^12] hét einn[^13] Ari, annarr Gísli, þriði Þorbjǫrn; hann var þeira yngstr, ok óxu[^14] allir upp heima þar. 4. Maðr er nefndr Ísi; hann bjó í firði[^15] þeim er Fibuli[^16] heitir, á Norðmœri; kona hans hét Ingigerðr, en Ingibjǫrg dóttir. Ari, sonr Þorkels súrdœls, biðr[^17] hennar, ok var hón honum gefin með miklu fé.[^18] 5\. Kolr hét þræll,[^19] er í brott fór með henni.[^20]
 
-### A berserker kills Ari Þorkelsson and how his brother Gísli avenged him
+### A berserker kills Ari Þorkelsson and Ari's brother Gísli avenges him
 
-6\. Maðr hét Bj&#x1EB;rn enn blakki,<sup id="a10">[10](#myfootnote10)</sup> ok var berserkr;<sup id="a11">[11](#myfootnote11)</sup> hann fór um land ok skoraði<sup id="a12">[12](#myfootnote12)</sup> á menn til hólmg&#x1EB;ngu,<sup id="a13">[13](#myfootnote13)</sup> ef eigi vildu hans vilja gera. 7. Hann kom um vetrinn til Þorkels Súrd&oelig;ls; Ari, sonr hans, réð<sup id="a14">[14](#myfootnote14)</sup> þá fyrir búi. 8. Bj&#x1EB;rn gerir Ara tvá kosti, hvárt hann vill heldr<sup id="a15">[15](#myfootnote15)</sup> berjaz við hann í hólmi þeim, er þar liggr í Súrnadal ok heitir Stokkahólmr,<sup id="a16">[16](#myfootnote16)</sup> eða vill hann selja hánum í hendr konu sína. 9. Hann kaus skjótt, at hann vill heldr berjaz, en hvártveggja<sup id="a17">[17](#myfootnote17)</sup> yrði at sk&#x1EB;mm,<sup id="a18">[18](#myfootnote18)</sup> hann ok kona hans; skyldi þessi fundr véra á þriggja nátta fresti. 10. Nú líðr til hólmstefnu framan;<sup id="a19">[19](#myfootnote19)</sup> þá berjaz þeir, ok lýkr svá at Ari fellr<sup id="a20">[20](#myfootnote20)</sup> ok lætr líf sitt. 11. Þykkiz Bj&#x1EB;rn hafa vegit til landa ok konu; Gísli segir, at hann vill heldr láta líf sitt, en þetta gangi fram,<sup id="a21">[21](#myfootnote21)</sup> vill hann ganga á hólm við Bj&#x1EB;rn.
+6\. Maðr hét Bjǫrn enn blakki,<!--blakki is missing in MS-->[^21] ok var berserkr;[^22] hann fór um land ok skoraði[^23] á menn til hólmgǫngu,[^24] ef eigi vildu[^25] hans vilja[^26] gera. 7. Hann kom um vetrinn[^27] til Þorkels Súrdœls; Ari, sonr hans, réð[^28] þá fyrir búi.[^29] 8\. Bjǫrn gerir Ara tvá kosti, hvárt hann vill heldr[^30] berjask<!--heldr and berjask are switched in MS-->[^31] við hann í hólmi þeim, er þar liggr í Súrnadal ok heitir Stokkahólmr,[^32] eða vill hann selja[^33] hánum í hendr konu sína. 9. Hann kaus skjótt,[^34] at hann vill heldr berjask, en hvártveggja[^35] yrði at skǫmm,[^36] hann ok kona hans; skyldi þessi fundr véra á þriggja nátta fresti.[^37] 10\. Nú líðr til hólmstefnu framan;[^38] þá berjask þeir, ok lýkr svá at Ari fellr[^39] ok lætr líf sitt. 11. Þykkisk[^40] Bjǫrn hafa vegit[^41] til landa ok konu; Gísli segir, at hann vill heldr láta[^42] líf sitt, en þetta gangi fram,[^43] vill hann ganga á hólm við Bjǫrn. 12\. Þá tók Ingibjǫrg til orða: "Eigi var ek af því Ara gipt, at ek vilda þik eigi heldr átt hafa. Kolr, þræll minn á sverð,[^44] er Grásíða[^45] heitir, ok skaltu biðja, at hann ljái[^46] þér; því at þat fylgir[^47] því sverði, at sá skal sigr hafa, er þat hefir til orrostu."[^48]
 
-12\. Þá tók Ingibj&#x1EB;rg til orða: "Eigi var ek af því Ara gipt, at ek vilda þik eigi heldr átt hafa. Kolr, þræll minn á sverð,<sup id="a22">[22](#myfootnote22)</sup> er Grásíða<sup id="a23">[23](#myfootnote23)</sup> heitir, ok skaltu biðja, at hann ljái þér; því at þat fylgir því sverði, at sá skal sigr hafa, er þat hefir til orrostu."
-
-Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#myfootnote24)</sup> fyrir at ljá. 13. Gísli bjóz til hólmg&#x1EB;ngu, ok berjaz þeir, ok lýkr svá, at Bj&#x1EB;rn fellr. 14. Gísli þóttiz nú hafa unnit mikinn sigr; ok þat er sagt, at hann biðr Ingibjargar, ok vildi eigi láta góða konu ór ætt ganga<sup id="a25">[25](#myfootnote25)</sup> ok fær hennar; nú tekr hann allan fjárhlut ok geriz mikill maðr fyrir sér. 15. Því næst andaz faðir hans, ok tekr Gísli allan fjárhlut eptir hann. 16. Hann lét drepa þá alla, sem með Birni h&#x1EB;fðu fylgt.<sup id="a26">[26](#myfootnote26)</sup>
+Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit[^49] fyrir at ljá. 13. Gísli bjóst[^50] til hólmgǫngu, ok berjask þeir, ok lýkr[^51] svá, at Bjǫrn fellr. 14. Gísli þóttisk nú hafa unnit[^52] mikinn sigr; ok þat er sagt, at hann biðr Ingibjargar, ok vildi eigi láta góða konu ór ætt ganga[^53] ok fær hennar; nú tekr hann allan fjárhlut[^54] ok gerisk mikill maðr fyrir sér. 15\. Því næst andask[^55] faðir hans, ok tekr Gísli allan fjárhlut eptir hann. 16. Hann lét drepa[^56] þá alla, sem með Birni hǫfðu fylgt.[^57]
 
 ### Gísli Þorkelsson and the slave Kolr kill each other
 
-17\. Þrællinn heimti<sup id="a27">[27](#myfootnote27)</sup> sverð sitt, ok vill Gísli eigi laust láta ok býðr hann fé fyrir, en þrællinn vill ekki annat en sverð sitt, ok fær ekki at heldr. 18. Þetta líkar þrælnum illa, ok veitir Gísla tilræði;<sup id="a28">[28](#myfootnote28)</sup> var þat<sup id="a29">[29](#myfootnote29)</sup> mikit sár. Gísli h&oslash;ggr í móti með Grásíðu í h&#x1EB;fuð þrælnum, svá fast, at sverðit brotnaði, en haussinn lamðiz,<sup id="a30">[30](#myfootnote30)</sup> ok fær hvártveggi<sup id="a31">[31](#myfootnote31)</sup> bana.
+17\. Þrællinn heimti[^58] sverð sitt, ok vill Gísli eigi laust láta[^59] ok býðr hann fé fyrir,[^60] en þrællinn vill ekki annat en sverð sitt, ok fær ekki at heldr.[^61] 18\. Þetta líkar þrælnum illa, ok veitir Gísla tilræði;[^62] var þat[^63] mikit sár. Gísli høggr í móti[^64] með Grásíðu í hǫfuð þrælnum, svá fast, at sverðit brotnaði,[^65] en haussinn lamðisk,[^66] ok fær hvártveggi[^67] bana.
 
 <div style="float: right"><a href="http://rcblack.net/Gisla_saga/Gisla_2">⇨</a></div>
 <div style="margin: 0 auto; width: 100px;"><a href="http://rcblack.net/Gisla_saga/Gisla_home">&#8962;</a></div>
@@ -28,127 +26,72 @@ Hann biðr þrælinn sverðsins, ok þótti þrælnum mikit<sup id="a24">[24](#m
 
 ### Notes
 
-<a name="myfootnote1" id="f1">1</a>:
-  _Hákon_, King of Norway 935-61. His last days ([ofanverðir](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0463:12) dagar) were therefore in the years 950-61. According to the calculation of G. Vigfússon (Safu til sögu Ísl. I, 362) Gísli came to Iceland near the year 955; this year also fits very well if one refers the words, _ok var þetta_, not to the Norwegian events mentioned below but to the relocation, which is most likely.
-[↩](#a1)
-
-<a name="myfootnote2" id="f2">2</a>:
-  _Þorkell_, is not known from from any other source. In S (The other version of GS.) he carries the nickname _gullhjálmr_.
-[↩](#a2)
-
-<a name="myfootnote3" id="f3">3</a>:
- _skerauki_, this nickname apears to be composed of _sker_ (sea rock) and _auki_(augmentum)
-[↩](#a3)
-
-<a name="myfootnote4" id="f4">4</a>:
- _Súrnadal_, today Surnadal, near the Súrnadalsfj&#x1EB;rðr, a neighboring fjord near Halsfjord in Nordm&oslash;e.
-[↩](#a4)
-
-<a name="myfootnote5" id="f5">5</a>:
- [_nafnbót_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0445:13), "ennobling of name," i.e. title.
-[↩](#a5)
-
-<a name="myfootnote6" id="f6">6</a>:
- _barna_, gen. pl., "of children."
-[↩](#a6)
-
-<a name="myfootnote7" id="f7">7</a>:
- _einn_, is more common than _fyrstr_ in enumerations.
-[↩](#a7)
-
-<a name="myfootnote8" id="f8">8</a>:
- _Fibuli_, a fjord in Nordm&oslash;e, somewhat farther north than Halsfjord; the name is preserved in the name of the farm Fevelen, s. Sproglig-hist. stud. tilegnede prof. Unger (1896) p. 44.
-[↩](#a8)
-
-<a name="myfootnote9" id="f9">9</a>:
- _í brott--henni_, "who was given to her (as property)."
-[↩](#a9)
-
-<a name="myfootnote10" id="f10">10</a>:
- _enn_ [_blakki_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0067:3), "the dark," of the color of the skin.   
- &#42856; The lexical range also allows for, "the pale," or "the white," as a foreboding of death. See Cleasby/Vigfusson.
-[↩](#a10)
-
-<a name="myfootnote11" id="f11">11</a>:
- About berserks and berserker battles, see Egilss. c. 64, Grettiss. c. 19 u. 40.
-[↩](#a11)
-
-<a name="myfootnote12" id="f12">12</a>:
-[_skoraði_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0554:24), &#42856; "challenged."
-[↩](#a12)
-
-<a name="myfootnote13" id="f13">13</a>:
- [_hólmgǫngu_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0280:40), &#42856; a duel or battle.
-[↩](#a13)
-
-<a name="myfootnote14" id="f14">14</a>:
- _réð_, since he was already married and the oldest of the brothers; the father was no longer able to manage the farm due to his age.
-[↩](#a14)
-
-<a name="myfootnote15" id="f15">15</a>:
- _at hann vill heldr_, is actually pleonastic; and the scribe writes as if he meant _segir_ instead of _kaus_.
-[↩](#a15)
-
-<a name="myfootnote16" id="f16">16</a>:
- _Stokkahólmr_, perhaps one of the small islands in the innermost part of Surnadalsfjord.
-[↩](#a16)
-
-<a name="myfootnote17" id="f17">17</a>:
- [_hvártveggja_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0298:16) is ntr. &#42856;"each of them."
-[↩](#a17)
-
-<a name="myfootnote18" id="f18">18</a>:
- _yrði at sk&oslash;mm_, he through his cowardice, she as the berserker's prize.
-[↩](#a18)
-
-<a name="myfootnote19" id="f19">19</a>:
- _framan_, about the same as _fram_; _framan_ is the starting point of the agreed time.
-[↩](#a19)
-
-<a name="myfootnote20" id="f20">20</a>:
- _fellr_, usually _falla_, means the same as _láta líf_; this expression literally means, "to fall down," or, "to be struck down."
-[↩](#a20)
-
-<a name="myfootnote21" id="f21">21</a>:
- _gangi fram_, "to pass," or, "to become reality."
-[↩](#a21)
-
-<a name="myfootnote22" id="f22">22</a>:
- _sverð_, a spear is made from this sword later, (s. c. 11, 3, see Sturlunga (Oxford) I, 247, 376,), where the same spear is mentioned as still existing in the 13th century.
-[↩](#a22)
-
-<a name="myfootnote16" id="f23">23</a>:
- Grásiða, "gray blade," or, "The weapon with the gray blade;" the color of the iron.
-[↩](#a23)
-
-<a name="myfootnote24" id="f24">24</a>:
- _þótti--mikit fyrir_, "It was difficult for the slave," or, "he was reluctant," (to loan the sword.)
-[↩](#a24)
-
-<a name="myfootnote25" id="f25">25</a>:
- _eiga lata--ganga_, that someone married the widow of their brother occurs often, for instance in _Egils saga_, when Egil marries the widow of Þórólf, and later in our present saga when B&oslash;rkr marries Þordis (c. 14), and so on.
-[↩](#a25)
-
-<a name="myfootnote26" id="f26">26</a>:
- _þá alla--fylgt_, these people are not mentioned before this; this would not have been necessary either because berserkers usually had a cohort; in the recension S, twelve are specified.
-[↩](#a26)
-
-<a name="myfootnote27" id="f27">27</a>:
- [_heimti_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0251:21), &#42856; "craved."
-[↩](#a27)
-
-<a name="myfootnote28" id="f28">28</a>:
- _tilr&oelig;ði_, "attack;" or, "try to kill someone," from _ráða til (manns)_ "to attack someone."
-[↩](#a28)
-
-<a name="myfootnote29" id="f29">29</a>:
- _var þat_, "it grew to be" (the wound), "the wound, which he inflicted, came to be severe."
-[↩](#a29)
-
-<a name="myfootnote30" id="f30">30</a>:
- [_lamðiz_](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0383:35), &#42856; the reflexive usage appears in the next page [here](http://web.ff.cuni.cz/cgi-bin/uaa_slovnik/gmc_search_v3?cmd=viewthis&id=cv:b0384:1). "fractured."
-[↩](#a30)
-
-<a name="myfootnote31" id="f31">31</a>:
- _hvártveggi_, that is, Gísli and the slave; Weinhold (Altn. leben s. 197) completely misunderstood the position.
-[↩](#a31)
+[^1]:[_upp-haf_](https://old-norse.net/html/u.php#upphaf), a beginning.
+<!--The "haf" appears to be missing in MS-->
+[^2]:[_saga_](https://old-norse.net/html/s.php#saga2), A story, legend.
+[^3]:_Hákon konungr Aðalsteinsfóstri_, King of Norway 935-61. The second element in his hame means the "fosterling" of the English King [Æþelstan](https://en.wikipedia.org/wiki/%C3%86thelstan). According to some sagas, Hákon spent his childhood at the court of the english king. There is no British record of Hákon's time in Britain and the name occurs only in later Scandinavian sources.
+[^4]:[_réð_](https://old-norse.net/html/r.php#r%C3%A1%C3%B0a), 3rd. sing. past, "ruled."
+[^5]:His last days ([ofanverðir](https://old-norse.net/html/o.php#ofanver%C3%B0r) dagar) were therefore in the years 950-61. According to the calculation of G. Vigfússon (Safu til sögu Ísl. I, 362) Gísli came to Iceland near the year 955; this year also fits very well if one refers the words, _ok var þetta_, not to the Norwegian events mentioned below but most likely to the emmigration.
+[^6]:_Þorkell_, is not known from from any other source. In S (The "long" version of GS.) he carries the nickname _Gullhjálmr_.
+[^7]:_skerauki_, this nickname apears to be composed of [_sker_](https://old-norse.net/html/s.php#sker) (sea rock) and [_auki_](https://old-norse.net/html/a.php#auka)(augmentum)
+[^8]:[_bjó_](https://old-norse.net/html/b.php#b%C3%BAa), 3rd. sing. past, _búa_, "lived."
+[^9]:_Súrnadal_, today Surnadal, near the Súrnadalsfjǫrðr, a neighboring fjord near Halsfjord in Nordmøe.
+[^10]:[hersir](https://old-norse.net/html/h.php#hersir), "lord; someone of high rank closely associated with the king."
+[^11]:[_nafnbót_](https://old-norse.net/html/n.php#nafnb%C3%B3t), "ennobling of name," i.e. title.
+[^12]:[_barna_](https://old-norse.net/html/b.php#barn), gen. pl., "of children."
+[^13]:[_einn_](https://old-norse.net/html/e.php#einn), is more common than _fyrstr_ in enumerations.
+[^14]:[_óxu_](https://old-norse.net/html/v.php#vaxa), 3rd. pl. past, _vaxa_, "grew up."
+[^15]:[_firði_](https://old-norse.net/html/f.php#fj%C3%B6r%C3%B0r), dat. sing., _fjörðr_, a "fjord." 
+[^16]:_Fibuli_, a fjord in Nordmøe, somewhat farther north than Halsfjord; the name is preserved in the name of the farm Fevelen, (see Sproglig-hist. stud. tilegnede prof. Unger (1896) p. 44).
+[^17]:[_biðr_](https://old-norse.net/html/b.php#bi%C3%B0ja), 3rd. sing. pres., "proposes." 
+[^18]:[_fé_](https://old-norse.net/html/f.php#f%C3%A9-II), wealth. 
+[^19]:[_þræll_](https://old-norse.net/html/th.php#%C3%BEr%C3%A6ll), a serf, or slave.
+[^20]:_í brott--henni_, "he went away with her. That is, he was given to her as property.
+[^21]:_enn_ [_blakki_](https://old-norse.net/html/b.php#blakkr3), "the dark," of the color of the skin. The lexical range also allows for, "the pale," or "the white," as a foreboding of death. See the entry in Cleasby-Vigfusson.
+[^22]:[_berserkr_](https://old-norse.net/html/b.php#berserkr), A berserker; a wild warrior that appears to have had supernatural or ritual powers in combat; a characterization that appears regularly in the medieval sagas.
+[^23]:[_skoraði_](https://old-norse.net/html/s.php#skora), 3rd. sing. past, "challenged."
+[^24]:[_hólmgǫngu_](https://old-norse.net/html/h.php#h%C3%B3lmganga), a duel, sometimes referring to a specific ritual duel that takes place on a small island.
+[^25]:[_vildu_](https://old-norse.net/html/v.php#vilja), 3rd. pl. past, "wished". 
+[^26]:[_vilja_](https://old-norse.net/html/v.php#vilja), acc. pl., "wishes," or his demands. Compare this nominal form with the verb, "vilja" in note 26. 
+[^27]:[_vetr_](https://old-norse.net/html/v.php#vetr), "winter," or season.
+[^28]:_réð_, since he was already married and the oldest of the brothers; the father was no longer able to manage the farm due to his age.
+[^29]:[_búi_](https://old-norse.net/html/b.php#b%C3%BA), dat. sing., "household," or farmstead. 
+[^30]:_at hann vill heldr_, is actually pleonastic. The construction of this sentence is rather awkward. See note 36.
+[^31]:[_berjask_](https://old-norse.net/html/b.php#berja-I), 3rd, pl. pres. mediopassive, "fight," or do battle.
+[^32]:_Stokkahólmr_, perhaps one of the small islands in the innermost part of Surnadalsfjord.
+[^33]:[_selja_](https://old-norse.net/html/s.php#selja), to give. 
+[^34]:[_kaus_](https://old-norse.net/html/k.php#kj%C3%B3sa) [_skjótt_](), 3rd. sing. past, _kjosa_, "chose." Note the adjectival usage of _skjótr_. See entry 3 in CV. The scribe writes as if he meant _segir_ instead of _kaus_.
+[^35]:[_hvártveggja_](https://old-norse.net/html/h.php#hv%C3%A1rrtveggi) is ntr. "each of them."
+[^36]:_yrði at_ [_skømm_](https://old-norse.net/html/s.php#sk%C3%B6mm), to him through his cowardice, and to her as the berserker's prize.
+[^37]:_á_ [_þriggja_](https://en.wiktionary.org/wiki/%C3%BEr%C3%ADr#Old_Norse), gen., note that the first four cardinal numbers decline, the lexical form being, _þrir_. [_nátta_](https://old-norse.net/html/n.php#n%C3%B3tt-B) [_fresti_](https://old-norse.net/html/f.php#frest), "A delay of three nights."
+[^38]:[_framan_](https://old-norse.net/html/f.php#fram). The starting point of the agreed time.
+[^39]:_fellr_, inf. [_falla_](https://old-norse.net/html/f.php#fella), means the same as _láta líf_; this expression literally means, "to fall down," or, "to be struck down."
+[^40]:[_þykkisk_](https://old-norse.net/html/th.php#%C3%BEykkja-B), 3rd. sing. pres. mediopassive, "thought to himself," or considered it to be.
+[^41]:[_vegit_](https://old-norse.net/html/v.php#vega), past participle, "won," through through battle.
+[^42]:[_ĺáta_](https://old-norse.net/html/l.php#láta), "give up," or, to let go.
+[^43]:_gangi fram_, "to pass," or, "to become reality."
+[^44]:[_sverð_](https://old-norse.net/html/s.php#sver%C3%B0), a spear is made from this sword later in the saga. The same spear is mentioned as still existing in the 13th century in _Sturlunga saga_.
+[^45]:Grásiða, "gray blade," or, "The weapon with the gray blade;" the color of the iron. This is the name of the sword.
+[^46]:[_ljái_](https://old-norse.net/html/l.php#lj%C3%A1), 3rd. sing. pres. subj., "lend."
+[^47]:[_fylgir_](https://old-norse.net/html/f.php#fylgja2), 3rd. sing. pres., it "follows" that...
+[^48]:[_orrostu_](https://old-norse.net/html/o.php#orrosta), fem. sing. gen., "in battle."
+[^49]:_þótti--mikit fyrir_, "It was difficult for the slave," or, "he was reluctant," (to loan the sword.)
+[^50]:[_bjósk_](https://old-norse.net/html/b.php#b%C3%BAa-B), 3rd. sing. past. mediopassive, "prepared himself.
+[^51]:[_unnit_](https://old-norse.net/html/v.php#vinna), past participle, "had won," or accomplished. 
+[^52]:_eiga lata--ganga_, that someone married the widow of their brother occurs often in the literature. For example, Egil marries the widow of Þórólf in _Egils saga_, and later in our present saga when Børkr marries Þordis.
+[^53]:"...he didn't wish to let a good woman go."
+[^54]:[_fjárhlut_](https://old-norse.net/html/f.php#fj%C3%A1rhlutr), m. acc. sing., "share of the wealth." See [_fé_](https://en.wiktionary.org/wiki/f%C3%A9#Old_Norse).
+[^55]:[_andask_](https://old-norse.net/html/a.php#anda), 3rd. sing. past. mediopassive., "died." This is an idiomatic mediopassive usage of the verb meaning, "to breathe." 
+[^56]:[_lét_](https://old-norse.net/html/l.php#láta)[_drepa_](https://old-norse.net/html/d.php#drepa), _lét_, 3rd. sing. past. Used here as a common auxiliary verb, "to let," or to have something done. "He had" it be done that they were killed.
+[^57]:_þá alla--fylgt_, these people are not mentioned before this; this would not have been necessary either because berserkers usually had a cohort; in the recension S, twelve are specified.
+[^58]:[_heimti_](https://old-norse.net/html/h.php#heimta), "craved."
+[^59]:[_laust_](https://old-norse.net/html/l.php#lauss), adj., with auxiliary _láta_, he "didn't want to let it go."
+[^60]:[_býðr_](https://old-norse.net/html/b.php#bj%C3%B3%C3%B0a), 3rd. sing. pres., "offers." 
+[^61]:[_fær_](https://old-norse.net/html/f.php#f%C3%A1), 3rd. sing. pres., from _fá_, to receive. [_at heldr_](https://old-norse.net/html/h.php#heldr), but rather, or "all the more." But rather it was not given back to him, or returned to him.
+[^62]:[_tilrœði_](https://old-norse.net/html/r.php#r%C3%A1%C3%B0a-A-V), "attack;" or, "try to kill someone," from _ráða til (manns)_ "to attack someone."
+[^63]:_var þat_, "it grew to be" (the wound), "the wound, which he inflicted, came to be severe."
+[^64]:[_høggr_](https://old-norse.net/html/h.php#h%C3%B6ggva), 3rd. sing. pres., from hǫggva; "strikes" with his sword. _í moti_; "against." "Strikes into...the head."
+[^65]:[_brotnaði_](https://old-norse.net/html/b.php#brotna), 3rd. sing. past., "to be broken."
+[^66]:[_lamðiz_](https://old-norse.net/html/l.php#lemja). "fractured."
+[^67]:[_hvártveggi_](https://old-norse.net/html/h.php#hv%C3%A1rrtveggi), that is, Gísli and the slave. 
+ <!--Weinhold (Altn. leben s. 197) completely misunderstood the position.-->
