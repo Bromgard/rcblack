@@ -2,9 +2,9 @@
 
 ## Frá því er Auðunn enn vestfirzki fœrði Sveini konungi bjarndýri
 
-Maðr hét Auðunn, vestfirzkr[^1] at kyni[^2] ok félítill[^3]. Hann fór útan[^4] vestr[^5] þar í fjǫrðum með umráði[^6] Þorsteins, búanda góðs[^7], ok Þóris stýrimanns, er þar hafði þegit[^7] vist[^8] of vetrinn[^9] með Þorsteini. Auðunn var ok þar ok starfaði[^10] firir honum Þóri ok þá þessi laun[^11] af honum, útanferðina[^12] ok hans umsjá[^13]. Hann Auðunn lagði[^14] mestan hluta fjár[^15] þess, er var fyr[^16] móður sína, áðr[^17] hann stigi[^18] á skip, ok var kveðit[^19] á þriggja[^20] vetra bjǫrg[^21]. 
+Maðr hét Auðunn, vestfirzkr[^1] at kyni[^2] ok félítill[^3]. Hann fór útan[^4] vestr[^5] þar í fjǫrðum með umráði[^6] Þorsteins, búanda góðs[^7], ok Þóris stýrimanns, er þar hafði þegit[^7] vist[^8] of vetrinn[^9] með Þorsteini. Auðunn var ok þar ok starfaði[^10] fyrir honum Þóri ok þá þessi laun[^11] af honum, útanferðina[^12] ok hans umsjá[^13]. Hann Auðunn lagði[^14] mestan hluta fjár[^15] þess, er var fyr[^16] móður sína, áðr[^17] hann stigi[^18] á skip, ok var kveðit[^19] á þriggja[^20] vetra bjǫrg[^21]. 
 
-Ok nú fara þeir út heðan[^22], ok fersk[^23] þeim vel, ok var Auðunn of vetrinn eptir með Þóri stýrimanni — hann átti bú á Mœri. Ok um sumarit eptir fara þeir út til Grœnlands ok eru þar of vetrinn. Þess er við getit[^24], at Auðunn kaupir[^25] þar bjarndýri eitt[^26], gjǫrsimi[^27] mikla, ok gaf þar firir alla eigu sína. Ok nú of sumarit eptir þá fara þeir aptr til Nóregs ok verða vel reiðfara[^28]; hefir Auðunn dýr sitt með sér ok ætlar[^29] nú at fara suðr til Danmerkr á fund[^29] Sveins konungs ok gefa honum dýrit. Ok er[^30] hann kom suðr í landit þar sem[^30] konungr var firir, þá gengr hann upp af skipi ok leiðir[^31] eptir sér dýrit ok leigir[^32] sér herbergi[^33]. Haraldi konungi var sagt brátt[^34] at þar var komit bjarndýri, gørsimi mikil, ok á íslenzkr maðr. Konungr sendir þegar menn eptir honum, ok er Auðunn kom firir konung, kveðr[^35] hann konung vel. Konungr tók vel kveðju hans ok spurði síðan[^36]
+Ok nú fara þeir út heðan[^22], ok fersk[^23] þeim vel, ok var Auðunn of vetrinn eptir með Þóri stýrimanni — hann átti bú á Mœri. Ok um sumarit eptir fara þeir út til Grœnlands ok eru þar of vetrinn. Þess er við getit[^24], at Auðunn kaupir[^25] þar bjarndýri eitt[^26], gjǫrsimi[^27] mikla, ok gaf þar fyrir alla eigu sína. Ok nú of sumarit eptir þá fara þeir aptr til Nóregs ok verða vel reiðfara[^28]; hefir Auðunn dýr sitt með sér ok ætlar[^29] nú at fara suðr til Danmerkr á fund[^29] Sveins konungs ok gefa honum dýrit. Ok er[^30] hann kom suðr í landit þar sem[^30] konungr var fyrir, þá gengr hann upp af skipi ok leiðir[^31] eptir sér dýrit ok leigir[^32] sér herbergi[^33]. Haraldi konungi var sagt brátt[^34] at þar var komit bjarndýri, gørsimi mikil, ok á íslenzkr maðr. Konungr sendir þegar menn eptir honum, ok er Auðunn kom fyrir konung, kveðr[^35] hann konung vel. Konungr tók vel kveðju hans ok spurði síðan[^36]
 
 ‘Áttu[^36] gjǫrsimi mikla í bjarndýri?’
 
@@ -45,7 +45,7 @@ bæði fyr sik ok fyr dýrit. Hann kømr á fund ármanns Sveins konungs
 ‘Ek ætla,’ sagði hann, ‘at gefa Sveini konungi dýrit.’
 
 Áki lézk selja mindu honum vistir ef hann vildi. Auðunn kvezk ekki
-til hafa firir at gefa.
+til hafa fyrir at gefa.
  
 ‘En ek vilda þó,’ sagði hann, ‘at þetta kvæmisk til leiðar at ek mætta
 dýrit fœra konungi.’
@@ -56,7 +56,7 @@ vil ek eiga hálft dýrit, ok máttu á þat líta at dýrit mun deyja fyrir þ�
 ekki dýrsins.’
  
 Ok er hann lítr á þetta, sýnisk honum nǫkkvot eptir sem ármaðrinn
-mælti firir honum, ok sættask þeir á þetta, at hann selr Áka hálft dýrit,
+mælti fyrir honum, ok sættask þeir á þetta, at hann selr Áka hálft dýrit,
 ok skal konungr síðan meta allt saman. Skulu þeir fara báðir nú á fund 
 konungs, ok svá gjǫra þeir, fara nú báðir á fund konungs ok stóðu fyr
 borðinu. Konungr íhugaði hverr þessi maðr mindi ‹verað er hann kenndi
@@ -155,7 +155,7 @@ Hann þakkaði gjǫfina eptir sinni kunnustu. Ok er leið stund ok skipit
 var albúit, þá mælti Sveinn konungr við Auðun:
 
 ‘Þó villdu nú á braut, þá mun ek nú ekki letja þik, en þat hefi ek
-spurt at illt er til hafna firir landi yðru, ok eru víða ørœfi ok hætt skipum. 
+spurt at illt er til hafna fyrir landi yðru, ok eru víða ørœfi ok hætt skipum. 
 Nú brýtr þú ok týnir skipinu ok fénu, lítt sér þat þá á, at þú hafir fundit
 Svein konung ok gefit honum gjǫrsimi.’
 
