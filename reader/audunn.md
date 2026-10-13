@@ -283,5 +283,5 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^49]:[_í milli_](https://en.wiktionary.org/wiki/%C3%AD_milli#Preposition)
 [^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck.
 [^51]:[_gjǫrsimar_](https://old-norse.net/html/g.php#g%C3%B6rsemi)
-[^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust)
+[^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust), ...where others could not go unscathed although they have need (to do this).
 [^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)
