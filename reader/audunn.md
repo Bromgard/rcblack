@@ -4,22 +4,11 @@
 
 Maðr hét Auðunn, vestfirzkr[^1] at kyni[^2] ok félítill[^3]. Hann fór útan[^4] vestr[^5] þar í fjǫrðum með umráði[^6] Þorsteins, búanda góðs[^7], ok Þóris stýrimanns, er þar hafði þegit[^7] vist[^8] of vetrinn[^9] með Þorsteini. Auðunn var ok þar ok starfaði[^10] firir honum Þóri ok þá þessi laun[^11] af honum, útanferðina[^12] ok hans umsjá[^13]. Hann Auðunn lagði[^14] mestan hluta fjár[^15] þess, er var fyr[^16] móður sína, áðr[^17] hann stigi[^18] á skip, ok var kveðit[^19] á þriggja[^20] vetra bjǫrg[^21]. 
 
-Ok nú fara þeir út heðan, ok fersk þeim vel, ok var Auðunn of vetrinn eptir
-með Þóri stýrimanni — hann átti bú á Mœri. Ok um sumarit eptir fara
-þeir út til Grœnlands ok eru þar of vetrinn. Þess er við getit, at Auðunn
-kaupir þar bjarndýri eitt, gjǫrsimi mikla, ok gaf þar firir alla eigu sína.
-Ok nú of sumarit eptir þá fara þeir aptr til Nóregs ok verða vel reiðfara;
-hefir Auðunn dýr sitt með sér ok ætlar nú at fara suðr til Danmerkr á
-fund Sveins konungs ok gefa honum dýrit. Ok er hann kom suðr í
-landit þar sem konungr var firir, þá gengr hann upp af skipi ok leiðir
-eptir sér dýrit ok leigir sér herbergi. Haraldi konungi var sagt brátt at
-þar var komit bjarndýri, gørsimi mikil, ok á íslenzkr maðr. Konungr
-sendir þegar menn eptir honum, ok er Auðunn kom firir konung, kveðr
-hann konung vel. Konungr tók vel kveðju hans ok spurði síðan:
+Ok nú fara þeir út heðan[^22], ok fersk[^23] þeim vel, ok var Auðunn of vetrinn eptir með Þóri stýrimanni — hann átti bú á Mœri. Ok um sumarit eptir fara þeir út til Grœnlands ok eru þar of vetrinn. Þess er við getit[^24], at Auðunn kaupir[^25] þar bjarndýri eitt[^26], gjǫrsimi[^27] mikla, ok gaf þar firir alla eigu sína. Ok nú of sumarit eptir þá fara þeir aptr til Nóregs ok verða vel reiðfara[^28]; hefir Auðunn dýr sitt með sér ok ætlar[^29] nú at fara suðr til Danmerkr á fund[^29] Sveins konungs ok gefa honum dýrit. Ok er[^30] hann kom suðr í landit þar sem[^30] konungr var firir, þá gengr hann upp af skipi ok leiðir[^31] eptir sér dýrit ok leigir[^32] sér herbergi[^33]. Haraldi konungi var sagt brátt[^34] at þar var komit bjarndýri, gørsimi mikil, ok á íslenzkr maðr. Konungr sendir þegar menn eptir honum, ok er Auðunn kom firir konung, kveðr[^35] hann konung vel. Konungr tók vel kveðju hans ok spurði síðan[^36]:
 
-‘Áttu gjǫrsimi mikla í bjarndýri?’
+‘Áttu[^36] gjǫrsimi mikla í bjarndýri?’
 
-Hann svarar ok kvezk eiga dýrit eitthvert.
+Hann svarar[^37] ok kvezk eiga dýrit eitthvert[^38].
 
 Konungr mælti, ‘Villtu selja oss dýrit við slíku verði sem þú keyptir?’
 
@@ -268,4 +257,20 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^19]:[_kveðit_](https://en.wiktionary.org/wiki/kve%C3%B0ja#Conjugation_2)
 [^20]:[_þriggja_](https://en.wiktionary.org/wiki/%C3%BEr%C3%ADr#Declension_2)
 [^21]:[_bjǫrg_](https://old-norse.net/html/b.php#bj%C3%B6rg-2)
-[^22]:[]
+[^22]:[_heðan_](https://en.wiktionary.org/wiki/h%C3%A9%C3%B0an#Adverb_2)
+[^23]:[_fersk_](https://en.wiktionary.org/wiki/fara#Conjugation_5), look at the mediopassive construction. "They fared well."
+[^24]:[_við getit_](https://en.wiktionary.org/wiki/geta#Conjugation_2). "It so happened."
+[^25]:[_kaupir_](https://en.wiktionary.org/wiki/kaupa#Conjugation_2)
+[^26]:[_eitt_](https://en.wiktionary.org/wiki/einn#Numeral_2)
+[^27]:[_gjǫrsimi_](https://old-norse.net/html/g.php#g%C3%B6rsemi)
+[^28]:[_reiðfara_](https://old-norse.net/html/r.php#rei%C3%B0fara)
+[^29]:[_æatla_](https://old-norse.net/html/ae.php#%C3%A6tla)
+[^30]:[_fund_](https://en.wiktionary.org/wiki/fundr#Declension)
+[^31]:_ok er_, "And when..."
+[^32]:_þar sem_, "where."
+[^33]:[_leiðir_](https://old-norse.net/html/l.php#lei%C3%B0a)
+[^34]:[_leigir_](https://old-norse.net/html/l.php#leiga)
+[^35]:[_herbergi_](https://old-norse.net/html/h.php#herbergi)
+[^36]:[_brátt_](https://en.wiktionary.org/wiki/br%C3%A1tt#Adverb)
+[^37]:[_kveðir_](https://en.wiktionary.org/wiki/kve%C3%B0a#Conjugation_2)
+[^38]:[_síðan_](https://en.wiktionary.org/wiki/s%C3%AD%C3%B0an#Adverb_2)
