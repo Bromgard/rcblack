@@ -10,12 +10,11 @@ Ok nú fara þeir út heðan[^22], ok fersk[^23] þeim vel, ok var Auðunn of ve
 
 Hann svarar[^37] ok kvezk eiga dýrit eitthvert[^38].
 
-Konungr mælti, ‘Villtu selja oss dýrit við slíku verði sem þú keyptir?’
+Konungr mælti, ‘Villtu selja oss dýrit við slíku verði[^39] sem þú keyptir[^40]?’
 
 Hann svaraði, ‘Eigi vil ek þat, herra.’
 
-‘Villtu þá,’ sagði konungr, ‘at ek gefa þér tvau verð slík, ok mun þat
-réttara, ef þú hefir þar við gefit alla þína eigu?’
+‘Villtu þá,’ sagði konungr, ‘at ek gefa þér tvau verð slík, ok mun[^41] þat réttara[^42], ef þú hefir þar við gefit alla þína eigu[^43]?’
 
 ‘Eigi vil ek þat, herra,’ sagði hann.
 
@@ -23,14 +22,11 @@ Konungr mælti, ‘Villtu gefa mér þá?’
 
 Hann svaraði, ‘Eigi, herra.’
 
-Konungr mælti, ‘Hvat villtu þá af gjǫra?’
+Konungr mælti, ‘Hvat villtu þá af gjǫra?[^44]’
 
-Hann svaraði, ‘Fara,’ segir hann, ‘til Danmerkr ok gefa Sveini
-konungi.’
+Hann svaraði, ‘Fara,’ segir hann, ‘til Danmerkr ok gefa Sveini konungi.[^45]’
 
-Haraldr konungr sagði: ‘Hvárt er at þú ert maðr svá óvitr at þú hefir
-eigi heyrt ófrið þann er í milli er landa þessa, eða ætlar þú giptu þína svá mikla at þú munir þar komask með gjǫrsimar er aðrir fá eigi komizk
-klakklaust þó at nauðsyn eigi til?’
+Haraldr konungr sagði: ‘Hvárt[^46] er at þú ert maðr svá óvitr[^47] at þú hefir eigi heyrt ófrið þann[^48] er í milli[^49] er landa þessa, eða ætlar þú giptu[^50] þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi til?’
 
 Auðunn svaraði, ‘Herra, þat er á yðru valdi, en øngu játum vér ǫðru 
 en þessu er vér hǫfum áðr ætlat.’
@@ -274,3 +270,18 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^36]:[_brátt_](https://en.wiktionary.org/wiki/br%C3%A1tt#Adverb)
 [^37]:[_kveðir_](https://en.wiktionary.org/wiki/kve%C3%B0a#Conjugation_2)
 [^38]:[_síðan_](https://en.wiktionary.org/wiki/s%C3%AD%C3%B0an#Adverb_2)
+[^39]:[_verði_](https://old-norse.net/html/v.php#ver%C3%B0r2)
+[^40]:[_keyptir_](https://en.wiktionary.org/wiki/kaupa#Conjugation_2)
+[^41]:[_mun_](https://en.wiktionary.org/wiki/munu#Conjugation_2)
+[^42]:[_réttara_](https://en.wiktionary.org/wiki/r%C3%A9ttur#Declension). We have to resort to the modern Icelandic declension of the adjective. Look at the comparative forms. 
+[^43]:[_eigu_](https://en.wiktionary.org/wiki/eiga#Declension_3). This is very sneaky. This is a noun form of the verb we've already seen. 
+[^44]:[_gjǫra_](https://en.wiktionary.org/wiki/gera#Conjugation_4). An annoying thing. Some dictionaries list this as you see it in the text, others list it as, "gera." One is an earlier form than the other.
+[^45]:[_Sveini konungi_](https://en.wikipedia.org/wiki/Svein_Knutsson)
+[^46]:_Hvárt...eða_, This is the "either...or" construction. 
+[^47]:[_óvitr_](https://old-norse.net/html/oo.php#%C3%B3vitr)
+[^48]:[_ófrið_](https://old-norse.net/html/oo.php#%C3%B3fri%C3%B0r), the 'ó-' prefix is like english, 'un-.'
+[^49]:[_í milli_](https://en.wiktionary.org/wiki/%C3%AD_milli#Preposition)
+[^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck.
+[^51]:[_gjǫrsimar_](https://old-norse.net/html/g.php#g%C3%B6rsemi)
+[^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust)
+[^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)
