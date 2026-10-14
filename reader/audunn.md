@@ -276,7 +276,6 @@ Between these lands.
 [^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)...although they have need (to do this). Although others have to go anyway, presumably officials or for market logistics. 
 [^54]:[_eigi_](https://en.wiktionary.org/wiki/eiga#Conjugation_3) This is the verb! Find the third person plural subjunctive.
 [^55]:[_til_](https://en.wiktionary.org/wiki/til#Preposition_10) eiga...til, "to have," or "posess."
-
 [^56]:[_Herra_](https://en.wiktionary.org/wiki/herra#Noun_7) Lord. Courtly words were imported from German speaking regions.
 [^57]:[_yðru_](https://en.wiktionary.org/wiki/y%C3%B0arr#Declension) Declined form of the possessive pronoun yðr, "Your."
 [^58]:[_valdi_](https://en.wiktionary.org/wiki/vald#Declension_3)
