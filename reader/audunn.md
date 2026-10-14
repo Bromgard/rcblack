@@ -26,8 +26,10 @@ Konungr mælti, ‘Hvat villtu þá af gjǫra?[^44]’
 
 Hann svaraði, ‘Fara,’ segir hann, ‘til Danmerkr ok gefa Sveini konungi.[^45]’
 
+
+Haraldr konungr sagði: ‘Hvárt[^46] er at þú ert maðr svá óvitr[^47] at þú hefir eigi heyrt ófrið þann[^48] er í milli[^49] er landa þessa, eða ætlar þú 
 <!--
-Haraldr konungr sagði: ‘Hvárt[^46] er at þú ert maðr svá óvitr[^47] at þú hefir eigi heyrt ófrið þann[^48] er í milli[^49] er landa þessa, eða ætlar þú giptu[^50] þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi[^54] til?[^55]’
+giptu[^50] þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi[^54] til?[^55]’
 -->
 
 Auðunn svaraði, ‘Herra[^56], þat er á yðru[^57] valdi[^58], en øngu játum[^59] vér[^60] ǫðru[^61] en þessu er vér hǫfum[^62] áðr[^63] ætlat[^64].’
@@ -265,12 +267,14 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^44]:[_gjǫra_](https://en.wiktionary.org/wiki/gera#Conjugation_4). An annoying thing. Some dictionaries list this as you see it in the text, others list it as, "gera." One is an earlier form than the other.
 [^45]:[_Sveini konungi_](https://en.wikipedia.org/wiki/Svein_Knutsson)
 
-<!--
+
 [^46]:_Hvárt...eða_, This is the "either...or" construction.
 [^47]:[_óvitr_](https://old-norse.net/html/oo.php#%C3%B3vitr)
 [^48]:[_ófrið_](https://old-norse.net/html/oo.php#%C3%B3fri%C3%B0r), the 'ó-' prefix is like english, 'un-.' The two kings are at war with each other. 
 [^49]:[_í milli_](https://en.wiktionary.org/wiki/%C3%AD_milli#Preposition)
 "Between these lands."
+
+<!--
 [^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck. ...you think your luck so great that..."
 [^51]:[_gjǫrsimar_](https://old-norse.net/html/g.php#g%C3%B6rsemi) ...you would travel with..."
 [^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust), ...where others could not go unscathed... although they have need (to do this). This is a very complicated construction! 
