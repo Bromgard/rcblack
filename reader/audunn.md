@@ -262,63 +262,64 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^43]:[_eigu_](https://en.wiktionary.org/wiki/eiga#Declension_3). This is very sneaky. This is a noun form of the verb we've already seen. 
 [^44]:[_gjǫra_](https://en.wiktionary.org/wiki/gera#Conjugation_4). An annoying thing. Some dictionaries list this as you see it in the text, others list it as, "gera." One is an earlier form than the other.
 [^45]:[_Sveini konungi_](https://en.wikipedia.org/wiki/Svein_Knutsson)
-[^46]:_Hvárt...eða_, This is the "either...or" construction. 
+[^46]:_Hvárt...eða_, This is the "either...or" construction.
 [^47]:[_óvitr_](https://old-norse.net/html/oo.php#%C3%B3vitr)
-[^48]:[_ófrið_](https://old-norse.net/html/oo.php#%C3%B3fri%C3%B0r), the 'ó-' prefix is like english, 'un-.'
+[^48]:[_ófrið_](https://old-norse.net/html/oo.php#%C3%B3fri%C3%B0r), the 'ó-' prefix is like english, 'un-.' The two kings are at war with each other. 
 [^49]:[_í milli_](https://en.wiktionary.org/wiki/%C3%AD_milli#Preposition)
-[^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck.
-[^51]:[_gjǫrsimar_](https://old-norse.net/html/g.php#g%C3%B6rsemi)
-[^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust), ...where others could not go unscathed although they have need (to do this).
-[^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)
+"Between these lands."
+[^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck. ...you think your luck so great that..."
+[^51]:[_gjǫrsimar_](https://old-norse.net/html/g.php#g%C3%B6rsemi) ...you would travel with..."
+[^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust), ...where others could not go unscathed... although they have need (to do this). This is a very complicated construction! 
+[^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)...although they have need (to do this). Although others have to go anyway, presumably officials or for market logistics. 
 [^54]:[_eigi_](https://en.wiktionary.org/wiki/eiga#Conjugation_3) This is the verb! Find the third person plural subjunctive.
 [^55]:[_til_](https://en.wiktionary.org/wiki/til#Preposition_10) eiga...til, "to have," or "posess."
 [^56]:[_Herra_](https://en.wiktionary.org/wiki/herra#Noun_7) Lord. Courtly words were imported from German speaking regions.
 [^57]:[_yðru_](https://en.wiktionary.org/wiki/y%C3%B0arr#Declension) Declined form of the possessive pronoun yðr, "Your."
 [^58]:[_valdi_](https://en.wiktionary.org/wiki/vald#Declension_3)
-[^59]:[_játum_](https://en.wiktionary.org/wiki/j%C3%A1ta#Verb_2)
+[^59]:[_játum_](https://en.wiktionary.org/wiki/j%C3%A1ta#Verb_2) "Agreement."
 [^60]:_vér_ Personal pronoun
 [^61]:[_ǫðru_](https://en.wiktionary.org/wiki/annarr#Declension)
 [^62]:[_hǫfum_](https://en.wiktionary.org/wiki/hafa#Old_Norse)
 [^63]:[_áðr_](https://en.wiktionary.org/wiki/%C3%A1%C3%B0r#Adverb)
 [^64]:[_ætlat_](https://en.wiktionary.org/wiki/%C3%A6tla#Conjugation_2)
-[^65]:[_mæla_](https://en.wiktionary.org/wiki/m%C3%A6la#Conjugation_4)
-[^66]:[_hví_](https://en.wiktionary.org/wiki/hv%C3%AD#Adverb_2)
+[^65]:[_mæla_](https://en.wiktionary.org/wiki/m%C3%A6la#Conjugation_4) Another form of "To speak. Very common in the sagas." 
+[^66]:[_hví_](https://en.wiktionary.org/wiki/hv%C3%AD#Adverb_2) At this point, the king seems to be half speaking to himself. 
 [^67]:[_mun_](https://en.wiktionary.org/wiki/munu#Conjugation_2)
 [^68]:[_leið_](https://en.wiktionary.org/wiki/lei%C3%B0#Declension_3)
 [^69]:[_sem_](https://en.wiktionary.org/wiki/sem#Conjunction_4)
-[^70]:[_koma_](https://en.wiktionary.org/wiki/koma#Conjugation_4)
+[^70]:[_koma_](https://en.wiktionary.org/wiki/koma#Conjugation_4) Notice the imperative forms of the verbs here. The king is giving Auðunn orders. 
 [^71]:[_aptr_](https://en.wiktionary.org/wiki/aptr#Adverb)
-[^72]:[_seg_](https://en.wiktionary.org/wiki/segja) Notice the imperative forms in this statement. King Harald is giving Auðunn commands. 
+[^72]:[_seg_](https://en.wiktionary.org/wiki/segja) "Tell me..."
 [^73]:[_hversu_](https://en.wiktionary.org/wiki/hversu#Old_Norse)
 [^74]:[_launar_](https://en.wiktionary.org/wiki/launa#Conjugation)
 [^75]:[_sér_](https://en.wiktionary.org/wiki/vera#Old_Norse) Look at the subjunctive case!
 [^76]:[_gæfumaðr_](https://old-norse.net/html/g.php#g%C3%A6fuma%C3%B0r)
 [^77]:[_heit_](https://en.wiktionary.org/wiki/heita#Conjugation_3) This is the same "heita" we've seem in _Auðunn hét maðr_. This can also mean, "to promise."
-[^78]:[_siðan_](https://en.wiktionary.org/wiki/s%C3%AD%C3%B0an#Adverb_2)
+[^78]:[_siðan_](https://en.wiktionary.org/wiki/s%C3%AD%C3%B0an#Adverb_2) This can sometimes be translated in a narrative, "...and then".
 [^79]:[_austr_](https://en.wiktionary.org/wiki/austr#Declension)
-[^80]:[_fjárins_](https://en.wiktionary.org/wiki/f%C3%A9#Declension_2)
-[^81]:[_matar_](https://en.wiktionary.org/wiki/matr#Old_Norse)
+[^80]:[_fjárins_](https://en.wiktionary.org/wiki/f%C3%A9#Declension_2) He is now out of cash.
+[^81]:[_matar_](https://en.wiktionary.org/wiki/matr#Old_Norse) The poor guy is out begging on the street.  
 [^82]:[_bæði_](https://en.wiktionary.org/wiki/b%C3%A1%C3%B0ir#Declension_3)
 [^83]:[_fyr_](https://en.wiktionary.org/wiki/fyr#Preposition)
-[^84]:[_ármanns_](https://old-norse.net/html/aa.php#%C3%A1rma%C3%B0r)
-[^85]:[_nokkverra_](https://en.wiktionary.org/wiki/n%C7%ABkkurr#Old_Norse) This formation is equivalent to _nǫkkura_. Our text records an earlier form. 
+[^84]:[_ármanns_](https://old-norse.net/html/aa.php#%C3%A1rma%C3%B0r)This guy is a court official for King Svein.  
+[^85]:[_nokkverra_](https://en.wiktionary.org/wiki/n%C7%ABkkurr#Old_Norse) This formation is equivalent to _nǫkkura_. Our text records an earlier form. "He begs for some food..."
 [^86]:[_lézk_](https://en.wiktionary.org/wiki/l%C3%A1ta#Conjugation_3) This is close to English, "To let something be done." With the verb, _selja_, "To let himself give.." with the reflexive component. He made it so that he got half of the bear. 
-[^87]:[_gefa_](https://en.wiktionary.org/wiki/gefa#Conjugation_2)
+[^87]:[_gefa_](https://en.wiktionary.org/wiki/gefa#Conjugation_2) Auðunn had nothing to give him. 
 [^88]:[_þó_](https://en.wiktionary.org/wiki/%C3%BE%C3%B3#Adverb_2) Related to "although."
 [^89]:[_kvæmisk_](https://en.wiktionary.org/wiki/koma#Conjugation_4) Equivalent to _kœmimsk_ in this chart under the mediopassive. _Koma...leiðar_ = "to make happen." In this passage with subjuctive, "That I might in the end make this happen."
 [^90]:[_mætta_](https://en.wiktionary.org/wiki/mega#Conjugation_3) "Might..."
-[^91]:[_fá_](https://en.wiktionary.org/wiki/f%C3%A1#Conjugation_2)
+[^91]:[_fá_](https://en.wiktionary.org/wiki/f%C3%A1#Conjugation_2) "I will get for you..."
 [^92]:[_vistir_](https://en.wiktionary.org/wiki/vist#Declension_4) "Food."
-[^93]:[_þurfið_](https://en.wiktionary.org/wiki/%C3%BEurfa#Conjugation_2)
+[^93]:[_þurfið_](https://en.wiktionary.org/wiki/%C3%BEurfa#Conjugation_2) "...as is required for..."
 [^94]:[_fundar_](https://en.wiktionary.org/wiki/fundr#Declension) "Meeting."
-[^95]:[_í móti_](https://en.wiktionary.org/wiki/m%C3%B3t#Declension_3) _í móti_ means "against."
+[^95]:[_í móti_](https://en.wiktionary.org/wiki/m%C3%B3t#Declension_3) _í móti_ often means "against." Here it means, "in exchange."
 [^96]:[_hálft_](https://en.wiktionary.org/wiki/halfr#Declension) Same as _halft_. "Half."
 [^97]:[_máttu_](https://en.wiktionary.org/wiki/mega#Conjugation_3)
-[^98]:[_líta_](https://en.wiktionary.org/wiki/l%C3%ADta#Conjugation_4)
+[^98]:[_líta_](https://en.wiktionary.org/wiki/l%C3%ADta#Conjugation_4) "...as upon that you may observe ...," to use archaisms. The court official spells it out for him using a condescending voice.  
 [^99]:[_deyja_](https://en.wiktionary.org/wiki/deyja#Conjugation_2)
 [^100]:[_þars_](https://en.wiktionary.org/wiki/%C3%BEars#Adverb)
-[^101]:[_farit_](https://en.wiktionary.org/wiki/farinn#Old_Norse) The declension chart for the past participle.
-[^102]:[_við_](https://en.wiktionary.org/wiki/vi%C3%B0#Preposition_3)
+[^101]:[_farit_](https://en.wiktionary.org/wiki/farinn#Old_Norse) The declension chart for the past participle. "Your money is gone."
+[^102]:[_búit_](https://en.wiktionary.org/wiki/b%C3%BAa#Conjugation_2) [_við_](https://en.wiktionary.org/wiki/vi%C3%B0#Preposition_3) The verb combined with the preposition means, "to be expected."
 [^103]:[_lítr_](https://en.wiktionary.org/wiki/l%C3%ADta#Conjugation_4)
 [^104]:[_sýnisk_](https://en.wiktionary.org/wiki/s%C3%BDna#Conjugation_3) Mediopassive conjugation. It "appeared to him that..."
 [^105]:[_nǫkkvot_](https://en.wiktionary.org/wiki/n%C7%ABkkurr#Old_Norse) Equivalent to _nǫkkut_ on this chart. Another earlier form. 
