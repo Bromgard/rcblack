@@ -270,7 +270,7 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^48]:[_ófrið_](https://old-norse.net/html/oo.php#%C3%B3fri%C3%B0r), the 'ó-' prefix is like english, 'un-.' The two kings are at war with each other. 
 [^49]:[_í milli_](https://en.wiktionary.org/wiki/%C3%AD_milli#Preposition)
 "Between these lands."
-[^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck. "...you think your luck so great that..."
+[^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck. ...you think your luck so great that...
 [^51]:[_gjǫrsimar_](https://old-norse.net/html/g.php#g%C3%B6rsemi) ...you would travel with..."
 [^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust), ...where others could not go unscathed... although they have need (to do this). This is a very complicated construction! 
 [^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)...although they have need (to do this). Although others have to go anyway, presumably officials or for market logistics. 
