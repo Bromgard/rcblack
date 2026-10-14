@@ -26,40 +26,25 @@ Konungr mælti, ‘Hvat villtu þá af gjǫra?[^44]’
 
 Hann svaraði, ‘Fara,’ segir hann, ‘til Danmerkr ok gefa Sveini konungi.[^45]’
 
-Haraldr konungr sagði: ‘Hvárt[^46] er at þú ert maðr svá óvitr[^47] at þú hefir eigi heyrt ófrið þann[^48] er í milli[^49] er landa þessa, eða ætlar þú giptu[^50] þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi til?’
+Haraldr konungr sagði: ‘Hvárt[^46] er at þú ert maðr svá óvitr[^47] at þú hefir eigi heyrt ófrið þann[^48] er í milli[^49] er landa þessa, eða ætlar þú giptu[^50] þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi[^54] til?[^55]’
 
-Auðunn svaraði, ‘Herra, þat er á yðru valdi, en øngu játum vér ǫðru 
-en þessu er vér hǫfum áðr ætlat.’
+Auðunn svaraði, ‘Herra[^56], þat er á yðru[^57] valdi[^58], en øngu játum[^59] vér[^60] ǫðru[^61] en þessu er vér hǫfum[^62] áðr[^63] ætlat[^64].’
 
-Þá mælti konungr, ‘Hví mun eigi þat til at þú farir leið þína sem þú
-vill, ok kom þá til mín er þú ferr aptr, ok seg mér hversu Sveinn konungr 
-launar þér dýrit, ok kann þat vera at þú sér gæfumaðr.’
+Þá mælti[^65] konungr, ‘Hví[^66] mun[^67] eigi þat til at þú farir leið[^68] þína sem[^69] þú vill, ok kom[^70] þá til mín, er þú ferr aptr[^71], ok seg[^72] mér hversu[^73] Sveinn konungr launar[^74] þér dýrit, ok kann þat vera at þú sér[^75] gæfumaðr[^76].’
 
-‘Því heit ek þér,’ sagði Auðunn.
+‘Því heit[^77] ek þér,’ sagði Auðunn.
 
-Hann ferr nú síðan suðr með landi ok í Vik austr ok þá til Danmerkr; 
-ok er þá uppi hverr penningr fjárins, ok verðr hann þá biðja matar
-bæði fyr sik ok fyr dýrit. Hann kømr á fund ármanns Sveins konungs
-þess er Áki hét, ok bað hann vista nokkverra bæði fyr sik ok fyr dýrit. 
+Hann ferr nú síðan[^78] suðr með landi ok í Vik austr[^79] ok þá til Danmerkr; ok er þá uppi hverr penningr fjárins[^80], ok verðr hann þá biðja matar[^81] bæði[^82] fyr[^83] sik ok fyr dýrit. Hann kømr á fund ármanns[^84] Sveins konungs þess, er Áki hét, ok bað hann vista nokkverra[^85] bæði fyr sik ok fyr dýrit.
 
 ‘Ek ætla,’ sagði hann, ‘at gefa Sveini konungi dýrit.’
 
-Áki lézk selja mindu honum vistir ef hann vildi. Auðunn kvezk ekki
-til hafa fyrir at gefa.
+Áki lézk[^86] selja mindu honum vistir ef hann vildi. Auðunn kvezk[^87] ekki til hafa fyrir at gefa[^87].
  
-‘En ek vilda þó,’ sagði hann, ‘at þetta kvæmisk til leiðar at ek mætta
-dýrit fœra konungi.’
+‘En ek vilda þó[^88],’ sagði hann, ‘at þetta kvæmisk[^89] til leiðar[^89] at ek mætta[^90] dýrit fœra konungi.’
 
-‘Ek mun fá þér vistir sem it þurfið til konungs fundar, en þar í móti 
-vil ek eiga hálft dýrit, ok máttu á þat líta at dýrit mun deyja fyrir þér,
-þars it þurfuð vistir miklar, en fé sé farit, ok er búit við at þú hafir þá
-ekki dýrsins.’
+‘Ek mun fá[^91] þér vistir[^92] sem it þurfið[^93] til konungs fundar[^94], en þar í móti[^95] vil ek eiga hálft[^96] dýrit, ok máttu[^97] á þat líta[^98] at dýrit mun deyja[^99] fyrir þér, þars[^100] it þurfuð vistir miklar, en fé sé farit[^101], ok er búit við[^102] at þú hafir þá ekki dýrsins.’
  
-Ok er hann lítr á þetta, sýnisk honum nǫkkvot eptir sem ármaðrinn
-mælti fyrir honum, ok sættask þeir á þetta, at hann selr Áka hálft dýrit,
-ok skal konungr síðan meta allt saman. Skulu þeir fara báðir nú á fund 
-konungs, ok svá gjǫra þeir, fara nú báðir á fund konungs ok stóðu fyr
-borðinu. Konungr íhugaði hverr þessi maðr mindi ‹verað er hann kenndi
+Ok er hann lítr[^103] á þetta, sýnisk[^104] honum nǫkkvot[^105] eptir sem ármaðrinn[^106] mælti fyrir honum, ok sættask[^107] þeir á þetta, at hann selr Áka hálft dýrit, ok skal[^108] konungr síðan meta[^109] allt saman. Skulu þeir fara báðir nú á fund konungs, ok svá gjǫra þeir, fara nú báðir á fund konungs ok stóðu fyr borðinu. Konungr íhugaði hverr þessi maðr mindi vera er hann kenndi
 eigi, ok mælti síðan til Auðunar:
  
 ‘Hverr ertu?’ sagði hann.
@@ -285,3 +270,59 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^51]:[_gjǫrsimar_](https://old-norse.net/html/g.php#g%C3%B6rsemi)
 [^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust), ...where others could not go unscathed although they have need (to do this).
 [^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)
+[^54]:[_eigi_](https://en.wiktionary.org/wiki/eiga#Conjugation_3) This is the verb! Find the third person plural subjunctive.
+[^55]:[_til_](https://en.wiktionary.org/wiki/til#Preposition_10) eiga...til, "to have," or "posess."
+[^56]:[_Herra_](https://en.wiktionary.org/wiki/herra#Noun_7) Lord. Courtly words were imported from German speaking regions.
+[^57]:[_yðru_](https://en.wiktionary.org/wiki/y%C3%B0arr#Declension) Declined form of the possessive pronoun yðr, "Your."
+[^58]:[_valdi_](https://en.wiktionary.org/wiki/vald#Declension_3)
+[^59]:[_játum_](https://en.wiktionary.org/wiki/j%C3%A1ta#Verb_2)
+[^60]:_vér_ Personal pronoun
+[^61]:[_ǫðru_](https://en.wiktionary.org/wiki/annarr#Declension)
+[^62]:[_hǫfum_](https://en.wiktionary.org/wiki/hafa#Old_Norse)
+[^63]:[_áðr_](https://en.wiktionary.org/wiki/%C3%A1%C3%B0r#Adverb)
+[^64]:[_ætlat_](https://en.wiktionary.org/wiki/%C3%A6tla#Conjugation_2)
+[^65]:[_mæla_](https://en.wiktionary.org/wiki/m%C3%A6la#Conjugation_4)
+[^66]:[_hví_](https://en.wiktionary.org/wiki/hv%C3%AD#Adverb_2)
+[^67]:[_mun_](https://en.wiktionary.org/wiki/munu#Conjugation_2)
+[^68]:[_leið_](https://en.wiktionary.org/wiki/lei%C3%B0#Declension_3)
+[^69]:[_sem_](https://en.wiktionary.org/wiki/sem#Conjunction_4)
+[^70]:[_koma_](https://en.wiktionary.org/wiki/koma#Conjugation_4)
+[^71]:[_aptr_](https://en.wiktionary.org/wiki/aptr#Adverb)
+[^72]:[_seg_](https://en.wiktionary.org/wiki/segja) Notice the imperative forms in this statement. King Harald is giving Auðunn commands. 
+[^73]:[_hversu_](https://en.wiktionary.org/wiki/hversu#Old_Norse)
+[^74]:[_launar_](https://en.wiktionary.org/wiki/launa#Conjugation)
+[^75]:[_sér_](https://en.wiktionary.org/wiki/vera#Old_Norse) Look at the subjunctive case!
+[^76]:[_gæfumaðr_](https://old-norse.net/html/g.php#g%C3%A6fuma%C3%B0r)
+[^77]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
+[]:[]
