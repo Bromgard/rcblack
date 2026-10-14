@@ -306,23 +306,23 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^87]:[_gefa_](https://en.wiktionary.org/wiki/gefa#Conjugation_2)
 [^88]:[_þó_](https://en.wiktionary.org/wiki/%C3%BE%C3%B3#Adverb_2) Related to "although."
 [^89]:[_kvæmisk_](https://en.wiktionary.org/wiki/koma#Conjugation_4) Equivalent to _kœmimsk_ in this chart under the mediopassive. _Koma...leiðar_ = "to make happen." In this passage with subjuctive, "That I might in the end make this happen."
-[^90]:[_mætta_](_https://en.wiktionary.org/wiki/mega#Conjugation_3_) "Might..."
-[^91]:[]
-[^92]:[]
-[^93]:[]
-[^94]:[]
-[^95]:[]
-[^96]:[]
-[^97]:[]
-[^98]:[]
-[^99]:[]
-[^100]:[]
-[^101]:[]
-[^102]:[]
-[^103]:[]
-[^104]:[l
-[^105]:[]
-[^106]:[]
-[^107]:[]
-[^108]:[]
-[^109]:[]
+[^90]:[_mætta_](https://en.wiktionary.org/wiki/mega#Conjugation_3) "Might..."
+[^91]:[_fá_](https://en.wiktionary.org/wiki/f%C3%A1#Conjugation_2)
+[^92]:[_vistir_](https://en.wiktionary.org/wiki/vist#Declension_4) "Food."
+[^93]:[_þurfið_](https://en.wiktionary.org/wiki/%C3%BEurfa#Conjugation_2)
+[^94]:[_fundar_](https://en.wiktionary.org/wiki/fundr#Declension) "Meeting."
+[^95]:[_í móti_](https://en.wiktionary.org/wiki/m%C3%B3t#Declension_3) _í móti_ means "against."
+[^96]:[_hálft_](https://en.wiktionary.org/wiki/halfr#Declension) Same as _halft_. "Half."
+[^97]:[_máttu_](https://en.wiktionary.org/wiki/mega#Conjugation_3)
+[^98]:[_líta_](https://en.wiktionary.org/wiki/l%C3%ADta#Conjugation_4)
+[^99]:[_deyja_](https://en.wiktionary.org/wiki/deyja#Conjugation_2)
+[^100]:[_þars_](https://en.wiktionary.org/wiki/%C3%BEars#Adverb)
+[^101]:[_farit_](https://en.wiktionary.org/wiki/farinn#Old_Norse) The declension chart for the past participle.
+[^102]:[_við_](https://en.wiktionary.org/wiki/vi%C3%B0#Preposition_3)
+[^103]:[_lítr_](https://en.wiktionary.org/wiki/l%C3%ADta#Conjugation_4)
+[^104]:[_sýnisk_](https://en.wiktionary.org/wiki/s%C3%BDna#Conjugation_3) Mediopassive conjugation. It "appeared to him that..."
+[^105]:[_nǫkkvot_](https://en.wiktionary.org/wiki/n%C7%ABkkurr#Old_Norse) Equivalent to _nǫkkut_ on this chart. Another earlier form. 
+[^106]:[_ármaðrinn_](https://old-norse.net/html/aa.php#%C3%A1rma%C3%B0r)
+[^107]:[_sættask_](https://en.wiktionary.org/wiki/s%C3%A6tta#Verb_2) In this sense, "to come to an agreement."
+[^108]:[_skal_](https://en.wiktionary.org/wiki/skulu#Conjugation_2) Modal verb. "Must," or "shall."
+[^109]:[_meta_](https://en.wiktionary.org/wiki/meta#Conjugation_3) "To judge" or "decide." 
