@@ -293,36 +293,36 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^74]:[_launar_](https://en.wiktionary.org/wiki/launa#Conjugation)
 [^75]:[_sér_](https://en.wiktionary.org/wiki/vera#Old_Norse) Look at the subjunctive case!
 [^76]:[_gæfumaðr_](https://old-norse.net/html/g.php#g%C3%A6fuma%C3%B0r)
-[^77]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
-[]:[]
+[^77]:[_heit_](https://en.wiktionary.org/wiki/heita#Conjugation_3) This is the same "heita" we've seem in _Auðunn hét maðr_. This can also mean, "to promise."
+[^78]:[_siðan_](https://en.wiktionary.org/wiki/s%C3%AD%C3%B0an#Adverb_2)
+[^79]:[_austr_](https://en.wiktionary.org/wiki/austr#Declension)
+[^80]:[_fjárins_](https://en.wiktionary.org/wiki/f%C3%A9#Declension_2)
+[^81]:[_matar_](https://en.wiktionary.org/wiki/matr#Old_Norse)
+[^82]:[_bæði_](https://en.wiktionary.org/wiki/b%C3%A1%C3%B0ir#Declension_3)
+[^83]:[_fyr_](https://en.wiktionary.org/wiki/fyr#Preposition)
+[^84]:[_ármanns_](https://old-norse.net/html/aa.php#%C3%A1rma%C3%B0r)
+[^85]:[_nokkverra_](https://en.wiktionary.org/wiki/n%C7%ABkkurr#Old_Norse) This formation is equivalent to _nǫkkura_. Our text records an earlier form. 
+[^86]:[_lézk_](https://en.wiktionary.org/wiki/l%C3%A1ta#Conjugation_3) This is close to English, "To let something be done." With the verb, _selja_, "To let himself give.." with the reflexive component. He made it so that he got half of the bear. 
+[^87]:[_gefa_](https://en.wiktionary.org/wiki/gefa#Conjugation_2)
+[^88]:[_þó_](https://en.wiktionary.org/wiki/%C3%BE%C3%B3#Adverb_2) Related to "although."
+[^89]:[_kvæmisk_](https://en.wiktionary.org/wiki/koma#Conjugation_4) Equivalent to _kœmimsk_ in this chart under the mediopassive. _Koma...leiðar_ = "to make happen." In this passage with subjuctive, "That I might in the end make this happen."
+[^90]:[_mætta_](_https://en.wiktionary.org/wiki/mega#Conjugation_3_) "Might..."
+[^91]:[]
+[^92]:[]
+[^93]:[]
+[^94]:[]
+[^95]:[]
+[^96]:[]
+[^97]:[]
+[^98]:[]
+[^99]:[]
+[^100]:[]
+[^101]:[]
+[^102]:[]
+[^103]:[]
+[^104]:[l
+[^105]:[]
+[^106]:[]
+[^107]:[]
+[^108]:[]
+[^109]:[]
