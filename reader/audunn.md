@@ -29,8 +29,7 @@ Hann svaraði, ‘Fara,’ segir hann, ‘til Danmerkr ok gefa Sveini konungi.[^
 
 Haraldr konungr sagði: ‘Hvárt[^46] er at þú ert maðr svá óvitr[^47] at þú hefir eigi heyrt ófrið þann[^48] er í milli[^49] er landa þessa, eða ætlar þú 
 <!--
-giptu[^50] þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi[^54] til?[^55]’
--->
+giptu[^50] -->þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi[^54] til?[^55]
 
 Auðunn svaraði, ‘Herra[^56], þat er á yðru[^57] valdi[^58], en øngu játum[^59] vér[^60] ǫðru[^61] en þessu er vér hǫfum[^62] áðr[^63] ætlat[^64].’
 
@@ -275,13 +274,12 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 "Between these lands."
 
 <!--
-[^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck. ...you think your luck so great that..."
+[^50]:[_giptu_](https://old-norse.net/html/g.php#gipta), luck. ...you think your luck so great that..."-->
 [^51]:[_gjǫrsimar_](https://old-norse.net/html/g.php#g%C3%B6rsemi) ...you would travel with..."
 [^52]:[_klakklaust_](https://old-norse.net/html/k.php#klaklaust), ...where others could not go unscathed... although they have need (to do this). This is a very complicated construction! 
 [^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)...although they have need (to do this). Although others have to go anyway, presumably officials or for market logistics. 
 [^54]:[_eigi_](https://en.wiktionary.org/wiki/eiga#Conjugation_3) This is the verb! Find the third person plural subjunctive.
 [^55]:[_til_](https://en.wiktionary.org/wiki/til#Preposition_10) eiga...til, "to have," or "posess."
--->
 
 [^56]:[_Herra_](https://en.wiktionary.org/wiki/herra#Noun_7) Lord. Courtly words were imported from German speaking regions.
 [^57]:[_yðru_](https://en.wiktionary.org/wiki/y%C3%B0arr#Declension) Declined form of the possessive pronoun yðr, "Your."
