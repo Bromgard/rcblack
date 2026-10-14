@@ -26,7 +26,9 @@ Konungr mælti, ‘Hvat villtu þá af gjǫra?[^44]’
 
 Hann svaraði, ‘Fara,’ segir hann, ‘til Danmerkr ok gefa Sveini konungi.[^45]’
 
+<!--
 Haraldr konungr sagði: ‘Hvárt[^46] er at þú ert maðr svá óvitr[^47] at þú hefir eigi heyrt ófrið þann[^48] er í milli[^49] er landa þessa, eða ætlar þú giptu[^50] þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi[^54] til?[^55]’
+-->
 
 Auðunn svaraði, ‘Herra[^56], þat er á yðru[^57] valdi[^58], en øngu játum[^59] vér[^60] ǫðru[^61] en þessu er vér hǫfum[^62] áðr[^63] ætlat[^64].’
 
@@ -262,6 +264,8 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^43]:[_eigu_](https://en.wiktionary.org/wiki/eiga#Declension_3). This is very sneaky. This is a noun form of the verb we've already seen. 
 [^44]:[_gjǫra_](https://en.wiktionary.org/wiki/gera#Conjugation_4). An annoying thing. Some dictionaries list this as you see it in the text, others list it as, "gera." One is an earlier form than the other.
 [^45]:[_Sveini konungi_](https://en.wikipedia.org/wiki/Svein_Knutsson)
+
+<!--
 [^46]:_Hvárt...eða_, This is the "either...or" construction.
 [^47]:[_óvitr_](https://old-norse.net/html/oo.php#%C3%B3vitr)
 [^48]:[_ófrið_](https://old-norse.net/html/oo.php#%C3%B3fri%C3%B0r), the 'ó-' prefix is like english, 'un-.' The two kings are at war with each other. 
@@ -273,6 +277,8 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^53]:[_nauðsyn_](https://old-norse.net/html/n.php#nau%C3%B0syn)...although they have need (to do this). Although others have to go anyway, presumably officials or for market logistics. 
 [^54]:[_eigi_](https://en.wiktionary.org/wiki/eiga#Conjugation_3) This is the verb! Find the third person plural subjunctive.
 [^55]:[_til_](https://en.wiktionary.org/wiki/til#Preposition_10) eiga...til, "to have," or "posess."
+-->
+
 [^56]:[_Herra_](https://en.wiktionary.org/wiki/herra#Noun_7) Lord. Courtly words were imported from German speaking regions.
 [^57]:[_yðru_](https://en.wiktionary.org/wiki/y%C3%B0arr#Declension) Declined form of the possessive pronoun yðr, "Your."
 [^58]:[_valdi_](https://en.wiktionary.org/wiki/vald#Declension_3)
