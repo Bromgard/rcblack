@@ -44,30 +44,18 @@ Hann ferr nú síðan[^78] suðr með landi ok í Vik austr[^79] ok þá til Dan
 
 ‘Ek mun fá[^91] þér vistir[^92] sem it þurfið[^93] til konungs fundar[^94], en þar í móti[^95] vil ek eiga hálft[^96] dýrit, ok máttu[^97] á þat líta[^98] at dýrit mun deyja[^99] fyrir þér, þars[^100] it þurfuð vistir miklar, en fé sé farit[^101], ok er búit við[^102] at þú hafir þá ekki dýrsins.’
  
-Ok er hann lítr[^103] á þetta, sýnisk[^104] honum nǫkkvot[^105] eptir sem ármaðrinn[^106] mælti fyrir honum, ok sættask[^107] þeir á þetta, at hann selr Áka hálft dýrit, ok skal[^108] konungr síðan meta[^109] allt saman. Skulu þeir fara báðir nú á fund konungs, ok svá gjǫra þeir, fara nú báðir á fund konungs ok stóðu fyr borðinu. Konungr íhugaði hverr þessi maðr mindi vera er hann kenndi
-eigi, ok mælti síðan til Auðunar:
+Ok er hann lítr[^103] á þetta, sýnisk[^104] honum nǫkkvot[^105] eptir sem ármaðrinn[^106] mælti fyrir honum, ok sættask[^107] þeir á þetta, at hann selr Áka hálft dýrit, ok skal[^108] konungr síðan meta[^109] allt saman. Skulu[^110] þeir fara báðir nú á fund[^111] konungs, ok svá gjǫra[^112] þeir, fara nú báðir á fund konungs ok stóðu fyr borðinu[^113]. Konungr íhugaði[^114] hverr[^115] þessi maðr mindi[^116] vera er hann kenndi[^117] eigi, ok mælti síðan til Auðunar:
  
 ‘Hverr ertu?’ sagði hann.
 
-Hann svaraði, ‘Ek em íslenzkr maðr, herra,’ sagði hann, ‘ok kominn
-nú útan af Grœnlandi ok nú af Nóregi, ok ætlaðak at fœra yðr bjarndýr 
-þetta; keyptak þat með allri eigu minni, ok nú er þó á orðit mikit fyrir
-mér: ek á nú hálft eitt dýrit’ — ok sagði konungi síðan hversu farit
-hafði með þeim Áka ármanni hans. Konungr mælti:
+Hann svaraði, "Ek em íslenzkr maðr, herra," sagði hann, "ok kominn[^118] nú útan af Grœnlandi ok nú af Nóregi, ok ætlaðak[^119] at fœra[^120] yðr bjarndýr þetta; keyptak[^121] þat með allri eigu minni, ok nú er þó á orðit mikit fyrir mér[^122]: ek á[^123] nú hálft eitt dýrit’ — ok sagði konungi síðan hversu farit hafði með þeim Áka ármanni hans"[^124]. Konungr mælti:
  
-‘Er þat satt, Áki, er hann segir?’
+"Er þat satt[^125], Áki, er hann segir?"
 
 ‘Satt er þat,’ sagði hann.
 
-Konungr mælti, ‘Ok þótti þér þat til liggja, þar sem ek settak þik 
-mikinn mann, at hepta þat eða tálma er maðr gjǫrðisk til at fœra mér gørsimi ok gaf fyr alla eign, ok sá þat Haraldr konungr at ráði at láta
-hann fara í friði, ok er hann várr óvinr? Hygg þú at þá, hvé sannligt þat
-var þinnar handar, ok þat væri makligt at þú værir drepinn. En ek mon
-nú eigi þat gjǫra, en braut skaltu fara þegar ór landinu ok koma aldrigi
-aptr síðan mér í augsýn. En þér, Auðunn, kann ek slíka þǫkk sem þú
-gæfir mér allt dýrit, ok ver hér með mér.’
-Þat þekkisk hann ok er með Sveini konungi um hríð.
-Ok er liðu nǫkkverjar stundir, þá mælti Auðunn við konung:
+Konungr mælti, ‘Ok þótti[^126] þér þat til liggja[^127], þar sem ek settak[^128] þik mikinn mann[^129], at hepta[^130] þat eða tálma er maðr gjǫrðisk til at fœra mér gørsimi ok gaf fyr alla eign, ok sá þat Haraldr konungr at ráði at láta hann fara í friði, ok er hann várr óvinr? Hygg þú at þá, hvé sannligt þat var þinnar handar, ok þat væri makligt at þú værir drepinn. En ek mon nú eigi þat gjǫra, en braut skaltu fara þegar ór landinu ok koma aldrigi aptr síðan mér í augsýn. En þér, Auðunn, kann ek slíka þǫkk sem þú
+gæfir mér allt dýrit, ok ver hér með mér.’ Þat þekkisk hann ok er með Sveini konungi um hríð. Ok er liðu nǫkkverjar stundir, þá mælti Auðunn við konung:
 
 ‘Braut fýsir mik nú, herra.’
 
@@ -152,10 +140,9 @@ gjǫrsimi.’
 
 Síðan dró konungr ‹hringð af hendi sér ok gaf Auðuni ok mælti:
 
- ‘Þó at svá illa verði at þú br‹jðótir skipit ok týnir fénu, eigi ertu
+‘Þó at svá illa verði at þú br‹jðótir skipit ok týnir fénu, eigi ertu
 félauss ef þú kemsk á land, því at margir menn hafa gull á sér í
-skipsbrotum; ok sér þá at þú hefir fundit Svein konung, ef þú heldr
- hringinum. En þat vil ek ráða þér,’ segir hann, ‘at þú gefir eigi hringinn,
+skipsbrotum; ok sér þá at þú hefir fundit Svein konung, ef þú heldr hringinum. En þat vil ek ráða þér,’ segir hann, ‘at þú gefir eigi hringinn,
 nema þú þikkisk eiga svá mikit gott at launa nǫkkverjum gǫfgum
 manni; þá gef þeim hringinn, því at tignum mǫnnum sómir at þiggja.
 
@@ -327,4 +314,25 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^106]:[_ármaðrinn_](https://old-norse.net/html/aa.php#%C3%A1rma%C3%B0r)
 [^107]:[_sættask_](https://en.wiktionary.org/wiki/s%C3%A6tta#Verb_2) In this sense, "to come to an agreement."
 [^108]:[_skal_](https://en.wiktionary.org/wiki/skulu#Conjugation_2) Modal verb. "Must," or "shall."
-[^109]:[_meta_](https://en.wiktionary.org/wiki/meta#Conjugation_3) "To judge" or "decide." 
+[^109]:[_meta_](https://en.wiktionary.org/wiki/meta#Conjugation_3) "To judge" or "decide."
+[^110]:[_skulu_](https://en.wiktionary.org/wiki/skulu#Conjugation_2) Modal verb. "shall."
+[^111]:[_fund_](https://en.wiktionary.org/wiki/fundr#Declension)
+[^112]:[_gjǫra_](https://en.wiktionary.org/wiki/gera#Conjugation_4). The Old Icelandic literature uses these forms interchangeably. Not all the dictionaries agree. This is an earlier form. 
+[^113]:[_borðinu_](https://en.wiktionary.org/wiki/bor%C3%B0#Declension_3)
+[^114]:[_ihugaði_](https://old-norse.net/html/ii.php#%C3%ADhuga)
+[^115]:[_hverr_](https://en.wiktionary.org/wiki/hverr#Declension_2)
+[^116]:[_mundi_](https://en.wiktionary.org/wiki/munu#Conjugation_2) Look at the subjunctive. Another alternate form. 
+[^117]:[_kenndi_](https://en.wiktionary.org/wiki/kenna#Conjugation_5)
+[^118]:[_kominn_](https://en.wiktionary.org/wiki/koma#Old_Norse)
+[^119]:[_ætlaðak_](https://old-norse.net/html/ae.php#%C3%A6tla) Scroll down to reflexive. "To indend," or "purpose."
+[^120]:[_færa_](https://en.wiktionary.org/wiki/f%C7%BFra#Conjugation)
+[^121]:[_keptak_](https://en.wiktionary.org/wiki/kaupa#Conjugation_2)
+[^122]:[..._orðit_...](https://en.wiktionary.org/wiki/ver%C3%B0a#Conjugation_3) Declined participle. Altogether, "This has been a huge occurrence to me." Or "And now I'm overwhelmed."
+[^123]:[_á_](https://en.wiktionary.org/wiki/eiga#Conjugation_3)
+[^124]:...the kind ask how things had fared between him and Áki, his officer."So, what happened...?"
+[^125]:[_satt_](https://en.wiktionary.org/wiki/sa%C3%B0r#Old_Norse)
+[^126]:[_þótti_](https://en.wiktionary.org/wiki/%C3%BEykkja#Conjugation)
+[^127]:[_liggja_](https://en.wiktionary.org/wiki/liggja#Conjugation_4)
+[^128]:[_settak_](https://en.wiktionary.org/wiki/setja#Conjugation_2) "That I position you to be..."
+[^129]: "...A powerful man."
+[^130]:[_hepta_](https://old-norse.net/html/h.php#hepta) "Hinder."
