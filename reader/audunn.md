@@ -4,7 +4,7 @@
 
 Maðr hét Auðunn, vestfirzkr[^1] at kyni[^2] ok félítill[^3]. Hann fór útan[^4] vestr[^5] þar í fjǫrðum með umráði[^6] Þorsteins, búanda góðs[^7], ok Þóris stýrimanns, er þar hafði þegit[^7] vist[^8] of vetrinn[^9] með Þorsteini. Auðunn var ok þar ok starfaði[^10] fyrir honum Þóri ok þá þessi laun[^11] af honum, útanferðina[^12] ok hans umsjá[^13]. Hann Auðunn lagði[^14] mestan hluta fjár[^15] þess, er var fyr[^16] móður sína, áðr[^17] hann stigi[^18] á skip, ok var kveðit[^19] á þriggja[^20] vetra bjǫrg[^21]. 
 
-Ok nú fara þeir út heðan[^22], ok fersk[^23] þeim vel, ok var Auðunn of vetrinn eptir með Þóri stýrimanni — hann átti bú á Mœri. Ok um sumarit eptir fara þeir út til Grœnlands ok eru þar of vetrinn. Þess er við getit[^24], at Auðunn kaupir[^25] þar bjarndýri eitt[^26], gjǫrsimi[^27] mikla, ok gaf þar fyrir alla eigu sína. Ok nú of sumarit eptir þá fara þeir aptr til Nóregs ok verða vel reiðfara[^28]; hefir Auðunn dýr sitt með sér ok ætlar[^29] nú at fara suðr til Danmerkr á fund[^29] Sveins konungs ok gefa honum dýrit. Ok er[^30] hann kom suðr í landit þar sem[^30] konungr var fyrir, þá gengr hann upp af skipi ok leiðir[^31] eptir sér dýrit ok leigir[^32] sér herbergi[^33]. Haraldi konungi var sagt brátt[^34] at þar var komit bjarndýri, gørsimi mikil, ok á íslenzkr maðr. Konungr sendir þegar menn eptir honum, ok er Auðunn kom fyrir konung, kveðr[^35] hann konung vel. Konungr tók vel kveðju hans ok spurði síðan[^36]
+Ok nú fara þeir út heðan[^22], ok fersk[^23] þeim vel, ok var Auðunn of vetrinn eptir með Þóri stýrimanni — hann átti bú á Mœri. Ok um sumarit eptir fara þeir út til Grœnlands ok eru þar of vetrinn. Þess er við getit[^24], at Auðunn kaupir[^25] þar bjarndýri eitt[^26], gjǫrsimi[^27] mikla, ok gaf þar fyrir alla eigu sína. Ok nú of sumarit eptir þá fara þeir aptr til Nóregs ok verða vel reiðfara[^28]; hefir Auðunn dýr sitt með sér ok ætlar[^29] nú at fara suðr til Danmerkr á fund[^29] Sveins konungs ok gefa honum dýrit. Ok er[^30] hann kom suðr í landit þar sem[^30] konungr var fyrir, þá gengr hann upp af skipi ok leiðir[^31] eptir sér dýrit ok leigir[^32] sér herbergi[^33]. Haraldi konungi var sagt brátt[^34] at þar var komit bjarndýri, gørsimi mikil, ok á íslenzkr maðr. Konungr sendir þegar menn eptir honum, ok er Auðunn kom fyrir konung, kveðr[^35] hann konung vel. Konungr tók vel kveðju hans ok spurði síðan,
 
 ‘Áttu[^36] gjǫrsimi mikla í bjarndýri?’
 
@@ -28,7 +28,7 @@ Hann svaraði, ‘Fara,’ segir hann, ‘til Danmerkr ok gefa Sveini konungi.[^
 
 Haraldr konungr sagði: ‘Hvárt[^46] er at þú ert maðr svá óvitr[^47] at þú hefir eigi heyrt ófrið þann[^48] er í milli[^49] er landa þessa, eða ætlar þú giptu[^50] þína svá mikla at þú munir þar komask með gjǫrsimar[^51], er aðrir fá eigi komizk klakklaust[^52] þó at nauðsyn[^53] eigi[^54] til?[^55]
 
-Auðunn svaraði, ‘Herra[^56], þat er á yðru[^57] valdi[^58], en øngu játum[^59] vér[^60] ǫðru[^61] en þessu er vér hǫfum[^62] áðr[^63] ætlat[^64].’
+Auðunn svaraði, ‘Herra[^56], þat er á yðru[^57] valdi[^58], en øngu játum[^59] vér[^60] ǫðru[^61] en þessu er vér hǫfum[^62] áðr[^63] ætlat'[^64].
 
 Þá mælti[^65] konungr, ‘Hví[^66] mun[^67] eigi þat til at þú farir leið[^68] þína sem[^69] þú vill, ok kom[^70] þá til mín, er þú ferr aptr[^71], ok seg[^72] mér hversu[^73] Sveinn konungr launar[^74] þér dýrit, ok kann þat vera at þú sér[^75] gæfumaðr[^76].’
 
@@ -65,114 +65,77 @@ Konungr svarar heldr seint[^160], ‘Hvat villtu þá,’ segir hann, ‘ef þú
 Ok nú gaf konungr honum silfr[^164] mjǫk mikit[^165], ok fór hann suðr síðan með Rúmferlum[^166], ok skipaði[^167] konungr til um ferð[^168] hans, bað[^169] hann koma til sín er hann kvæmi[^170] aptr. Nú fór hann ferðar sinnar[^171] unz[^172] hann kemr suðr í Rómaborg[^173]. Ok er hann hefir þar dvalizk[^174] sem hann tíðir[^175], þá ferr hann aptr; tekr þá sótt mikla[^176], gjǫrir hann þá ákafliga magran[^177]. Gengr þá upp allt féit[^178] þat er konungr hafði gefit honum til ferðarinnar[^179], tekr síðan upp stafkarls stíg[^180] ok biðr sér matar. Hann er þá kollóttr[^181] ok heldr ósælligr[^182]. Hann kemr aptr í Danmǫrk at páskum[^183] þangat sem konungr er þá staddr, en eigi þorði[^184] hann at láta sjá sik ok var í kirkjuskoti[^185] ok ætlaði[^186] þá til fundar við konung er hann gengi til kirkju[^187] um kveldit[^188]. Ok nú er hann sá[^189] konunginn ok hirðina[^190] fagrliga[^191] búna[^192], þá þorði hann eigi at láta sjá sik. Ok er konungr gekk til drykkju[^193] í hǫllina[^194], þá mataðisk[^195] Auðunn úti[^196], sem siðr er til Rúmferla[^197] meðan þeir hafa eigi kastat[^198] staf ok skreppu[^199]. Ok nú of aptaninn[^200], er konungr gekk til kveldsǫngs[^201], ætlaði Auðunn at hitta[^202] hann, ok svá mikit sem honum þótti fyrr fyr[^203], jók[^204] nú miklu á, er þeir váru drukknir hirðmenninir[^205]. Ok er þeir gengu inn aptr, þá þekði[^206] konungr mann ok þóttisk finna[^207], at eigi hafði frama[^208] til at ganga fram at hitta hann. Ok nú er hirðin gekk inn, þá veik[^209] konungr út ok mælti: ‘Gangi sá[^210] nú fram er mik vill finna; mik grunar[^211], at sá muni vera
 maðrinn.’
 
-Þá gekk Auðunn fram ok fell til fóta konungi, ok varla kenndi konungr hann. Ok þegar er konungr veit hverr hann er, tók konungr í hǫnd honum Auðuni ok bað hann ‹velð kominn. ‘Ok hefir þú mikit skipazk,’ sagði hann, ‘síðan vit sámsk,’ — leiðir hann eptir sér inn. Ok er hirðin sá hann, hlógu þeir at honum, en konungr segir:
+Þá gekk Auðunn fram[^212] ok fell til fóta[^213] konungi, ok varla[^214] kenndi konungr hann. Ok þegar er konungr veit[^214] hverr hann er, tók konungr í hǫnd honum Auðuni ok bað hann vel kominn. ‘Ok hefir þú mikit skipazk[^215],’ sagði hann, ‘síðan vit sámsk[^216],’ — leiðir hann eptir sér inn. Ok er hirðin sá hann, hlógu[^217] þeir at honum, en konungr segir:
 
-‘Eigi þurfu þér at honum at hlæja, því at betr hefir hann sét fyr sinni sál heldr en ér.’
+‘Eigi þurfu þér at honum at hlæja, því at betr hefir hann set[^218] fyr sinni sál[^219] heldr en ér.’
 
-Þá lét konungr gjǫra honum laug ok gaf honum síðan klæði, ok er hann nú með honum.
+Þá lét konungr gjǫra honum laug[^220] ok gaf honum síðan klæði[^221], ok er hann nú með honum.
  
-Þat er nú sagt einhverju sinni of várit, at konungr býðr Auðuni at
-vera með sér álengðar ok kvezk mindu gjǫra hann skutilsvein sinn ok
-leggja til hans góða virðing. Auðunn sagði:
+Þat er nú sagt einhverju sinni[^222] of várit, at konungr býðr[^223] Auðuni at vera með sér álengðar[^224] ok kvezk mindu[^225] gjǫra hann skutilsvein[^226] sinn ok leggja til hans góða virðing[^227]. Auðunn sagði:
  
-‘Guð þakki yðr, herra, sóma þann allan, er þér vilið til mín leggja,
-en hitt er mér í skapi, at fara út til Íslands.’
-Konungr sagði, ‘Þetta sýnisk mér undarliga kosit.’
+‘Guð þakki yðr, herra, sóma[^228] þann allan, er þér vilið til mín leggja, en hitt er mér í skapi[^229], at fara út til Íslands.’
+
+Konungr sagði, ‘Þetta sýnisk mér undarliga kosit[^230].’
  
-Auðunn mælti, ‘Eigi má ek þat vita, herra,’ sagði hann, ‘at ek hafa
-hér mikinn sóma með yðr, en móðir mín troði stafkarls stíg út á Íslandi,
-því at nú er lokit ‹bjǫrgð þeiri er ek lagða til áðr ek fœra af Íslandi.’ 
-Konungr svaraði, ‘Vel er mælt,’ sagði hann, ‘ok mannliga, ok muntu
-verða giptumaðr; sjá einn var svá hlutrinn, at mér mindi eigi mislíka at
-þú fœrir í braut heðan, ok ver nú með mér þar til er skip búask.’
+Auðunn mælti, ‘Eigi má ek þat vita[^231], herra,’ sagði hann, ‘at ek hafa hér mikinn sóma með yðr, en móðir mín troði stafkarls stíg[^232] út á Íslandi, því at nú er lokit bjǫrg þeiri[^233] er ek lagða til áðr ek fœra af Íslandi.’ 
+
+Konungr svaraði, ‘Vel er mælt,’ sagði hann, ‘ok mannliga, ok muntu verða giptumaðr[^234]; sjá einn var svá hlutrinn[^235], at mér mindi eigi mislíka[^236] at þú fœrir í braut heðan, ok ver nú með mér þar til er skip búask[^237].’
  
 Hann gørir svá.
 
-Einn dag, er á leið várit, gekk Sveinn konungr ofan á bryggjur, ok
-váru menn þá at at búa skip til ýmissa landa, í Austrveg eða Saxland, 
-til Svíþjóðar eða Nóregs. Þá koma þeir Auðunn at einu skipi fǫgru, ok
-váru menn at at búa skipit. Þá spurði konungr:
-‘Hversu lízk þér, Auðunn, á þetta skip?’
+Einn dag, er á leið várit, gekk Sveinn konungr ofan á bryggjur[^238], ok váru menn þá at at búa skip til ýmissa[^239] landa, í Austrveg[^240] eða Saxland[^241], til Svíþjóðar[^242] eða Nóregs. Þá koma þeir Auðunn at einu skipi fǫgru[^243], ok váru menn at at búa skipit. Þá spurði konungr:
+
+‘Hversu lízk[^244] þér, Auðunn, á þetta skip?’
  
 Hann svaraði, ‘Vel, herra.’
 
 Konungr mælti, ‘Þetta skip vil ek þér gefa ok launa bjarndýrit.’
 
-Hann þakkaði gjǫfina eptir sinni kunnustu. Ok er leið stund ok skipit 
-var albúit, þá mælti Sveinn konungr við Auðun:
+Hann þakkaði gjǫfina[^245] eptir sinni kunnustu. Ok er leið stund[^246] ok skipit var albúit, þá mælti Sveinn konungr við Auðun:
 
-‘Þó villdu nú á braut, þá mun ek nú ekki letja þik, en þat hefi ek
-spurt at illt er til hafna fyrir landi yðru, ok eru víða ørœfi ok hætt skipum. 
-Nú brýtr þú ok týnir skipinu ok fénu, lítt sér þat þá á, at þú hafir fundit
-Svein konung ok gefit honum gjǫrsimi.’
+‘Þó villdu nú á braut, þá mun ek nú ekki letja þik, en þat hefi ek spurt[^247] at illt er til hafna[^248] fyrir landi yðru, ok eru víða ørœfi[^249] ok hætt[^250] skipum. Nú brýtr[^251] þú ok týnir[^252] skipinu ok fénu, lítt sér þat þá á[^253], at þú hafir fundit Svein konung ok gefit honum gjǫrsimi.’
 
-Síðan seldi konungr honum leðr‹hosuð fulla af silfri.
+Síðan seldi konungr honum leðrhosu[^254] fulla af silfri.
  
-‘Ok ertu þá enn eigi félauss með ǫllu, þótt þú brjótir skipit, ef þú
-fær haldit þessu. Verða má svá enn,’ segir konungr, ‘at þú týnir þessu fé; lítt nýtr þú þá þess er ‹þúð fannt Svein konung ok gaft honum
-gjǫrsimi.’
+‘Ok ertu þá enn eigi félauss með ǫllu, þótt þú brjótir[^255] skipit, ef þú fær haldit[^256] þessu. Verða má svá enn[^257],’ segir konungr, ‘at þú týnir þessu fé; lítt nýtr[^258] þú þá þess er þú fannt[^259] Svein konung ok gaft honum gjǫrsimi.’
 
-Síðan dró konungr ‹hringð af hendi sér ok gaf Auðuni ok mælti:
+Síðan dró[^260] konungr hring[^261] af hendi sér ok gaf Auðuni ok mælti:
 
-‘Þó at svá illa verði at þú br‹jðótir skipit ok týnir fénu, eigi ertu
-félauss ef þú kemsk á land, því at margir menn hafa gull á sér í
-skipsbrotum; ok sér þá at þú hefir fundit Svein konung, ef þú heldr hringinum. En þat vil ek ráða þér,’ segir hann, ‘at þú gefir eigi hringinn,
-nema þú þikkisk eiga svá mikit gott at launa nǫkkverjum gǫfgum
-manni; þá gef þeim hringinn, því at tignum mǫnnum sómir at þiggja.
+‘Þó at svá illa verði at þú brjótir skipit ok týnir fénu, eigi ertu félauss ef þú kemsk á land, því at margir menn hafa gull á sér í skipsbrotum; ok sér þá at þú hefir fundit Svein konung, ef þú heldr hringinum. En þat vil ek ráða þér,’ segir hann, ‘at þú gefir eigi hringinn[^262], nema þú þikkisk eiga svá mikit gott at launa nǫkkverjum[^263] gǫfgum[^264] manni[^265]; þá gef þeim hringinn, því at tignum mǫnnum[^266] sómir[^267] at þiggja[^268].
 
 Ok far nú heill.’
 
-Síðan lætr hann í haf ok kømr í Nóreg ok lætr flytja upp varnað
-sinn, ok þurfti nú meira við þat en fyrr er hann var í Nóregi. Hann ferr nú síðan á fund Haralds konungs ok vill efna þat er hann hét honum
-áðr hann fór til Danmerkr, ok kveðr konung vel. Haraldr konungr tok
-vel kveðju hans.
+Síðan lætr[^269] hann í haf ok kømr í Nóreg ok lætr flytja[^270] upp varnað[^271] sinn, ok þurfti nú meira[^272] við þat en fyrr er hann var í Nóregi. Hann ferr nú síðan á fund Haralds konungs ok vill efna[^273] þat er hann hét honum áðr hann fór til Danmerkr, ok kveðr konung vel. Haraldr konungr tok vel kveðju hans.
 
-‘Ok sezk niðr,’ sagði hann, ‘ok drekk hér með oss.’
+‘Ok sezk niðr[^274],’ sagði hann, ‘ok drekk hér með oss.’
 
-Ok svá gjǫrir hann. Þá spurði Haraldr konungr:
+Ok svá gjǫrir hann. Þá spurði[^275] Haraldr konungr:
 
 ‘Hverju launaði Sveinn konungr þér dýrit?’
 
-Auðunn svaraði, ‘Því, herra, at hann þá at mér.’
+Auðunn svaraði, ‘Því, herra, at hann þá[^276] at mér.’
 
-Konungr sagði, ‘Launat minda ek þér því hafa. Hverju launaði hann
-enn?’
+Konungr sagði, ‘Launat minda ek þér því hafa. Hverju launaði hann enn?’
 
 Auðunn svaraði, ‘Gaf hann mér silfr til suðrgǫngu.’
 
-Þá sagði Haraldr konungr, ‘Mǫrgum manni gefr Sveinn konungr
-silfr til suðrgǫngu eða annarra hluta, þótt ekki fœri honum gørsimar.
+Þá sagði Haraldr konungr, ‘Mǫrgum[^277] manni gefr Sveinn konungr silfr til suðrgǫngu eða annarra hluta, þótt ekki fœri honum gørsimar. Hvat er enn fleira?’
 
-Hvat er enn fleira?’
-
-‘Hann bauð mér,’ sagði Auðunn, ‘at gørask skutilsveinn hans ok mikinn
-sóma til mín at leggja.’
+‘Hann bauð[^278] mér,’ sagði Auðunn, ‘at gørask skutilsveinn hans ok mikinn sóma til mín at leggja.’
 
 ‘Vel var þat mælt,’ sagði konungr, ‘ok launa mindi hann enn fleira.’
-Auðunn sagði, ‘Gaf hann mér knǫrr með farmi þeim er hingat er
-bezt varit í Nóreg.’
 
-‘Þat var stórmannligt,’ sagði konungr, ‘en launat minda ek þér því
-hafa. Launaði hann því fleira?’
+Auðunn sagði, ‘Gaf hann mér knǫrr með farmi þeim er hingat er bezt varit í Nóreg.’
 
-Auðunn sagði, ‘Gaf hann mér leðrhosu fulla af silfri ok kvað mik þá
-eigi félausan ef ek helda því, þó at skip mitt bryti við Ísland.’
+‘Þat var stórmannligt,’ sagði konungr, ‘en launat minda ek þér því hafa. Launaði hann því fleira?’
 
-Konungr sagði, ‘Þat var ágætliga gǫrt, ok þat minda ek ekki gǫrt
-hafa; lauss minda ek þikkjask, ef ek gæfa þér skipit. Hvárt launaði
-hann fleira?’ 
+Auðunn sagði, ‘Gaf hann mér leðrhosu fulla af silfri ok kvað mik þá eigi félausan ef ek helda því, þó at skip mitt bryti við Ísland.’
 
-‘Svá var víst, herra,’ sagði Auðunn, ‘at hann launaði; hann gaf mér
-hring þenna er ek hefi á hendi, ok kvað svá mega at berask at ek týnda
-fénu ǫllu, ok sagði mik þá eigi félausan, ef ek ætta hringinn, ok bað 
-mik eigi lóga, nema ek ætta nǫkkverjum tignum ‹mannið svá gott at
-launa at ek vilda gefa. En nú hefi ek þann fundit, því at þú áttir kost at
-taka hvárttveggja frá mér, dýrit ok svá líf mitt, en þú lézt mik fara 
-þangat í friði sem aðrir náðu eigi.’
+Konungr sagði, ‘Þat var ágætliga gǫrt[^279], ok þat minda ek ekki gǫrt hafa; lauss minda ek þikkjask[^280], ef ek gæfa þér skipit. Hvárt launaði hann fleira?’ 
 
-Konungr tók við gjǫfinni með blíði ok gaf Auðuni í móti góðar gjafar
-áðr en þeir skilðisk. Auðunn varði fénu til Íslandsferðar ok fór út þegar 
-um sumarit til Íslands ok þótti vera inn mesti gæfumaðr.
+‘Svá var víst[^281], herra,’ sagði Auðunn, ‘at hann launaði; hann gaf mér hring þenna er ek hefi á hendi, ok kvað svá mega at berask[^282] at ek týnda fénu ǫllu, ok sagði mik þá eigi félausan, ef ek ætta[^283] hringinn, ok bað mik eigi lóga[^284], nema ek ætta nǫkkverjum tignum manni svá gott at launa at ek vilda gefa. En nú hefi ek þann fundit, því at þú áttir kost[^285] at taka hvárttveggja frá mér, dýrit ok svá líf mitt, en þú lézt mik fara þangat í friði sem aðrir náðu[^286] eigi.’
+
+Konungr tók við gjǫfinni með blíði[^287] ok gaf Auðuni í móti góðar gjafar[^288] áðr en þeir skilðisk[^289]. Auðunn varði fénu til Íslandsferðar ok fór út þegar um sumarit til Íslands ok þótti vera inn mesti gæfumaðr[^290].
 
 Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 
@@ -213,7 +176,7 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^33]:[_leiðir_](https://old-norse.net/html/l.php#lei%C3%B0a)
 [^34]:[_leigir_](https://old-norse.net/html/l.php#leiga)
 [^35]:[_herbergi_](https://old-norse.net/html/h.php#herbergi)
-[^36]:[_brátt_](https://en.wiktionary.org/wiki/br%C3%A1tt#Adverb)
+[^36]:[_Áttu_](https://en.wiktionary.org/wiki/eiga#Conjugation_3) A contraction, _átt + þú_. "Have you...?"
 [^37]:[_kveðir_](https://en.wiktionary.org/wiki/kve%C3%B0a#Conjugation_2)
 [^38]:[_síðan_](https://en.wiktionary.org/wiki/s%C3%AD%C3%B0an#Adverb_2)
 [^39]:[_verði_](https://old-norse.net/html/v.php#ver%C3%B0r2)
@@ -223,8 +186,6 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^43]:[_eigu_](https://en.wiktionary.org/wiki/eiga#Declension_3). This is very sneaky. This is a noun form of the verb we've already seen. 
 [^44]:[_gjǫra_](https://en.wiktionary.org/wiki/gera#Conjugation_4). An annoying thing. Some dictionaries list this as you see it in the text, others list it as, "gera." One is an earlier form than the other.
 [^45]:[_Sveini konungi_](https://en.wikipedia.org/wiki/Svein_Knutsson)
-
-
 [^46]:_Hvárt...eða_, This is the "either...or" construction.
 [^47]:[_óvitr_](https://old-norse.net/html/oo.php#%C3%B3vitr)
 [^48]:[_ófrið_](https://old-norse.net/html/oo.php#%C3%B3fri%C3%B0r), the 'ó-' prefix is like english, 'un-.' The two kings are at war with each other. 
@@ -391,3 +352,82 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^209]:[_veik_](https://en.wiktionary.org/wiki/veikja#Conjugation_2)
 [^210]:Personal pronoun
 [^211]:[_grunar_](https://en.wiktionary.org/wiki/gruna#Conjugation)
+[^212]:[_fram_](https://en.wiktionary.org/wiki/fram#Adverb_6)
+[^213]:[_fóta_](https://en.wiktionary.org/wiki/f%C3%B3tr#Declension)
+[^214]:[_varla_](https://en.wiktionary.org/wiki/varla#Adverb)
+[^215]:[_skipazk_](https://en.wiktionary.org/wiki/skipa#Conjugation_3)
+[^216]:[_sámsk_](https://en.wiktionary.org/wiki/sama#Old_Norse)
+[^217]:[_hlógu_](https://en.wiktionary.org/wiki/sama#Old_Norse)
+[^218]:[_set_](https://en.wiktionary.org/wiki/setja#Old_Norse)
+[^219]:[_sál_](https://old-norse.net/html/s.php#s%C3%A1la)
+[^220]:[_laug_](https://en.wiktionary.org/wiki/laug#Declension_3)
+[^221]:[_klæði_](https://en.wiktionary.org/wiki/kl%C3%A6%C3%B0i#Noun_2)
+[^222]:[_sinni_](https://en.wiktionary.org/wiki/sinni#Noun_4) "It was told that at one time..."
+[^223]:[_býðr_](https://en.wiktionary.org/wiki/bj%C3%B3%C3%B0a#Conjugation_3)
+[^224]:[_álengðar_](https://old-norse.net/html/aa.php#%C3%A1lengdar) Follow me around continuously. He's being asked to be part of the king's retinue. 
+[^225]:[_mindu_](https://en.wiktionary.org/wiki/munu#Conjugation_2) The modal verb. 
+[^226]:[_skutilsvein_](https://old-norse.net/html/s.php#skutilsveinn)
+[^227]:[_virðing_](https://old-norse.net/html/v.php#vir%C3%B0ing-II)
+[^228]:[_sóma_](https://old-norse.net/html/s.php#s%C3%A6md)
+[^229]:[_skapi_](https://en.wiktionary.org/wiki/skap#Declension)
+[^230]:[_kosit_](https://en.wiktionary.org/wiki/kj%C3%B3sa#Conjugation_3)
+[^231]:[_vita_](https://en.wiktionary.org/wiki/vita#Conjugation_3)
+[^232]:[_stafkarls_](https://old-norse.net/html/s.php#stafkarl) [_stíg_](https://old-norse.net/html/s.php#stigr)
+[^233]:[_bjǫrg_](https://en.wiktionary.org/wiki/bjarg#Declension_3)
+[^234]:[_giptumaðr_](https://old-norse.net/html/g.php#giptuma%C3%B0r)
+[^235]:[_hlutrinn_](https://en.wiktionary.org/wiki/hlutr#Declension)
+[^236]:[_mislíka_](https://old-norse.net/html/m.php#misl%C3%ADka)
+[^237]:[_búask_](https://en.wiktionary.org/wiki/b%C3%BAa#Conjugation_2)
+[^238]:[_bryggjur_](https://en.wiktionary.org/wiki/bryggja#Declension_3)
+[^239]:[_ýmissa_](https://en.wiktionary.org/wiki/%C3%BDmiss#Declension)
+[^240]:[_Austrveg_](https://en.wiktionary.org/wiki/Austrvegr)
+[^241]:[_Saxland_](https://en.wiktionary.org/wiki/Saxland#Declension_2)
+[^242]:[_Svíþjóðar_](https://en.wiktionary.org/wiki/Sv%C3%AD%C3%BEj%C3%B3%C3%B0#Icelandic)
+[^243]:[_fǫgru_](https://en.wiktionary.org/wiki/fagr#Declension)
+[^244]:[_lízk_](https://old-norse.net/html/l.php#l%C3%ADta-III)
+[^245]:[_gjǫfina_](https://en.wiktionary.org/wiki/gj%C7%ABf#Declension)
+[^246]:[_stund_](https://en.wiktionary.org/wiki/stund#Declension_5)
+[^247]:[_spurt_](https://en.wiktionary.org/wiki/spyrja#Conjugation_3)
+[^248]:[_hafna_](https://en.wiktionary.org/wiki/hafna#Conjugation_3)
+[^249]:[_ørœfi_](https://old-norse.net/html/oe.php#%C3%B6r%C3%A6fi)
+[^250]:[_hætt_](https://old-norse.net/html/h.php#h%C3%A6tta)
+[^251]:[_brýtr_](https://en.wiktionary.org/wiki/brj%C3%B3ta#Conjugation_2)
+[^252]:[_týnir_](https://en.wiktionary.org/wiki/t%C3%BDna#Conjugation_2)
+[^253]:[_á_](https://en.wiktionary.org/wiki/eiga#Conjugation_3)
+[^254]:[_leðrhosu_](https://old-norse.net/html/l.php#le%C3%B0rhosa)
+[^255]:[_brjótir_](https://en.wiktionary.org/wiki/brj%C3%B3ta#Conjugation_2)
+[^256]:[_haldit_](https://en.wiktionary.org/wiki/halda#Conjugation_2)
+[^257]:[_enn_](https://en.wiktionary.org/wiki/enn#Adverb_3)
+[^258]:[_nýtr_](https://en.wiktionary.org/wiki/n%C3%BDtr#Adjective)
+[^259]:[_fannt_](https://en.wiktionary.org/wiki/finna#Old_Norse)
+[^260]:[_dró_](https://en.wiktionary.org/wiki/draga#Conjugation_2)
+[^261]:[_hring_](https://old-norse.net/html/h.php#hringr-I)
+[^262]:[_hringinn_](https://old-norse.net/html/h.php#hringr-I) Again.
+[^263]:[_nǫkkverjum_](https://old-norse.net/html/n.php#nekkverr)
+[^264]:[_gǫfgum_](https://old-norse.net/html/g.php#g%C3%B6fugr)
+[^265]:"...to some noble man..."
+[^266]:[_tignum_](https://en.wiktionary.org/wiki/tign#Noun_4)
+[^267]:[_sómir_](https://en.wiktionary.org/wiki/s%C3%B8ma#Verb_2)
+[^268]:[_þiggja_](https://en.wiktionary.org/wiki/%C3%BEiggja#Conjugation) "...proper to receive."
+[^269]:[_lætr_](https://en.wiktionary.org/wiki/l%C3%A1ta#Conjugation_3)
+[^270]:[_flytja_](https://en.wiktionary.org/wiki/flytja#Conjugation_2)
+[^271]:[_varnað_](https://old-norse.net/html/v.php#varna%C3%B0r2)
+[^272]:[_meira_](https://en.wiktionary.org/wiki/mikill#Inflection) Comparative of _mikill_. "More."
+[^273]:[_efna_](https://en.wiktionary.org/wiki/efna#Verb_3)
+[^274]:[_niðr_](https://en.wiktionary.org/wiki/ni%C3%B0r#Noun)
+[^275]:[_spurði_](https://en.wiktionary.org/wiki/spyrja#Conjugation_3)
+[^276]:[_þá_](https://en.wiktionary.org/wiki/%C3%BEiggja#Conjugation) Be careful with this one!
+[^277]:[_Mǫrgum_](https://en.wiktionary.org/wiki/margr#Declension)
+[^278]:[_bauð_](https://en.wiktionary.org/wiki/bj%C3%B3%C3%B0a#Conjugation_3)
+[^279]:[_gǫrt_](https://en.wiktionary.org/wiki/gera#Conjugation_4)
+[^280]:[_þikkjask_](https://old-norse.net/html/th.php#%C3%BEykkja-B)
+[^281]:[_víst_](https://en.wiktionary.org/wiki/v%C3%ADss#Declension)
+[^282]:[_berask_](https://old-norse.net/html/b.php#bera3-B-I-1)
+[^283]:[_ætta_](https://en.wiktionary.org/wiki/eiga#Conjugation_3)
+[^284]:[_lóga_](https://en.wiktionary.org/wiki/l%C3%B3ga#Conjugation)
+[^285]:[_kost_](https://en.wiktionary.org/wiki/kostr#Declension)
+[^286]:[_náðu_](https://en.wiktionary.org/wiki/n%C3%A1#Conjugation_2)
+[^287]:[_blíði_](https://en.wiktionary.org/wiki/bl%C3%AD%C3%B0ur#Adjective_2)
+[^288]:[_gjafar_](https://en.wiktionary.org/wiki/gj%C7%ABf#Declension)
+[^289]:[_skilðisk_](https://old-norse.net/html/s.php#skilja-C)
+[^290]:[_gæfumaðr_](https://old-norse.net/html/g.php#g%C3%A6fuma%C3%B0r)
