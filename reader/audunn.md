@@ -54,12 +54,11 @@ Hann svaraði, "Ek em íslenzkr maðr, herra," sagði hann, "ok kominn[^118] nú
 
 ‘Satt er þat,’ sagði hann.
 
-Konungr mælti, ‘Ok þótti[^126] þér þat til liggja[^127], þar sem ek settak[^128] þik mikinn mann[^129], at hepta[^130] þat eða tálma er maðr gjǫrðisk til at fœra mér gørsimi ok gaf fyr alla eign, ok sá þat Haraldr konungr at ráði at láta hann fara í friði, ok er hann várr óvinr? Hygg þú at þá, hvé sannligt þat var þinnar handar, ok þat væri makligt at þú værir drepinn. En ek mon nú eigi þat gjǫra, en braut skaltu fara þegar ór landinu ok koma aldrigi aptr síðan mér í augsýn. En þér, Auðunn, kann ek slíka þǫkk sem þú
-gæfir mér allt dýrit, ok ver hér með mér.’ Þat þekkisk hann ok er með Sveini konungi um hríð. Ok er liðu nǫkkverjar stundir, þá mælti Auðunn við konung:
+Konungr mælti, ‘Ok þótti[^126] þér þat til liggja[^127], þar sem ek settak[^128] þik mikinn mann[^129], at hepta[^130] þat eða tálma[^131] er maðr gjǫrðisk[^132] til at fœra mér gørsimi ok gaf fyr alla eign[^133], ok sá[^134] þat Haraldr konungr at ráði[^135] at láta[^136] hann fara í friði[^137], ok er hann várr óvinr][^138]? Hygg[^138] þú at þá[^139], hvé[^140] sannligt[^141] þat var þinnar handar[^142], ok þat væri makligt[^143] at þú værir drepinn[^144]. En ek mon[^145] nú eigi þat gjǫra[^146], en braut[^147] skaltu fara þegar ór landinu[^148] ok koma aldrigi[^149] aptr[^150] síðan mér í augsýn[^151]. En þér, Auðunn, kann ek slíka[^152] þǫkk[^153] sem þú gæfir mér allt dýrit[^154], ok ver[^155] hér með mér.’ Þat þekkisk[^156] hann ok er með Sveini konungi um hríð[^157]. Ok er liðu nǫkkverjar stundir[^158], þá mælti Auðunn við konung:
 
-‘Braut fýsir mik nú, herra.’
+‘Braut fýsir[^159] mik nú, herra.’
 
-Konungr svarar heldr seint, ‘Hvat villtu þá,’ segir hann, ‘ef þú vil
+Konungr svarar heldr seint[^160], ‘Hvat villtu þá,’ segir hann, ‘ef þú vil
 eigi með oss vera?’
 Hann sagði, ‘Suðr vil ek ganga.’
 
@@ -336,3 +335,34 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^128]:[_settak_](https://en.wiktionary.org/wiki/setja#Conjugation_2) "That I position you to be..."
 [^129]: "...A powerful man."
 [^130]:[_hepta_](https://old-norse.net/html/h.php#hepta) "Hinder."
+[^131]:[_tálma_](https://en.wiktionary.org/wiki/t%C3%A1lma#Verb)
+[^132]:[_gjǫrðisk_](https://en.wiktionary.org/wiki/gera#Conjugation_4)
+[^133]:[_eign_](https://en.wiktionary.org/wiki/eign#Noun_3) Note the noun usage of this form! 
+[^134]:[_sá_](https://en.wiktionary.org/wiki/sj%C3%A1#Conjugation_2)
+[^135]:[_ráði_](https://en.wiktionary.org/wiki/r%C3%A1%C3%B0#Declension_3)
+[^136]:[_láta_](https://en.wiktionary.org/wiki/l%C3%A1ta#Conjugation_3)
+[^137]:[_friði_](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2)
+[Also note this](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2) To be left alone. 
+[^138]:[_óvinr_](https://en.wiktionary.org/wiki/%C3%B3vinr#Declension) "Unfriend," "enemy."
+[^139]:[_þá_](https://en.wiktionary.org/wiki/%C3%BE%C3%A1#Adverb_2)
+[^140]:[_hvé_](https://en.wiktionary.org/wiki/hv%C3%A9#Adverb)
+[^141]:[_sannligt_](https://en.wiktionary.org/wiki/sannligr#Declension)
+[^142]:[_handar_](https://en.wiktionary.org/wiki/h%C7%ABnd#Declension)
+[^143]:[_makligt_](https://en.wiktionary.org/wiki/makligr#Declension)
+[^144]:[_drepinn_](https://en.wiktionary.org/wiki/drepa#Conjugation_3) Participle.
+[^145]:[_mon_](https://en.wiktionary.org/wiki/munu#Conjugation_2)
+[^146]:[_gjǫra_](https://en.wiktionary.org/wiki/gera#Conjugation_4)
+[^147]:[_braut_](https://en.wiktionary.org/wiki/braut#Declension_2)
+[^148]:[_landinu_](https://en.wiktionary.org/wiki/land#Declension_9)
+[^149]:[_aldrigi_](https://en.wiktionary.org/wiki/aldrigi#Adverb)
+[^150]:[_aptr_](https://en.wiktionary.org/wiki/aptr#Adverb)
+[^151]:[_augsýn_](https://old-norse.net/html/a.php#augs%C3%BDn)
+[^152]:[_slíka_](https://en.wiktionary.org/wiki/sl%C3%ADkur#Pronoun)
+[^153]:[_þǫkk_](https://en.wiktionary.org/wiki/%C3%BE%C3%B6kk#Declension)
+[^154]:[_dýrit_](https://en.wiktionary.org/wiki/d%C3%BDr#Declension_4)
+[^155]:[_ver_](https://en.wiktionary.org/wiki/vera#Conjugation_4) Look at the imperative form! 
+[^156]:[_þekkisk_](https://en.wiktionary.org/wiki/%C3%BE%C3%B6kk#Declension)
+[^157]:[_hríð_](https://en.wiktionary.org/wiki/hr%C3%AD%C3%B0#Old_Norse) Scroll to entry 3, (time). _um hríð_, "for a while."
+[^158]:[_stundir_](https://en.wiktionary.org/wiki/stund#Declension_5)
+[^159]:[_fýsir_](https://old-norse.net/html/f.php#f%C3%BDsa)
+[^160]:[_seint_](https://en.wiktionary.org/wiki/seinn#Adjective)
