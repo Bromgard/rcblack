@@ -341,8 +341,7 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^134]:[_sá_](https://en.wiktionary.org/wiki/sj%C3%A1#Conjugation_2)
 [^135]:[_ráði_](https://en.wiktionary.org/wiki/r%C3%A1%C3%B0#Declension_3)
 [^136]:[_láta_](https://en.wiktionary.org/wiki/l%C3%A1ta#Conjugation_3)
-[^137]:[_friði_](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2)
-[Also note this](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2) To be left alone. 
+[^137]:[_friði_](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2) [Also note this](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2) To be left alone.
 [^138]:[_óvinr_](https://en.wiktionary.org/wiki/%C3%B3vinr#Declension) "Unfriend," "enemy."
 [^139]:[_þá_](https://en.wiktionary.org/wiki/%C3%BE%C3%A1#Adverb_2)
 [^140]:[_hvé_](https://en.wiktionary.org/wiki/hv%C3%A9#Adverb)
