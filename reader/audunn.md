@@ -58,43 +58,18 @@ Konungr mælti, ‘Ok þótti[^126] þér þat til liggja[^127], þar sem ek set
 
 ‘Braut fýsir[^159] mik nú, herra.’
 
-Konungr svarar heldr seint[^160], ‘Hvat villtu þá,’ segir hann, ‘ef þú vil
-eigi með oss vera?’
-Hann sagði, ‘Suðr vil ek ganga.’
+Konungr svarar heldr seint[^160], ‘Hvat villtu þá,’ segir hann, ‘ef þú vil eigi með oss vera?’ Hann sagði, ‘Suðr vil ek ganga.’
 
-‘Ef þú vildir eigi svá gott ráð taka,’ sagði konungr, ‘þá mindi mér
-fyr þikkja í, er þú fýsisk í brott.’
+‘Ef þú vildir[^161] eigi svá gott ráð taka,’ sagði konungr, ‘þá mindi mér fyr þikkja í[^162], er þú fýsisk í brott[^163].’
 
-Ok nú gaf konungr honum silfr mjǫk mikit, ok fór hann suðr síðan
-með Rúmferlum, ok skipaði konungr til um ferð hans, bað hann koma
-til sín er ‹hannð kvæmi aptr. Nú fór hann ferðar sinnar unz hann kemr
-suðr í Rómaborg. Ok er hann hefir þar dvalizk sem hann tíðir, þá ferr
-hann aptr; tekr þá sótt mikla, gjǫrir hann þá ákafliga magran. Gengr
-þá upp allt féit þat er konungr hafði gefit honum til ferðarinnar, tekr
-síðan upp stafkar‹lðs stíg ok biðr sér matar. Hann er þá kollóttr ok heldr
-ósælligr. Hann kemr aptr í Danmǫrk at páskum þangat sem konungr
-er þá staddr, en ei‹gið þorði hann at láta sjá sik ok var í kirkjuskoti ok
-ætlaði þá til fundar við konung er hann gengi til kirkju um kveldit. Ok
-nú er hann sá konunginn ok hirðina fagrliga búna, þá þorði hann eigi
-at láta sjá sik. Ok er konungr gekk til drykkju í hǫllina, þá mataðisk
-Auðunn úti, sem siðr ‹erð til Rúmferla meðan þeir hafa eigi kastat staf
-ok skreppu. Ok nú of aptaninn, er konungr gekk til kveldsǫngs, ætlaði
-Auðunn at hitta hann, ok svá mikit sem honum þótti fyrr fyr, jók nú
-miklu á, er þeir váru drukknir hirðmenninir. Ok er þeir gengu inn aptr,
-þá þekði konungr mann ok þóttisk finna, at eigi hafði frama til at ganga
-fram at hitta hann. Ok nú er hirðin gekk inn, þá veik konungr út ok mælti:
-‘Gangi sá nú fram er mik vill finna; mik grunar, at sá muni vera
+Ok nú gaf konungr honum silfr[^164] mjǫk mikit[^165], ok fór hann suðr síðan með Rúmferlum[^166], ok skipaði[^167] konungr til um ferð[^168] hans, bað[^169] hann koma til sín er hann kvæmi[^170] aptr. Nú fór hann ferðar sinnar[^171] unz[^172] hann kemr suðr í Rómaborg[^173]. Ok er hann hefir þar dvalizk[^174] sem hann tíðir[^175], þá ferr hann aptr; tekr þá sótt mikla[^176], gjǫrir hann þá ákafliga magran[^177]. Gengr þá upp allt féit[^178] þat er konungr hafði gefit honum til ferðarinnar[^179], tekr síðan upp stafkarls stíg[^180] ok biðr sér matar. Hann er þá kollóttr[^181] ok heldr ósælligr[^182]. Hann kemr aptr í Danmǫrk at páskum[^183] þangat sem konungr er þá staddr, en eigi þorði[^184] hann at láta sjá sik ok var í kirkjuskoti[^185] ok ætlaði[^186] þá til fundar við konung er hann gengi til kirkju[^187] um kveldit[^188]. Ok nú er hann sá[^189] konunginn ok hirðina[^190] fagrliga[^191] búna[^192], þá þorði hann eigi at láta sjá sik. Ok er konungr gekk til drykkju[^193] í hǫllina[^194], þá mataðisk[^195] Auðunn úti[^196], sem siðr er til Rúmferla[^197] meðan þeir hafa eigi kastat[^198] staf ok skreppu[^199]. Ok nú of aptaninn[^200], er konungr gekk til kveldsǫngs[^201], ætlaði Auðunn at hitta[^202] hann, ok svá mikit sem honum þótti fyrr fyr[^203], jók[^204] nú miklu á, er þeir váru drukknir hirðmenninir[^205]. Ok er þeir gengu inn aptr, þá þekði[^206] konungr mann ok þóttisk finna[^207], at eigi hafði frama[^208] til at ganga fram at hitta hann. Ok nú er hirðin gekk inn, þá veik[^209] konungr út ok mælti: ‘Gangi sá[^210] nú fram er mik vill finna; mik grunar[^211], at sá muni vera
 maðrinn.’
 
-Þá gekk Auðunn fram ok fell til fóta konungi, ok varla kenndi konungr
-hann. Ok þegar er konungr veit hverr hann er, tók konungr í hǫnd
-honum Auðuni ok bað hann ‹velð kominn. ‘Ok hefir þú mikit skipazk,’ sagði hann, ‘síðan vit sámsk,’ — leiðir hann eptir sér inn. Ok er hirðin sá hann, hlógu þeir at honum, en konungr segir:
+Þá gekk Auðunn fram ok fell til fóta konungi, ok varla kenndi konungr hann. Ok þegar er konungr veit hverr hann er, tók konungr í hǫnd honum Auðuni ok bað hann ‹velð kominn. ‘Ok hefir þú mikit skipazk,’ sagði hann, ‘síðan vit sámsk,’ — leiðir hann eptir sér inn. Ok er hirðin sá hann, hlógu þeir at honum, en konungr segir:
 
-‘Eigi þurfu þér at honum at hlæja, því at betr hefir hann sét fyr sinni 
-sál heldr en ér.’
+‘Eigi þurfu þér at honum at hlæja, því at betr hefir hann sét fyr sinni sál heldr en ér.’
 
-Þá lét konungr gjǫra honum laug ok gaf honum síðan klæði, ok er
-hann nú með honum.
+Þá lét konungr gjǫra honum laug ok gaf honum síðan klæði, ok er hann nú með honum.
  
 Þat er nú sagt einhverju sinni of várit, at konungr býðr Auðuni at
 vera með sér álengðar ok kvezk mindu gjǫra hann skutilsvein sinn ok
@@ -365,3 +340,54 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^158]:[_stundir_](https://en.wiktionary.org/wiki/stund#Declension_5)
 [^159]:[_fýsir_](https://old-norse.net/html/f.php#f%C3%BDsa)
 [^160]:[_seint_](https://en.wiktionary.org/wiki/seinn#Adjective)
+[^161]:[_vildir_](https://en.wiktionary.org/wiki/vilja#Conjugation_3)
+[^162]:[_þikkja_](https://en.wiktionary.org/wiki/%C3%BEykkja#Conjugation)
+[^163]:[_í brott_](https://old-norse.net/html/b.php#brott-)
+[^164]:[_silfr_](https://en.wiktionary.org/wiki/silfr#Descendants)
+[^165]:[_mikit_](https://en.wiktionary.org/wiki/mikit#Adjective)
+[^166]:[_Rúmferlum_](https://old-norse.net/html/r.php#r%C3%B3mfer%C3%B0)
+[^167]:[_skipaði_](https://en.wiktionary.org/wiki/skipa#Conjugation_3)
+[^168]:[_ferð_](https://en.wiktionary.org/wiki/fer%C3%B0#Noun_4)
+[^169]:[_bað_](https://en.wiktionary.org/wiki/bi%C3%B0ja#Conjugation_3)
+[^170]:[_kvæmi_](https://en.wiktionary.org/wiki/koma#Conjugation_4)
+[^171]:Possessive pronoun
+[^172]:[_unz_](https://en.wiktionary.org/wiki/unz#Conjunction)
+[^173]:[_Rómaborg_](https://old-norse.net/html/r.php#r%C3%B3maborg2)
+[^174]:[_dvalizk_](https://en.wiktionary.org/wiki/dvelja#Conjugation_2)
+[^175]:[_tíðir_](https://en.wiktionary.org/wiki/t%C3%AD%C3%B0ir#Noun_2)
+[^176]:[_mikla_](https://en.wiktionary.org/wiki/mikla#Conjugation)
+[^177]:[_ákafliga_](https://en.wiktionary.org/wiki/%C3%A1kafleikr)[_magran_](https://en.wiktionary.org/wiki/magr#Declension)
+[^178]:[_féit_](https://en.wiktionary.org/wiki/f%C3%A9#Declension_2)
+[^179]:[_ferðarinnar_](https://en.wiktionary.org/wiki/fer%C3%B0#Noun_4)
+[^180]:[_stíg_](https://en.wiktionary.org/wiki/st%C3%ADga#Conjugation_3)
+[^181]:[_kollóttr_](https://old-norse.net/html/k.php#koll%C3%B3ttr)
+[^182]:[_ósælligr_](https://old-norse.net/html/oo.php#%C3%B3s%C3%A6lligr)
+[^183]:[_páskum_](https://old-norse.net/html/p.php#p%C3%A1skar)
+[^184]:[_þorði_](https://en.wiktionary.org/wiki/%C3%BEora#Conjugation_2)
+[^185]:[_kirkjuskoti_](https://old-norse.net/html/k.php#kirkjuskot)
+[^186]:[_ætlaði_](https://old-norse.net/html/ae.php#%C3%A6tla)
+[^187]:[_kirkju_](https://en.wiktionary.org/wiki/kirkja#Declension_3)
+[^188]:[_kveldit_](https://en.wiktionary.org/wiki/kveld#Declension_2)
+[^189]:[_sá_](https://en.wiktionary.org/wiki/sj%C3%A1#Conjugation_2)
+[^190]:[_hirðina_](https://en.wiktionary.org/wiki/hir%C3%B0#Noun)
+[^191]:[_fagrliga_](https://old-norse.net/html/f.php#fagrliga)
+[^192]:[_búna_](https://old-norse.net/html/b.php#b%C3%BAna%C3%B0r-II) Entry II.
+[^193]:[_drykkju_](https://en.wiktionary.org/wiki/drykkja#Declension_2)
+[^194]:[_hǫllina_](https://en.wiktionary.org/wiki/h%C7%ABll#Inflection)
+[^195]:[_mataðisk_](https://old-norse.net/html/m.php#mata2)
+[^196]:[_úti_](https://en.wiktionary.org/wiki/%C3%BAti#Adverb)
+[^197]:[_Rúmferla_](https://old-norse.net/html/r.php#r%C3%B3mfer%C3%B0)
+[^198]:[_kastat_](https://en.wiktionary.org/wiki/kasta#Conjugation_4)
+[^199]:[_staf_](https://en.wiktionary.org/wiki/stafr#Declension) _ok_ [_skreppu_](https://en.wiktionary.org/wiki/skreppa#Declension)
+[^200]:[_aptaninn_](https://en.wiktionary.org/wiki/aptann#Declension)
+[^201]:[_kveldsǫngs_](https://old-norse.net/html/k.php#kvelds%C3%B6ngr)
+[^202]:[_hitta_](https://en.wiktionary.org/wiki/hitta#Descendants_2)
+[^203]:[_fyrr_](https://en.wiktionary.org/wiki/fyrr#Adverb_3) [_fyr_](https://en.wiktionary.org/wiki/fyrir#Old_Norse)
+[^204]:[_jók_](https://en.wiktionary.org/wiki/auka#Conjugation_2)
+[^205]:[_hirðmenninir_](https://old-norse.net/html/h.php#hir%C3%B0ma%C3%B0r)
+[^206]:[_þekði_](https://old-norse.net/html/th.php#%C3%BEekkja-A-I)
+[^207]:[_finna_](https://en.wiktionary.org/wiki/finna#Conjugation_3)
+[^208]:[_frama_](https://en.wiktionary.org/wiki/frami#Old_Norse)
+[^209]:[_veik_](https://en.wiktionary.org/wiki/veikja#Conjugation_2)
+[^210]:Personal pronoun
+[^211]:[_grunar_](https://en.wiktionary.org/wiki/gruna#Conjugation)
