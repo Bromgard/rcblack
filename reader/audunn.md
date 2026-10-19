@@ -54,7 +54,7 @@ Hann svaraði, "Ek em íslenzkr maðr, herra," sagði hann, "ok kominn[^118] nú
 
 ‘Satt er þat,’ sagði hann.
 
-Konungr mælti, ‘Ok þótti[^126] þér þat til liggja[^127], þar sem ek settak[^128] þik mikinn mann[^129], at hepta[^130] þat eða tálma[^131] er maðr gjǫrðisk[^132] til at fœra mér gørsimi ok gaf fyr alla eign[^133], ok sá[^134] þat Haraldr konungr at ráði[^135] at láta[^136] hann fara í friði[^137], ok er hann várr óvinr][^138]? Hygg[^138] þú at þá[^139], hvé[^140] sannligt[^141] þat var þinnar handar[^142], ok þat væri makligt[^143] at þú værir drepinn[^144]. En ek mon[^145] nú eigi þat gjǫra[^146], en braut[^147] skaltu fara þegar ór landinu[^148] ok koma aldrigi[^149] aptr[^150] síðan mér í augsýn[^151]. En þér, Auðunn, kann ek slíka[^152] þǫkk[^153] sem þú gæfir mér allt dýrit[^154], ok ver[^155] hér með mér.’ Þat þekkisk[^156] hann ok er með Sveini konungi um hríð[^157]. Ok er liðu nǫkkverjar stundir[^158], þá mælti Auðunn við konung:
+Konungr mælti, ‘Ok þótti[^126] þér þat til liggja[^127], þar sem ek settak[^128] þik mikinn mann[^129], at hepta[^130] þat eða tálma[^131] er maðr gjǫrðisk[^132] til at fœra mér gørsimi ok gaf fyr alla eign[^133], ok sá[^134] þat Haraldr konungr at ráði[^135] at láta[^136] hann fara í friði[^137], ok er hann várr óvinr][^138]? Hygg[^139] þú at þá, hvé[^140] sannligt[^141] þat var þinnar handar[^142], ok þat væri makligt[^143] at þú værir drepinn[^144]. En ek mon[^145] nú eigi þat gjǫra[^146], en braut[^147] skaltu fara þegar ór landinu[^148] ok koma aldrigi[^149] aptr[^150] síðan mér í augsýn[^151]. En þér, Auðunn, kann ek slíka[^152] þǫkk[^153] sem þú gæfir mér allt dýrit[^154], ok ver[^155] hér með mér.’ Þat þekkisk[^156] hann ok er með Sveini konungi um hríð[^157]. Ok er liðu nǫkkverjar stundir[^158], þá mælti Auðunn við konung:
 
 ‘Braut fýsir[^159] mik nú, herra.’
 
@@ -65,7 +65,7 @@ Konungr svarar heldr seint[^160], ‘Hvat villtu þá,’ segir hann, ‘ef þú
 Ok nú gaf konungr honum silfr[^164] mjǫk mikit[^165], ok fór hann suðr síðan með Rúmferlum[^166], ok skipaði[^167] konungr til um ferð[^168] hans, bað[^169] hann koma til sín er hann kvæmi[^170] aptr. Nú fór hann ferðar sinnar[^171] unz[^172] hann kemr suðr í Rómaborg[^173]. Ok er hann hefir þar dvalizk[^174] sem hann tíðir[^175], þá ferr hann aptr; tekr þá sótt mikla[^176], gjǫrir hann þá ákafliga magran[^177]. Gengr þá upp allt féit[^178] þat er konungr hafði gefit honum til ferðarinnar[^179], tekr síðan upp stafkarls stíg[^180] ok biðr sér matar. Hann er þá kollóttr[^181] ok heldr ósælligr[^182]. Hann kemr aptr í Danmǫrk at páskum[^183] þangat sem konungr er þá staddr, en eigi þorði[^184] hann at láta sjá sik ok var í kirkjuskoti[^185] ok ætlaði[^186] þá til fundar við konung er hann gengi til kirkju[^187] um kveldit[^188]. Ok nú er hann sá[^189] konunginn ok hirðina[^190] fagrliga[^191] búna[^192], þá þorði hann eigi at láta sjá sik. Ok er konungr gekk til drykkju[^193] í hǫllina[^194], þá mataðisk[^195] Auðunn úti[^196], sem siðr er til Rúmferla[^197] meðan þeir hafa eigi kastat[^198] staf ok skreppu[^199]. Ok nú of aptaninn[^200], er konungr gekk til kveldsǫngs[^201], ætlaði Auðunn at hitta[^202] hann, ok svá mikit sem honum þótti fyrr fyr[^203], jók[^204] nú miklu á, er þeir váru drukknir hirðmenninir[^205]. Ok er þeir gengu inn aptr, þá þekði[^206] konungr mann ok þóttisk finna[^207], at eigi hafði frama[^208] til at ganga fram at hitta hann. Ok nú er hirðin gekk inn, þá veik[^209] konungr út ok mælti: ‘Gangi sá[^210] nú fram er mik vill finna; mik grunar[^211], at sá muni vera
 maðrinn.’
 
-Þá gekk Auðunn fram[^212] ok fell til fóta[^213] konungi, ok varla[^214] kenndi konungr hann. Ok þegar er konungr veit[^214] hverr hann er, tók konungr í hǫnd honum Auðuni ok bað hann vel kominn. ‘Ok hefir þú mikit skipazk[^215],’ sagði hann, ‘síðan vit sámsk[^216],’ — leiðir hann eptir sér inn. Ok er hirðin sá hann, hlógu[^217] þeir at honum, en konungr segir:
+Þá gekk Auðunn fram[^212] ok fell til fóta[^213] konungi, ok varla[^214] kenndi konungr hann. Ok þegar er konungr veit[^214.5] hverr hann er, tók konungr í hǫnd honum Auðuni ok bað hann vel kominn. ‘Ok hefir þú mikit skipazk[^215],’ sagði hann, ‘síðan vit sámsk[^216],’ — leiðir hann eptir sér inn. Ok er hirðin sá hann, hlógu[^217] þeir at honum, en konungr segir:
 
 ‘Eigi þurfu þér at honum at hlæja, því at betr hefir hann set[^218] fyr sinni sál[^219] heldr en ér.’
 
@@ -268,24 +268,25 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^125]:[_satt_](https://en.wiktionary.org/wiki/sa%C3%B0r#Old_Norse)
 [^126]:[_þótti_](https://en.wiktionary.org/wiki/%C3%BEykkja#Conjugation)
 [^127]:[_liggja_](https://en.wiktionary.org/wiki/liggja#Conjugation_4)
+As in English, prepositions can change the meaning of some verbs, like overcome, withhold, throw away, and clean up. Here, _til liggja_ means, to be due to one," or "deserved."
 [^128]:[_settak_](https://en.wiktionary.org/wiki/setja#Conjugation_2) "That I position you to be..."
-[^129]: "...A powerful man."
-[^130]:[_hepta_](https://old-norse.net/html/h.php#hepta) "Hinder."
+[^129]: "...A great man." A high ranking man. 
+[^130]:[_hepta_](https://old-norse.net/html/h.php#hepta) "...to hinder"
 [^131]:[_tálma_](https://en.wiktionary.org/wiki/t%C3%A1lma#Verb)
-[^132]:[_gjǫrðisk_](https://en.wiktionary.org/wiki/gera#Conjugation_4)
+[^132]:[_gjǫrðisk_](https://en.wiktionary.org/wiki/gera#Conjugation_4) Reflexive, or mediopassive, meaning can carry their own meanings too. Check [this](https://old-norse.net/html/g.php#g%C3%B6ra-E). Scroll down to subentry 5. "To set about doing."
 [^133]:[_eign_](https://en.wiktionary.org/wiki/eign#Noun_3) Note the noun usage of this form! 
-[^134]:[_sá_](https://en.wiktionary.org/wiki/sj%C3%A1#Conjugation_2)
-[^135]:[_ráði_](https://en.wiktionary.org/wiki/r%C3%A1%C3%B0#Declension_3)
+[^134]:[_sá_](https://en.wiktionary.org/wiki/sj%C3%A1#Conjugation_2) Note that Haraldr in the the nominative. 
+[^135]:[_ráði_](https://old-norse.net/html/r.php#r%C3%A1%C3%B0) _at ráði_, "resolved."
 [^136]:[_láta_](https://en.wiktionary.org/wiki/l%C3%A1ta#Conjugation_3)
-[^137]:[_friði_](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2) [Also note this](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2) To be left alone.
-[^138]:[_óvinr_](https://en.wiktionary.org/wiki/%C3%B3vinr#Declension) "Unfriend," "enemy."
-[^139]:[_þá_](https://en.wiktionary.org/wiki/%C3%BE%C3%A1#Adverb_2)
+[^137]:[_friði_](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2) "in peace." [Also note this](https://en.wiktionary.org/wiki/fri%C3%B0ur#Declension_2) To be left alone.
+[^138]:[_óvinr_](https://en.wiktionary.org/wiki/%C3%B3vinr#Declension) "Unfriend," "...while he is our enemy."
+[^139]:[_Hygg_](https://en.wiktionary.org/wiki/hyggja#Conjugation_2)
 [^140]:[_hvé_](https://en.wiktionary.org/wiki/hv%C3%A9#Adverb)
 [^141]:[_sannligt_](https://en.wiktionary.org/wiki/sannligr#Declension)
-[^142]:[_handar_](https://en.wiktionary.org/wiki/h%C7%ABnd#Declension)
+[^142]:[_handar_](https://en.wiktionary.org/wiki/h%C7%ABnd#Declension) "...of your hands," literally, "your doing."
 [^143]:[_makligt_](https://en.wiktionary.org/wiki/makligr#Declension)
-[^144]:[_drepinn_](https://en.wiktionary.org/wiki/drepa#Conjugation_3) Participle.
-[^145]:[_mon_](https://en.wiktionary.org/wiki/munu#Conjugation_2)
+[^144]:[_drepinn_](https://en.wiktionary.org/wiki/drepa#Conjugation_3) Participle. Notice the subjunctive form of _vera_. 
+[^145]:[_mon_](https://en.wiktionary.org/wiki/munu#Conjugation_2) Early spelling for _mun_. Lexical, _munu_.
 [^146]:[_gjǫra_](https://en.wiktionary.org/wiki/gera#Conjugation_4)
 [^147]:[_braut_](https://en.wiktionary.org/wiki/braut#Declension_2)
 [^148]:[_landinu_](https://en.wiktionary.org/wiki/land#Declension_9)
@@ -293,7 +294,7 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^150]:[_aptr_](https://en.wiktionary.org/wiki/aptr#Adverb)
 [^151]:[_augsýn_](https://old-norse.net/html/a.php#augs%C3%BDn)
 [^152]:[_slíka_](https://en.wiktionary.org/wiki/sl%C3%ADkur#Pronoun)
-[^153]:[_þǫkk_](https://en.wiktionary.org/wiki/%C3%BE%C3%B6kk#Declension)
+[^153]:[_þǫkk_](https://en.wiktionary.org/wiki/%C3%BE%C3%B6kk#Declension) The king is actually clarifying a property transfer contract. He considers the whole bear to have been given to him from Auðunn. 
 [^154]:[_dýrit_](https://en.wiktionary.org/wiki/d%C3%BDr#Declension_4)
 [^155]:[_ver_](https://en.wiktionary.org/wiki/vera#Conjugation_4) Look at the imperative form! 
 [^156]:[_þekkisk_](https://en.wiktionary.org/wiki/%C3%BE%C3%B6kk#Declension)
@@ -302,59 +303,60 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^159]:[_fýsir_](https://old-norse.net/html/f.php#f%C3%BDsa)
 [^160]:[_seint_](https://en.wiktionary.org/wiki/seinn#Adjective)
 [^161]:[_vildir_](https://en.wiktionary.org/wiki/vilja#Conjugation_3)
-[^162]:[_þikkja_](https://en.wiktionary.org/wiki/%C3%BEykkja#Conjugation)
-[^163]:[_í brott_](https://old-norse.net/html/b.php#brott-)
+[^162]:[_þikkja_](https://old-norse.net/html/th.php#%C3%BEykkja2) "I would be unhappy, if you were eager to go away..."
+[^163]:[_í brott_](https://old-norse.net/html/b.php#brott-) "Away."
 [^164]:[_silfr_](https://en.wiktionary.org/wiki/silfr#Descendants)
 [^165]:[_mikit_](https://en.wiktionary.org/wiki/mikit#Adjective)
 [^166]:[_Rúmferlum_](https://old-norse.net/html/r.php#r%C3%B3mfer%C3%B0)
-[^167]:[_skipaði_](https://en.wiktionary.org/wiki/skipa#Conjugation_3)
+[^167]:[_skipaði_](https://en.wiktionary.org/wiki/skipa#Conjugation_3) "Parted."
 [^168]:[_ferð_](https://en.wiktionary.org/wiki/fer%C3%B0#Noun_4)
-[^169]:[_bað_](https://en.wiktionary.org/wiki/bi%C3%B0ja#Conjugation_3)
+[^169]:[_bað_](https://en.wiktionary.org/wiki/bi%C3%B0ja#Conjugation_3) "The king bade him..."
 [^170]:[_kvæmi_](https://en.wiktionary.org/wiki/koma#Conjugation_4)
 [^171]:Possessive pronoun
 [^172]:[_unz_](https://en.wiktionary.org/wiki/unz#Conjunction)
 [^173]:[_Rómaborg_](https://old-norse.net/html/r.php#r%C3%B3maborg2)
-[^174]:[_dvalizk_](https://en.wiktionary.org/wiki/dvelja#Conjugation_2)
-[^175]:[_tíðir_](https://en.wiktionary.org/wiki/t%C3%AD%C3%B0ir#Noun_2)
-[^176]:[_mikla_](https://en.wiktionary.org/wiki/mikla#Conjugation)
-[^177]:[_ákafliga_](https://en.wiktionary.org/wiki/%C3%A1kafleikr)[_magran_](https://en.wiktionary.org/wiki/magr#Declension)
-[^178]:[_féit_](https://en.wiktionary.org/wiki/f%C3%A9#Declension_2)
-[^179]:[_ferðarinnar_](https://en.wiktionary.org/wiki/fer%C3%B0#Noun_4)
-[^180]:[_stíg_](https://en.wiktionary.org/wiki/st%C3%ADga#Conjugation_3)
-[^181]:[_kollóttr_](https://old-norse.net/html/k.php#koll%C3%B3ttr)
-[^182]:[_ósælligr_](https://old-norse.net/html/oo.php#%C3%B3s%C3%A6lligr)
-[^183]:[_páskum_](https://old-norse.net/html/p.php#p%C3%A1skar)
+[^174]:[_dvalizk_](https://en.wiktionary.org/wiki/dvelja#Conjugation_2) [This] is relevant here. He hung out there for a while. 
+[^175]:[_tíðir_](https://en.wiktionary.org/wiki/t%C3%AD%C3%B0a#Conjugation)
+[^176]:[_sótt_](https://old-norse.net/html/s.php#s%C3%B3tt) [_mikla_](https://en.wiktionary.org/wiki/mikla#Conjugation) 󱕼 
+[^177]:[_ákafliga_](https://en.wiktionary.org/wiki/%C3%A1kafleikr)[_magran_](https://en.wiktionary.org/wiki/magr#Declension) Like English, "meager."
+[^178]:[_féit_](https://en.wiktionary.org/wiki/f%C3%A9#Declension_2) All of his money runs out.
+[^179]:[_ferðarinnar_](https://en.wiktionary.org/wiki/fer%C3%B0#Noun_4) Note the article suffix. 
+[^180]:[_stafkarls_](https://old-norse.net/html/k.php#karl-B-III) [_stíg_](https://en.wiktionary.org/wiki/st%C3%ADga#Conjugation_3) A beggar's path. On pilgrimage, he took on the clothing and gear of a beggar, related to the Benedictine vow of poverty. If you do that right, you denounce worldly weatlh, etc. 
+[^181]:[_kollóttr_](https://old-norse.net/html/k.php#koll%C3%B3ttr) A really short haircut for humble status. 
+[^182]:[_ósælligr_](https://old-norse.net/html/oo.php#%C3%B3s%C3%A6lligr) Sad. 
+[^183]:[_páskum_](https://old-norse.net/html/p.php#p%C3%A1skar) Passover, Easter. 
 [^184]:[_þorði_](https://en.wiktionary.org/wiki/%C3%BEora#Conjugation_2)
-[^185]:[_kirkjuskoti_](https://old-norse.net/html/k.php#kirkjuskot)
+[^185]:[_kirkjuskoti_](https://old-norse.net/html/k.php#kirkjuskot) Old churches and cathedrals were built in the shape of a cross. Homeless people and the poor were allowed to encamp in the corners on either side of the entrance. Nobles and wealthy people going to and from service would give them change. 
 [^186]:[_ætlaði_](https://old-norse.net/html/ae.php#%C3%A6tla)
 [^187]:[_kirkju_](https://en.wiktionary.org/wiki/kirkja#Declension_3)
 [^188]:[_kveldit_](https://en.wiktionary.org/wiki/kveld#Declension_2)
 [^189]:[_sá_](https://en.wiktionary.org/wiki/sj%C3%A1#Conjugation_2)
 [^190]:[_hirðina_](https://en.wiktionary.org/wiki/hir%C3%B0#Noun)
 [^191]:[_fagrliga_](https://old-norse.net/html/f.php#fagrliga)
-[^192]:[_búna_](https://old-norse.net/html/b.php#b%C3%BAna%C3%B0r-II) Entry II.
+[^192]:[_búna_](https://old-norse.net/html/b.php#b%C3%BAna%C3%B0r-II) Entry II. "Beautifully dressed." 
 [^193]:[_drykkju_](https://en.wiktionary.org/wiki/drykkja#Declension_2)
 [^194]:[_hǫllina_](https://en.wiktionary.org/wiki/h%C7%ABll#Inflection)
 [^195]:[_mataðisk_](https://old-norse.net/html/m.php#mata2)
 [^196]:[_úti_](https://en.wiktionary.org/wiki/%C3%BAti#Adverb)
 [^197]:[_Rúmferla_](https://old-norse.net/html/r.php#r%C3%B3mfer%C3%B0)
 [^198]:[_kastat_](https://en.wiktionary.org/wiki/kasta#Conjugation_4)
-[^199]:[_staf_](https://en.wiktionary.org/wiki/stafr#Declension) _ok_ [_skreppu_](https://en.wiktionary.org/wiki/skreppa#Declension)
+[^199]:[_staf_](https://en.wiktionary.org/wiki/stafr#Declension) _ok_ [_skreppu_](https://en.wiktionary.org/wiki/skreppa#Declension) You're issued a special walking stick and bag for pilgrimage. He still has his so he's still activated as a pilgrim. 
 [^200]:[_aptaninn_](https://en.wiktionary.org/wiki/aptann#Declension)
-[^201]:[_kveldsǫngs_](https://old-norse.net/html/k.php#kvelds%C3%B6ngr)
+[^201]:[_kveldsǫngs_](https://old-norse.net/html/k.php#kvelds%C3%B6ngr) Easter Vespers. 
 [^202]:[_hitta_](https://en.wiktionary.org/wiki/hitta#Descendants_2)
-[^203]:[_fyrr_](https://en.wiktionary.org/wiki/fyrr#Adverb_3) [_fyr_](https://en.wiktionary.org/wiki/fyrir#Old_Norse)
-[^204]:[_jók_](https://en.wiktionary.org/wiki/auka#Conjugation_2)
+[^203]:[_fyrr_](https://en.wiktionary.org/wiki/fyrr#Adverb_3) I like "rather."  [_fyr_](https://en.wiktionary.org/wiki/fyrir#Old_Norse) "as before."
+[^204]:[_jók_](https://en.wiktionary.org/wiki/auka#Conjugation_2) Something like, "heaped so much upon..." It was so much worse while the king's men were drunk. 
 [^205]:[_hirðmenninir_](https://old-norse.net/html/h.php#hir%C3%B0ma%C3%B0r)
 [^206]:[_þekði_](https://old-norse.net/html/th.php#%C3%BEekkja-A-I)
-[^207]:[_finna_](https://en.wiktionary.org/wiki/finna#Conjugation_3)
-[^208]:[_frama_](https://en.wiktionary.org/wiki/frami#Old_Norse)
-[^209]:[_veik_](https://en.wiktionary.org/wiki/veikja#Conjugation_2)
+[^207]:[_finna_](https://en.wiktionary.org/wiki/finna#Conjugation_3) The king recognized him and "felt,"... 
+[^208]:[_frama_](https://en.wiktionary.org/wiki/frami#Old_Norse) "Bravery."
+[^209]:[_veik_](https://old-norse.net/html/v.php#v%C3%ADkja-B) He turned around. 
 [^210]:Personal pronoun
-[^211]:[_grunar_](https://en.wiktionary.org/wiki/gruna#Conjugation)
+[^211]:[_grunar_](https://en.wiktionary.org/wiki/gruna#Conjugation) The king is giving Auðunn an indirect order. "He who wishes to meet me, come forth."
 [^212]:[_fram_](https://en.wiktionary.org/wiki/fram#Adverb_6)
 [^213]:[_fóta_](https://en.wiktionary.org/wiki/f%C3%B3tr#Declension)
 [^214]:[_varla_](https://en.wiktionary.org/wiki/varla#Adverb)
+[^214.5]:[_veit_](https://en.wiktionary.org/wiki/vita#Conjugation_3) "Recognized."
 [^215]:[_skipazk_](https://en.wiktionary.org/wiki/skipa#Conjugation_3)
 [^216]:[_sámsk_](https://en.wiktionary.org/wiki/sama#Old_Norse)
 [^217]:[_hlógu_](https://en.wiktionary.org/wiki/sama#Old_Norse)
