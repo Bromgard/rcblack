@@ -65,7 +65,7 @@ Konungr svarar heldr seint[^160], ‘Hvat villtu þá,’ segir hann, ‘ef þú
 Ok nú gaf konungr honum silfr[^164] mjǫk mikit[^165], ok fór hann suðr síðan með Rúmferlum[^166], ok skipaði[^167] konungr til um ferð[^168] hans, bað[^169] hann koma til sín er hann kvæmi[^170] aptr. Nú fór hann ferðar sinnar[^171] unz[^172] hann kemr suðr í Rómaborg[^173]. Ok er hann hefir þar dvalizk[^174] sem hann tíðir[^175], þá ferr hann aptr; tekr þá sótt mikla[^176], gjǫrir hann þá ákafliga magran[^177]. Gengr þá upp allt féit[^178] þat er konungr hafði gefit honum til ferðarinnar[^179], tekr síðan upp stafkarls stíg[^180] ok biðr sér matar. Hann er þá kollóttr[^181] ok heldr ósælligr[^182]. Hann kemr aptr í Danmǫrk at páskum[^183] þangat sem konungr er þá staddr, en eigi þorði[^184] hann at láta sjá sik ok var í kirkjuskoti[^185] ok ætlaði[^186] þá til fundar við konung er hann gengi til kirkju[^187] um kveldit[^188]. Ok nú er hann sá[^189] konunginn ok hirðina[^190] fagrliga[^191] búna[^192], þá þorði hann eigi at láta sjá sik. Ok er konungr gekk til drykkju[^193] í hǫllina[^194], þá mataðisk[^195] Auðunn úti[^196], sem siðr er til Rúmferla[^197] meðan þeir hafa eigi kastat[^198] staf ok skreppu[^199]. Ok nú of aptaninn[^200], er konungr gekk til kveldsǫngs[^201], ætlaði Auðunn at hitta[^202] hann, ok svá mikit sem honum þótti fyrr fyr[^203], jók[^204] nú miklu á, er þeir váru drukknir hirðmenninir[^205]. Ok er þeir gengu inn aptr, þá þekði[^206] konungr mann ok þóttisk finna[^207], at eigi hafði frama[^208] til at ganga fram at hitta hann. Ok nú er hirðin gekk inn, þá veik[^209] konungr út ok mælti: ‘Gangi sá[^210] nú fram er mik vill finna; mik grunar[^211], at sá muni vera
 maðrinn.’
 
-Þá gekk Auðunn fram[^212] ok fell til fóta[^213] konungi, ok varla[^214] kenndi konungr hann. Ok þegar er konungr veit[^214.5] hverr hann er, tók konungr í hǫnd honum Auðuni ok bað hann vel kominn. ‘Ok hefir þú mikit skipazk[^215],’ sagði hann, ‘síðan vit sámsk[^216],’ — leiðir hann eptir sér inn. Ok er hirðin sá hann, hlógu[^217] þeir at honum, en konungr segir:
+Þá gekk Auðunn fram[^212] ok fell til fóta[^213] konungi, ok varla kenndi konungr hann. Ok þegar er konungr veit[^214.5] hverr hann er, tók konungr í hǫnd honum Auðuni ok bað hann vel kominn. ‘Ok hefir þú mikit skipazk[^215],’ sagði hann, ‘síðan vit sámsk[^216],’ — leiðir hann eptir sér inn. Ok er hirðin sá hann, hlógu[^217] þeir at honum, en konungr segir:
 
 ‘Eigi þurfu þér at honum at hlæja, því at betr hefir hann set[^218] fyr sinni sál[^219] heldr en ér.’
 
@@ -354,8 +354,7 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^211]:[_grunar_](https://en.wiktionary.org/wiki/gruna#Conjugation) The king is giving Auðunn an indirect order. "He who wishes to meet me, come forth."
 [^212]:[_fram_](https://en.wiktionary.org/wiki/fram#Adverb_6)
 [^213]:[_fóta_](https://en.wiktionary.org/wiki/f%C3%B3tr#Declension)
-[^214]:[_varla_](https://en.wiktionary.org/wiki/varla#Adverb)
-[^214.5]:[_veit_](https://en.wiktionary.org/wiki/vita#Conjugation_3) "Recognized."
+[^214]:[_varla_](https://en.wiktionary.org/wiki/varla#Adverb)...[_veit_](https://en.wiktionary.org/wiki/vita#Conjugation_3) "Recognized."
 [^215]:[_skipazk_](https://en.wiktionary.org/wiki/skipa#Conjugation_3)
 [^216]:[_sámsk_](https://old-norse.net/html/s.php#sj%C3%A1-B-II) "...saw each other..."
 [^217]:[_hlógu_](https://en.wiktionary.org/wiki/sama#Old_Norse)
@@ -379,7 +378,7 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^235]:[_hlutrinn_](https://en.wiktionary.org/wiki/hlutr#Declension) "For that matter..." or "Anyway..." 
 [^236]:[_mislíka_](https://old-norse.net/html/m.php#misl%C3%ADka)
 [^237]:[_búask_](https://en.wiktionary.org/wiki/b%C3%BAa#Conjugation_2)
-[^238]:[_bryggjur_](https://en.wiktionary.org/wiki/bryggja#Declension_3)
+[^238]:[_bryggjur_](https://en.wiktionary.org/wiki/bryggja#Declension_3) Boardwalk, or quay. 
 [^239]:[_ýmissa_](https://en.wiktionary.org/wiki/%C3%BDmiss#Declension)
 [^240]:[_Austrveg_](https://en.wiktionary.org/wiki/Austrvegr)
 [^241]:[_Saxland_](https://en.wiktionary.org/wiki/Saxland#Declension_2)
@@ -394,9 +393,9 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^250]:[_hætt_](https://old-norse.net/html/h.php#h%C3%A6tta)
 [^251]:[_brýtr_](https://en.wiktionary.org/wiki/brj%C3%B3ta#Conjugation_2)
 [^252]:[_týnir_](https://en.wiktionary.org/wiki/t%C3%BDna#Conjugation_2)
-[^253]:[_á_](https://en.wiktionary.org/wiki/eiga#Conjugation_3)
-[^254]:[_leðrhosu_](https://old-norse.net/html/l.php#le%C3%B0rhosa)
-[^255]:[_brjótir_](https://en.wiktionary.org/wiki/brj%C3%B3ta#Conjugation_2)
+[^253]:[_á_](https://en.wiktionary.org/wiki/eiga#Conjugation_3) "...little to look upon." There would be no evidence that he met the king. 
+[^254]:[_leðrhosu_](https://old-norse.net/html/l.php#le%C3%B0rhosa) If you're thinking leather hose, you're right. Silver was kept in these long leather tubes that folded on the top. If you think this is related to lederhosen, you're also right. 
+[^255]:[_brjótir_](https://en.wiktionary.org/wiki/brj%C3%B3ta#Conjugation_2) Note the subjunctive cases!
 [^256]:[_haldit_](https://en.wiktionary.org/wiki/halda#Conjugation_2)
 [^257]:[_enn_](https://en.wiktionary.org/wiki/enn#Adverb_3)
 [^258]:[_nýtr_](https://en.wiktionary.org/wiki/n%C3%BDtr#Adjective)
@@ -417,7 +416,7 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^273]:[_efna_](https://en.wiktionary.org/wiki/efna#Verb_3)
 [^274]:[_niðr_](https://en.wiktionary.org/wiki/ni%C3%B0r#Noun)
 [^275]:[_spurði_](https://en.wiktionary.org/wiki/spyrja#Conjugation_3)
-[^276]:[_þá_](https://en.wiktionary.org/wiki/%C3%BEiggja#Conjugation) Be careful with this one!
+[^276]:[_þá_](https://en.wiktionary.org/wiki/%C3%BEiggja#Conjugation) That the king accepted the bear from me. The sentence doesn't mention the bear but the grammar of the sentence clarifies that the king, "received from me."
 [^277]:[_Mǫrgum_](https://en.wiktionary.org/wiki/margr#Declension)
 [^278]:[_bauð_](https://en.wiktionary.org/wiki/bj%C3%B3%C3%B0a#Conjugation_3)
 [^279]:[_gǫrt_](https://en.wiktionary.org/wiki/gera#Conjugation_4)
