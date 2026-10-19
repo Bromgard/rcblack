@@ -267,8 +267,7 @@ Frá þessum manni, Auðuni, var kominn Þorsteinn Gyðuson.
 [^124]:...the kind ask how things had fared between him and Áki, his officer."So, what happened...?"
 [^125]:[_satt_](https://en.wiktionary.org/wiki/sa%C3%B0r#Old_Norse)
 [^126]:[_þótti_](https://en.wiktionary.org/wiki/%C3%BEykkja#Conjugation)
-[^127]:[_liggja_](https://en.wiktionary.org/wiki/liggja#Conjugation_4)
-As in English, prepositions can change the meaning of some verbs, like overcome, withhold, throw away, and clean up. Here, _til liggja_ means, to be due to one," or "deserved."
+[^127]:[_liggja_](https://en.wiktionary.org/wiki/liggja#Conjugation_4) As in English, prepositions can change the meaning of some verbs, like overcome, withhold, throw away, and clean up. Here, _til liggja_ means, to be due to one," or "deserved."
 [^128]:[_settak_](https://en.wiktionary.org/wiki/setja#Conjugation_2) "That I position you to be..."
 [^129]: "...A great man." A high ranking man. 
 [^130]:[_hepta_](https://old-norse.net/html/h.php#hepta) "...to hinder"
@@ -358,7 +357,7 @@ As in English, prepositions can change the meaning of some verbs, like overcome,
 [^214]:[_varla_](https://en.wiktionary.org/wiki/varla#Adverb)
 [^214.5]:[_veit_](https://en.wiktionary.org/wiki/vita#Conjugation_3) "Recognized."
 [^215]:[_skipazk_](https://en.wiktionary.org/wiki/skipa#Conjugation_3)
-[^216]:[_sámsk_](https://en.wiktionary.org/wiki/sama#Old_Norse)
+[^216]:[_sámsk_](https://old-norse.net/html/s.php#sj%C3%A1-B-II) "...saw each other..."
 [^217]:[_hlógu_](https://en.wiktionary.org/wiki/sama#Old_Norse)
 [^218]:[_set_](https://en.wiktionary.org/wiki/setja#Old_Norse)
 [^219]:[_sál_](https://old-norse.net/html/s.php#s%C3%A1la)
@@ -377,7 +376,7 @@ As in English, prepositions can change the meaning of some verbs, like overcome,
 [^232]:[_stafkarls_](https://old-norse.net/html/s.php#stafkarl) [_stíg_](https://old-norse.net/html/s.php#stigr)
 [^233]:[_bjǫrg_](https://en.wiktionary.org/wiki/bjarg#Declension_3)
 [^234]:[_giptumaðr_](https://old-norse.net/html/g.php#giptuma%C3%B0r)
-[^235]:[_hlutrinn_](https://en.wiktionary.org/wiki/hlutr#Declension)
+[^235]:[_hlutrinn_](https://en.wiktionary.org/wiki/hlutr#Declension) "For that matter..." or "Anyway..." 
 [^236]:[_mislíka_](https://old-norse.net/html/m.php#misl%C3%ADka)
 [^237]:[_búask_](https://en.wiktionary.org/wiki/b%C3%BAa#Conjugation_2)
 [^238]:[_bryggjur_](https://en.wiktionary.org/wiki/bryggja#Declension_3)
