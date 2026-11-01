@@ -1,8 +1,8 @@
 # SKÁLDSKAPARMÁL 
 
-EINN maðr er nefndr Ægir eða Hlér. Hann bjó í ey þeiri er nú er kǫlluð Hlélsey. Hann var mjǫk fjǫlkunnigr. Hann gerði ferð sína til Ásgarðs, en er Æsir vissu ferð hans var honum fagnat vel ok þó margir hlutir með sjónhverfingum. Ok um kveldit, er drekka skyldi, þá lét Óðinn bera inn í hǫllina sverð, ok váru svá bjǫrt at þar af lýsti, ok var ekki haft ljós annat meðan við drykkju var setit. Þá gengu Æsir at gildi sínu ok settusk í hásæti tólf Æsir, þeir er dómendr skyldu vera ok svá váru nefndir: Þórr, Njǫrðr, Freyr, Týr, Heimdallr, Bragi, Viðarr, Váli, Ullr, Hænir, Forseti, Loki; slíkt sama Ásynjur: Frigg, Freyja, Gefjun, Iðunn, Gerðr, Sigyn, Fulla, Nanna. Ægi þótti gǫfugligt þar um at sjásk. Veggþili ǫll váru þar tjǫlduð með fǫgrum skjǫldum. Þar var ok áfenginn mjǫðr ok mjǫk drukkit. Næsti maðr Ægi sat Bragi, ok áttusk þeir við drykkju ok orðaskipti. Sagði Bragi Ægi frá mǫrgum tíðindum þeim er Æsir hǫfðu átt. 
+EINN maðr er nefndr Ægir[^1] eða Hlér[^2]. Hann bjó í ey[^3] þeiri er nú er kǫlluð Hlélsey[^4]. Hann var mjǫk fjǫlkunnigr[^5]. Hann gerði ferð sína til Ásgarðs[^6], en er Æsir vissu ferð hans var honum fagnat[^7] vel ok þó margir hlutir með sjónhverfingum[^8]. Ok um kveldit, er drekka skyldi, þá lét Óðinn bera inn í hǫllina[^9] sverð, ok váru svá bjǫrt[^10] at þar af lýsti[^11], ok var ekki haft[^12] ljós[^13] annat meðan við drykkju var setit. Þá gengu Æsir at gildi[^14] sínu ok settusk í hásæti tólf Æsir, þeir er dómendr[^15] skyldu vera ok svá váru nefndir: Þórr, Njǫrðr, Freyr, Týr, Heimdallr, Bragi, Viðarr, Váli, Ullr, Hænir, Forseti, Loki[^16]; slíkt sama Ásynjur: Frigg, Freyja, Gefjun, Iðunn, Gerðr, Sigyn, Fulla, Nanna. Ægi þótti gǫfugligt[^17] þar um at sjásk. Veggþili[^18] ǫll váru þar tjǫlduð[^19] með fǫgrum skjǫldum[^20]. Þar var ok áfenginn[^21] mjǫðr[^22] ok mjǫk drukkit[^23]. Næsti maðr Ægi sat Bragi, ok áttusk þeir við drykkju ok orðaskipti[^24]. Sagði Bragi Ægi frá mǫrgum tíðindum[^25] þeim er Æsir hǫfðu átt. 
 
-Hann hóf þar frásǫgn at þrír Æsir fóru heiman, Óðinn ok Loki ok Hænir, ok fóru um fjǫll ok eyðimerkr ok var ilt til matar. En er þeir koma ofan í dal nakkvarn, sjá þeir øxna flokk ok taka einn uxann ok snúa til seyðis. En er þeir hyggja at soðit mun vera, raufa þeir seyðinn ok var ekki soðit. Ok í annat sinn er þeir raufa seyðinn, þá er stund var liðin, ok var ekki soðit. Mæla þeir þá sín á milli hverju þetta mun gegna. Þá heyra þeir mál í eikina upp yfir sík at sá er þar sat kvazk ráða því er eigi soðnaði á seyðinum. Þeir litu til ok sat þar ǫrn ok eigi lítill. Þá mælti ǫrninn: 
+Hann hóf[^26] þar frásǫgn[^27] at þrír Æsir fóru heiman[^28], Óðinn ok Loki ok Hænir, ok fóru um fjǫll[^29] ok eyðimerkr[^30] ok var ilt til matar[^31]. En er þeir koma ofan í dal nakkvarn[^32], sjá þeir øxna flokk[^33] ok taka einn uxann ok snúa til seyðis[^34]. En er þeir hyggja at soðit mun vera[^35], raufa þeir seyðinn ok var ekki soðit. Ok í annat sinn er þeir raufa seyðinn, þá er stund var liðin, ok var ekki soðit. Mæla þeir þá sín á milli hverju þetta mun gegna. Þá heyra þeir mál í eikina upp yfir sík at sá er þar sat kvazk ráða því er eigi soðnaði á seyðinum. Þeir litu til ok sat þar ǫrn ok eigi lítill. Þá mælti ǫrninn: 
 
 ““Vilið þér gefa mér fylli mína af oxanum, þá mun soðna á seyðinum." 
 
@@ -54,4 +54,40 @@ En þetta er nú at segja ungum skáldum þeim er girnask at nema mál skáldska
 
 Priamus konungr í Troju var hǫfðingi mikill yfir ǫllum her Tyrkja ok hans synir váru tignastir af ǫllum her hans. Sá salr hinn ágæti er Æsir kǫlluðu Brimis sal eða bjórsal, þat var holl Priamus konungs. En þat er þeir gera langa frásǫgn of ragnrøkr, þat er Trojumanna orrosta. Þat er frá sagt at Ǫkuþórr engdi oxahǫfði ok dró at borði Miðgarðsorm, en ormrinn helt svá lífinu at hann søktisk í hafit. Eptir þeim dœmum er þetta sagt er Ektor drap Volukrontem ágætan kappa at ásjánda inum mikla Akille ok teygði hann svá at sér með hǫfði hins drepna þess er þeir jǫfnuðu til oxans þess er Ǫkuþórr hafði hǫfuðit af. En er Akilleus var dreginn í þetta ófœri með sínu kappi þá var honum sú ein lífshjálpin at flýja undan banvænligu hǫggvi Hektoris ok þó sárr. Svá er ok sagt at Ektor sótti svá ákafliga orrostuna ok svá miklir váru ofrhugir hans er hann sá Akilleus at engi hlutr var svá sterkr at standask mætti fyrir honum, ok er hann misti Akilleus ok hann var flýiðr þá sefaði hann svá reiði sína at hann drap þann kappa er Roddrus hét.
 
-And so on. 
+And so on.
+
+[^1]:[_Ægir_](https://old-norse.net/html/ae.php#%C3%A6gir)
+[^2]:[]
+[^3]:[]
+[^4]:[]
+[^5]:[]
+[^6]:[]
+[^7]:[]
+[^8]:[]
+[^9]:[]
+[^10]:[]
+[^11]:[]
+[^12]:[]
+[^13]:[]
+[^14]:[]
+[^15]:[]
+[^16]:[]
+[^17]:[]
+[^18]:[]
+[^19]:[]
+[^20]:[]
+[^21]:[]
+[^22]:[]
+[^23]:[]
+[^24]:[]
+[^25]:[]
+[^26]:[]
+[^27]:[]
+[^28]:[]
+[^29]:[]
+[^30]:[]
+[^31]:[]
+[^32]:[]
+[^33]:[]
+[^34]:[]
+[^35]:[]
