@@ -2,7 +2,7 @@
 
 EINN maðr er nefndr Ægir[^1] eða Hlér[^2]. Hann bjó í ey[^3] þeiri er nú er kǫlluð Hlélsey[^4]. Hann var mjǫk fjǫlkunnigr[^5]. Hann gerði ferð sína til Ásgarðs[^6], en er Æsir vissu ferð hans var honum fagnat[^7] vel ok þó margir hlutir með sjónhverfingum[^8]. Ok um kveldit, er drekka skyldi, þá lét Óðinn bera inn í hǫllina[^9] sverð, ok váru svá bjǫrt[^10] at þar af lýsti[^11], ok var ekki haft[^12] ljós[^13] annat meðan við drykkju var setit. Þá gengu Æsir at gildi[^14] sínu ok settusk í hásæti tólf Æsir, þeir er dómendr[^15] skyldu vera ok svá váru nefndir: Þórr, Njǫrðr, Freyr, Týr, Heimdallr, Bragi, Viðarr, Váli, Ullr, Hænir, Forseti, Loki[^16]; slíkt sama Ásynjur: Frigg, Freyja, Gefjun, Iðunn, Gerðr, Sigyn, Fulla, Nanna. Ægi þótti gǫfugligt[^17] þar um at sjásk. Veggþili[^18] ǫll váru þar tjǫlduð[^19] með fǫgrum skjǫldum[^20]. Þar var ok áfenginn[^21] mjǫðr[^22] ok mjǫk drukkit[^23]. Næsti maðr Ægi sat Bragi, ok áttusk þeir við drykkju ok orðaskipti[^24]. Sagði Bragi Ægi frá mǫrgum tíðindum[^25] þeim er Æsir hǫfðu átt. 
 
-Hann hóf[^26] þar frásǫgn[^27] at þrír Æsir fóru heiman[^28], Óðinn ok Loki ok Hænir, ok fóru um fjǫll[^29] ok eyðimerkr[^30] ok var ilt til matar[^31]. En er þeir koma ofan í dal nakkvarn[^32], sjá þeir øxna flokk[^33] ok taka einn uxann ok snúa til seyðis[^34]. En er þeir hyggja at soðit mun vera[^35], raufa þeir seyðinn ok var ekki soðit. Ok í annat sinn er þeir raufa seyðinn, þá er stund var liðin, ok var ekki soðit. Mæla þeir þá sín á milli hverju þetta mun gegna. Þá heyra þeir mál í eikina upp yfir sík at sá er þar sat kvazk ráða því er eigi soðnaði á seyðinum. Þeir litu til ok sat þar ǫrn ok eigi lítill. Þá mælti ǫrninn: 
+Hann hóf[^26] þar frásǫgn[^27] at þrír Æsir fóru heiman[^28], Óðinn ok Loki ok Hænir, ok fóru um fjǫll[^29] ok eyðimerkr[^30] ok var illt til matar[^31]. En er þeir koma ofan í dal nakkvarn[^32], sjá þeir øxna flokk[^33] ok taka einn uxann ok snúa til seyðis[^34]. En er þeir hyggja at soðit mun vera[^35], raufa þeir seyðinn ok var ekki soðit. Ok í annat sinn er þeir raufa seyðinn, þá er stund var liðin, ok var ekki soðit. Mæla þeir þá sín á milli hverju þetta mun gegna. Þá heyra þeir mál í eikina upp yfir sík at sá er þar sat kvazk ráða því er eigi soðnaði á seyðinum. Þeir litu til ok sat þar ǫrn ok eigi lítill. Þá mælti ǫrninn: 
 
 ““Vilið þér gefa mér fylli mína af oxanum, þá mun soðna á seyðinum." 
 
@@ -56,38 +56,41 @@ Priamus konungr í Troju var hǫfðingi mikill yfir ǫllum her Tyrkja ok hans sy
 
 And so on.
 
+***
+## Notes
+
 [^1]:[_Ægir_](https://old-norse.net/html/ae.php#%C3%A6gir)
-[^2]:[]
-[^3]:[]
-[^4]:[]
-[^5]:[]
-[^6]:[]
-[^7]:[]
-[^8]:[]
-[^9]:[]
-[^10]:[]
-[^11]:[]
-[^12]:[]
-[^13]:[]
-[^14]:[]
-[^15]:[]
-[^16]:[]
-[^17]:[]
-[^18]:[]
-[^19]:[]
-[^20]:[]
-[^21]:[]
-[^22]:[]
-[^23]:[]
-[^24]:[]
-[^25]:[]
-[^26]:[]
-[^27]:[]
-[^28]:[]
-[^29]:[]
-[^30]:[]
-[^31]:[]
-[^32]:[]
-[^33]:[]
-[^34]:[]
-[^35]:[]
+[^2]:[_Hlér_](https://old-norse.net/html/h.php#hl%C3%A9r) Also see [_Llŷr_](https://en.wikipedia.org/wiki/Ll%C5%B7r)
+[^3]:[_ey_](https://old-norse.net/html/e.php#ey2)
+[^4]:[_Hlélsey_](https://en.wikipedia.org/wiki/L%C3%A6s%C3%B8) The Wikipedia link is the modern name in Danish. Either this island is named after the British god or this is a false etymology.
+[^5]:[_https://old-norse.net/html/f.php#fj%C3%B6lkunnigr_](https://old-norse.net/html/f.php#fj%C3%B6lkunnigr)
+[^6]:[_Ásgarðs_](https://old-norse.net/html/aa.php#%C3%A1sgar%C3%B0r)
+[^7]:[_fagnat_](https://en.wiktionary.org/wiki/fagna#Conjugation_3) = _fagnað_
+[^8]:[_sjónhverfingum_](https://old-norse.net/html/s.php#sj%C3%B3nhverfing)
+[^9]:[_hǫllina_](https://en.wiktionary.org/wiki/h%C7%ABll#Old_Norse)
+[^10]:[_bjǫrt_](https://en.wiktionary.org/wiki/bjartr#Old_Norse)
+[^11]:[_lýsti_](https://en.wiktionary.org/wiki/l%C3%BDsa#Icelandic)
+[^12]:[_haft_](https://en.wiktionary.org/wiki/hafa#Conjugation_2) Participle declension. 
+[^13]:[_ljós_](https://en.wiktionary.org/wiki/lj%C3%B3s#Declension_4)
+[^14]:[_gildi_](https://en.wiktionary.org/wiki/gildi#Noun_5) "feast."
+[^15]:[_dómendr_](https://en.wiktionary.org/wiki/d%C3%B3mandi#Declension)
+[^16]: Look up these gods on your own. I suspect you know some of these names. 
+[^17]:[_gǫfugligt_](https://en.wiktionary.org/wiki/g%C7%ABfugr#Declension)
+[^18]:[_Veggþili_](https://old-norse.net/html/v.php#vegg%C3%BEili) Trim on either the bottom or top of a wall that covers the corner.
+[^19]:[_tjǫlduð_](https://old-norse.net/html/t.php#tjald-2)
+[^20]:[_skjǫldum_](https://old-norse.net/html/s.php#skj%C3%B6ldr)
+[^21]:[_áfenginn_](https://old-norse.net/html/aa.php#%C3%A1fenginn)
+[^22]:[_mjǫðr_](https://old-norse.net/html/m.php#mj%C3%B6%C3%B0r)
+[^23]:[_drukkit_](https://en.wiktionary.org/wiki/drekka#Conjugation_3) Supine 
+[^24]:[_orðaskipti_](https://old-norse.net/html/o.php#or%C3%B0askipti)
+[^25]:[_tíðindum_](https://en.wiktionary.org/wiki/t%C3%AD%C3%B0indi#Noun_3) "tidings."
+[^26]:[_hóf_](https://en.wiktionary.org/wiki/hefja#Conjugation_2) "to begin."
+[^27]:[_frásǫgn_](https://old-norse.net/html/f.php#fr%C3%A1saga)
+[^28]:[_heiman_](https://en.wiktionary.org/wiki/heiman#Adverb_4)
+[^29]:[_fjǫll_](https://en.wiktionary.org/wiki/fjall#Declension_3)
+[^30]:[_eyðimerkr_](https://en.wiktionary.org/wiki/ey%C3%B0im%C7%ABrk#Declension)
+[^31]:[_illt til matar_](https://en.wiktionary.org/wiki/matr#Declension) Hungry. 
+[^32]:[_dal_](https://en.wiktionary.org/wiki/dalr#Old_Norse)
+[^33]:[_øxna_](https://en.wiktionary.org/wiki/oxa#Old_English) A flock of oxen.
+[^34]:[_snúa_](https://en.wiktionary.org/wiki/sn%C3%BAa#Verb_2) _til_ [_seyðis_](https://old-norse.net/html/s.php#sey%C3%B0ir) See our sentence in this entry!
+[^35]:[_soðit_](https://en.wiktionary.org/wiki/sj%C3%B3%C3%B0a#Conjugation_2) "cooked."
