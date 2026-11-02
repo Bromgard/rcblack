@@ -12,21 +12,21 @@ Hann hóf[^26] þar frásǫgn[^27] at þrír Æsir fóru heiman[^28], Óðinn ok
 
 “En Skaði[^99], dóttir Þjaza jǫtuns, tók hjálm ok brynju[^100] ok oll hervápn ok ferr til Ásgarðs at hefna fǫður síns. En Æsir buðu[^101] henni sætt ok yfirbœtr[^102], ok hit fyrsta at hon skal kjósa sér mann af Ásum, ok kjósa at fótum ok sjá ekki fleira af[^103]. Þá sá hon eins manns fætr forkunnar fagra ok mælir: 
 
-““Þenna kýs ek, fátt mun ljótt á Baldri." 
+““Þenna kýs[^104] ek, fátt[^105] mun ljótt[^106] á Baldri[^107]." 
 
-“En þat var Njǫrðr ór Nóatúnum. Þat hafði hon ok í sættargjǫrð sinni at Æsir skyldu þat gera er hon hugði at þeir skyldu eigi mega, at hlœgja hana. Þá gerði Loki þat at hann batt um skegg geitar nokkvorrar ok ǫðrum enda um hreðjar sér ok létu þau ymsi eptir ok skrækti hvárttveggja við hátt. Þá lét Loki fallask í kné Skaða ok þá hló hon. Var þá gjǫr sætt af Ásanna hendi við hana. 
+“En þat var Njǫrðr ór Nóatúnum[^108]. Þat hafði hon ok í sættargjǫrð[^109] sinni at Æsir skyldu þat gera er hon hugði at þeir skyldu eigi mega, at hlœgja hana. Þá gerði Loki þat at hann batt[^110] um skegg[^111] geitar[^112] nokkvorrar ok ǫðrum enda um hreðjar[^113] sér ok létu þau ymsi eptir[^114] ok skrækti[^115] hvárttveggja við hátt[^116]. Þá lét Loki fallask í kné Skaða ok þá hló hon. Var þá gjǫr sætt af Ásanna hendi[^117] við hana. 
 
-“Svá er sagt at Óðinn gerði þat til yfirbóta við hana at hann tók augu Þjaza ok kastaði upp á himin ok gerði af stjǫrnur tvær.' 
+“Svá er sagt at Óðinn gerði þat til yfirbóta[^118] við hana at hann tók augu Þjaza ok kastaði upp á himin ok gerði af[^119] stjǫrnur tvær.' 
 
-Þá mælir Ægir: Mikill þykki mér Þjazi fyrir sér hafa verit, eða hvers kyns var hann?' 
+Þá mælir Ægir: Mikill þykki mér Þjazi fyrir sér hafa verit, eða hvers kyns[^120] var hann?' 
 
-Bragi svarar: Ǫlvaldi hét faðir hans, ok merki munu þér at þykkja ef ek segi þér frá honum. Hann var mjǫk gullauðigr, en er hann dó ok synir hans skyldu skipta arfi, þá hǫfðu þeir mæling at gullinu er þeir skiptu at hverr skyldi taka munnfylli sína ok allir jafnmargar. Einn þeira var Þjazi, annarr Iði, þriði Gangr. En þat hǫfum vér orðtak nú með oss at kalla gullit munntal þessa jǫtna, en vér felum í rúnum eða í skáldskap svá at vér kǫllum þat mál eða orðtak, tal þessa jǫtna.' 
+Bragi svarar: Ǫlvaldi hét faðir hans, ok merki[^121] munu þér at þykkja ef ek segi þér frá honum[^122]. Hann var mjǫk gullauðigr[^123], en er hann dó ok synir hans skyldu skipta arfi[^124], þá hǫfðu þeir mæling[^125] at gullinu er þeir skiptu at hverr skyldi taka munnfylli[^126] sína ok allir jafnmargar[^127]. Einn þeira var Þjazi[^128], annarr Iði[^129], þriði Gangr[^130]. En þat hǫfum vér orðtak[^131] nú með oss at kalla gullit munntal[^132] þessa jǫtna, en vér felum[^133] í rúnum[^134] eða í skáldskap[^135] svá at vér kǫllum þat mál eða orðtak, tal þessa jǫtna.' 
 
-Þá mælir Ægir: Þat þykki mér vera vel fólgit í rúnum.' 
+Þá mælir Ægir: Þat þykki mér vera vel fólgit[^136] í rúnum.' 
 
-Ok enn mælir Ægir: "Hvaðan af hefir hafizk sú íþrótt er þér kallið skáldskap?" 
+Ok enn mælir Ægir: "Hvaðan af hefir hafizk sú íþrótt[^137] er þér kallið skáldskap?[^138]" 
 
-Bragi svarar: Þat váru upphǫf til þess at guðin hǫfðu ósætt við þat fólk er Vanir heita, en þeir lǫgðu með sér friðstefnu ok settu grið á þá lund at þeir gengu hvárirtveggju til eins kers ok spýttu í hráka sínum. En at skilnaði þá tóku goðin ok vildu eigi láta týnask þat griðamark ok skǫpuðu þar ór mann. Sá heitir Kvasir. Hann er svá vitr at engi spyrr hann þeira hluta er eigi kann hann órlausn. Hann fór víða um heim at kenna mǫnnum frœði, ok þá er hann kom at heimboði til dverga nokkvorra, Fjalars ok Galars, þá kǫlluðu þeir hann með sér á einmæli ok drápu hann, létu renna blóð hans í tvau ker ok einn ketil, ok heitir sá Óðreyrir, en kerin heita Són ok Boðn. Þeir blendu hunangi við blóðit ok varð þar af mjǫðr sá er hverr er af drekkr verðr skáld eða frœðamaðr. Dvergarnir sǫgðu Ásum at Kvasir hefði kafnat í mannviti fyrir því at engi var þar svá fróðr at spyrja kynni hann fróðleiks. 
+Bragi svarar: Þat váru upphǫf[^139] til þess at guðin[^140] hǫfðu ósætt[^141] við þat fólk er Vanir[^142] heita, en þeir lǫgðu[^143] með sér friðstefnu[^144] ok settu grið[^145] á þá lund[^146] at þeir gengu hvárirtveggju[^147] til eins kers[^148] ok spýttu[^149] í hráka[^150] sínum. En at skilnaði þá tóku goðin ok vildu eigi láta týnask þat griðamark ok skǫpuðu þar ór mann. Sá heitir Kvasir. Hann er svá vitr at engi spyrr hann þeira hluta er eigi kann hann órlausn. Hann fór víða um heim at kenna mǫnnum frœði, ok þá er hann kom at heimboði til dverga nokkvorra, Fjalars ok Galars, þá kǫlluðu þeir hann með sér á einmæli ok drápu hann, létu renna blóð hans í tvau ker ok einn ketil, ok heitir sá Óðreyrir, en kerin heita Són ok Boðn. Þeir blendu hunangi við blóðit ok varð þar af mjǫðr sá er hverr er af drekkr verðr skáld eða frœðamaðr. Dvergarnir sǫgðu Ásum at Kvasir hefði kafnat í mannviti fyrir því at engi var þar svá fróðr at spyrja kynni hann fróðleiks. 
 
 “Þá buðu þessir dvergar til sín jǫtni þeim er Gillingr heitir ok konu hans. Þá buðu dvergarnir Gillingi at róa á sæ með sér. En er þeir fóru fyrir land fram, røru dvergarnir á boða ok hvelfði skipinu. Gillingr var ósyndr ok týndisk hann, en dvergarnir réttu skip sitt ok reru til lands. Þeir sǫgðu konu hans þenna atburð, en hon kunni illa ok grét hátt. Þá spurði Fjalarr hana ef henni mundi hugléttara ef hon sæi út á sæinn þar er hann hafði týnzk, en hon vildi þat. Þá mælti hann við Galar bróður sinn at hann skal fara upp yfir dyrrnar er hon gengi út ok láta kvernstein falla í hǫfuð henni, ok taldi sér leiðask óp hennar, ok svá gerði hann. Þá er þetta spurði Suttungr bróðurson Gillings, ferr hann til ok tók dvergana ok flytr á sæ út ok setr þá í flœðarsker. Þeir biðja Suttung sér lífsgriða ok bjóða honum til sættar í fǫðurgjold mjǫðinn dýra, ok þat verðr at sætt með þeim. Flytr Suttungr mjǫðinn heim ok hirðir þar sem heita Hnitbjǫrg, setr þar til gæzlu dóttur sína Gunnlǫðu. Af þessu kǫllum vér skáldskap Kvasis blóð eða dverga drekku eða fylli eða nakkvars konar lǫg Óðreris eða Boðnar eða Sónar eða farskost dverga, fyrir því at sá mjǫðr flutti þeim fjǫrlausn ór skerinu, eða Suttunga mjǫð eða Hnitbjarga lǫgr.' 
 
@@ -161,4 +161,51 @@ And so on.
 [^100]:[_brynju_](https://en.wiktionary.org/wiki/brynja#Old_Norse)
 [^101]:[_buðu_](https://en.wiktionary.org/wiki/bj%C3%B3%C3%B0a#Conjugation_3)
 [^102]:[_yfirbœtr_](https://old-norse.net/html/y.php#yfirb%C3%B3t-2)
-[^103]:[_sjá á_](https://old-norse.net/html/s.php#sj%C3%A1-A-3) To look at. She didn't see anything else of his body. 
+[^103]:[_sjá á_](https://old-norse.net/html/s.php#sj%C3%A1-A-3) To look at. She didn't see anything else of his body.
+[^104]:[_kýs_](https://en.wiktionary.org/wiki/kj%C3%B3sa#Conjugation_3)
+[^105]:[_fátt_](https://en.wiktionary.org/wiki/f%C3%A1r#Declension_5)
+[^106]:[_ljótt_](https://en.wiktionary.org/wiki/lj%C3%B3tr#Declension)
+[^107]:[_Baldri_](https://en.wikipedia.org/wiki/Baldr)
+[^108]:[_Njǫrðr_](https://en.wikipedia.org/wiki/Nj%C3%B6r%C3%B0r)
+[^109]:[_sættargjǫrð_](https://old-norse.net/html/s.php#s%C3%A1ttarg%C3%B6r%C3%B0)
+[^110]:[_batt_](https://en.wiktionary.org/wiki/binda#Conjugation_4)
+[^111]:[_skegg_](https://en.wiktionary.org/wiki/skegg#Declension_3)
+[^112]:[_geitar_](https://en.wiktionary.org/wiki/geit#Old_Norse)
+[^113]:[_hreðjar_](https://old-norse.net/html/h.php#hre%C3%B0jar)
+[^114]:[_létu eptir_](https://old-norse.net/html/l.php#l%C3%A1ta-III) [ýmiss](https://en.wiktionary.org/wiki/%C3%BDmiss#Old_Norse) They pulled at each other, one after the other. 
+[^115]:[_skrækti_](https://old-norse.net/html/s.php#skr%C3%A6kta)
+[^116]:[_hátt_](https://en.wiktionary.org/wiki/h%C3%A1ttr#Declension)
+[^117]:[_hendi_](https://en.wiktionary.org/wiki/h%C7%ABnd#Declension)
+[^118]:[_yfirbóta_](https://old-norse.net/html/y.php#yfirb%C3%B3t)
+[^119]:[_gerði af_](https://old-norse.net/html/g.php#g%C3%B6ra-A) ...and made two stars...
+[^120]:[_kyns_](https://old-norse.net/html/k.php#kyn2)
+[^121]:[_merki_](https://en.wiktionary.org/wiki/merki#Declension_3)
+[^122]:...you will mark in your thinking if I talk to you about him... Or, You will really be impressed. 
+[^123]:[_gullauðigr_](https://old-norse.net/html/g.php#gullau%C3%B0igr)
+[^124]:[_arfi_](https://old-norse.net/html/a.php#arfi)
+[^125]:[_mæling_](https://old-norse.net/html/m.php#m%C3%A6ling)
+[^126]:[_munnfylli_](https://old-norse.net/html/m.php#munnfyllr)
+[^127]:[_jafnmargar_](https://old-norse.net/html/j.php#jafnmargr)
+[^128]: We've already met him. 
+[^129]:[_Iði_](https://en.wikipedia.org/wiki/I%C3%B0i)
+[^130]:[_Gangr_](https://en.wikipedia.org/wiki/Gangr)
+[^131]:[_orðtak_](https://old-norse.net/html/o.php#or%C3%B0tak)
+[^132]:[_munntal_](https://old-norse.net/html/m.php#munntal)
+[^133]:[_felum_](https://en.wiktionary.org/wiki/fela#Conjugation_2)
+[^134]:[_felum_](https://en.wiktionary.org/wiki/fela#Conjugation_2)
+[^135]:[_skáldskap_](https://old-norse.net/html/s.php#sk%C3%A1ldskapr)
+[^136]:[_fólgit_](https://en.wiktionary.org/wiki/fela#Conjugation_2) Look at the participle declension! 
+[^137]:[_íþrótt_](https://old-norse.net/html/ii.php#%C3%AD%C3%BEr%C3%B3tt)
+[^138]:[_skáldskap_](https://old-norse.net/html/s.php#sk%C3%A1ldskapr) I've been doing this for hours! 
+[^139]:[_upphǫf_](https://en.wiktionary.org/wiki/upphaf#Declension_2)
+[^140]:[_guðin_](https://old-norse.net/html/g.php#gu%C3%B0) and look at the historical remarks [here](https://old-norse.net/html/g.php#go%C3%B0-A)
+[^141]:[_ósætt_](https://old-norse.net/html/oo.php#%C3%B3s%C3%A1tt)
+[^142]:[_Vanir_](https://old-norse.net/html/v.php#vanr3-II) and [here](https://en.wikipedia.org/wiki/Vanir)
+[^143]:[_lǫgðu_](https://en.wiktionary.org/wiki/leggja#Conjugation_3)
+[^144]:[_friðstefnu_](https://old-norse.net/html/f.php#fri%C3%B0arstefna) A treaty. 
+[^145]:[_grið_](https://old-norse.net/html/g.php#gri%C3%B0-B)
+[^146]:[_lund_](https://old-norse.net/html/l.php#lund-II)
+[^147]:[_hvárirtveggju_](https://old-norse.net/html/h.php#hv%C3%A1rrtveggi-A)
+[^148]:[_kers_](https://old-norse.net/html/k.php#ker)
+[^149]:[_spýttu_](https://en.wiktionary.org/wiki/sp%C3%BDta#Conjugation_3)
+[^150]:[_hráka_](https://old-norse.net/html/h.php#hr%C3%A1ki) 
