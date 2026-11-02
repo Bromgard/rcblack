@@ -2,15 +2,15 @@
 
 EINN maðr er nefndr Ægir[^1] eða Hlér[^2]. Hann bjó í ey[^3] þeiri er nú er kǫlluð Hlélsey[^4]. Hann var mjǫk fjǫlkunnigr[^5]. Hann gerði ferð sína til Ásgarðs[^6], en er Æsir vissu ferð hans var honum fagnat[^7] vel ok þó margir hlutir með sjónhverfingum[^8]. Ok um kveldit, er drekka skyldi, þá lét Óðinn bera inn í hǫllina[^9] sverð, ok váru svá bjǫrt[^10] at þar af lýsti[^11], ok var ekki haft[^12] ljós[^13] annat meðan við drykkju var setit. Þá gengu Æsir at gildi[^14] sínu ok settusk í hásæti tólf Æsir, þeir er dómendr[^15] skyldu vera ok svá váru nefndir: Þórr, Njǫrðr, Freyr, Týr, Heimdallr, Bragi, Viðarr, Váli, Ullr, Hænir, Forseti, Loki[^16]; slíkt sama Ásynjur: Frigg, Freyja, Gefjun, Iðunn, Gerðr, Sigyn, Fulla, Nanna. Ægi þótti gǫfugligt[^17] þar um at sjásk. Veggþili[^18] ǫll váru þar tjǫlduð[^19] með fǫgrum skjǫldum[^20]. Þar var ok áfenginn[^21] mjǫðr[^22] ok mjǫk drukkit[^23]. Næsti maðr Ægi sat Bragi, ok áttusk þeir við drykkju ok orðaskipti[^24]. Sagði Bragi Ægi frá mǫrgum tíðindum[^25] þeim er Æsir hǫfðu átt. 
 
-Hann hóf[^26] þar frásǫgn[^27] at þrír Æsir fóru heiman[^28], Óðinn ok Loki ok Hænir, ok fóru um fjǫll[^29] ok eyðimerkr[^30] ok var illt til matar[^31]. En er þeir koma ofan í dal nakkvarn[^32], sjá þeir øxna flokk[^33] ok taka einn uxann ok snúa til seyðis[^34]. En er þeir hyggja at soðit mun vera[^35], raufa þeir seyðinn ok var ekki soðit. Ok í annat sinn er þeir raufa seyðinn, þá er stund var liðin, ok var ekki soðit. Mæla þeir þá sín á milli hverju þetta mun gegna. Þá heyra þeir mál í eikina upp yfir sík at sá er þar sat kvazk ráða því er eigi soðnaði á seyðinum. Þeir litu til ok sat þar ǫrn ok eigi lítill. Þá mælti ǫrninn: 
+Hann hóf[^26] þar frásǫgn[^27] at þrír Æsir fóru heiman[^28], Óðinn ok Loki ok Hænir, ok fóru um fjǫll[^29] ok eyðimerkr[^30] ok var illt til matar[^31]. En er þeir koma ofan í dal nakkvarn[^32], sjá þeir øxna flokk[^33] ok taka einn uxann ok snúa til seyðis[^34]. En er þeir hyggja at soðit mun vera[^35], raufa[^36] þeir seyðinn ok var ekki soðit. Ok í annat sinn er þeir raufa seyðinn, þá er stund var liðin, ok var ekki soðit. Mæla þeir þá sín á milli hverju þetta mun gegna[^37]. Þá heyra[^38] þeir mál í eikina[^39] upp yfir[^40] sík at sá er þar sat kvazk ráða því er eigi soðnaði á seyðinum. Þeir litu til ok sat þar ǫrn[^41] ok eigi lítill. Þá mælti ǫrninn: 
 
-““Vilið þér gefa mér fylli mína af oxanum, þá mun soðna á seyðinum." 
+““Vilið þér gefa mér fylli[^42] mína af oxanum, þá mun soðna á seyðinum." 
 
-“Þeir játa því. Þá lætr hann sígask ór trénu ok sezk á seyðinn ok leggr upp þegar it fyrsta lær oxans tvau ok báða bógana. Þá varð Loki reiðr ok greip upp mikla stǫng ok reiðir af ollu afli ok rekr á kroppinn erninum. Ǫrninn bregzk við hoggit ok flýgr upp. Þá var fǫst stǫngin við kropp arnarins ok hendr Loka við annan enda. Ǫrninn flýgr hátt svá at fætr taka niðr grjótit ok urðir ok viðu, en hendr hans hyggr hann at slítna munu ór ǫxlum. Hann kallar ok biðr allþarfliga ǫrninn friðar, en hann segir at Loki skal aldri lauss verða nema hann veiti honum svardaga at koma Iðunni út of Ásgarð með epli sín, en Loki vil þat. Verðr hann þá lauss ok ferr til lagsmanna sinna ok er eigi at sinni sogð fleiri tíðindi um þeira ferð áðr þeir koma heim. En at ákveðinni stundu teygir Loki Iðunni út um Ásgarð í skóg nokkvorn ok segir at hann hefir fundit epli þau er henni munu gripir í þykkja, ok bað at hon skal hafa með sér sín epli ok bera saman ok hin. Þá kemr þar Þjazi jǫtunn í arnarham ok tekr Iðunni ok flýgr braut með ok í Þrymheim til bús síns. 
+“Þeir játa því[^43]. Þá lætr hann sígask[^44] ór trénu[^45] ok sezk á seyðinn ok leggr upp[^46] þegar it fyrsta[^47] lær oxans tvau ok báða bógana[^48]. Þá varð Loki reiðr[^49] ok greip upp mikla stǫng ok reiðir[^50] af ǫllu afli[^51] ok rekr á kroppinn[^52] erninum. Ǫrninn bregzk við hoggit[^53] ok flýgr upp[^54]. Þá var fǫst[^55] stǫngin við kropp arnarins ok hendr Loka við annan enda[^56]. Ǫrninn flýgr hátt svá at fætr taka niðr grjótit[^57] ok urðir ok viðu[^58], en hendr hans hyggr hann at slítna munu[^59] ór ǫxlum. Hann kallar ok biðr allþarfliga[^60] ǫrninn friðar[^61], en hann segir at Loki skal aldri lauss verða nema hann veiti[^62] honum svardaga at koma Iðunni út of Ásgarð með epli sín[^63], en Loki vil þat. Verðr hann þá lauss[^64] ok ferr til lagsmanna[^65] sinna ok er eigi at sinni sogð fleiri tíðindi um þeira ferð áðr þeir koma heim. En at ákveðinni[^66] stundu teygir[^67] Loki Iðunni út um Ásgarð í skóg[^68] nokkvorn ok segir at hann hefir fundit epli[^69] þau er henni munu gripir í þykkja[^70], ok bað at hon skal hafa með sér sín epli ok bera saman ok hin. Þá kemr þar Þjazi jǫtunn í arnarham[^71] ok tekr Iðunni ok flýgr braut með ok í Þrymheim[^72] til bús síns. 
 
-“En Æsir urðu illa við hvarf Iðunnar ok gerðusk þeir brátt hárir ok gamlir. Þá áttu þeir Æsir þing ok spyrr hverr annan hvat síðarst vissi til Iðunnar, en þat var sét síðarst at hon gekk ór Ásgarði með Loka. Þá var Loki tekinn ok fœrðr á þingit ok var honum heitit bana eða píslum. En er hann varð hræddr þá kvazk hann mundu sœksja eptir Iðunni í Jǫtunheima ef Freyja vill ljá honum valshams er hon á. Ok er hann fær valshaminn flýgr hann norðr í Jǫtunheima ok kemr einn dag til Þjaza jǫtuns. Var hann róinn á sæ, en Iðunn var ein heima. Brá Loki henni í hnotar líki ok hafði í klóm sér ok flýgr sem mest. En er Þjazi kom heim ok saknar Iðunnar, tekr hann arnarhaminn ok flýgr eptir Loka ok dró arnsúg í flugnum. En er Æsirnir sá er valrinn flaug með hnotina ok hvar ǫrninn flaug, þá gengu þeir út undir Ásgarð ok báru þannig byrðar af lokarspánum, ok þá er valrinn flaug inn of borgina, lét hann fallask niðr við borgarvegginn. Þá slógu Æsirnir eldi í lokarspánu en ǫrninn mátti eigi stǫðva er hann misti valsins. Laust þá eldinumí fiðri arnarins ok tók þá af fluginn. Þá váru Æsirnir nær ok drápu Þjaza jǫtun fyrir innan Ásgrindr ok er þat víg allfrægt. 
+“En Æsir urðu illa við hvarf[^73] Iðunnar ok gerðusk þeir brátt hárir[^74] ok gamlir[^75]. Þá áttu þeir Æsir þing ok spyrr hverr annan hvat síðarst vissi[^76] til Iðunnar, en þat var sét[^77] síðarst at hon gekk ór Ásgarði með Loka. Þá var Loki tekinn ok fœrðr á þingit ok var honum heitit[^78] bana eða píslum[^79]. En er hann varð hræddr[^80] þá kvazk hann mundu sœksja[^81] eptir Iðunni í Jǫtunheima ef Freyja vill ljá[^81] honum valshams[^82] er hon á. Ok er hann fær valshaminn flýgr hann norðr í Jǫtunheima ok kemr einn dag til Þjaza jǫtuns. Var hann róinn[^83] á sæ, en Iðunn var ein heima. Brá[^84] Loki henni í hnotar[^85] líki ok hafði í klóm[^86] sér ok flýgr sem mest[^87]. En er Þjazi kom heim ok saknar[^88] Iðunnar, tekr hann arnarhaminn ok flýgr eptir Loka ok dró arnsúg[^89] í flugnum. En er Æsirnir sá er valrinn flaug með hnotina ok hvar ǫrninn flaug, þá gengu þeir út undir Ásgarð ok báru þannig byrðar[^90] af lokarspánum[^91], ok þá er valrinn flaug inn of borgina[^92], lét hann fallask niðr við borgarvegginn[^93]. Þá slógu Æsirnir eldi[^94] í lokarspánu en ǫrninn mátti eigi stǫðva[^95] er hann misti valsins. Laust þá eldinumí fiðri[^96] arnarins ok tók þá af fluginn. Þá váru Æsirnir nær ok drápu Þjaza jǫtun fyrir innan Ásgrindr[^97] ok er þat víg allfrægt[^98]. 
 
-“En Skaði, dóttir Þjaza jǫtuns, tók hjálm ok brynju ok oll hervápn ok ferr til Ásgarðs at hefna fǫður síns. En Æsir buðu henni sætt ok yfirbœtr, ok hit fyrsta at hon skal kjósa sér mann af Ásum ok kjósa at fótum ok sjá ekki fleira af. Þá sá hon eins manns fætr forkunnar fagra ok mælir: 
+“En Skaði[^99], dóttir Þjaza jǫtuns, tók hjálm ok brynju[^100] ok oll hervápn ok ferr til Ásgarðs at hefna fǫður síns. En Æsir buðu[^101] henni sætt ok yfirbœtr[^102], ok hit fyrsta at hon skal kjósa sér mann af Ásum, ok kjósa at fótum ok sjá ekki fleira af[^103]. Þá sá hon eins manns fætr forkunnar fagra ok mælir: 
 
 ““Þenna kýs ek, fátt mun ljótt á Baldri." 
 
@@ -94,3 +94,71 @@ And so on.
 [^33]:[_øxna_](https://en.wiktionary.org/wiki/oxa#Old_English) A flock of oxen.
 [^34]:[_snúa_](https://en.wiktionary.org/wiki/sn%C3%BAa#Verb_2) _til_ [_seyðis_](https://old-norse.net/html/s.php#sey%C3%B0ir) See our sentence in this entry!
 [^35]:[_soðit_](https://en.wiktionary.org/wiki/sj%C3%B3%C3%B0a#Conjugation_2) "cooked."
+[^36]:[_raufa_](https://old-norse.net/html/r.php#raufa) Our passage is in the entry! 
+[^37]:[_gegna_](https://old-norse.net/html/g.php#gegna-3) Entry 3. 
+[^38]:[_heyra_](https://en.wiktionary.org/wiki/heyra#Conjugation_2)
+[^39]:[_https://old-norse.net/html/e.php#eik_](https://old-norse.net/html/e.php#eik) This can also mean any tree in general. It's often impossible for us to know which is being referred to in most passages. 
+[^40]:[_yfir_](https://en.wiktionary.org/wiki/yfir#Preposition_2)
+[^41]:[_ǫrn_](https://old-norse.net/html/oe.php#%C3%B6rn)
+[^42]:[_fylli_](https://old-norse.net/html/f.php#fylli-2)
+[^43]:[_játa_](https://old-norse.net/html/j.php#j%C3%A1ta)
+[^44]:[_sígask_](https://old-norse.net/html/s.php#s%C3%ADga-II)
+[^45]:[_trénu_] Look at the previous definition. This passage is in there! 
+[^46]:[_upp_](https://en.wiktionary.org/wiki/upp#Preposition)
+[^47]:[_fyrsta_](https://old-norse.net/html/f.php#fyrsta)
+[^48]:[_bógana_](https://old-norse.net/html/b.php#b%C3%B3gr)
+[^49]:[_reiðr_](https://old-norse.net/html/r.php#rei%C3%B0r)
+[^50]:[_reiðir_](https://old-norse.net/html/r.php#rei%C3%B0a-4) Note the similar but different words in this sentence! 
+[^51]:[_afli_](https://en.wiktionary.org/wiki/afl#Declension_4)
+[^52]:[_kroppinn_](https://old-norse.net/html/k.php#kroppr)
+[^53]:[_hoggit_](https://old-norse.net/html/h.php#h%C3%B6gg)
+[^54]:[_upp_](https://en.wiktionary.org/wiki/upp#Preposition)
+[^55]:[_fǫst_](https://en.wiktionary.org/wiki/festa#Old_Norse) Participle. "Was fastened." 
+[^56]:[_enda_](https://en.wiktionary.org/wiki/endi#Old_Norse)
+[^57]:[_grjótit_](https://old-norse.net/html/g.php#grj%C3%B3t)
+[^58]:[_urðir_](https://old-norse.net/html/u.php#ur%C3%B0) _ok_ [_viðu_](https://old-norse.net/html/v.php#vi%C3%B0r3)
+[^59]:[_slítna_](https://old-norse.net/html/s.php#sl%C3%ADta-II)
+[^60]:[_allþarfliga_](https://old-norse.net/html/a.php#all%C3%BEarfliga)
+[^61]:[_friðar_](https://old-norse.net/html/f.php#fri%C3%B0a)
+[^62]:[_veiti_](https://old-norse.net/html/v.php#veita)
+[^63]:[_epli_](https://old-norse.net/html/e.php#epli)
+[^64]:[_lauss_](https://en.wiktionary.org/wiki/lauss#Adjective_2)
+[^65]:[_lagsmanna_](https://old-norse.net/html/l.php#lagsma%C3%B0r`)
+[^66]:[_ákveðinni_](https://old-norse.net/html/aa.php#%C3%A1kve%C3%B0ja)
+[^67]:[_teygir_](https://en.wiktionary.org/wiki/teygja#Conjugation_2)
+[^68]:[_skóg_](https://old-norse.net/html/s.php#sk%C3%B3gr)
+[^69]:[_epli_] Apples, again. 
+[^70]:[_gripir_](https://old-norse.net/html/g.php#gr%C3%ADpa-II) _í þykkja_ To consider 
+[^71]:[_arnarham_](https://old-norse.net/html/h.php#arnarhamr)
+[^72]:[_Þrymheim_](https://old-norse.net/html/th.php#%C3%BErymheimr)
+[^73]:[_hvarf_](https://old-norse.net/html/h.php#hvarf)
+[^74]:[_hárir_](https://old-norse.net/html/h.php#h%C3%A1rr)
+[^75]:[_gamlir_](https://old-norse.net/html/g.php#gamalligr)
+[^76]:[_vissi_](https://old-norse.net/html/v.php#vissa)
+[^77]:[_sét_](https://en.wiktionary.org/wiki/sj%C3%A1#Old_Norse) Look at the past participle declension. 
+[^78]:[_heitit_](https://old-norse.net/html/h.php#heita) A familiar word but in this case it can be translated to, "was sentenced." Past participle.
+[^79]:[_píslum_](https://old-norse.net/html/p.php#p%C3%ADnsl)
+[^80]:[_hræddr_](https://old-norse.net/html/h.php#hr%C3%A6ddr)
+[^81]:[_sœksja_](https://old-norse.net/html/s.php#s%C3%A6kja-A)
+[^82]:[_valshams_](https://old-norse.net/html/h.php#hamr-II)
+[^83]:[_róinn_](https://en.wiktionary.org/wiki/r%C3%B3a#Old_Norse)
+[^84]:[_Brá_](https://en.wiktionary.org/wiki/breg%C3%B0a#Old_Norse) You know when a wizard __turns__ you into a rat?
+[^85]:[_hnotar_](https://en.wiktionary.org/wiki/hnot#Declension_3)
+[^86]:[_klóm_](https://old-norse.net/html/k.php#kl%C3%B3)
+[^87]:[_sem mest_](https://old-norse.net/html/s.php#sem-A-5) Literally, "The most." More specifically in our language, "as hard as he could" 
+[^88]:[_saknar_](https://old-norse.net/html/s.php#sakna-2)
+[^89]:[_arnsúg_](https://old-norse.net/html/a.php#arns%C3%BAgr) Literally, "eagle-suck." There has to be some poetic or symbolic reason this word exists.
+[^90]:[_byrðar_](https://en.wiktionary.org/wiki/byr%C3%B0i#Declension) They brought loads of..."
+[^91]:[_lokarspánum_](https://old-norse.net/html/l.php#lokarr)
+[^92]:[_borgina_](https://old-norse.net/html/b.php#borg-II)
+[^93]:[_borgarvegginn_](https://old-norse.net/html/b.php#borgarveggr)
+[^94]:[_eldi_](https://old-norse.net/html/e.php#elda)
+[^95]:[_stǫðva_](https://en.wiktionary.org/wiki/st%C7%AB%C3%B0va#Conjugation)
+[^96]:[_fiðri_](https://en.wiktionary.org/wiki/fi%C3%B0ri#Declension)
+[^97]:[_Ásgrindr_](https://old-norse.net/html/g.php#%C3%A1sgrindr) The gates of Ásgard. 
+[^98]:[_allfrægt_](https://old-norse.net/html/a.php#allfr%C3%A6gr)
+[^99]:[_Skaði_](https://old-norse.net/html/s.php#ska%C3%B0i) Scroll down to the proper name after this entry. Cognate to English, "scathe."
+[^100]:[_brynju_](https://en.wiktionary.org/wiki/brynja#Old_Norse)
+[^101]:[_buðu_](https://en.wiktionary.org/wiki/bj%C3%B3%C3%B0a#Conjugation_3)
+[^102]:[_yfirbœtr_](https://old-norse.net/html/y.php#yfirb%C3%B3t-2)
+[^103]:[_sjá á_](https://old-norse.net/html/s.php#sj%C3%A1-A-3) To look at. She didn't see anything else of his body. 
