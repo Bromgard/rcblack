@@ -63,7 +63,7 @@ And so on.
 [^2]:[_Hlér_](https://old-norse.net/html/h.php#hl%C3%A9r) Also see [_Llŷr_](https://en.wikipedia.org/wiki/Ll%C5%B7r)
 [^3]:[_ey_](https://old-norse.net/html/e.php#ey2)
 [^4]:[_Hlélsey_](https://en.wikipedia.org/wiki/L%C3%A6s%C3%B8) The Wikipedia link is the modern name in Danish. Either this island is named after the British god or this is a false etymology.
-[^5]:[_https://old-norse.net/html/f.php#fj%C3%B6lkunnigr_](https://old-norse.net/html/f.php#fj%C3%B6lkunnigr)
+[^5]:[_fjǫlkunnigr_](https://old-norse.net/html/f.php#fj%C3%B6lkunnigr)
 [^6]:[_Ásgarðs_](https://old-norse.net/html/aa.php#%C3%A1sgar%C3%B0r)
 [^7]:[_fagnat_](https://en.wiktionary.org/wiki/fagna#Conjugation_3) = _fagnað_
 [^8]:[_sjónhverfingum_](https://old-norse.net/html/s.php#sj%C3%B3nhverfing)
