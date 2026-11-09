@@ -26,13 +26,13 @@ Bragi svarar: Ǫlvaldi hét faðir hans, ok merki[^121] munu þér at þykkja ef
 
 Ok enn mælir Ægir: "Hvaðan af hefir hafizk sú íþrótt[^137] er þér kallið skáldskap?[^138]" 
 
-Bragi svarar: Þat váru upphǫf[^139] til þess at guðin[^140] hǫfðu ósætt[^141] við þat fólk er Vanir[^142] heita, en þeir lǫgðu[^143] með sér friðstefnu[^144] ok settu grið[^145] á þá lund[^146] at þeir gengu hvárirtveggju[^147] til eins kers[^148] ok spýttu[^149] í hráka[^150] sínum. En at skilnaði þá tóku goðin ok vildu eigi láta týnask þat griðamark ok skǫpuðu þar ór mann. Sá heitir Kvasir. Hann er svá vitr at engi spyrr hann þeira hluta er eigi kann hann órlausn. Hann fór víða um heim at kenna mǫnnum frœði, ok þá er hann kom at heimboði til dverga nokkvorra, Fjalars ok Galars, þá kǫlluðu þeir hann með sér á einmæli ok drápu hann, létu renna blóð hans í tvau ker ok einn ketil, ok heitir sá Óðreyrir, en kerin heita Són ok Boðn. Þeir blendu hunangi við blóðit ok varð þar af mjǫðr sá er hverr er af drekkr verðr skáld eða frœðamaðr. Dvergarnir sǫgðu Ásum at Kvasir hefði kafnat í mannviti fyrir því at engi var þar svá fróðr at spyrja kynni hann fróðleiks. 
+Bragi svarar: Þat váru upphǫf[^139] til þess at guðin[^140] hǫfðu ósætt[^141] við þat fólk er Vanir[^142] heita, en þeir lǫgðu[^143] með sér friðstefnu[^144] ok settu grið[^145] á þá lund[^146] at þeir gengu hvárirtveggju[^147] til eins kers[^148] ok spýttu[^149] í hráka[^150] sínum. En at skilnaði þá tóku goðin ok vildu eigi láta týnask[^151] þat griðamark[^152] ok skǫpuðu þar ór mann[^153]. Sá heitir Kvasir[^154]. Hann er svá vitr at engi spyrr hann þeira hluta er eigi kann hann órlausn[^155]. Hann fór víða um heim at kenna mǫnnum frœði[^156], ok þá er hann kom at heimboði[^157] til dverga[^158] nokkvorra, Fjalars ok Galars, þá kǫlluðu þeir hann með sér á einmæli ok drápu hann, létu renna blóð hans í tvau ker ok einn ketil, ok heitir sá Óðreyrir[^159], en kerin heita Són[^160] ok Boðn[^161]. Þeir blendu hunangi við blóðit ok varð þar af mjǫðr sá er hverr er af drekkr verðr skáld eða frœðamaðr. Dvergarnir sǫgðu Ásum at Kvasir hefði kafnat[^162] í mannviti[^163] fyrir, því at engi var þar svá fróðr at spyrja kynni hann fróðleiks[^164]. 
 
-“Þá buðu þessir dvergar til sín jǫtni þeim er Gillingr heitir ok konu hans. Þá buðu dvergarnir Gillingi at róa á sæ með sér. En er þeir fóru fyrir land fram, røru dvergarnir á boða ok hvelfði skipinu. Gillingr var ósyndr ok týndisk hann, en dvergarnir réttu skip sitt ok reru til lands. Þeir sǫgðu konu hans þenna atburð, en hon kunni illa ok grét hátt. Þá spurði Fjalarr hana ef henni mundi hugléttara ef hon sæi út á sæinn þar er hann hafði týnzk, en hon vildi þat. Þá mælti hann við Galar bróður sinn at hann skal fara upp yfir dyrrnar er hon gengi út ok láta kvernstein falla í hǫfuð henni, ok taldi sér leiðask óp hennar, ok svá gerði hann. Þá er þetta spurði Suttungr bróðurson Gillings, ferr hann til ok tók dvergana ok flytr á sæ út ok setr þá í flœðarsker. Þeir biðja Suttung sér lífsgriða ok bjóða honum til sættar í fǫðurgjold mjǫðinn dýra, ok þat verðr at sætt með þeim. Flytr Suttungr mjǫðinn heim ok hirðir þar sem heita Hnitbjǫrg, setr þar til gæzlu dóttur sína Gunnlǫðu. Af þessu kǫllum vér skáldskap Kvasis blóð eða dverga drekku eða fylli eða nakkvars konar lǫg Óðreris eða Boðnar eða Sónar eða farskost dverga, fyrir því at sá mjǫðr flutti þeim fjǫrlausn ór skerinu, eða Suttunga mjǫð eða Hnitbjarga lǫgr.' 
+“Þá buðu[^165] þessir dvergar til sín jǫtni þeim er Gillingr heitir ok konu hans. Þá buðu[^166] dvergarnir Gillingi at róa á sæ með sér. En er þeir fóru fyrir land fram, røru dvergarnir á boða[^167] ok hvelfði[^168] skipinu. Gillingr var ósyndr[^169] ok týndisk hann, en dvergarnir réttu[^170] skip sitt ok reru til lands. Þeir sǫgðu konu hans þenna atburð[^171], en hon kunni illa ok grét[^172] hátt. Þá spurði Fjalarr hana ef henni mundi hugléttara[^173] ef hon sæi[^174] út á sæinn[^175] þar er hann hafði týnzk, en hon vildi þat. Þá mælti hann við Galar bróður sinn at hann skal fara upp yfir dyrrnar[^176] er hon gengi út ok láta kvernstein[^177] falla í hǫfuð henni, ok taldi[^178] sér leiðask[^179] óp[^180] hennar, ok svá gerði hann. Þá er þetta spurði Suttungr bróðurson Gillings, ferr hann til ok tók dvergana ok flytr á sæ út ok setr þá í flœðarsker[^181]. Þeir biðja Suttung sér lífsgriða[^182] ok bjóða honum til sættar í fǫðurgjold mjǫðinn dýra[^183], ok þat verðr at sætt með þeim. Flytr Suttungr mjǫðinn heim ok hirðir[^184] þar sem heita Hnitbjǫrg, setr þar til gæzlu dóttur sína Gunnlǫðu. Af þessu kǫllum vér skáldskap Kvasis blóð eða dverga drekku eða fylli eða nakkvars konar lǫg Óðreris eða Boðnar eða Sónar eða farskost[^185] dverga, fyrir því at sá mjǫðr flutti þeim fjǫrlausn[^186] ór skerinu, eða Suttunga mjǫð eða Hnitbjarga lǫgr[^187].'
 
-Þá mælir Ægir: "Myrkt þykki mér þat mælt at kalla skáldskap með þessum heitum, en hvernig kómu þeir Æsir at Suttunga miði?' 
+Þá mælir Ægir: "Myrkt[^188] þykki mér þat mælt at kalla skáldskap með þessum heitum, en hvernig kómu þeir Æsir at Suttunga miði?[^189]' 
 
-Bragi svarar: 'Sjá saga er til þess at Óðinn fór heiman ok kom þar er þrælar níu slógu hey. Hann spyrr ef þeir vili at hann brýni ljá þeira. Þeir játa því. Þá tekr hann hein af belti sér ok brýndi, en þeim þótti bíta ljárnir myklu betr ok fǫluðu heinina. En hann mat svá at sá er kaupa vildi skyldi gefa við hóf, en allir kváðusk vilja ok báðu hann sér selja, en hann kastaði heininni í lopt upp. En er allir vildu henda þá skiptusk þeir svá við at hverr brá ljánum á háls ǫðrum. Óðinn sótti til náttstaðar til jǫtuns þess er Baugi hét, bróðir Suttungs. Baugi kallaði ilt fjárhald sitt ok sagði at þrælar hans níu hǫfðu drepizk, en taldisk eigi vita sér ván verkmanna. En Óðinn nefndisk fyrir honum Bǫlverkr. Hann bauð at taka upp níu manna verk fyrir Bauga, en mælir sér til kaups einn drykk af Suttunga miði. Baugt kvazk enskis ráð eiga af miðinum, sagði at Suttungr vildi einn hafa, en fara kvezk hann mundu með Bǫlverki ok freista ef þeir fengi mjöðinn. Bǫlverkr vann um sumarit níu mannsverk fyrir Bauga, en at vetri beiddisk hann Bauga leigu sinnar. Þá fara þeir báðir til Suttungs. Baugi segir Suttungi bróður sínum kaup þeira Bǫlverks, en Suttungr synjar þverliga hvers dropa af miðinum. Þá mælir Bǫlverkr til Bauga at þeir skyldu freista véla nokkvorra, ef þeir megi ná miðinum, en Baugi lætr þat vel vera. Þá dregr Bolverkr fram nafar þann er Rati heitir ok mælir at Baugi skal bora bjargit ef nafarrinn bítr. Hann gerir svá. Þá segir Baugi at gǫgnum er borat bjargit, en Bǫlverkr blæss í nafars raufina ok hrjóta spænirnir upp í móti honum. Þá fann hann at Baugi vildi svíkja hann, ok bað bora gǫgnum bjargit. Baugi boraði enn. En er Bǫlverkr blés annat sinn, þá fuku inn spænirnir. Þá brásk Bǫlverkr í orms líki ok skreið í nafars raufina, en Baugi stakk eptir honum nafrinum ok misti hans. Fór Bolverkr þar til sem Gunnlǫð var ok lá hjá henni þrjár nætr, ok þá lofaði hon honum at drekka af miðinum þrjá drykki. Í inum fyrsta drykk drakk hann alt ór Óðreri, en í ǫðrum ór Boðn, í inum þriðja ór Són, ok hafði hann þá allan mjǫðinn. Þá brásk hann í arnarham ok flaug sem ákafast. En er Suttungr sá flug arnarins, tók hann sér arnarham ok flaug eptir honum. En er Æsir sá hvar Óðinn flaug þá settu þeir út í garðinn ker sín, en er Óðinn kom inn of Ásgarð þá spýtti hann upp miðinum í kerin, en honum var þá svá nær komit at Suttungr mundi ná honum at hann sendi aptr suman mjǫðinn, ok var þess ekki gætt. Hafði þat hverr er vildi, ok kollum vér þat skáldfífla hlut. En Suttunga mjǫð gaf Óðinn Ásunum ok þeim mǫnnum er yrkja kunnu. Því kollum vér skáldskapinn feng Óðins ok fund ok drykk hans ok gjǫf hans ok drykk Ásanna.' 
+Bragi svarar: 'Sjá saga er til þess at Óðinn fór heiman ok kom þar er þrælar níu[^190] slógu hey. Hann spyrr ef þeir vili at hann brýni[^191] ljá[^192] þeira. Þeir játa því. Þá tekr hann hein[^193] af belti sér ok brýndi[^194], en þeim þótti bíta ljárnir myklu betr ok fǫluðu[^195] heinina. En hann mat[^196] svá at sá er kaupa vildi skyldi gefa við hóf[^197], en allir kváðusk vilja[^198] ok báðu hann sér selja, en hann kastaði heininni í lopt[^199] upp. En er allir vildu henda[^200] þá skiptusk[^201] þeir svá við at hverr brá[^202] ljánum á háls ǫðrum. Óðinn sótti til náttstaðar til jǫtuns þess er Baugi hét, bróðir Suttungs. Baugi kallaði ilt fjárhald sitt ok sagði at þrælar hans níu hǫfðu drepizk, en taldisk eigi vita sér ván verkmanna. En Óðinn nefndisk fyrir honum Bǫlverkr. Hann bauð at taka upp níu manna verk fyrir Bauga, en mælir sér til kaups einn drykk af Suttunga miði. Baugt kvazk enskis ráð eiga af miðinum, sagði at Suttungr vildi einn hafa, en fara kvezk hann mundu með Bǫlverki ok freista ef þeir fengi mjöðinn. Bǫlverkr vann um sumarit níu mannsverk fyrir Bauga, en at vetri beiddisk hann Bauga leigu sinnar. Þá fara þeir báðir til Suttungs. Baugi segir Suttungi bróður sínum kaup þeira Bǫlverks, en Suttungr synjar þverliga hvers dropa af miðinum. Þá mælir Bǫlverkr til Bauga at þeir skyldu freista véla nokkvorra, ef þeir megi ná miðinum, en Baugi lætr þat vel vera. Þá dregr Bolverkr fram nafar þann er Rati heitir ok mælir at Baugi skal bora bjargit ef nafarrinn bítr. Hann gerir svá. Þá segir Baugi at gǫgnum er borat bjargit, en Bǫlverkr blæss í nafars raufina ok hrjóta spænirnir upp í móti honum. Þá fann hann at Baugi vildi svíkja hann, ok bað bora gǫgnum bjargit. Baugi boraði enn. En er Bǫlverkr blés annat sinn, þá fuku inn spænirnir. Þá brásk Bǫlverkr í orms líki ok skreið í nafars raufina, en Baugi stakk eptir honum nafrinum ok misti hans. Fór Bolverkr þar til sem Gunnlǫð var ok lá hjá henni þrjár nætr, ok þá lofaði hon honum at drekka af miðinum þrjá drykki. Í inum fyrsta drykk drakk hann alt ór Óðreri, en í ǫðrum ór Boðn, í inum þriðja ór Són, ok hafði hann þá allan mjǫðinn. Þá brásk hann í arnarham ok flaug sem ákafast. En er Suttungr sá flug arnarins, tók hann sér arnarham ok flaug eptir honum. En er Æsir sá hvar Óðinn flaug þá settu þeir út í garðinn ker sín, en er Óðinn kom inn of Ásgarð þá spýtti hann upp miðinum í kerin, en honum var þá svá nær komit at Suttungr mundi ná honum at hann sendi aptr suman mjǫðinn, ok var þess ekki gætt. Hafði þat hverr er vildi, ok kollum vér þat skáldfífla hlut. En Suttunga mjǫð gaf Óðinn Ásunum ok þeim mǫnnum er yrkja kunnu. Því kollum vér skáldskapinn feng Óðins ok fund ok drykk hans ok gjǫf hans ok drykk Ásanna.' 
 
 Þá mælir Ægir: "Hversu á marga lund breytið þér orðtǫkum skáldskapar, eða hversu mǫrg eru kyn skáldskaparins?' 
 
@@ -208,4 +208,56 @@ And so on.
 [^147]:[_hvárirtveggju_](https://old-norse.net/html/h.php#hv%C3%A1rrtveggi-A)
 [^148]:[_kers_](https://old-norse.net/html/k.php#ker)
 [^149]:[_spýttu_](https://en.wiktionary.org/wiki/sp%C3%BDta#Conjugation_3)
-[^150]:[_hráka_](https://old-norse.net/html/h.php#hr%C3%A1ki) 
+[^150]:[_hráka_](https://old-norse.net/html/h.php#hr%C3%A1ki)
+[^151]:[_týnask_](https://old-norse.net/html/t.php#t%C3%BDna-II)
+[^152]:[_griðamark_](https://old-norse.net/html/g.php#gri%C3%B0amark) A legal token. 
+[^153]:[_skǫpuðu_](https://en.wiktionary.org/wiki/skapa#Old_Norse) [_ór_](https://en.wiktionary.org/wiki/%C3%B3r#Preposition) Think about this. The preposition, _ór_ triggers the dative case. In what case is _mann_?
+[^154]:[_Kvasir_](https://en.wikipedia.org/wiki/Kvasir) Also, I found this kind of interesting: [Kvass - The Small Beer of Eastern Europe ](https://youtu.be/oNmxLEHwaqY)
+[^155]:[_órlausn_](https://old-norse.net/html/oo.php#%C3%B3rlausn`)
+[^156]:[_kenna_](https://en.wiktionary.org/wiki/kenna#Old_Norse)...[_frœði_](https://en.wiktionary.org/wiki/fr%C7%BF%C3%B0i#Old_Norse)
+[^157]:[_heimboði_](https://en.wiktionary.org/wiki/heimbo%C3%B0)
+[^158]:[_dverga_](https://old-norse.net/html/d.php#dvergr)
+[^159]:[_Óðreyrir_](https://old-norse.net/html/oo.php#%C3%B3%C3%B0r%C3%A6rir)
+[^160]:[_Són_](https://old-norse.net/html/s.php#s%C3%B3n)
+[^161]:[_Boðn_](https://old-norse.net/html/b.php#bo%C3%B0n), which comes from [_biðna_](https://old-norse.net/html/b.php#bi%C3%B0ja-2)
+[^162]:[_kafnat_](https://old-norse.net/html/k.php#kafna)
+[^163]:[_mannviti_](https://en.wiktionary.org/wiki/mannvit)
+[^164]:[_fróðleiks_](https://en.wiktionary.org/wiki/fr%C3%B3%C3%B0leik#Declension)
+[^165]:[_buðu_](https://en.wiktionary.org/wiki/bj%C3%B3%C3%B0a#Conjugation_3) In this case, "invite."
+[^166]: Again. 
+[^167]:[_boða_](https://old-norse.net/html/b.php#bo%C3%B0i-2)
+[^168]:[_hvelfði_](https://old-norse.net/html/h.php#hvelfa-II)
+[^169]:[_ósyndr_](https://old-norse.net/html/oo.php#%C3%B3syndr) "Didn't know how to swim."
+[^170]:[_réttu_](https://en.wiktionary.org/wiki/r%C3%A9tta#Old_Norse)
+[^171]:[_atburð_](https://old-norse.net/html/a.php#atbur%C3%B0r-1)
+[^172]:[_grét_](https://en.wiktionary.org/wiki/gr%C3%A1ta#Conjugation_3)
+[^173]:[_hugléttara_](https://old-norse.net/html/h.php#hugl%C3%A9tt) Note the _-ara_ comparative suffix.
+[^174]:[_sæi_](https://en.wiktionary.org/wiki/sj%C3%A1#Conjugation_2)
+[^175]:[_sæinn_](https://en.wiktionary.org/wiki/s%C3%A6r#Declension_4) Also, be careful! 
+[^176]:[_dyrrnar_](https://en.wiktionary.org/wiki/dyrr#Declension) Notice that this word exists only in the plural.
+[^177]:[_kvernstein_](https://old-norse.net/html/k.php#kvernsteinn)
+[^178]:[_taldi_](https://en.wiktionary.org/wiki/telja#Conjugation_3)
+[^179]:[_leiðask_](https://old-norse.net/html/l.php#lei%C3%B0a2-II)
+[^180]:[_óp_](https://old-norse.net/html/oo.php#%C3%B3p-2)
+[^181]:[_flœðarsker_](https://old-norse.net/html/f.php#fl%C3%A6%C3%B0isker) A sandbar. 
+[^182]:[_lífsgriða_](https://old-norse.net/html/l.php#l%C3%ADfsgri%C3%B0)
+[^183]:[_dýra_](https://en.wiktionary.org/wiki/d%C3%BDrr)
+[^184]:[_hirðir_](https://old-norse.net/html/h.php#hir%C3%B0a-4)
+[^185]:[_farskost_](https://old-norse.net/html/f.php#farkostr)
+[^186]:[_fjǫr_](https://old-norse.net/html/f.php#fj%C3%B6r) + [_lausn_](https://old-norse.net/html/l.php#lausn) The dictionaries are actually not very helpful with this. It's better read as two words, "life-liberation." 
+[^187]:[_lǫgr_](https://en.wiktionary.org/wiki/l%C7%ABgr)
+[^188]:[_Myrkt_](https://en.wiktionary.org/wiki/myrkr#Declension)
+[^189]:[_miði_](https://en.wiktionary.org/wiki/mj%C7%AB%C3%B0r#Declension)
+[^190]:[_níu_](https://en.wiktionary.org/wiki/n%C3%ADu#Numeral_2) The cardinal number. 
+[^191]:[_brýni_](https://old-norse.net/html/b.php#br%C3%BDni)
+[^192]:[_ljá_](https://old-norse.net/html/l.php#lj%C3%A1) Look up the declension for this one too! 
+[^193]:[_hein_](https://en.wiktionary.org/wiki/hein#Declension_3)
+[^194]:[_brýndi_](https://old-norse.net/html/b.php#br%C3%BDna)
+[^195]:[_fǫluðu_](https://old-norse.net/html/f.php#fala)
+[^196]:[_mat_](https://old-norse.net/html/m.php#meta-B-3)
+[^197]:[_hóf_](https://old-norse.net/html/h.php#h%C3%B3f)
+[^198]:[_vilja_](https://en.wiktionary.org/wiki/vilja#Conjugation_3)
+[^199]:[_lopt_](https://old-norse.net/html/l.php#lopt-1) 
+[^200]:[_henda_](https://old-norse.net/html/h.php#henda)
+[^201]:[_skiptusk_](https://old-norse.net/html/s.php#skipta-B)
+[^202]:[_brá_](https://en.wiktionary.org/wiki/breg%C3%B0a#Conjugation_3)
