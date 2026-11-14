@@ -50,9 +50,9 @@ Bragi segir: "Mál ok hættir.'
 
 “Svá: at nefna hvern hlut sem heitir; ǫnnur grein er sú er heitir fornǫfn[^230]; in þriðja málsgrein[^231] er kǫlluð er kenning[^232], ok er sú grein svá sett at vér kollum Óðin eða Þór eða Tý eða einnhvern[^233] af Ásum eða álfum[^234], at hverr þeira er ek nefni til, þá tek ek með heiti af eign annars Ássins eða get ek hans verka nokkvorra. Þá eignask hann nafnit en eigi hinn er nefndr var, svá sem vér kǫllum Sigtý[^235] eða Hangatý[^236] eða Farmatý[^237], þat er þá Óðins heiti, ok kǫllum vér þat kent heiti. Svá ok at kalla Reiðartý[^238].' 
 
-En þetta er nú at segja ungum[^239] skáldum þeim er girnask[^240] at nema mál skáldskapar ok heyja sér orðfjǫlda[^240] með fornum heitum eða girnask þeir at kunna skilja þat er hulit[^241] er kveðit: þá skili hann þessa bók til fróðleiks ok skemtunar[^242]. En ekki er at gleyma[^243] eða ósanna svá þessar sǫgur at taka ór skáldskapinum fornar kenningar þær er hǫfuðskáld hafa sér líka látit[^244]. En eigi skulu kristnir menn trúa á heiðin goð ok eigi á sannyndi[^245] þessar sagnar annan veg en svá sem hér finnsk í upphafi bókar er sagt er frá atburðum[^246] þeim er mannfólkit viltisk frá réttri trú, ok þá næst frá Tyrkjum[^247], hvernig Asiamenn þeir er Æsir eru kallaðir fǫlsuðu[^248] frásagnir þær frá þeim tíðindum er gerðusk í Troju[^249] til þess at landfólkit skyldi trúa þá guð vera[^249]. 
+En þetta er nú at segja ungum[^239] skáldum þeim er girnask[^240] at nema mál skáldskapar ok heyja sér orðfjǫlda[^241] með fornum heitum eða girnask þeir at kunna skilja þat er hulit[^242] er kveðit: þá skili hann þessa bók til fróðleiks ok skemtunar[^243]. En ekki er at gleyma[^244] eða ósanna svá þessar sǫgur at taka ór skáldskapinum fornar kenningar þær er hǫfuðskáld hafa sér líka látit[^245]. En eigi skulu kristnir menn trúa á heiðin goð ok eigi á sannyndi[^246] þessar sagnar annan veg en svá sem hér finnsk í upphafi bókar er sagt er frá atburðum[^247] þeim er mannfólkit viltisk frá réttri trú, ok þá næst frá Tyrkjum[^248], hvernig Asiamenn þeir er Æsir eru kallaðir fǫlsuðu[^249] frásagnir þær frá þeim tíðindum er gerðusk í Troju[^250] til þess at landfólkit skyldi trúa þá guð vera[^251]. 
 
-Priamus konungr[^250] í Troju var hǫfðingi mikill yfir ǫllum her Tyrkja ok hans synir váru tignastir af ǫllum her hans. Sá salr[^251] hinn ágæti er Æsir kǫlluðu Brimis[^251] sal eða bjórsal[^252], þat var holl Priamus konungs. En þat er þeir gera langa frásǫgn of ragnrøkr[^253], þat er Trojumanna[^254] orrosta. Þat er frá sagt at Ǫkuþórr[^255] engdi oxahǫfði[^256] ok dró at borði Miðgarðsorm[^257], en ormrinn helt svá lífinu at hann søktisk[^258] í hafit[^259]. Eptir þeim dœmum er þetta sagt er Ektor[^260] drap Volukrontem[^261] ágætan kappa at ásjánda inum mikla Akille[^262] ok teygði hann svá at sér með hǫfði hins drepna þess er þeir jǫfnuðu til oxans þess er Ǫkuþórr hafði hǫfuðit af. En er Akilleus var dreginn í þetta ófœri með sínu kappi þá var honum sú ein lífshjálpin[^263] at flýja undan banvænligu[^264] hǫggvi Hektoris ok þó sárr. Svá er ok sagt at Ektor sótti svá ákafliga orrostuna ok svá miklir váru ofrhugir hans er hann sá Akilleus at engi hlutr var svá sterkr at standask mætti fyrir honum, ok er hann misti Akilleus ok hann var flýiðr þá sefaði hann svá reiði sína at hann drap þann kappa er Roddrus hét.
+Priamus konungr[^252] í Troju var hǫfðingi mikill yfir ǫllum her Tyrkja ok hans synir váru tignastir af ǫllum her hans. Sá salr[^253] hinn ágæti er Æsir kǫlluðu Brimis[^254] sal eða bjórsal[^255], þat var holl Priamus konungs. En þat er þeir gera langa frásǫgn of ragnrøkr[^256], þat er Trojumanna orrosta[^257]. Þat er frá sagt at Ǫkuþórr[^258] engdi oxahǫfði[^259] ok dró at borði Miðgarðsorm[^260], en ormrinn helt svá lífinu at hann søktisk[^261] í hafit[^262]. Eptir þeim dœmum er þetta sagt er Ektor[^263] drap Volukrontem[^264] ágætan kappa at ásjánda inum mikla Akille[^265] ok teygði hann svá at sér með hǫfði hins drepna þess er þeir jǫfnuðu til oxans þess er Ǫkuþórr hafði hǫfuðit af. En er Akilleus var dreginn í þetta ófœri með sínu kappi þá var honum sú ein lífshjálpin[^266] at flýja undan banvænligu[^267] hǫggvi Hektoris ok þó sárr. Svá er ok sagt at Ektor sótti svá ákafliga orrostuna ok svá miklir váru ofrhugir hans[^268] er hann sá Akilleus at engi hlutr var svá sterkr at standask mætti fyrir honum, ok er hann misti Akilleus ok hann var flýiðr[^269] þá sefaði[^270] hann svá reiði sína at hann drap þann kappa er Roddrus[^271] hét.
 
 And so on.
 
@@ -280,7 +280,53 @@ And so on.
 [^219]:[_hrjóta_](https://old-norse.net/html/h.php#hrj%C3%B3ta)
 [^220]:[_svíkja_](https://old-norse.net/html/s.php#sv%C3%ADkja)
 [^221]:[_enn_](https://en.wiktionary.org/wiki/enn#Adverb_3)
-[^222]:[]
-[^223]:[]
-[^224]:[]
-[^225]:[]
+[^222]:[_fuku_](https://old-norse.net/html/f.php#fj%C3%BAka)
+[^223]:[_misti_](https://en.wiktionary.org/wiki/missa#Old_Norse)
+[^224]:[_lofaði_](https://old-norse.net/html/l.php#lofa-II)
+[^225]:[_spýtti_](https://old-norse.net/html/s.php#sp%C3%BDja)
+[^226]:[_gætt_](https://old-norse.net/html/g.php#g%C3%A6ta)
+[^227]:[_skáldfífla_](https://old-norse.net/html/s.php#sk%C3%A1ldf%C3%ADfl) A hack
+[^228]:[_skáldskaparins_](https://old-norse.net/html/s.php#sk%C3%A1ldskapr)
+[^229]:[_grein_](https://old-norse.net/html/g.php#grein-II-1)
+[^230]:[_fornǫfn_](https://old-norse.net/html/f.php#fornafn)
+[^231]:[_málsgrein_](https://old-norse.net/html/m.php#m%C3%A1lsgrein)
+[^232]:[_kenning_](https://old-norse.net/html/k.php#kenning)
+[^233]:[_einnhvern_](https://old-norse.net/html/e.php#einn-B-I-1)
+[^234]:[_álfum_](https://old-norse.net/html/aa.php#%C3%A1lfr-I)
+[^235]:_Sigtý_ = [_sig_](https://old-norse.net/html/s.php#sig) + [_týr_](https://old-norse.net/html/t.php#t%C3%BDr) "Victory God." As you can see in the entry, his word is cognate to Greek Ζεύς (Zeus) and Διός (Deus), and carries a generic meaning for "god" that is distinct from the name associated with the figure who lost his hand in the Eddic material. 
+[^236]:[_Hangatý_](https://old-norse.net/html/h.php#hangi) A name for Odin. 
+[^237]:[_Farmatý_](https://old-norse.net/html/f.php#farmr)
+[^238]:[_Reiðartý_](https://old-norse.net/html/r.php#rei%C3%B0it%C3%BDr)
+[^239]:[_ungum_](https://old-norse.net/html/u.php#ungr-b)
+[^240]:[_girnask_](https://old-norse.net/html/g.php#girna)
+[^241]:[_orðfjǫlda_](https://old-norse.net/html/o.php#or%C3%B0fj%C3%B6ldi)
+[^242]:[_hulit_](https://en.wiktionary.org/wiki/hylja#Conjugation_3)
+[^243]:[_skemtunar_](https://old-norse.net/html/s.php#skemtan)
+[^244]:[_gleyma_](https://old-norse.net/html/g.php#gleyma)
+[^245]:[_líka látit_](https://old-norse.net/html/l.php#l%C3%ADka)
+[^246]:[_sannyndi_](https://old-norse.net/html/s.php#sannindi)
+[^247]:[_atburðum_](https://old-norse.net/html/a.php#atbur%C3%B0r-1)
+[^248]:[_Tyrkjum_](https://old-norse.net/html/t.php#tyrkir)
+[^249]:[_fǫlsuðu_](https://old-norse.net/html/f.php#falsa)
+[^250]:[_Troju_](https://en.wikipedia.org/wiki/Troy)
+[^251]:[_trúa_ þá guð vera](https://old-norse.net/html/t.php#tr%C3%BAa) "believe them to be gods."
+[^252]:[_Priamus konungr_](https://en.wikipedia.org/wiki/Priam)
+[^253]:[_salr_](https://old-norse.net/html/s.php#salr)
+[^254]:[_Brimis_](https://old-norse.net/html/b.php#brim) The sea. Also a name for the ancestor of all jötunar. His body was torn apart to become elements of the Cosmos. 
+[^255]:[_bjórsal_](https://old-norse.net/html/b.php#bj%C3%B3rsalr)
+[^256]:[_ragnrøkr_](https://old-norse.net/html/r.php#ragnar%C3%B6k) Look up the individual parts. 
+[^257]:_Trojumanna orrosta_ The Trojan War. 
+[^258]:[_Ǫkuþórr_](https://old-norse.net/html/oe.php#%C3%B6ku%C3%BE%C3%B3rr) Well, look at the definition for [_aka_](https://old-norse.net/html/a.php#aka) anyway. Also, look at the modern Icelandic term for [_racecar driver_](https://enska.arnastofnun.is/en/ord/2845/tungumal/EN). 
+[^259]: [_engi_](https://old-norse.net/html/e.php#egna) _oxahǫfði_ An instrumental dative. He made bait __with__ the ox-head. 
+[^260]:[_borði_](https://old-norse.net/html/b.php#bor%C3%B0) [_Miðgarðsorm_](https://old-norse.net/html/m.php#mi%C3%B0gar%C3%B0sormr) 
+[^261]:[_søktisk_](https://old-norse.net/html/s.php#sokkva)
+[^262]:[_hafit_](https://old-norse.net/html/h.php#haf) Why are we talking about the sea again?
+[^263]:[_Ektor_](https://en.wikipedia.org/wiki/Hector)
+[^264]:[_Volukrontem_](https://en.wikipedia.org/wiki/Patroclus) This is a scribal error and/or misreading that propagated in the Old Norse manuscripts.
+[^265]:[_Akille_](https://en.wikipedia.org/wiki/Achilles)
+[^266]:[_lífshjálpin_](https://old-norse.net/html/l.php#l%C3%ADfshj%C3%A1lp)
+[^267]:[_banvænligu_](https://old-norse.net/html/b.php#banv%C3%A6nligr)
+[^268]:[_ofrhugir_](https://old-norse.net/html/o.php#ofrhugr)
+[^269]:[_flýiðr_](https://old-norse.net/html/f.php#fl%C3%BDja)
+[^270]:[_sefaði_](https://old-norse.net/html/s.php#sefa)
+[^271]:[_Roddrus_](https://en.wikipedia.org/wiki/Polydorus_of_Troy) Another copyist mistake that propagated in the manuscripts. 
